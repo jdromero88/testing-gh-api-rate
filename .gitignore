@@ -11,6 +11,7 @@ sftp-config.json
 /.bundle
 /vendor
 .jekyll-cache
+_site
 
 # Compiled Files
 /assets/css/**/*.css
