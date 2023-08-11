@@ -35,5 +35,4 @@ doc/
 .idea
 .secret
 .history/
-Gemfile
 Gemfile.lock
