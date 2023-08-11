@@ -1,0 +1,44 @@
+<header class="site-header {% if page.layout == 'home' %}home-header{% endif %}" role="banner">
+
+  <div class="header-mainContainer">
+
+    <div class="content-wrapper">
+
+      <div class="row flex-center__y">
+        <div class="header-logoContainer col-xs-10 col-md-6">
+          <a class="header-logo" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
+        </div>
+
+        <div class="header-navContainer col-xs-2 col-md-6">
+          {% include navigation-header.html %}
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  {% if page.layout != 'home' %}
+  <div class="header-breadcrumbsContainer {% if page.extendedBreadcrumbs %}useExtended{% else %}notExtended{% endif %}">
+    <div class="content-wrapper">
+      <div class="row flex-center__y">
+        <nav class="header-breadcrumbs col-xs-10">
+          {% include breadcrumbs.html %}
+        </nav>
+        <div class="header-breadcrumbsSearch col-xs-2">
+          <img src="{{ "/assets/img/search.svg" | relative_url }}" alt="Search" title="Search" class="search-icon" />
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
+</header>
+
+{% if page.extendedBreadcrumbs %}
+<div class="breadcrumbs-extended">
+  <div class="content-wrapper fullWidthContent">
+    <h1 class="main-title">{{ page.title | escape }}</h1>
+    <p>{{ page.content }}</p>
+  </div>
+  </div>
+{% endif %}

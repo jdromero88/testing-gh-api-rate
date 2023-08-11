@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% assign sector = page.title %}
+{% assign sectorSlug = page.title | slugify %}
+
+<section class="archive-container">
+  {% if page.feature_image %}
+      {% if jekyll.environment == 'production' and site.cloudinary_url %}
+        <div class="archive-featureImage" style="background-image:url('{{page.feature_image | prepend: site.url | prepend: site.cloudinary_url}}'"></div>
+      {% else %}
+        <div class="archive-featureImage" style="background-image:url('{{page.feature_image}}')"></div>
+      {% endif %}
+  {% endif %}
+  <header class="archive-header">
+    <div class="content-wrapper fullWidthContent">
+      <!-- Share Icons -->
+          {% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
+
+      <h1 class="subtitle">
+        <img src="{{ site.data.sector-icons[sectorSlug] | prepend: '/assets/img/sector-icons/' | relative_url }}" title="{{ page.title }}" alt="{{ page.title }}" /> {{ page.title | escape }}
+      </h1>
+      {{ page.content }}
+    </div>
+  </header>
+
+  <section>
+    <div class="content-wrapper fullWidthContent">
+      <section class="archive-relatedArticlesContainer">
+        {% include post-subsector-filtering.html posts=site.posts sector=sector %}
+      </section>
+    </div>
+  </section>
+</section>

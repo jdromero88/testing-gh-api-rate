@@ -1,0 +1,103 @@
+/*======================================================
+=            Table of Contents: Sticky Menu            =
+======================================================*/
+
+.tableOfContents {
+	background-color: $light-gray;
+	font-family: $font__MuseoSans;
+	padding: 0.5rem 1rem;
+
+	@include breakpoint("medium") {
+		padding: 2rem 3.5rem;
+	}
+
+	&.fixedMobile {
+		position:fixed;
+		left: 0;
+		right: 0;
+
+		.tableOfContents-instructions, .tableOfContents-list, .sectionSubtitle {
+			display: none;
+		}
+
+		@include breakpoint("medium") {
+			position: relative;
+			left: initial;
+			right: initial;
+
+			.tableOfContents-instructions, .tableOfContents-list, .sectionSubtitle {
+				display: block;
+			}
+		}
+
+	}
+
+	.sectionSubtitle {
+		border-bottom: 0px solid transparent;
+		margin: 0;
+		font-weight: 300;
+		@include fontSize(15px);
+
+
+		@include breakpoint("medium") {
+			border-bottom: 2px solid $dark-gray;
+			padding-bottom: 3px;
+			margin-bottom: 5px;
+			font-size: 1.1rem;
+		}
+
+	}
+
+	.tableOfContents-instructions {
+		color: $dark-gray;
+		@include fontSize(14px);
+		line-height: 1.4rem;
+		font-weight: 500;
+	}
+
+	ul.tableOfContents-list {
+		list-style-type:none;
+		padding:0;
+		margin:0.5rem 0;
+
+		li {
+			@include fontSize(14px);
+			font-style: italic;
+			line-height: 1.4rem;
+
+			a {
+				color: $black;
+				box-shadow: none;
+
+				&:hover {
+					color: $base-blue;
+				}
+			}
+
+			// View All Style
+			&.viewAll {
+				border-top: 1px dashed $medium-gray;
+				margin-top: 0.5rem;
+				padding-top: 0.5rem;
+			}
+		}
+	}
+
+	.isSticky {
+		z-index: 25;
+	}
+
+	// Dropdown for mobile
+	.tableOfContents-dropdown {
+		color: $dark-gray;
+		@include fontSize(14px);
+		line-height: 1.4rem;
+		font-weight: 500;
+		border: none;
+		background-color: $light-gray;
+
+		@include breakpoint("medium") {
+			display: none;
+		}
+	}
+}

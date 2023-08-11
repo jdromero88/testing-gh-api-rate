@@ -1,0 +1,104 @@
+/*===============================
+=            Sectors            =
+===============================*/
+
+.sectorsArticlesContainer {
+	padding-bottom: 1rem;
+	margin-bottom: 4rem;
+
+	.subsectorDot {
+		color: $medium-gray;
+	}
+
+
+	.sectorSection {
+		margin: 5rem 0;
+
+		// Clear the Image Captions
+		&:first-of-type {
+			@include clearfix-after();
+		}
+
+		/*----------  Sector Title & Icon  ----------*/
+		.subtitle {
+			text-align: center;
+			margin: 0.3rem 0 2rem 0;
+
+				@include breakpoint("medium") {
+    			margin: 0.3rem 0 4rem 0;
+  	}	
+
+		}
+
+		.sectorSection-iconContainer {
+			text-align: center;
+
+			img {
+				max-width: 50px;
+				height: auto;
+			}
+		}
+
+		/*----------  Sector Information  ----------*/
+		.sectorSection-sectorInfoContainer {
+			margin-bottom: 2rem;
+		}
+
+		@include breakpoint("large") {
+			.sectorSection-sectorInfo {
+				border-right: 2px solid $light-gray;
+				padding: 1rem 1.5rem 1rem 0;
+			}
+		}
+
+		.sectorSection-subsectorsList {
+			padding: 1rem 0rem 1rem .5rem;
+
+			@include breakpoint("large") {
+    		padding: 1rem 0rem 1rem 1.5rem;
+  			}
+
+			.sectionSubtitle {
+				margin: 0 0 .5rem;
+			}
+
+			.sectorSection-subsectorsListSubsector {
+				color: $gray;
+				font-family: $font__MuseoSans;
+				@include fontSize(17px);
+				line-height: 2.3rem;
+				text-transform: uppercase;
+
+
+				&:hover {
+					color: $base-blue;
+				}
+			}
+		}
+
+		/*----------  Recent Articles  ----------*/
+		.sectorSection-articlesContainer {
+
+			.sectionTitle {
+				border-bottom: 4px solid $base-blue;
+				margin-bottom: 0.2rem;
+				padding-bottom: 0.5rem;
+
+				a {
+					box-shadow: none;
+				}
+			}
+
+			button {
+				vertical-align: text-bottom;
+				margin-left: 0.5rem;
+				margin-bottom: 0.2rem;
+
+				@media (max-width: 27.5em) {
+					margin-left: 0;
+				}
+			}
+		}
+		
+	}
+}

@@ -1,0 +1,193 @@
+/*===========================================
+=            Analysis & Articles            =
+===========================================*/
+
+.analysisLanding-container {
+	margin-top: 3rem !important;
+	margin-bottom: 3rem !important;
+}
+
+article.post-individualContainer {
+
+	ul.shareIcons {
+		//margin-bottom: 3rem;
+
+		@include breakpoint("medium") {
+			float: right;
+		}
+	}
+
+	.post-header {
+		@include clearfix-after();
+		margin-bottom: 2rem;
+
+		.main-title {
+			margin: 0;
+			@include fontSize(30px);
+
+			@include breakpoint("medium") {
+				@include fontSize(56px);
+			}
+		}
+
+		.sectionSubtitle {
+			margin: 0;
+			color: $base-orange;
+			@include fontSize(16px);
+
+			@include breakpoint("medium") {
+				@include fontSize(20px);
+			}
+		}
+
+	}
+
+	.post-content {
+		margin-bottom: 3rem;
+
+		// Feature Image
+		.post-featureImage {
+			margin-bottom: 1rem;
+
+			@include breakpoint("medium") {
+				float: right;
+				max-width: 60%;
+				margin: 0 0 1rem 2rem;
+			}
+
+			img {
+				max-width: 100%;
+				height: auto;
+				width: initial;
+				display: block;
+				margin-bottom: 0.5rem;
+			}
+
+			.post-featureImageCredit {
+				border-left: 2px solid $base-orange;
+				color: $gray-text;
+				font-family: $font__ExpoSerif;
+				@include fontSize(12px);
+				line-height: 1.4rem;
+				margin-top: 0.5rem;
+				margin-bottom: 4rem;
+				padding-left: 0.5rem;
+
+				em {
+					color: $base-orange;
+				}
+			}
+		}
+
+		// Article Meta
+		.articleMeta {
+			margin-bottom: 1rem;
+		}
+
+		// Article Typography
+		li {
+			margin: 0.5rem 0;
+			line-height: 1.6;
+		}
+
+		hr {
+			width: 15%;
+			border-style: solid;
+			border-color: $light-gray;
+			margin: 0 0 0.8rem 0;
+		}
+
+		.post-articleSourcesDetails {
+			color: $gray-text;
+			@include fontSize(14px);
+			line-height: 1.4rem;
+			font-family: $font__MuseoSans;
+			text-transform: uppercase;
+
+			a {
+				text-transform: none;
+				color: $gray;
+
+				&:hover {
+					color: $base-orange;
+				}
+
+				img {
+					max-width: 10px;
+					
+				}
+			}
+		}
+	}
+
+	.post-footer {
+		border-top: 2px solid $map-gray;
+		padding: 3rem 0;
+		clear: both;
+
+		.post-authorImage img {
+			max-width: 200px;
+			padding-bottom: 10px;
+		}
+		// Author Information
+		.post-authorInfoContainer {
+			margin-bottom: 2rem;
+
+			.post-authorInfo {
+				@include breakpoint("medium") {
+					padding-left: 2rem;
+				}
+			}
+			
+			.post-authorName {
+				margin: 0;
+				color: $base-orange;
+				text-transform: none;
+			}
+
+			.post-authorTitle {
+				font-style: italic;
+			}
+
+			.post-authorBio {
+				margin-top: 1rem;
+				margin-bottom: 0;
+			}
+
+			&:last-of-type {
+				margin-bottom: 3rem;
+			}
+		}
+
+		// Article Meta
+		.listContent .sectionSubtitle {
+			margin: 0 0 0.5rem 0;
+			border-bottom: 2px solid $gray;
+			font-style: normal;
+			line-height: 1.15;
+			font-weight: 300;
+			@include fontSize(20px);
+		}
+
+		// Related Posts
+		.post-relatedPosts {
+			margin-top: 2rem;
+
+			@include breakpoint("medium") {
+				padding-left: 2rem;
+				margin-top: 0;
+			}
+
+			.sectionSubtitle {
+				margin: 0 0 0.5rem 0;
+				border-bottom: 2px solid $gray;
+				font-weight: 300;
+				@include fontSize(20px);
+			}
+
+			.articleTitle {
+				margin-bottom: 1rem;
+			}
+		}
+	}
+}

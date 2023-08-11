@@ -1,0 +1,109 @@
+/*==================================
+=            Pagination            =
+==================================*/
+
+/*----------  Total Results & Sort Order  ----------*/
+.pagination-sortByContainer {
+	color: $light-blue;
+	background-color: $base-blue;
+	font-family: $font__MuseoSans;
+	@include fontSize(15px);
+	line-height: 1.4rem;
+	padding: 0.2rem 0.5rem;
+	margin-bottom: 0.1rem;
+	width: calc(100% - 1rem);
+	position: relative;
+	display: block;
+
+	@include breakpoint("large") {
+		height: 100%;
+	}
+
+	.pagination-sortBy {
+		font-style: italic;
+		text-align: right;
+
+		@include breakpoint("large") {
+			text-align: right;
+		}
+
+		a {
+			color: $light-blue;
+			font-style: normal;
+			margin-left: 0.5rem;
+			box-shadow: none;
+
+			&.active {
+				color: $white;
+			}
+		}
+
+		.sort-dropdown {
+			color: $white;
+			font-style: normal;
+			margin-left: 0.5rem;
+			box-shadow: none;
+			background-color: $base-blue;
+			border: none;
+
+			@include breakpoint("medium") {
+				display: none;
+			}
+		}
+	}
+}
+
+/*----------  Results  ----------*/
+.pagination-posts-container {
+	.pagination-sectionTitle {
+		color: $base-orange;
+		margin: 0.8rem 0 0.2rem;
+		font-weight: 300;
+		@include fontSize(20px);
+	}
+
+}
+
+p.noResults {
+	margin: 2rem 0 4rem 0;
+	color: $dark-gray;
+	text-align: center;
+	font-style: italic;
+}
+
+/*----------  Page Numbers  ----------*/
+.pagination-pagesContainer {
+	text-align: center;
+	margin: 1.5rem 0 4rem;
+	@include fontSize(15px);
+	font-family: $font__MuseoSans;
+
+	a {
+		margin: 0 0.2rem;
+		box-shadow: none;
+
+		@include breakpoint("medium") {
+			margin: 0 0.5rem;
+		}
+
+		// Currently Selected Page Number
+		&.active {
+			pointer-events: none;
+
+			.btn-gray {
+				background-color: $base-orange;
+				color: $white;
+			}
+		}
+	}
+
+	.next-prev {
+		color: $base-orange;
+		font-style: italic;
+	}
+
+	.btn-gray {
+		padding: 2px 7px;
+	}
+	
+}

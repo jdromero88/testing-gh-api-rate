@@ -1,0 +1,154 @@
+<!-- Get the posts first, and then display them according to subsector -->
+{% assign sectorPosts = include.posts | where_exp:"post","post.sectors contains include.sector" %}
+{% assign sectorSubsectors = site.subsectors | where_exp:"subsector","subsector.sector == include.sector" %}
+
+<!-- Archive Link -->
+{% capture archiveLink %}{% if include.state %}states/{{ include.state | slugify }}/{{ include.sector | slugify }}{% else %}sectors/{{ include.sector | slugify }}{% endif %}{% endcapture %}
+
+<!-- Subsector Information -->
+<script type="text/javascript">
+  var subsectorInfoObject = {
+    {% for subsector in sectorSubsectors %}
+      "{{ subsector.title | slugify }}": {
+        "title": "{{ subsector.title | escape }}",
+        "content": {{ subsector.content | strip_html | strip_newlines | jsonify}}
+      }{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  }
+</script>
+
+  <!-- Display Subsector Filtering if we have articles in this sector -->
+  {% if sectorPosts %}
+  <section class="subsectorFiltering-container">
+    <p class="filterInstructions">Filter articles by subsector:</p>
+    <ul class="subsectorFiltering-subsectorButtons">
+      <li><a href="#subsector=all&amp;sort=date&amp;order=desc" class="subsector-link" data-show-subsector="all" data-sector="{{ include.sector | slugify }}"><button class="btn-subsector">All</button></a></li>
+      {% for subsector in sectorSubsectors %}
+      <li><a href="#subsector={{ subsector.title | slugify }}&amp;sort=date&amp;order=desc" class="subsector-link" data-show-subsector="{{ subsector.title | slugify }}" data-sector="{{ include.sector | slugify }}"><button class="btn-subsector">{{ subsector.title }}</button></a></li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="subsectorFiltering-articlesInfo">
+  <h3 class="sectionTitle">Related Articles<span class="subsectorFiltering-subsectorTitle"></span></h3>
+    <!-- Subsector Description -->
+    <div class="subsectorFiltering-subsectorInfo">
+      <p><em>About this subsector</em> &mdash; <span></span></p>
+    </div>
+  </section>
+
+  <!-- Results -->
+  <section class="pagination-sortByContainer sort-attributes-container">
+    <div class="row">
+      <div class="col-xs-8 col-md-6 pagination-totalResults"></div>
+      <div class="col-xs-4 col-md-6 pagination-sortBy">
+        <div class="hidden-xs">
+          Sort by:
+        <a href="#subsector=all&amp;sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">&darr;Date</a> 
+        <a href="#subsector=all&amp;sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">&uarr;Date</a>
+        <a href="#subsector=all&amp;sort=state&amp;order=desc" class="sort-attribute" data-sort="sort=state&amp;order=desc">&darr;State</a>
+        <a href="#subsector=all&amp;sort=state&amp;order=asc" class="sort-attribute" data-sort="sort=state&amp;order=asc">&uarr;State</a>
+        </div>
+        <select class="sort-dropdown">
+          <option value="#sort=date&amp;order=desc">&darr;Date</option>
+          <option value="#sort=date&amp;order=asc">&uarr;Date</option>
+          <option value="#sort=state&amp;order=desc">&darr;State</option>
+          <option value="#sort=state&amp;order=asc">&uarr;State</option>
+        </select>
+      </div>
+    </div>
+  </section>
+  <section class="pagination-posts-container post-listing" data-sector="{{include.sector | slugify}}" data-subsector="all"></section>
+  <section class="pagination-pagesContainer"></section>
+
+  <!-- Create Initial Posts Object -->
+  <script type="text/javascript">
+    var postsPaginateMainObject = {};
+    var postsPaginateSecondaryObject = {};
+    var postsPaginateSecondaryTotal = {};
+    var posts_per_page = {{ site.post_archive_posts_per_page }};
+    var subsectorFiltering = true;
+
+    // Load all posts JSON for this State / Sector
+    postsPaginateMainObject["all"] = [
+      {% for post in sectorPosts %}
+        {% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
+        {
+          "id": "{{ post.title | escape | slugify }}",
+          "title": "{{ post.title | escape }}",
+          "states": {{ post.states | jsonify }},
+          "date": new Date("{{ post.date | date_to_xmlschema }}"),
+          "postHtml": {{postHtml | strip_newlines | jsonify}}
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ];
+
+    postsPaginateSecondaryObject["all"] = [];
+    postsPaginateMainObject["all"].forEach(function(post, pIndex) {
+      post.states.forEach(function(state, index){
+        var newPost = {
+          "id": post.id,
+          "title": post.title,
+          "states": post.states,
+          "state": state,
+          "date": post.date,
+          "postHtml": post.postHtml
+        };
+        postsPaginateSecondaryObject["all"].push(newPost);
+
+        // Increment Total
+        postsPaginateSecondaryTotal[state] = {"all":1} || [];
+        postsPaginateSecondaryTotal[state]["all"] = postsPaginateSecondaryTotal[state]["all"] + 1 || 1;
+      });
+    });
+  </script>
+
+  <!-- Filter Posts by Subsector -->
+  {% for subsector in sectorSubsectors %}
+
+    {% assign subsectorPosts = sectorPosts | where_exp:"post","post.subsectors contains subsector.title" %}
+    {% assign subsectorSlug = subsector.title | slugify %}
+
+
+      <script type="text/javascript">
+        // Load all posts JSON grouped by subsector
+        postsPaginateMainObject["{{subsectorSlug}}"] = [
+          {% for post in subsectorPosts %}
+            {% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
+            {
+              "id": "{{ post.title | escape | slugify }}",
+              "title": "{{ post.title | escape }}",
+              "states": {{ post.states | jsonify }},
+              "date": new Date("{{ post.date | date_to_xmlschema }}"),
+              "postHtml": {{postHtml | strip_newlines | jsonify}}
+            }{% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        ];
+
+        postsPaginateSecondaryObject["{{subsectorSlug}}"] = [];
+        postsPaginateMainObject["{{subsectorSlug}}"].forEach(function(post, pIndex) {
+          post.states.forEach(function(state, index){
+            var newPost = {
+              "id": post.id,
+              "title": post.title,
+              "states": post.states,
+              "state": state,
+              "date": post.date,
+              "postHtml": post.postHtml
+            };
+            postsPaginateSecondaryObject["{{subsectorSlug}}"].push(newPost);
+
+            // Increment Total
+            postsPaginateSecondaryTotal[state]["{{subsectorSlug}}"] = postsPaginateSecondaryTotal[state]["{{subsectorSlug}}"] + 1 || 1;
+          });
+        });
+      </script>
+
+  {% endfor %}
+
+
+
+  <!-- If there are no articles -->
+  {% else %}
+  <p>There are currently no related articles in this sector.</p>
+  {% endif %}

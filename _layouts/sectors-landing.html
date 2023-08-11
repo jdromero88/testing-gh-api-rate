@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="row">
+
+  <!-- Table of Contents -->
+  {% include table-of-contents.html viewAll="false" stickyMenu="true" mobileHide="false" %}
+
+  <!-- Sector Listing -->
+  <section class="sectorsArticlesContainer col-xs-12 col-md-9">
+    <div class="content-wrapper">
+
+      {% for sector in site.sectors %}
+        {% capture viewAllLink %}{{ page.url | relative_url }}{{ sector.title | slugify }}{% endcapture %}
+        {% include sector-recent-articles.html viewAllLink = viewAllLink useStatePosts="false" %}
+      {% endfor %}
+
+    </div>
+      
+  </section>
+</div>
+

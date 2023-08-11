@@ -1,0 +1,62 @@
+/*==================================
+=            About Page            =
+==================================*/
+
+.page-container.about {
+	margin: 3rem 0;
+
+	.page-header {
+		margin: 0 0 1rem 0;
+
+		.main-title {
+			margin: 0;
+		}
+	}
+
+	.post-content {
+		margin: 0;
+	}
+
+	ul {
+		margin-bottom:3rem;
+		margin-top: 0;
+
+		li {
+			margin-bottom: 0.5rem;
+		}
+	}
+
+	.team-container {
+		.team-personContainer {
+			text-align: center;
+			margin: 1rem 0.5rem 6rem;
+			max-width: 200px;
+			max-height: 250px;
+
+			img {
+				height: 100%;
+				width: 100%;
+        object-fit: cover;
+				margin: 0 auto 0.5rem;
+			}
+
+			.team-name {
+				font-family: $font__MuseoSans;
+				color: $base-blue;
+			}
+
+			.team-title {
+				@include fontSize(15px);
+			}
+		}
+	}
+
+	.ilab-container {
+		margin-top: 3rem;
+
+		strong {
+			font-family: $font__MuseoSans;
+			color: $base-blue;
+		}
+	}
+}

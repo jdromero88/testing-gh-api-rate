@@ -1,0 +1,67 @@
+{% assign posts = site.posts | where_exp:"post","post.states contains include.state" %}
+
+<section class="subsectorFiltering-articlesInfo">
+	<h3 class="sectionTitle">Related Articles<span class="subsectorFiltering-subsectorTitle isStateArchive">{{ include.state }}</span></h3>
+</section>
+
+<!-- Results -->
+<section class="pagination-sortByContainer sort-attributes-container">
+	<div class="row">
+		<div class="col-xs-8 col-md-6 pagination-totalResults"></div>
+		<div class="col-xs-4 col-md-6 pagination-sortBy">
+			<div class="hidden-xs">
+			  Sort by:
+			  <a href="#sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">&darr;Date</a> 
+			  <a href="#sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">&uarr;Date</a>
+			  <a href="#sort=sector&amp;order=desc" class="sort-attribute" data-sort="sort=sector&amp;order=desc">&darr;Sector</a>
+			  <a href="#sort=sector&amp;order=asc" class="sort-attribute" data-sort="sort=sector&amp;order=asc">&uarr;Sector</a>
+			</div>
+			<select class="sort-dropdown">
+				<option value="#sort=date&amp;order=desc">&darr;Date</option>
+				<option value="#sort=date&amp;order=asc">&uarr;Date</option>
+				<option value="#sort=sector&amp;order=desc">&darr;Sector</option>
+				<option value="#sort=sector&amp;order=asc">&uarr;Sector</option>
+			</select>
+		</div>
+	</div>
+</section>
+<section class="pagination-posts-container post-listing" data-sector="{{include.sector | slugify}}" data-subsector="all"></section>
+<section class="pagination-pagesContainer"></section>
+
+<script type="text/javascript">
+	// Load all posts JSON for this State / Section
+	var postsPaginateMain = [
+		{% for post in posts %}
+			{% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
+			{
+				"title": "{{ post.title | escape }}",
+				"states": {{ post.states | jsonify }},
+				"sectors": {{ post.sectors | jsonify }},
+				"date": new Date("{{ post.date | date_to_xmlschema }}"),
+				"postHtml": {{postHtml | strip_newlines | jsonify}}
+			}{% unless forloop.last %},{% endunless %}
+		{% endfor %}
+	];
+
+	var postsPaginateSecondary = [];
+	var postsPaginateSecondaryTotal = {};
+	postsPaginateMain.forEach(function(post, pIndex) {
+		post.sectors.forEach(function(sector, index){
+			var newPost = {
+				"title": post.title,
+				"states": post.states,
+				"sectors": post.sectors,
+				"sector": sector,
+				"date": post.date,
+				"postHtml": post.postHtml
+			};
+	    	postsPaginateSecondary.push(newPost);
+
+			// Increment Total
+			postsPaginateSecondaryTotal[sector] = postsPaginateSecondaryTotal[sector] + 1 || 1;
+	    });
+	});
+
+	var posts_per_page = {{ site.post_archive_posts_per_page }};
+	var subsectorFiltering = false;
+</script>
