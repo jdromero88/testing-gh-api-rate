@@ -238,3 +238,5 @@ exclude:
   - vendor/ruby/
   - yarn.lock
   - .jekyll-cache
+sass:
+  sass_dir: assets/_sass
