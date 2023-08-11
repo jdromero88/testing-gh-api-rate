@@ -35,4 +35,3 @@ doc/
 .idea
 .secret
 .history/
-Gemfile.lock
