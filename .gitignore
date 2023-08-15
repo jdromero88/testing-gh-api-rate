@@ -19,6 +19,7 @@ _site
 
 # Node.js
 node_modules/
+package-lock.json
 
 # Logfiles and tempfiles
 *.log
