@@ -7,11 +7,11 @@ sftp-config.json
 .vscode
 
 # Jekyll
-_site
 .jekyll-metadata
 /.bundle
 /vendor
 .jekyll-cache
+_site
 
 # Compiled Files
 /assets/css/**/*.css
@@ -19,6 +19,7 @@ _site
 
 # Node.js
 node_modules/
+package-lock.json
 
 # Logfiles and tempfiles
 *.log

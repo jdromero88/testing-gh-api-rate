@@ -1,8 +1,16 @@
 # config.yml
+local_backend: true
+# local_backend:
+#   # when using a custom proxy server port
+#   url: http://localhost:4000/
+#   # when accessing the local site from a host other than 'localhost' or '127.0.0.1'
+#   allowed_hosts: ['192.168.0.1']
 
+# live
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
+
 media_folder: '_site/uploads'
 public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
