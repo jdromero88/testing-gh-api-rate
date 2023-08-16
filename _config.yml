@@ -48,7 +48,8 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: '/articles/:title/'
+      # permalink: '/articles/:title/'
+      permalink: '/articles/:path/:title/'
       states: []
       sectors: []
       subsectors: []
