@@ -8,19 +8,104 @@ local_backend: true
 
 # live
 backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+    name: git-gateway
+    branch: main # Branch to update (optional; defaults to master)
 
 media_folder: '_site/uploads'
-public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
+public_folder: '/uploads' # The src attribute for uploaded media will begin with /images/uploads
 collections:
-  - name: 'analysis'
-    label: 'Analysis'
-    folder: '_analysis/'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'analysis' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+    - name: 'analysis'
+      label: 'Analysis'
+      folder: '_analysis/'
+      create: true
+      slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+      fields:
+          - {
+                label: 'Layout',
+                name: 'layout',
+                widget: 'hidden',
+                default: 'analysis',
+            }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - {
+                label: 'Author',
+                name: 'author',
+                widget: 'relation',
+                collection: 'authors',
+                display_fields: [display_name],
+                search_fields: [display_name],
+                value_field: 'name',
+            }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+    - name: 'articles'
+      label: 'Articles'
+      folder: '_posts/'
+      create: true
+      slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+      fields:
+          - {
+                label: 'Layout',
+                name: 'layout',
+                widget: 'hidden',
+                default: 'post',
+            }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+    - name: 'events'
+      label: 'Events'
+      folder: '_posts/'
+      create: true
+      slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+      fields:
+          - {
+                label: 'Layout',
+                name: 'layout',
+                widget: 'hidden',
+                default: 'post',
+            }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - {
+                label: 'Author',
+                name: 'author',
+                widget: 'relation',
+                collection: 'authors',
+                display_fields: [display_name],
+                search_fields: [display_name],
+                value_field: 'name',
+            }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+    - name: 'authors'
+      label: 'Authors'
+      folder: '_authors/'
+      create: true
+      editor:
+          preview: false
+      fields:
+          - {
+                label: 'Layout',
+                name: 'layout',
+                widget: 'hidden',
+                default: 'author',
+            }
+          - { label: 'Short Name', name: 'name', widget: 'string' }
+          - { label: 'Display Name', name: 'display_name', widget: 'string' }
+          - { label: 'Position', name: 'position', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+    - name: 'national-goals'
+      label: 'National Goals'
+      folder: '_national-goals/'
+      create: true
+      slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+      fields:
+          - {
+                label: 'Layout',
+                name: 'layout',
+                widget: 'hidden',
+                default: 'national-goals',
+            }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
