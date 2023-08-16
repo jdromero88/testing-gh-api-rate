@@ -14,7 +14,7 @@ sftp-config.json
 _site
 
 # Compiled Files
-# /assets/css/**/*.css
+/assets/css/**/*.css
 # /assets/js/*.js
 
 # Node.js
