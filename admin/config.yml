@@ -27,7 +27,7 @@ collections:
 
   - name: 'resources'
     label: 'Resources'
-    label_singular: "Resource"
+    label_singular: 'Resource'
     folder: '_resources/'
     create: true
     # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -55,7 +55,7 @@ collections:
 
   - name: 'sectors'
     label: 'Sectors'
-    label_singular: "Sector"
+    label_singular: 'Sector'
     folder: '_sectors/'
     create: true
     slug: '{{slug}}'
@@ -67,3 +67,34 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: "Featured Image", name: "feature_image", widget: "image", choose_url: false, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'subsectors'
+    label: 'Sub Sectors'
+    label_singular: 'Sub Sector'
+    folder: '_subsectors'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'subsector' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - {
+          label: 'Sectors',
+          name: 'sector',
+          widget: 'relation',
+          collection: 'sectors',
+          display_fields: ['title'],
+          search_fields: ['title'],
+          value_field: 'title',
+          }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+# - label: "Post Author"
+#   name: "author"
+#   widget: "relation"
+#   collection: "authors"
+#   search_fields: ["name.first", "twitterHandle"]
+#   value_field: "name.first"
+#   display_fields: ["twitterHandle", "followerCount"]
