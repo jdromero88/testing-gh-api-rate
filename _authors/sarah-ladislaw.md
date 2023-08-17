@@ -1,6 +1,7 @@
 ---
 name: Sarah Ladislaw
-job_title: Director and Senior Fellow, Energy and National Security Program
+display_name: Sarah Ladislaw
+position: Director and Senior Fellow, Energy and National Security Program
 image: '/uploads/headshots/sarah-ladislaw-headshot.jpg'
 current_staff: true
 ---

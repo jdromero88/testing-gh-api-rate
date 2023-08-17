@@ -1,7 +1,8 @@
 ---
 name: Sidhanta Mehra
+display_name: Sidhanta Mehra
 date: 2018-01-30 15:28:00 +0000
-job_title: Program Manager and Research Associate
+position: Program Manager and Research Associate
 image: '/_uploads/Sid Mehra Headshot-59d219.jpg'
 ---
 
