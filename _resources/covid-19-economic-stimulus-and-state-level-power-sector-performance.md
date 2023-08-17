@@ -8,5 +8,6 @@ summary: 'The Indian government, as part of economic stimulus package, increased
   borrowing limit of Indian states implementing power sector reforms. This report
   analyzes the efficiency parameters of the power sector at the state-level. '
 posted_on: March 2021
+posted_onn: March 2021
 
 ---

@@ -51,4 +51,4 @@ collections:
       - { label: 'Link', name: 'link', widget: 'string', hint: 'https://example.com' }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Summary', name: 'summary', widget: 'text' }
-      - { label: 'Publish Date', name: 'posted_on', widget: 'string' }
+      - { label: 'Publish Date', name: 'posted_on', widget: 'datetime', date_format: "MM.YYYY", time_format: false, format: "LLL" }

@@ -1,14 +1,12 @@
 ---
 content_type: resource
-type: Electric Mobility
+type: Electricity
 title: aaaaaa
-link: https://aaaa.com
-author: aaaaaaaa
-summary: Kevin bresaola capicola bacon. Buffalo brisket venison, salami picanha
-  ground round t-bone tail strip steak kevin ham. Short ribs prosciutto ground
-  round, drumstick shank turkey bacon sausage tenderloin. Beef ribs doner turkey
-  bacon alcatra, cow pork belly drumstick meatball ball tip venison picanha
-  filet mignon shankle. Turducken sirloin boudin ham hock jowl shoulder filet
-  mignon swine.
-posted_on: january 2023
+link: aaa
+author: AaaaaAAA
+summary: "The Indian government, as part of economic stimulus package, increased
+  the borrowing limit of Indian states implementing power sector reforms. This
+  report analyzes the efficiency parameters of the power sector at the
+  state-level. "
+posted_on: January 16, 2023 10:03 PM
 ---

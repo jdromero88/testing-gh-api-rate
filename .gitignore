@@ -36,3 +36,7 @@ doc/
 .idea
 .secret
 .history/
+
+# removing post.bak to avoid building time. This folder is the original with all the posts and it has to be included
+# for production
+_posts.bak
