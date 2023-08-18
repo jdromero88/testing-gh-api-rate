@@ -90,11 +90,39 @@ collections:
           }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-
-# - label: "Post Author"
-#   name: "author"
-#   widget: "relation"
-#   collection: "authors"
-#   search_fields: ["name.first", "twitterHandle"]
-#   value_field: "name.first"
-#   display_fields: ["twitterHandle", "followerCount"]
+  - name: 'states'
+    label: 'States'
+    label_singular: 'State'
+    folder: "_states"
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'state' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'states' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - label: 'Featured Images'
+        name: 'feature_images'
+        widget: 'object'
+        fields:
+          - label: 'Primary'
+            name: 'primary'
+            widget: 'object'
+            fields:
+              - { label: 'Image', name: 'image', widget: 'image', choose_url: false, required: false }
+              - { label: 'Credit', name: 'credit', widget: 'string' }  
+          - label: 'Secondary'
+            name: 'secondary'
+            widget: 'object'
+            fields:
+              - { label: 'Image', name: 'image', widget: 'image', choose_url: false, required: false }
+              - { label: 'Credit', name: 'credit', widget: 'string' }
+      - { label: 'Size', name: 'size', widget: 'string' }
+      - { label: 'Population', name: 'population', widget: 'string' }
+      - { label: 'Party affiliation', name: 'party_affiliation', widget: 'string' }
+      - { label: 'Legislative seats', name: 'legislative_seats', widget: 'string' }
+      - { label: 'Rajya seats', name: 'rajya_seats', widget: 'string' }
+      - { label: 'Lok_seats', name: 'lok_seats', widget: 'string' }
+      - { label: 'GDP', name: 'gdp', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
