@@ -34,7 +34,8 @@ layout: default
             <p class="articleMeta">By <span class="articleAuthor">{{ item.author }}</span></p>
           {% endif %}
           {% if item.posted_on != '' %}
-            <p class="articleMeta">Posted on <span class="articleDate">{{ item.posted_on }}</span></p>
+            <!-- <p class="articleMeta">Posted on <span class="articleDate">{{ item.posted_on }}</span></p> -->
+            <p class="articleMeta">Posted on <span class="articleDate">{{ item.posted_on | date: "%B %Y"}}</span></p>
           {% endif %}
           <p class="articleSummary">{{ item.summary }}</p>
         </article>

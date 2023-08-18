@@ -89,3 +89,120 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'resources'
+    label: 'Resources'
+    label_singular: 'Resource'
+    folder: '_resources/'
+    create: true
+    # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'resource' }
+      - { label: 'Type', name: 'type', widget: 'select', allow_add: false, 
+        options: [
+          "Archives",
+          "Electricity",
+          "Electric Mobility",
+          "Energy Transition",
+          "Health",
+          "State Clean Energy Goal Tracker",
+          "Technology"
+          ],
+        default: ["Archives"] }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Link', name: 'link', widget: 'string', hint: 'https://example.com' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'text' }
+      - { label: 'Publish Date', name: 'posted_on', widget: 'datetime', date_format: "MM.YYYY", time_format: false, format: "LLL" }
+
+  - name: 'post_types'
+    label: 'Post types'
+    label_singular: 'Post type'
+    folder: '_post-types/'
+    create: true
+    # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: "Featured Image", name: "feature_image", widget: "image", choose_url: false, required: false }
+      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text' }
+
+  - name: 'sectors'
+    label: 'Sectors'
+    label_singular: 'Sector'
+    folder: '_sectors/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'sector' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'sector' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: "Featured Image", name: "feature_image", widget: "image", choose_url: false, required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'subsectors'
+    label: 'Sub Sectors'
+    label_singular: 'Sub Sector'
+    folder: '_subsectors'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'subsector' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - {
+          label: 'Sectors',
+          name: 'sector',
+          widget: 'relation',
+          collection: 'sectors',
+          display_fields: ['title'],
+          search_fields: ['title'],
+          value_field: 'title',
+          }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'states'
+    label: 'States'
+    label_singular: 'State'
+    folder: "_states"
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'state' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'states' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - label: 'Featured Images'
+        name: 'feature_images'
+        widget: 'object'
+        fields:
+          - label: 'Primary'
+            name: 'primary'
+            widget: 'object'
+            fields:
+              - { label: 'Image', name: 'image', widget: 'image', choose_url: false, required: false }
+              - { label: 'Credit', name: 'credit', widget: 'string' }
+          - label: 'Secondary'
+            name: 'secondary'
+            widget: 'object'
+            fields:
+              - { label: 'Image', name: 'image', widget: 'image', choose_url: false, required: false }
+              - { label: 'Credit', name: 'credit', widget: 'string' }
+      - { label: 'Size', name: 'size', widget: 'string' }
+      - { label: 'Population', name: 'population', widget: 'string' }
+      - { label: 'Party affiliation', name: 'party_affiliation', widget: 'string' }
+      - { label: 'Legislative seats', name: 'legislative_seats', widget: 'string' }
+      - { label: 'Rajya seats', name: 'rajya_seats', widget: 'string' }
+      - { label: 'Lok_seats', name: 'lok_seats', widget: 'string' }
+      - { label: 'GDP', name: 'gdp', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

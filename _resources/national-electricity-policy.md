@@ -1,6 +1,6 @@
 ---
 content_type: resource
-type: 'Electricity '
+type: Electricity
 title: National Electricity Policy
 link: https://powermin.gov.in/sites/default/files/webform/notices/Extension_of_date_for_submitting_comments_on_draft_NEP_2021_till_25_May
   _21.pdf

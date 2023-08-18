@@ -1,26 +1,26 @@
 {
-  "name": "india-states-jekyll",
-  "version": "1.0.0",
-  "description": "The Wadhwani Chair in U.S. India Policy Studies has commissioned a new website that will provide comprehensive insight into India’s 29 States’ policies as related to key sectors. The website will be a tool for users: an organized knowledge base that will facilitate greater business and economic understanding and engagement between India and the United States.",
-  "main": "index.js",
-  "scripts": {
-    "clean": "jekyll clean",
-    "build:jekyll": "bundle exec jekyll build",
-    "build:sass": "sass --no-source-map assets/_sass:assets/css",
-    "build": "npm-run-all clean build:*",
-    "watch:sass": "sass --no-source-map --watch assets/_sass:assets/css",
-    "watch": "npm-run-all --parallel watch:*",
-    "serve:cms": "npx netlify-cms-proxy-server",
-    "serve:jekyll": "bundle exec jekyll serve --livereload",
-    "serve": "npm-run-all --parallel serve:*",
-    "start": "npm-run-all --parallel watch serve"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "netlify-cms-proxy-server": "^1.3.24",
-    "npm-run-all": "^4.1.5",
-    "sass": "^1.64.2"
-  }
+    "name": "india-states-jekyll",
+    "version": "1.0.0",
+    "description": "The Wadhwani Chair in U.S. India Policy Studies has commissioned a new website that will provide comprehensive insight into India’s 29 States’ policies as related to key sectors. The website will be a tool for users: an organized knowledge base that will facilitate greater business and economic understanding and engagement between India and the United States.",
+    "main": "index.js",
+    "scripts": {
+        "clean": "jekyll clean",
+        "build:jekyll": "bundle exec jekyll build",
+        "build:sass": "sass --no-source-map assets/_sass:assets/css",
+        "build": "npm-run-all clean build:*",
+        "watch:sass": "sass --no-source-map --watch assets/_sass:assets/css",
+        "watch": "npm-run-all --parallel watch:*",
+        "serve:cms": "npx netlify-cms-proxy-server",
+        "serve:jekyll": "bundle exec jekyll serve --livereload",
+        "serve": "npm-run-all --parallel serve:*",
+        "start": "npm-run-all --parallel watch serve"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "netlify-cms-proxy-server": "^1.3.24",
+        "npm-run-all": "^4.1.5",
+        "sass": "^1.64.2"
+    }
 }

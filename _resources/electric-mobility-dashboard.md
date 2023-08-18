@@ -1,6 +1,6 @@
 ---
 content_type: resource
-type: 'Electric Mobility '
+type: Electric Mobility
 title: Electric Mobility Dashboard
 link: https://cef.ceew.in/solutions-factory/tool/electric-mobility
 author: Centre for Energy Finance

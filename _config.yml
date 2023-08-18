@@ -239,3 +239,4 @@ exclude:
   - vendor/ruby/
   - yarn.lock
   - .jekyll-cache
+  - _posts.bak
