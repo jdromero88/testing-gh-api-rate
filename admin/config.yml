@@ -53,6 +53,21 @@ collections:
       - { label: 'Summary', name: 'summary', widget: 'text' }
       - { label: 'Publish Date', name: 'posted_on', widget: 'datetime', date_format: "MM.YYYY", time_format: false, format: "LLL" }
 
+  - name: 'post_types'
+    label: 'Post types'
+    label_singular: 'Post type'
+    folder: '_post-types/'
+    create: true
+    # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: "Featured Image", name: "feature_image", widget: "image", choose_url: false, required: false }
+      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text' }
+
   - name: 'sectors'
     label: 'Sectors'
     label_singular: 'Sector'
@@ -111,7 +126,7 @@ collections:
             widget: 'object'
             fields:
               - { label: 'Image', name: 'image', widget: 'image', choose_url: false, required: false }
-              - { label: 'Credit', name: 'credit', widget: 'string' }  
+              - { label: 'Credit', name: 'credit', widget: 'string' }
           - label: 'Secondary'
             name: 'secondary'
             widget: 'object'
