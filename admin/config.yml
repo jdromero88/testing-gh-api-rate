@@ -1,6 +1,5 @@
 # config.yml
 local_backend: true
-# local_backend:
 #   # when using a custom proxy server port
 #   url: http://localhost:4000/
 #   # when accessing the local site from a host other than 'localhost' or '127.0.0.1'
@@ -98,6 +97,7 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+
     - name: 'authors'
       label: 'Authors'
       label_singular: 'Author'
@@ -123,6 +123,7 @@ collections:
                 required: false,
             }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+
     - name: 'national-goals'
       label: 'National Goals'
       label_singular: 'National Goal'
