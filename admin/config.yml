@@ -40,10 +40,28 @@ collections:
       preview: false
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-        - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-        - { label: 'Title', name: 'title', widget: 'string' }
-        - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-        - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'articles' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      # - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: "DD.MM.YYYY", time_format: false, format: "LLL" }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title'
+        }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title'
+        }
+      - { label: 'Subsectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title',
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'authors'
     label: 'Authors'
     label_singular: 'Author'
