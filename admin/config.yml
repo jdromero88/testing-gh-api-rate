@@ -78,6 +78,62 @@ collections:
                 value_field: 'title',
             }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'articles'
+    label: 'Articles'
+    label_singular: 'Article'
+    folder: '_posts/'
+    create: true
+    editor:
+      preview: false
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'articles' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      # - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: "DD.MM.YYYY", time_format: false, format: "LLL" }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title'
+        }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title'
+        }
+      - { label: 'Subsectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title',
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'authors'
+    label: 'Authors'
+    label_singular: 'Author'
+    folder: '_authors/'
+    create: true
+    editor:
+      preview: false
+    fields:
+        - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'author' }
+        - { label: 'Short Name', name: 'name', widget: 'string' }
+        - { label: 'Display Name', name: 'display_name', widget: 'string' }
+        - { label: 'Position', name: 'position', widget: 'string' }
+        - { label: 'Image', name: 'image', widget: 'image', choose_url: false, required: false }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'national-goals'
+    label: 'National Goals'
+    label_singular: 'National Goal'
+    folder: '_national-goals/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+        - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'national-goals', }
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
 
     - name: 'articles'
       label: 'Articles'
