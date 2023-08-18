@@ -43,6 +43,7 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown' }
     - name: 'articles'
       label: 'Articles'
+      label_singular: 'Article'
       folder: '_posts/'
       create: true
       editor:
@@ -60,6 +61,7 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown' }
     - name: 'authors'
       label: 'Authors'
+      label_singular: 'Author'
       folder: '_authors/'
       create: true
       editor:
@@ -77,6 +79,7 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown' }
     - name: 'national-goals'
       label: 'National Goals'
+      label_singular: 'National Goal'
       folder: '_national-goals/'
       create: true
       slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
