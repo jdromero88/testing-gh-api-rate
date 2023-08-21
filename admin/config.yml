@@ -25,6 +25,11 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [display_name], search_fields: [display_name], value_field: 'name', }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title'
+        }
       - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
       - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text' }
       - { label: 'Tags', name: 'tags', widget: 'list', default: [] }
@@ -121,6 +126,16 @@ collections:
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Summary', name: 'summary', widget: 'text' }
       - { label: 'Publish Date', name: 'posted_on', widget: 'datetime', date_format: 'MM.YYYY', time_format: false, format: 'LLL' }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title'
+        }
+      - { label: 'Subsectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title',
+        }
 
   - name: 'post_types'
     label: 'Post types'
