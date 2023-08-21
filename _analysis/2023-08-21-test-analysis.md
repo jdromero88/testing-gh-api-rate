@@ -9,7 +9,8 @@ states:
   - Daman and Diu
   - Kerala
 feature_image_credit: hi
-tags: []
+tags:
+  - keyword;word;key.hi
 sector:
   - Health
 subsector:
