@@ -43,7 +43,7 @@ collections:
           value_field: 'title'
         }
       - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
-      - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
+      - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false}
       - { label: 'Featured', name: 'is_featured', widget: 'boolean', default: false, required: false }
       - label: 'Sources'
         label_singular: 'Source'
@@ -52,6 +52,15 @@ collections:
         fields:
           - { label: 'Name', name: 'name', widget: 'string' }
           - { label: 'URL', name: 'url', widget: 'string' }
+        required: false  
+      - label: 'Details'
+        label_singular: 'Detail'
+        name: 'details'
+        widget: 'list'
+        fields:
+          - { label: 'URL', name: 'url', widget: 'string' }
+          - { label: 'Name', name: 'name', widget: 'string' }
+        required: false
       - { label: 'PDF', name: 'pdf', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 

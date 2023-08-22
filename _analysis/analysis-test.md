@@ -31,6 +31,9 @@ is_featured: true
 sources:
   - name: csis
     url: www.csis.org
+details:
+  - url: hola.com
+    name: hola test
 ---
 [Bacon](bacon.com) ipsum *dolor* amet salami drumstick tenderloin ground round t-bone sirloin shank chicken pastrami ham frankfurter corned beef venison brisket.  Salami turkey short loin pork loin boudin chislic, sausage shankle strip steak.  Strip steak filet mignon rump turkey.  Buffalo cupim burgdoggen ham hock beef ground round.  Swine brisket kielbasa, porchetta chislic shoulder turkey.  Chislic swine meatloaf boudin, shoulder fatback salami turkey brisket alcatra biltong strip steak drumstick.
 
