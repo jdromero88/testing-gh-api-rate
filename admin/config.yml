@@ -42,8 +42,8 @@ collections:
           search_fields: [title],
           value_field: 'title'
         }
-      - { label: 'Sectors', name: 'sector', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
-      - { label: 'Sub Sectors', name: 'subsector', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
+      - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
       - { label: 'Featured', name: 'is_featured', widget: 'boolean', default: false, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 

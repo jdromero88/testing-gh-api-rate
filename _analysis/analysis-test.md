@@ -24,9 +24,9 @@ feature_image_credit: asdf
 states:
   - Andhra Pradesh
   - Union Territory of the Andaman and Nicobar Islands
-sector:
+sectors:
   - Health
-subsector:
+subsectors:
   - Health Areas
   - Healthcare Regulation
 ---
