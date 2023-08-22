@@ -14,27 +14,54 @@ media_folder: '_site/uploads'
 public_folder: '/uploads' # The src attribute for uploaded media will begin with /images/uploads
 collections:
   - name: 'analysis'
-    label: 'Analysis'
+    label: 'Analyses'
+    label_singular: 'Analysis'
     folder: '_analysis/'
     create: true
     editor:
       preview: false
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'analysis' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'analysis' }
+      - { label: 'Is analysis', name: 'is_analysis', widget: 'hidden', default: true }
+      - { label: 'Post Type', name: 'post_type', widget: 'relation', collection: 'post_types',
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title'
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'list', default: [], multiple: true }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [display_name], search_fields: [display_name], value_field: 'name', }
+      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
+      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
       - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
           display_fields: [title],
           search_fields: [title],
           value_field: 'title'
         }
-      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
-      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text' }
-      - { label: 'Tags', name: 'tags', widget: 'list', default: [] }
-      - { label: 'Sectors', name: 'sector', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
-      - { label: 'Sub Sectors', name: 'subsector', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
+      - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false}
+      - { label: 'Featured', name: 'is_featured', widget: 'boolean', default: false, required: false }
+      - label: 'Sources'
+        label_singular: 'Source'
+        name: 'sources'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string' }
+        required: false  
+      - label: 'Details'
+        label_singular: 'Detail'
+        name: 'details'
+        widget: 'list'
+        fields:
+          - { label: 'URL', name: 'url', widget: 'string' }
+          - { label: 'Name', name: 'name', widget: 'string' }
+        required: false
+      - { label: 'PDF', name: 'pdf', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'articles'
