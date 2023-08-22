@@ -26,7 +26,7 @@ tags:
 date: 2023-08-16T18:57:54.418Z
 author:
   - Richard M. Rossow
-feature_image: /_uploads/5799681703_57b8703f24_k.jpg
+feature_image: /uploads/5799681703_57b8703f24_k.jpg
 sectors:
   - Climate Change
 ---
