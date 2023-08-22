@@ -1,6 +1,12 @@
 ---
-layout: analysis
+layout: post
+content_type: analysis
+is_analysis: true
+post_type: India States Weekly
 title: Test Analysis
+tags:
+  - hola
+  - test
 date: 2023-08-16T18:57:54.418Z
 author:
   - Richard M. Rossow
@@ -9,8 +15,6 @@ states:
   - Daman and Diu
   - Kerala
 feature_image_credit: hi
-tags:
-  - keyword;word;key.hi
 sector:
   - Health
 subsector:
