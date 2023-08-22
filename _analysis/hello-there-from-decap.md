@@ -28,6 +28,11 @@ subsectors:
   - Energy Efficiency
   - Energy-related Transportation
 is_featured: false
+sources:
+  - name: CSIS
+    url: www.csis.org
+  - name: another source
+    url: www.anothersource.com
 pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/170215_Breakthrough_Index_3_Solar_Policy.pdf?8VNRP6Htx_iBu6hWwJg7mDPXPIRzMFKE
 ---
 **Bacon ipsum dolor** amet *bresaola* ham hock buffalo cow spare ribs drumstick, tongue pastrami pancetta beef ribs strip steak shankle pig.  Tongue leberkas shank drumstick.  Ribeye salami tail, porchetta cow rump kielbasa prosciutto jowl ham venison picanha.  Chislic tri-tip ham andouille, ball tip rump ham hock.

@@ -45,11 +45,13 @@ collections:
       - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
       - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
       - { label: 'Featured', name: 'is_featured', widget: 'boolean', default: false, required: false }
-      # - { label: 'Sources', name: 'sources', widget: 'list',
-      #     fields:
-      #       - { label: 'Name', name: 'name', widget: 'string' }
-      #       - { label: 'URL', name: 'url', widget: 'string' }
-      # }
+      - label: 'Sources'
+        label_singular: 'Source'
+        name: 'sources'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string' }
       - { label: 'PDF', name: 'pdf', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
