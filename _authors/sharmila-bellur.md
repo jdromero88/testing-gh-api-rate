@@ -2,7 +2,7 @@
 name: Sharmila Bellur
 display_name: Sharmila Bellur
 position: Research Intern, Energy and National Security Program
-image: '/sharmila-bellur-headshot.jpg'
+image: '/uploads/headshots/sharmila-bellur-headshot.jpg'
 current_staff: true
 ---
 
