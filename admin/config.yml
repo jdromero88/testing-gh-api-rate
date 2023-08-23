@@ -11,8 +11,6 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
 media_folder: '_uploads'
-# media_folder: 'assets/img'
-# media_folder: '_site/uploads'
 public_folder: '/uploads' # The src attribute for uploaded media will begin with /images/uploads
 collections:
   - name: 'analysis'
@@ -42,9 +40,10 @@ collections:
       - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
           display_fields: [title],
           search_fields: [title],
-          value_field: 'title'
+          value_field: 'title',
+          required: false
         }
-      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title' }
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false  }
       - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false}
       - { label: 'Featured', name: 'is_featured', widget: 'boolean', default: false, required: false }
       - label: 'Sources'

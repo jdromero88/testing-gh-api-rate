@@ -6,7 +6,6 @@ tags:
 author:
 - Richard M. Rossow
 states:
-- 
 sectors:
 - Energy
 subsectors:
