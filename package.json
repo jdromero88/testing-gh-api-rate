@@ -12,7 +12,7 @@
     "watch:sass": "sass --no-source-map --watch assets/_sass:assets/css",
     "watch": "npm-run-all --parallel watch:*",
     "serve:cms": "npx netlify-cms-proxy-server",
-    "serve:jekyll": "bundle exec jekyll serve --livereload --profile",
+    "serve:jekyll": "bundle exec jekyll serve --livereload --profile --incremental",
     "serve": "npm-run-all --parallel serve:*",
     "start": "npm-run-all --parallel watch serve"
   },
