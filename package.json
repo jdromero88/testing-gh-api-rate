@@ -5,19 +5,24 @@
   "main": "index.js",
   "scripts": {
     "clean": "jekyll clean",
+    "setup": "bundler install && npm i -y",
     "build:jekyll": "bundle exec jekyll build --incremental",
     "build:sass": "sass --no-source-map assets/_sass:assets/css",
     "build": "npm-run-all clean build:*",
     "watch:sass": "sass --no-source-map --watch assets/_sass:assets/css",
     "watch": "npm-run-all --parallel watch:*",
     "serve:cms": "npx netlify-cms-proxy-server",
-    "serve:jekyll": "bundle exec jekyll serve --livereload --limit_posts 5 --profile",
+    "serve:jekyll": "bundle exec jekyll serve --livereload",
     "serve": "npm-run-all --parallel serve:*",
     "start": "npm-run-all --parallel watch serve"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CSIS-iLab/india-states-v2.git"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "CSIS iDeas Lab",
+  "license": "See license in LICENSE",
   "devDependencies": {
     "netlify-cms-proxy-server": "^1.3.24",
     "npm-run-all": "^4.1.5",

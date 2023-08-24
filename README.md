@@ -4,14 +4,10 @@ The Wadhwani Chair in U.S. India Policy Studies has commissioned a new website t
 Users will be able to access data via two avenues of focus: by State or by sector/subsector. In addition to being a compact source of comparative data, the site offers users access to a curated collection of new articles and reports that support and extend their understanding of the State/sector relationship.
 
 ## Setup
-1. Copy repo to desktop and navigate to folder in Terminal `$ cd [project folder]`
-2. Update bundler dependencies `$ bundler install`
-3. Start development server `$ bundle exec jekyll serve`
-
-### Bundle JavaScript files
-In project root directory, run `cat ./assets/js/* | uglifyjs -o ./assets/bundle.min.js` (to be automated in Phase 2)
-
-**Note:** GitHub Pages & Siteleaf handle the build process on sync.
+This website use node v `20.5.0` and ruby v `3.2.2`
+1. Clone the repo with `git clone git@github.com:CSIS-iLab/india-states-v2.git` and go to the directory `cd india-states-v2`
+2. Run `npm run setup` to install/update bundler dependencies and install the npm dependencies
+3. Start development server `npm start`
 
 ## Directory Structure
 The basic site structure for the site looks like this:
@@ -29,6 +25,9 @@ The basic site structure for the site looks like this:
 ├── _states
 ├── _subsectors
 ├── _trackers
+├── admin
+|   ├── config.yml
+|   └── index.html
 ├── assets
 |   ├── img
 |   └── js
@@ -121,3 +120,31 @@ These contain the static assets for the site, including images and JavaScript fi
 
 ### [pages].md
 Parent level pages on the site, such as `/about`, `/states`, `/sectors`, are created by making a `.md` file in the root directory of the project. See [Jekyll documentation](https://jekyllrb.com/docs/pages/) for more information.
+
+### Branching
+
+When modifying the code base, always make a new branch. Unless it's necessary to do otherwise, all branches should be created off of `main`.
+
+Branches should use the following naming conventions:
+
+| Branch type               | Name                                                      | Example                     |
+| ------------------------- | --------------------------------------------------------- | --------------------------- |
+| New Feature               | `feature/<short description of feature>`                  | `feature/header-navigation` |
+| Bug Fixes                 | `bug/<short description of bug>`                          | `bug/mobile-navigation`     |
+| Documentation             | `docs/<short description of documentation being updated>` | `docs/readme`               |
+| Code clean-up/refactoring | `refactor/<short description>`                            | `refactor/apply-linting`    |
+| Content Updates           | `content/<short description of content>`                  | `content/add-new-posts`     |
+
+When ready to merge, submit a Pull Request into `main`. All code will be reviewed by the lead developer on the project before being merged into `main`.
+
+### Commit Messages
+
+Write clear and concise commit messages describing the changes you are making and why. If there are any issues associated with the commit, include the issue # in the commit title.
+
+### CSS Styles
+
+This project uses the [BEM](http://getbem.com/introduction/) naming convention.
+
+### Copyright / License
+
+Copyright © 2022 CSIS iDeas Lab under the [License](LICENSE).

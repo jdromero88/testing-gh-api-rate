@@ -1,21 +1,34 @@
 ---
-layout: post
-title: Test Analysis
-date: 2023-08-16T18:57:54.418Z
-author:
-  - Richard M. Rossow
+content_type: analysis
+excerpt: " introduces amendments to the Renewable Power Purchase Obligation
+  (RPO) Compliance by Purchase of Renewable Energy/Renewable Energy Certificates
+  Regulations, 2022, aiming to promote the use of open access electricity;
+  Odisha approves the Odisha Semiconductor Manufacturing & Fabless Policy; NITI
+  Aayog releases the National Multidimensional Poverty Index: A Progress of
+  Review 2023; and more"
+feature_image_credit: hi
 states:
   - Himachal Pradesh
   - Daman and Diu
   - Kerala
-feature_image_credit: hi
-tags:
-  - keyword;word;key.hi
-sector:
-  - Health
 subsector:
   - Health IT
   - Health Areas
+sector:
+  - Health
+layout: post
+is_analysis: true
+post_type: India States Weekly
+title: Test Analysis
+tags:
+  - hola
+  - test
+date: 2023-08-16T18:57:54.418Z
+author:
+  - Richard M. Rossow
+feature_image: /uploads/5799681703_57b8703f24_k.jpg
+sectors:
+  - Climate Change
 ---
 Big News: Jharkhand releases the Sustainable Just Transition Vision Document; Andhra Pradesh Electricity Regulatory Commission (APERC) introduces amendments to the Renewable Power Purchase Obligation (RPO) Compliance by Purchase of Renewable Energy/Renewable Energy Certificates Regulations, 2022, aiming to promote the use of open access electricity; Odisha approves the Odisha Semiconductor Manufacturing & Fabless Policy; NITI Aayog releases the National Multidimensional Poverty Index: A Progress of Review 2023; and more. 
 
