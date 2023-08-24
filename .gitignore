@@ -7,10 +7,10 @@ sftp-config.json
 .vscode
 
 # Jekyll
-.jekyll-metadata
+# .jekyll-metadata
 /.bundle
 /vendor
-.jekyll-cache
+# .jekyll-cache
 _site
 
 # Compiled Files
