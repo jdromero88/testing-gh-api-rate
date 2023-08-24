@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "jekyll clean",
     "setup": "bundler install && npm i -y",
-    "build:jekyll": "bundle exec jekyll build",
+    "build:jekyll": "bundle exec jekyll build --incremental",
     "build:sass": "sass --no-source-map assets/_sass:assets/css",
     "build": "npm-run-all clean build:*",
     "watch:sass": "sass --no-source-map --watch assets/_sass:assets/css",
