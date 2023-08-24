@@ -218,6 +218,11 @@ newsletter_description:
   significant socioeconomic and political developments from thirteen of India’s very
   powerful states, including the national capital and union territory of New Delhi.
 national_goals_data_dir: national-goals
+keep_files: 
+  - assets/img
+  - assets/js
+  - assets/fonts
+  - assets/css
 
 exclude:
   - frasco.config.js
@@ -232,6 +237,7 @@ exclude:
   - package.json
   - package-lock.json
   - prettier.config.js
+  - prettierrc
   - README.md
   - vendor/bundle/
   - vendor/cache/
@@ -240,3 +246,6 @@ exclude:
   - yarn.lock
   - .jekyll-cache
   - _posts.bak
+  - assets/_img
+  - assets/_js
+  - assets/_sass

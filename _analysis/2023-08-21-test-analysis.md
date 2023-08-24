@@ -1,5 +1,5 @@
 ---
-layout: analysis
+layout: post
 title: Test Analysis
 date: 2023-08-16T18:57:54.418Z
 author:
