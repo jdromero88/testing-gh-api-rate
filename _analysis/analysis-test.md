@@ -3,7 +3,7 @@ layout: post
 content_type: analysis
 is_analysis: true
 post_type: India States Weekly
-title: Analysis testing oiko?
+title: Analysis test!
 tags:
   - hola
   - test
