@@ -12,6 +12,7 @@ states:
 sectors:
   - Industrial Policy and Business Regulations
   - Infrastructure and Governance
+  - Energy
 subsectors:
   - Energy-related Transportation
   - Workforce Development
