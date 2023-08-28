@@ -145,6 +145,14 @@ Write clear and concise commit messages describing the changes you are making an
 
 This project uses the [BEM](http://getbem.com/introduction/) naming convention.
 
+### Script to change filenames extension
+
+This project has files that have markdown extension and it's not recognized by the CMS. This script  will loop through each file inside a directory and change it from `filename.markdown` to `filename.md`
+
+```Shell
+for f in *.markdown; do mv -- "$f" "${f%.markdown}.md"; done
+```
+
 ### Copyright / License
 
 Copyright © 2022 CSIS iDeas Lab under the [License](LICENSE).
