@@ -27,7 +27,8 @@ collections:
           value_field: 'title'
         }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Tags', name: 'tags', widget: 'list', default: [], multiple: true }
+      - { label: "Tags", name: "tags", widget: "list", required: false, collapsed: false,
+          field: { label: "Tag", name: "tag", widget: "string" }}
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [display_name], search_fields: [display_name], value_field: 'name', }
@@ -94,7 +95,8 @@ collections:
           value_field: 'title',
           required: false
         }
-      - { label: 'Tags', name: 'tags', widget: 'list', default: [], multiple: true }
+      - { label: "Tags", name: "tags", widget: "list", required: false, collapsed: false,
+          field: { label: "Tag", name: "tag", widget: "string" }}
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
