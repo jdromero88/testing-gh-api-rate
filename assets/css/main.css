@@ -3316,12 +3316,20 @@ article.post-individualContainer .post-content hr {
   margin: 0 0 0.8rem 0;
 }
 article.post-individualContainer .post-content .post-articleSourcesDetails {
+  display: flex;
   color: #797979;
   font-size: 14px;
   font-size: 0.875rem;
   line-height: 1.4rem;
   font-family: "museo-sans", sans-serif;
   text-transform: uppercase;
+}
+article.post-individualContainer .post-content .post-articleSourcesDetails ul {
+  list-style: none;
+}
+article.post-individualContainer .post-content .post-articleSourcesDetails ul, article.post-individualContainer .post-content .post-articleSourcesDetails li { /* reset the margin and padding */
+  margin: 0;
+  padding: 0;
 }
 article.post-individualContainer .post-content .post-articleSourcesDetails a {
   text-transform: none;
