@@ -5,7 +5,9 @@ is_analysis: true
 post_type: India States Weekly
 title: Lindsay Test Analysis Author
 tags:
-  - tag with spaces, another tag
+  - tag with spaces
+  - Another tag
+  - 3rd tag
 date: 2023-08-25T19:40:35.817Z
 excerpt: Vestibulum volutpat pretium libero. Etiam vitae tortor. Nunc egestas,
   augue at pellentesque laoreet, felis eros vehicula leo, at malesuada velit leo
@@ -21,6 +23,13 @@ sectors:
 subsectors:
   - Energy-related Transportation
 is_featured: true
+sources:
+  - name: source
+    url: google.com
+details:
+  - name: detail
+    url: google.com
+pdf: pdf.pdf
 ---
 Vestibulum dapibus nunc ac augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Suspendisse enim turpis, dictum sed, iaculis a, condimentum nec, nisi. Fusce commodo aliquam arcu. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris.
 
