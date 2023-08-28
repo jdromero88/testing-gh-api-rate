@@ -20,6 +20,7 @@ states:
   - Center-State Relations
 sectors:
   - Infrastructure and Governance
+  - Energy
 subsectors:
   - Energy-related Transportation
 is_featured: true
