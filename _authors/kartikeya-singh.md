@@ -1,6 +1,5 @@
 ---
 name: Kartikeya Singh
-display_name: Kartikeya Singh
 position: Senior Associate (Non-resident), Chair in U.S.-India Policy Studies
 image: '/uploads/kartikeya-singh-headshot.jpg'
 current_staff: true

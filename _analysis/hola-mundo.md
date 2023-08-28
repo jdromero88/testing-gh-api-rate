@@ -13,7 +13,8 @@ excerpt: Bacon ipsum dolor amet landjaeger ground round tail, cupim porchetta
   frankfurter cow tongue beef pork meatloaf corned beef strip steak chuck
   ribeye.
 author:
-  - Richard M. Rossow
+  - Kartikeya Singh
+  - Don Gato
 is_featured: false
 sources:
   - name: csis

@@ -1,6 +1,5 @@
 ---
 name: Aman Thakker
-display_name: Aman Thakker
 date: '2018-07-03T19:09:00.000+00:00'
 position: Adjunct Fellow (Non-resident), Chair in U.S.-India Policy Studies
 image: '/uploads/aman-thakker-headshot.jpg'

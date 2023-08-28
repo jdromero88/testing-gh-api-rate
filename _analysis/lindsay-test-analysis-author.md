@@ -16,6 +16,7 @@ excerpt: Vestibulum volutpat pretium libero. Etiam vitae tortor. Nunc egestas,
   adipiscing, dui.
 author:
   - Scooby
+  - Don Gato
 states:
   - Center-State Relations
 sectors:
