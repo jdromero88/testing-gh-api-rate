@@ -91,14 +91,13 @@ postClass = 'post-analysis' %} {% endif %}
                   </li>
                   {% if forloop.last == false %},{% endif %}
                   {% endfor %}
-                <!-- <br /> -->
                 {% endif %}
                 {% if page.details[0].name != null %}
                 <li>
                 <span>In Detail: </span>
                 {% for detail in page.details %}
-                <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{"/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}"
-                  alt="Go to" /></a>
+                  <a href="{{ detail.url }}" target="_blank">{{ detail.name }}
+                  <img src="{{"/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>
                 </li>
                 {% if forloop.last == false %},{% endif %} {% endfor %} {%
                 endif %} {% if page.pdf %}
