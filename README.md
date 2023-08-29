@@ -123,7 +123,7 @@ Parent level pages on the site, such as `/about`, `/states`, `/sectors`, are cre
 
 ### Branching
 
-When modifying the code base, always make a new branch. Unless it's necessary to do otherwise, all branches should be created off of `main`.
+When modifying the code base, always make a new branch. Unless it's necessary to do otherwise, all branches should be created off of `dev`.
 
 Branches should use the following naming conventions:
 
