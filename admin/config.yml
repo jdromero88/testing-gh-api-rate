@@ -211,7 +211,7 @@ collections:
       preview: false
     fields:
       - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'sector' }
-      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'sector' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'sectors' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }

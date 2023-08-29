@@ -1,4 +1,6 @@
 ---
+content_type: sector
+breadcrumbs: sectors
 title: Health
 feature_image: "/uploads/sectors/health-tablet-clinic.jpg"
 ---

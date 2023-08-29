@@ -1,6 +1,6 @@
 ---
 content_type: sector
-breadcrumbs: sector
+breadcrumbs: sectors
 title: Test Sector
 feature_image: /uploads/gettyimages-1152052876.jpg
 ---
