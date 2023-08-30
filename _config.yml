@@ -244,7 +244,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - yarn.lock
-  # - .jekyll-cache
+  - .jekyll-cache
   - _posts.bak
   - assets/_img
   - assets/_js
