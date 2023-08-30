@@ -9,7 +9,7 @@
     "setup": "bundler install && npm i -y",
     "build:jekyll": "bundle exec jekyll build --incremental",
     "build:sass": "sass --no-source-map assets/_sass:assets/css",
-    "build": "npm-run-all clean build:*",
+    "build": "npm-run-all build:*",
     "watch:sass": "sass --no-source-map --watch assets/_sass:assets/css",
     "watch": "npm-run-all --parallel watch:*",
     "serve:cms": "npx netlify-cms-proxy-server",
