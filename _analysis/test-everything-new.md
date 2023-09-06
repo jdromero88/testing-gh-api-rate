@@ -1,13 +1,12 @@
 ---
 layout: post
-content_type: analysis
 is_analysis: true
-post_type: Test Post Type
-title: Test Everything New
+content_type: analysis
+title: "a new test: Test Everything New"
+date: 2023-08-07T20:22:57.764Z
 tags:
   - Update on India's States
   - 3rd tag
-date: 2023-08-07T20:22:57.764Z
 excerpt: >-
   Fusce fermentum. Quisque rutrum. Cras non dolor. Vestibulum ante ipsum primis
   in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi
@@ -15,11 +14,6 @@ excerpt: >-
 
 
   Fusce vel dui. Pellentesque posuere. Phasellus volutpat, metus eget egestas mollis, lacus lacus blandit dui, id egestas quam mauris ut lacus. Ut non enim eleifend felis pretium feugiat. Suspendisse faucibus, nunc et pellentesque egestas, lacus ante convallis tellus, vitae iaculis lacus elit id tortor.
-author:
-  - Neelima Jain
-  - Scooby
-feature_image: /uploads/oped2-kMcC--621x414@LiveMint.jpg
-feature_image_credit: image credit
 states:
   - Test State
 sectors:
@@ -29,12 +23,18 @@ subsectors:
   - Test sub-sector
   - Energy Efficiency
 is_featured: true
+feature_image: /uploads/oped2-kMcC--621x414@LiveMint.jpg
+feature_image_credit: image credit
 sources:
   - name: source
     url: google.com
 details:
   - name: detail
     url: google.com
+author:
+  - Neelima Jain
+  - Scooby
+post_type: Test Post Type
 ---
 Curabitur at lacus ac velit ornare lobortis. Phasellus consectetuer vestibulum elit. Vivamus consectetuer hendrerit lacus. Sed magna purus, fermentum eu, t***incidunt eu, varius ut, felis. A***enean viverra rhoncus pede.
 
