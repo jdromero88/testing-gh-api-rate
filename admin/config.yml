@@ -19,24 +19,23 @@ collections:
     create: true
     editor:
       preview: false
-    slug: '{{slug}}'
+    # slug: '{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'analysis' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'analysis' }
       - { label: 'Is analysis', name: 'is_analysis', widget: 'hidden', default: true }
-      - { label: 'Post Type', name: 'post_type', widget: 'relation', collection: 'post_types',
-          display_fields: [title],
-          search_fields: [title],
-          value_field: 'title'
-        }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'analysis' }
+      # - { label: 'Post Type', name: 'post_type', widget: 'relation', collection: 'post_types',
+      #     display_fields: [title],
+      #     search_fields: [title],
+      #     value_field: 'title'
+      #   }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: "Tags", name: "tags", widget: "list", required: false, collapsed: false,
           field: { label: "Tag", name: "tag", widget: "string" }}
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
-      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name', }
-      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
-      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
       - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
           display_fields: [title],
           search_fields: [title],
@@ -45,7 +44,9 @@ collections:
         }
       - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false  }
       - { label: 'Sub Sectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true, display_fields: [title], search_fields: [title], value_field: 'title', required: false}
-      - { label: 'Featured', name: 'is_featured', widget: 'boolean', default: false, required: false }
+      - { label: 'Is Featured?', name: 'is_featured', widget: 'boolean', default: false, required: false }
+      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
+      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text', required: false }
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
@@ -62,6 +63,7 @@ collections:
           - { label: 'Name', name: 'name', widget: 'string' }
           - { label: 'URL', name: 'url', widget: 'string' }
         required: false
+      - { label: 'Author', name: 'author', widget: 'relation', collection: 'authors', multiple: true, display_fields: [name], search_fields: [name], value_field: 'name', }
       - { label: 'PDF', name: 'pdf', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
@@ -79,8 +81,9 @@ collections:
       - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'articles' }
       - { label: 'Is analysis', name: 'is_analysis', widget: 'hidden', default: false }
       - { label: 'Title', name: 'title', widget: 'string' }
-      # - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: "DD.MM.YYYY", time_format: false, format: "LLL" }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false, collapsed: false,
+          field: { label: "Tag", name: "tag", widget: "string" }}
       - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
           display_fields: [title],
           search_fields: [title],
@@ -99,8 +102,6 @@ collections:
           value_field: 'title',
           required: false
         }
-      - { label: "Tags", name: "tags", widget: "list", required: false, collapsed: false,
-          field: { label: "Tag", name: "tag", widget: "string" }}
       - label: 'Sources'
         label_singular: 'Source'
         name: 'sources'
@@ -147,7 +148,47 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'national-goals' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: "Tags", name: "tags", widget: "list", required: false, collapsed: false,
+          field: { label: "Tag", name: "tag", widget: "string" }}
+      - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title',
+          required: false
+        }
+      - { label: 'Subsectors', name: 'subsectors', widget: 'relation', collection: 'subsectors', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title',
+          required: false
+        }
+      - { label: 'Data source', name: 'data_source', widget: 'hidden',  default: '{{slug}}'}
+      - { label: 'Data Label', name: 'data_label', widget: 'string' }
+      - { label: 'Data Missing Message', name: 'data_missing_message', widget: 'string' }
+      - label: 'Map'
+        name: 'map'
+        widget: 'object'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text' }
+          - { label: 'Legend Title', name: 'legend_title', widget: 'string' }
+          - { label: 'Value Suffix', name: 'value_suffix', widget: 'string' }
+      - label: 'Progress Bars'
+        name: 'progressbars'
+        widget: 'object'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'State Text', name: 'state_text', widget: 'string' }
+      - { label: 'Last Updated', name: 'last_updated_at', widget: 'datetime', time_format: false }
+      - label: 'Sources'
+        label_singular: 'Source'
+        name: 'sources'
+        widget: 'list'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'URL', name: 'url', widget: 'string' }
+        required: false  
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'resources'

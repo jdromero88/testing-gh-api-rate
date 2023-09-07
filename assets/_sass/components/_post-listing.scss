@@ -11,7 +11,7 @@
 
 .pagination-posts-container .analysis-image {
 	a {
-	position:relative;
+	  position:relative;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -19,15 +19,15 @@
     max-height: 200px;
     margin-bottom: 15px;
 
-    	@include breakpoint("large") {
+    @include breakpoint("large") {
 			padding-right: 10px;
 		}
 
-	    img {
-	    flex-shrink:0;
-	    min-width:100%;
-	    min-height:100%;
-	    }
+    img {
+    flex-shrink:0;
+    min-width:100%;
+    min-height:100%;
+    }
 	}
 
 	& ~ div {
