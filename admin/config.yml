@@ -319,3 +319,43 @@ collections:
       - { label: 'Lok_seats', name: 'lok_seats', widget: 'string' }
       - { label: 'GDP', name: 'gdp', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'trackers'
+    label: 'Trackers'
+    label_singular: 'Tracker'
+    extension: json
+    format: json
+    create: false
+    editor:
+      preview: false
+    files:
+      - label: 'Test Tracker'
+        name: 'test-tracker'
+        file: '_data/test.json'
+        fields:
+          - label: 'Tracker'
+            name: 'tracker'
+            widget: 'list'
+            allow_add: false
+            collapsed: false
+            fields:
+              - { name: 'state' }
+              - { name: 'national_contribution' }
+              - { name: 'state_target' }
+              - { name: 'state_achieved' }
+              - { name: 'state_percentage' }
+      - label: 'Test 2 Tracker'
+        name: 'test-two-tracker'
+        file: '_data/national-goals/test-perf-tracker.json'
+        fields:
+          - label: 'Tracker'
+            name: 'tracker'
+            widget: 'list'
+            allow_add: false
+            collapsed: false
+            fields:
+              - { name: 'state' }
+              - { name: 'national_contribution' }
+              - { name: 'state_target' }
+              - { name: 'state_achieved' }
+              - { name: 'state_percentage' }
