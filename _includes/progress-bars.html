@@ -1,6 +1,6 @@
 <!-- Render Progress Bars -->
 <div class="progressbars-container">
-  {% for row in site.data[site.national_goals_data_dir][include.data_source] %}
+  {% for row in site.data[site.national_goals_data_dir][include.data_source]["tracker"] %}
   <div class="progress-container row flex-center__y">
     <div class="progress-stateContainer col-xs-12 col-md-3">
       <span class="progress-stateName">{{ row.state }}</span>
