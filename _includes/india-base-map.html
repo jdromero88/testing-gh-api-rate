@@ -1,4 +1,4 @@
-{% assign dataset = site.data[site.national_goals_data_dir][include.dataset] %}
+{% assign dataset = site.data[site.national_goals_data_dir][include.dataset]["tracker"] %}
 {% assign listLimit = dataset.size | divided_by: 2 %}
 {% assign maximum = 0 %}
 {% assign minimum = 0 %}
