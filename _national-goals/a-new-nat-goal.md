@@ -1,12 +1,12 @@
 ---
-title: A new nat goal
+title: A new nat goal updated
 tags:
   - new ng
 sectors:
   - Energy
 subsectors:
   - Coal
-data_source: "test-perf-tracker"
+data_source: test-perf-tracker
 data_label: "%"
 data_missing_message: no hay data
 map:
