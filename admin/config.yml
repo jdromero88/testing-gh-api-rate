@@ -329,11 +329,11 @@ collections:
     editor:
       preview: false
     files:      
-      - label: 'Solar Tracker'
+      - label: 'Solar Trackers'
         name: 'solar-tracker'
         file: '_data/national-goals/solar-performance-tracker.json'
         fields:
-          - label: 'Tracker'
+          - label: 'Solar Trackers'
             name: 'tracker'
             widget: 'list'
             allow_add: false
@@ -345,11 +345,11 @@ collections:
               - { name: 'state_achieved' }
               - { name: 'state_percentage' }
                     
-      - label: 'Wind Tracker'
+      - label: 'Wind Trackers'
         name: 'wind-tracker'
-        file: '_data/national-goals/solar-performance-tracker.json'
+        file: '_data/national-goals/wind-performance-tracker.json'
         fields:
-          - label: 'Tracker'
+          - label: 'Wind Trackers'
             name: 'tracker'
             widget: 'list'
             allow_add: false
@@ -376,3 +376,4 @@ collections:
               - { name: 'state_target' }
               - { name: 'state_achieved' }
               - { name: 'state_percentage' }
+              
