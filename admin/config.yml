@@ -170,7 +170,7 @@ collections:
       - { label: 'Data source', name: 'data_source', widget: 'hidden',  default: '{{replace-this-with-data-name}}'}
       - { label: 'Data Label', name: 'data_label', widget: 'string', hint: 'The appropriate label for the type of data you’re tracking (MW, %, KM, etc.)' }
       - { label: 'Data Missing Message', name: 'data_missing_message', widget: 'string' }
-      - { label: 'Show Map?', name: 'show_map', widget: 'boolean'}
+      - { label: 'Show Map?', name: 'show_map', widget: 'boolean', hint: 'If you want to display the map section of the tracker page'}
       - label: 'Map'
         name: 'map'
         widget: 'object'
@@ -179,7 +179,7 @@ collections:
           - { label: 'Description', name: 'description', widget: 'text' }
           - { label: 'Legend Title', name: 'legend_title', widget: 'string' }
           - { label: 'Value Suffix', name: 'value_suffix', widget: 'string' }
-      - { label: 'Show Progressbars?', name: 'show_progressbars', widget: 'boolean'}
+      - { label: 'Show Progressbars?', name: 'show_progressbars', widget: 'boolean', hint: 'If you want to display the progress bars section of the tracker page'}
       - label: 'Progress Bars'
         name: 'progressbars'
         widget: 'object'
