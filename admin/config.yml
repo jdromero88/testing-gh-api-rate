@@ -335,7 +335,7 @@ collections:
         name: 'solar-tracker'
         file: '_data/national-goals/solar-performance-tracker.json'
         fields:
-          - label: 'Solar Tracker'
+          - label: 'States'
             name: 'tracker'
             widget: 'list'
             allow_add: false
@@ -351,7 +351,7 @@ collections:
         name: 'wind-tracker'
         file: '_data/national-goals/wind-performance-tracker.json'
         fields:
-          - label: 'Wind Tracker'
+          - label: 'States'
             name: 'tracker'
             widget: 'list'
             allow_add: false
