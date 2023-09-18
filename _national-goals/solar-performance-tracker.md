@@ -2,6 +2,8 @@
 title: Solar Performance Tracker
 sectors: Energy
 subsectors: Renewables
+show_map: true
+show_progressbars: true
 data_source: solar-performance-tracker
 data_label: MW
 data_missing_message: Ministry of New and Renewable

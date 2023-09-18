@@ -6,6 +6,8 @@ sectors:
   - Energy
 subsectors:
   - Coal
+show_map: true
+show_progressbars: true
 data_source: test-perf-tracker
 data_label: "%"
 data_missing_message: no hay data

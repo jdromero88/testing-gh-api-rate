@@ -158,15 +158,15 @@ Now the changes should be reflected on the website.
 6. Add the new file to the CMS so the program can make any edits from there. Open `admin/config.yml` go to the trackers collections and duplicate the last tracker and update accordingly to the new file
 Last tracker:
 ```yml
-- label: 'Wind Trackers'
+- label: 'Wind Tracker'
   name: 'wind-tracker'
   file: '_data/national-goals/wind-performance-tracker.json'
   fields:
-    - label: 'Wind Trackers'
+    - label: 'states'
       name: 'tracker'
       widget: 'list'
       allow_add: false
-      collapsed: false
+      collapsed: true
       fields:
         - { name: 'state' }
         - { name: 'national_contribution' }
@@ -176,15 +176,15 @@ Last tracker:
 ```
 New tracker
 ```yml
-- label: 'Name Trackers'
+- label: 'Name Tracker'
   name: 'name-tracker'
   file: '_data/national-goals/name-performance-tracker.json'
   fields:
-    - label: 'Name Trackers'
+    - label: 'states'
       name: 'tracker' #Dont change this.
       widget: 'list'
       allow_add: false
-      collapsed: false
+      collapsed: true
       fields:
         - { name: 'state' }
         - { name: 'national_contribution' }

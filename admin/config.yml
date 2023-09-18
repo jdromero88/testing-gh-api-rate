@@ -35,8 +35,8 @@ collections:
       #   }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
-      - { label: "Tags", name: "tags", widget: "list", required: false, collapsed: false,
-          field: { label: "Tag", name: "tag", widget: "string" }}
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false,
+          field: { label: 'Tag', name: 'tag', widget: 'string' }}
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
       - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
           display_fields: [title],
@@ -85,8 +85,8 @@ collections:
       - { label: 'Is analysis', name: 'is_analysis', widget: 'hidden', default: false }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
-      - { label: "Tags", name: "tags", widget: "list", required: false, collapsed: false,
-          field: { label: "Tag", name: "tag", widget: "string" }}
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false,
+          field: { label: 'Tag', name: 'tag', widget: 'string' }}
       - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
           display_fields: [title],
           search_fields: [title],
@@ -153,8 +153,8 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'national-goals' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: "Tags", name: "tags", widget: "list", required: false, collapsed: false,
-          field: { label: "Tag", name: "tag", widget: "string" }}
+      - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false,
+          field: { label: 'Tag', name: 'tag', widget: 'string' }}
       - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true,
           display_fields: [title],
           search_fields: [title],
@@ -168,8 +168,9 @@ collections:
           required: false
         }
       - { label: 'Data source', name: 'data_source', widget: 'hidden',  default: '{{replace-this-with-data-name}}'}
-      - { label: 'Data Label', name: 'data_label', widget: 'string' }
+      - { label: 'Data Label', name: 'data_label', widget: 'string', hint: 'The appropriate label for the type of data you’re tracking (MW, %, KM, etc.)' }
       - { label: 'Data Missing Message', name: 'data_missing_message', widget: 'string' }
+      - { label: 'Show Map?', name: 'show_map', widget: 'boolean'}
       - label: 'Map'
         name: 'map'
         widget: 'object'
@@ -178,13 +179,14 @@ collections:
           - { label: 'Description', name: 'description', widget: 'text' }
           - { label: 'Legend Title', name: 'legend_title', widget: 'string' }
           - { label: 'Value Suffix', name: 'value_suffix', widget: 'string' }
+      - { label: 'Show Progressbars?', name: 'show_progressbars', widget: 'boolean'}
       - label: 'Progress Bars'
         name: 'progressbars'
         widget: 'object'
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Description', name: 'description', widget: 'text' }
-      - { label: 'State Text', name: 'state_text', widget: 'string' }
+      - { label: 'State Text', name: 'state_text', widget: 'string', hint: 'The text that appears on the state pages in the "related national goals" box.' }
       - { label: 'Last Updated', name: 'last_updated_at', widget: 'datetime', time_format: false }
       - label: 'Sources'
         label_singular: 'Source'
@@ -329,15 +331,15 @@ collections:
     editor:
       preview: false
     files:      
-      - label: 'Solar Trackers'
+      - label: 'Solar Tracker'
         name: 'solar-tracker'
         file: '_data/national-goals/solar-performance-tracker.json'
         fields:
-          - label: 'Solar Trackers'
+          - label: 'Solar Tracker'
             name: 'tracker'
             widget: 'list'
             allow_add: false
-            collapsed: false
+            collapsed: true
             fields:
               - { name: 'state' }
               - { name: 'national_contribution' }
@@ -345,35 +347,18 @@ collections:
               - { name: 'state_achieved' }
               - { name: 'state_percentage' }
                     
-      - label: 'Wind Trackers'
+      - label: 'Wind Tracker'
         name: 'wind-tracker'
         file: '_data/national-goals/wind-performance-tracker.json'
         fields:
-          - label: 'Wind Trackers'
+          - label: 'Wind Tracker'
             name: 'tracker'
             widget: 'list'
             allow_add: false
-            collapsed: false
+            collapsed: true
             fields:
               - { name: 'state' }
               - { name: 'national_contribution' }
               - { name: 'state_target' }
               - { name: 'state_achieved' }
               - { name: 'state_percentage' }
-              
-      - label: 'Test 2 Tracker'
-        name: 'test-two-tracker'
-        file: '_data/national-goals/test-perf-tracker.json'
-        fields:
-          - label: 'Tracker'
-            name: 'tracker'
-            widget: 'list'
-            allow_add: false
-            collapsed: false
-            fields:
-              - { name: 'state' }
-              - { name: 'national_contribution' }
-              - { name: 'state_target' }
-              - { name: 'state_achieved' }
-              - { name: 'state_percentage' }
-              

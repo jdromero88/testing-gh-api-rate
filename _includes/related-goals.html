@@ -7,7 +7,7 @@
 		{% if include.useStateText == "true" %}
 			{% assign stateData = site.data[site.national_goals_data_dir][goal.data_source]["tracker"] | where:"state", include.state | first %}
 			{% if stateData.state_achieved %}
-				&mdash; {{ stateData.state }} {{ goal.state_text }} {{ stateData.state_achieved}} {{ goal.data_label }}
+				&mdash; {{ stateData.state }} {{ goal.state_text }} {{ stateData.state_achieved}}{{ goal.data_label }}
 			{% else %}
 				&mdash; <span class="goals-missingData">{{ goal.data_missing_message }} {{ include.state }}.</span>
 			{% endif %}
