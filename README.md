@@ -158,9 +158,9 @@ Now the changes should be reflected on the website.
 6. Add the new file to the CMS so the program can make any edits from there. Open `admin/config.yml` go to the trackers collections and duplicate the last tracker and update accordingly to the new file
 Last tracker:
 ```yml
-- label: 'Wind Tracker'
-  name: 'wind-tracker'
-  file: '_data/national-goals/wind-performance-tracker.json'
+- label: "Wind Tracker"
+  name: "wind-tracker"
+  file: "_data/national-goals/wind-performance-tracker.json"
   fields:
     - label: 'states'
       name: 'tracker'
@@ -176,9 +176,9 @@ Last tracker:
 ```
 New tracker
 ```yml
-- label: 'Name Tracker'
-  name: 'name-tracker'
-  file: '_data/national-goals/name-performance-tracker.json'
+- label: "Name Tracker"
+  name: "name-tracker"
+  file: "_data/national-goals/name-performance-tracker.json"
   fields:
     - label: 'states'
       name: 'tracker' #Dont change this.
@@ -192,7 +192,7 @@ New tracker
         - { name: 'state_achieved' }
         - { name: 'state_percentage' }
 ```
-You should only update the `label, name, file, fields > label`
+You should only update the `label, name, file`
 ![New tracker](image-1.png)
 
 ### Script to change filenames extension
