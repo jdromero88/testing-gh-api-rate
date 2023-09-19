@@ -168,9 +168,8 @@ collections:
           required: false
         }
       - { label: 'Data source', name: 'data_source', widget: 'hidden',  default: '{{replace-this-with-data-name}}'}
-      - { label: 'Data Label', name: 'data_label', widget: 'string', hint: 'The appropriate label for the type of data you’re tracking (MW, %, KM, etc.)' }
-      - { label: 'Data Missing Message', name: 'data_missing_message', widget: 'string' }
-      - { label: 'Show Map?', name: 'show_map', widget: 'boolean', hint: 'If you want to display the map section of the tracker page'}
+      - { label: 'Data Label', name: 'data_label', widget: 'string', hint: 'The suffix to appear after the data value on the progress bars and the state page (MW, KM, etc.)' }
+      - { label: 'Data Missing Message', name: 'data_missing_message', widget: 'string', hint: 'The text that appears before the state name on the state pages in the "related national goals" box if there is no value (e.g., No data reported for Bihar.)' }
       - label: 'Map'
         name: 'map'
         widget: 'object'
@@ -179,14 +178,13 @@ collections:
           - { label: 'Description', name: 'description', widget: 'text' }
           - { label: 'Legend Title', name: 'legend_title', widget: 'string' }
           - { label: 'Value Suffix', name: 'value_suffix', widget: 'string' }
-      - { label: 'Show Progressbars?', name: 'show_progressbars', widget: 'boolean', hint: 'If you want to display the progress bars section of the tracker page'}
       - label: 'Progress Bars'
         name: 'progressbars'
         widget: 'object'
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Description', name: 'description', widget: 'text' }
-      - { label: 'State Text', name: 'state_text', widget: 'string', hint: 'The text that appears on the state pages in the "related national goals" box.' }
+      - { label: 'State Text', name: 'state_text', widget: 'string', hint: 'The text that appears between the state name and data value on the state pages in the "related national goals" box (e.g., Bihar has achieved 192.89%)' }
       - { label: 'Last Updated', name: 'last_updated_at', widget: 'datetime', time_format: false }
       - label: 'Sources'
         label_singular: 'Source'
@@ -238,20 +236,20 @@ collections:
           value_field: 'title',
         }
 
-  - name: 'post_types'
-    label: 'Post types'
-    label_singular: 'Post type'
-    folder: '_post-types/'
-    create: true
-    # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    slug: '{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'text' }
-      - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
-      - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text' }
+  # - name: 'post_types'
+  #   label: 'Post types'
+  #   label_singular: 'Post type'
+  #   folder: '_post-types/'
+  #   create: true
+  #   # slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+  #   slug: '{{slug}}'
+  #   editor:
+  #     preview: false
+  #   fields:
+  #     - { label: 'Title', name: 'title', widget: 'string' }
+  #     - { label: 'Description', name: 'description', widget: 'text' }
+  #     - { label: 'Featured Image', name: 'feature_image', widget: 'image', choose_url: false, required: false }
+  #     - { label: 'Featured image credit', name: 'feature_image_credit', widget: 'text' }
 
   - name: 'sectors'
     label: 'Sectors'
