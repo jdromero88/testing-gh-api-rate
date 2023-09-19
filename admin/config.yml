@@ -331,9 +331,9 @@ collections:
     editor:
       preview: false
     files:      
-      - label: 'Solar Tracker'
-        name: 'solar-tracker'
-        file: '_data/national-goals/solar-performance-tracker.json'
+      - label: "Solar Tracker"
+        name: "solar-tracker"
+        file: "_data/national-goals/solar-performance-tracker.json"
         fields:
           - label: 'States'
             name: 'tracker'
@@ -347,9 +347,9 @@ collections:
               - { name: 'state_achieved' }
               - { name: 'state_percentage' }
                     
-      - label: 'Wind Tracker'
-        name: 'wind-tracker'
-        file: '_data/national-goals/wind-performance-tracker.json'
+      - label: "Wind Tracker"
+        name: "wind-tracker"
+        file: "_data/national-goals/wind-performance-tracker.json"
         fields:
           - label: 'States'
             name: 'tracker'
