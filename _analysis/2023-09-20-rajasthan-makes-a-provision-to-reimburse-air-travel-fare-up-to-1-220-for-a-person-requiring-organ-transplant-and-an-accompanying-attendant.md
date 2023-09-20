@@ -1,28 +1,22 @@
 ---
-layout: post
-breadcrumbs: analysis
-is_analysis: true
-content_type: analysis
-title: Rajasthan makes a provision to reimburse air travel fare up to $1,220 for
-  a person requiring organ transplant and an accompanying attendant
-date: 2023-06-28T20:49:00.750Z
-excerpt: >+
-  Rajasthan makes a provision to reimburse air travel fare up to $1,220 for a
-  person requiring organ transplant and an accompanying attendant.
-
+title: Arunachal Pradesh launches the Chief Minister Health Emergency Life
+  Protection Service (CM HELPS) to provide affordable, accessible, and quality
+  emergency services to people residing in remote, tough terrains
+date: 2023-06-28T20:51:29.843Z
+excerpt: Arunachal Pradesh launches the Chief Minister Health Emergency Life
+  Protection Service (CM HELPS) to provide affordable, accessible, and quality
+  emergency services to people residing in remote, tough terrains.
 states:
-  - Rajasthan
+  - Arunachal Pradesh
 sectors:
   - Health
 subsectors:
-  - Financing and Payment
+  - Delivery Systems
   - Health Areas
-  - Workforce Development
-is_featured: false
 sources:
-  - name: Times of India
-    url: https://timesofindia.indiatimes.com/city/jaipur/govt-announces-1l-airfare-for-travel-for-organ-transplant/articleshow/101230810.cms
+  - url: https://arunachaltimes.in/index.php/2023/06/21/cm-health-emergency-life-protection-service-launched/
+    name: Arunachal Times
 author:
   - Richard M. Rossow
 ---
-**Rajasthan** makes a provision to reimburse air travel fare up to $1,220 for a person requiring organ transplant and an accompanying attendant.
+**Arunachal Pradesh** launches the **Chief Minister Health Emergency Life Protection Service (CM HELPS)** to provide affordable, accessible, and quality emergency services to people residing in remote, tough terrains.
