@@ -16,7 +16,7 @@ sectors:
   - Health
 subsectors:
   - Health Areas
-  - Workforce Development
+  - Pharmaceuticals and Devices
 is_featured: false
 sources:
   - name: Tribune India
