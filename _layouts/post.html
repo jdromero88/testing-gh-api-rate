@@ -130,7 +130,7 @@ postClass = 'post-analysis' %} {% endif %}
                     <span class="post-authorTitle articleMeta"
                         >{{ authorInfo.job_title }}</span
                     >
-                    <p class="post-authorBio">{{ authorInfo.content }}</p>
+                    <p class="post-authorBio">{{ authorInfo.content | markdownify}}</p>
                 </div>
             </section>
             {% endfor %} {% endif %}
