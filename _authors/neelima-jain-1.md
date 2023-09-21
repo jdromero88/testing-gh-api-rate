@@ -1,6 +1,6 @@
 ---
 name: Neelima Jain
-position: Senior Fellow and Deputy Director of the Chair in U.S.- India Policy Studies
+job_title: Senior Fellow and Deputy Director of the Chair in U.S.- India Policy Studies
 image: '/uploads/Neelima_Jain-002.jpg'
 ---
 

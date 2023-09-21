@@ -1,6 +1,6 @@
 ---
 name: Richard M. Rossow
-position: Senior Adviser and Chair in U.S.-India Policy Studies
+job_title: Senior Adviser and Chair in U.S.-India Policy Studies
 image: '/uploads/headshots/rick-rossow-headshot.jpg'
 current_staff: true
 ---

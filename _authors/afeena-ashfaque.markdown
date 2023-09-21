@@ -1,7 +1,7 @@
 ---
 name: Afeena Ashfaque
 date: '2018-05-23T20:39:00.000+00:00'
-position: Associate Director, Chair in U.S. – India Policy Studies
+job_title: Associate Director, Chair in U.S. – India Policy Studies
 image: '/uploads/afeena_ashfaque.jpg'
 current_staff: true
 ---

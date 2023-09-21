@@ -1,4 +1,4 @@
-# india-states
+# Indian States
 The Wadhwani Chair in U.S. India Policy Studies has commissioned a new website that will provide comprehensive insight into India’s 29 States’ policies as related to key sectors. The website will be a tool for users: an organized knowledge base that will facilitate greater business and economic understanding and engagement between India and the United States.
 
 Users will be able to access data via two avenues of focus: by State or by sector/subsector. In addition to being a compact source of comparative data, the site offers users access to a curated collection of new articles and reports that support and extend their understanding of the State/sector relationship.
@@ -144,6 +144,56 @@ Write clear and concise commit messages describing the changes you are making an
 ### CSS Styles
 
 This project uses the [BEM](http://getbem.com/introduction/) naming convention.
+
+### How to add a new national goal tracker
+
+The program should send an email will the link to the [spreadsheet](https://docs.google.com/spreadsheets/d/1HjNQrezfHJu88c0rQgYipW7QcJJP3l-b58x0AE_dg_w/edit?usp=sharing).
+1. In the spreadsheet go to `File > Download > Comma separated values (.csv)`
+2. Open this online [CSV to JSON converter](https://csvjson.com/csv2json) and upload the .cvs previously downloaded  then hit convert. When the JSON field is filled click on the button copy to clipboard
+![CSV to JSON](image.png)
+3. Back on your text editor go to the folder `_data/national-goals` and duplicate one of the files open the duplicated file and under the key `"tracker"` paste the JSON generated and save the file.
+4. Rename the file to reflect the new national goal tracker e.g. `name-performance-tracker.json`
+5. Now find the new National Goal added by the program. It should be under the `_national-goals` folder open it and update the `data_source: "{{replace-this-with-data-name}}"` with the name of new data file created `name-performance-tracker` without the `.json` so it should look something like `data_source: name-performance-tracker` and save it.
+Now the changes should be reflected on the website.
+6. Add the new file to the CMS so the program can make any edits from there. Open `admin/config.yml` go to the trackers collections and duplicate the last tracker and update accordingly to the new file
+Last tracker:
+```yml
+- label: "Wind Tracker"
+  name: "wind-tracker"
+  file: "_data/national-goals/wind-performance-tracker.json"
+  fields:
+    - label: 'states'
+      name: 'tracker'
+      widget: 'list'
+      allow_add: false
+      collapsed: true
+      fields:
+        - { name: 'state' }
+        - { name: 'national_contribution' }
+        - { name: 'state_target' }
+        - { name: 'state_achieved' }
+        - { name: 'state_percentage' }
+```
+New tracker
+```yml
+- label: "Name Tracker"
+  name: "name-tracker"
+  file: "_data/national-goals/name-performance-tracker.json"
+  fields:
+    - label: 'states'
+      name: 'tracker' #Dont change this.
+      widget: 'list'
+      allow_add: false
+      collapsed: true
+      fields:
+        - { name: 'state' }
+        - { name: 'national_contribution' }
+        - { name: 'state_target' }
+        - { name: 'state_achieved' }
+        - { name: 'state_percentage' }
+```
+You should only update the `label, name, file`
+![New tracker](image-1.png)
 
 ### Script to change filenames extension
 

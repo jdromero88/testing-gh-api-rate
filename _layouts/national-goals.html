@@ -66,7 +66,8 @@ layout: default
     {% endif %}
 
     {% if page.show_progressbars %}
-      <h2 class="sectionTitle">Individual State Targets</h2>
+      
+      <h2 class="sectionTitle">{% if page.progressbars.title %} {{ page.progressbars.title }} {% else %} Individual State Targets {%endif %}</h2>
       {{ page.progressbars.description | prepend: "<p>" | append: "</p>" }}
 
       {% include progress-bars.html data_source=page.data_source data_label=page.data_label %}

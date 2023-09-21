@@ -2,9 +2,11 @@
 title: Solar Performance Tracker
 sectors: Energy
 subsectors: Renewables
+show_map: true
+show_progressbars: true
 data_source: solar-performance-tracker
 data_label: MW
-data_missing_message: Telangana reaches 1609.27 MW. Ministry of New and Renewable
+data_missing_message: Ministry of New and Renewable
   Energy (MNRE) has not reported the state-wise distribution for solar target for
 map:
   title: National Target Contribution
