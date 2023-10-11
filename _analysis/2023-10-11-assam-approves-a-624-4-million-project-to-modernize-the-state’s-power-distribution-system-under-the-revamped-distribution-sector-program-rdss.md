@@ -5,7 +5,7 @@ is_analysis: true
 content_type: analysis
 title: Assam approves a $624.4 million project to modernize the state’s power
   distribution system under the revamped distribution sector program (RDSS)
-date: 2023-10-11T15:49:58.573Z
+date: 2023-10-04T15:49:58.573Z
 excerpt: "Assam approves a $624.4 million project to modernize the state’s power
   distribution system under the revamped distribution sector program (RDSS). "
 states:
