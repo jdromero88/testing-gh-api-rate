@@ -80,7 +80,7 @@ collections:
       preview: false
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     # sortable_fields: ['title', 'date', 'author', 'states']
-    sortable_fields: []
+    sortable_fields: ['date']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
