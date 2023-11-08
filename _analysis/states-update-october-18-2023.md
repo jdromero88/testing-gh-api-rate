@@ -1,23 +1,27 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Weekly: October 18, 2023'
+title: "States Weekly: October 18, 2023"
 date: 2023-10-18 04:00:00 +0000
 tags: []
-excerpt: Maharashtra releases strategy for Pumped Hydropower Storage projects in the state; Tami Nadu announces a tax amnesty scheme, "Samadhan Scheme;" Haryana approves the Haryana Municipal Urban Built-Plan Reform Policy, 2023 to permit the conversion of residential plots into commercial; Karnataka constitutes the fifth State Finance Commission to seek recommendations on Urban Local Bodies and Panchayati Raj institutions; and more.
+excerpt: Maharashtra releases strategy for Pumped Hydropower Storage projects in
+  the state; Tami Nadu announces a tax amnesty scheme, "Samadhan Scheme;"
+  Haryana approves the Haryana Municipal Urban Built-Plan Reform Policy, 2023 to
+  permit the conversion of residential plots into commercial; Karnataka
+  constitutes the fifth State Finance Commission to seek recommendations on
+  Urban Local Bodies and Panchayati Raj institutions; and more.
 states: []
 sectors: []
 subsectors: []
-is_featured: true
-feature_image: ''
-feature_image_credit: ''
+is_featured: false
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Akshat Singh
-
+  - Akshat Singh
+post_type: _post-types/india-states-weekly.md
 ---
 
 **Big News**: **Maharashtra** releases strategy for **Pumped Hydropower Storage** projects in the state; **Tami Nadu** announces a tax amnesty scheme, "**Samadhan Scheme"**; **Haryana** approves the **Haryana Municipal Urban Built-Plan Reform Policy, 2023** to permit the conversion of residential plots into commercial; **Karnataka** constitutes the **fifth State Finance Commission** to seek recommendations on Urban Local Bodies and Panchayati Raj institutions; and more.
