@@ -9,14 +9,13 @@ excerpt: Indian states are back to basics
 states: []
 sectors: []
 subsectors: []
-is_featured: true
-feature_image: ''
-feature_image_credit: ''
+is_featured: false
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
 ---
 After a slow start to 2021, Indian states accelerated the pace of business reforms during the third quarter of the year. Importantly, many states focused on reforms that are sector-agnostic. Instead of this approach, Indian states should choose important structural reforms related to land acquisition, industrial approvals, and reduced compliances that will help companies in a range of sectors.   
    
