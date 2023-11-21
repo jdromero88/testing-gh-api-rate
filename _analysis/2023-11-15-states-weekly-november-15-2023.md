@@ -12,7 +12,7 @@ excerpt: "Big News: Bihar passes the Bihar Reservation Of Vacancies In P&S (SC,
   and more."
 is_featured: true
 author:
-  - Richard M. Rossow
+  - Akshat Singh
 ---
 **Big News: Bihar** passes the **Bihar Reservation Of Vacancies In P&S (SC, ST & OBC) Amendment Bill 2023; Haryana** releases the **Haryana Solar Power Policy 2023; Karnataka** introduces the **draft Karnataka Electric Vehicles (EVs) 2023-28; Maharashtra** approves the **Maharashtra Export Promotion Policy 2023**; and more.
 
