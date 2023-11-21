@@ -9,9 +9,9 @@ excerpt: "Big News: Andhra Pradesh releases the State Energy Efficiency Action
   Plan (SEEAP); Mizoram conducts elections for the state legislative assembly;
   Uttar Pradesh releases new Foreign Direct Investment (FDI) Policy; Tamil Nadu
   releases the Tamil Nadu Digital Transformation Strategy (DiTN); and more."
-is_featured: true
+is_featured: false
 author:
-  - Richard M. Rossow
+  - Akshat Singh
 ---
 **Big News: Andhra Pradesh** releases the **State Energy Efficiency Action Plan (SEEAP)**; **Mizoram** conducts elections for the state legislative assembly; **Uttar Pradesh** releases new **Foreign Direct Investment (FDI) Policy**; **Tamil Nadu** releases the **Tamil Nadu Digital Transformation Strategy (DiTN)**; and more.
 
