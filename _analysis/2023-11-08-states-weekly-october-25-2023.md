@@ -11,7 +11,7 @@ excerpt: "Big News: Maharashtra releases the Maharashtra Green Hydrogen Policy
   targets; Delhi increases the monthly minimum wages for workers; and more."
 is_featured: false
 author:
-  - Richard M. Rossow
+  - Akshat Singh
 ---
 **Big News: Maharashtra** releases the **Maharashtra Green Hydrogen Policy 2023**; **Delhi** proposes the **Industrial and Economic Development Policy 2023–33**; **Chandigarh** amends the **Electric Vehicle Policy 2020** to relax earlier EV targets; **Delhi** increases the monthly minimum wages for workers; and more.
 
