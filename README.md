@@ -203,6 +203,21 @@ This project has files that have markdown extension and it's not recognized by t
 for f in *.markdown; do mv -- "$f" "${f%.markdown}.md"; done
 ```
 
+### Copy
+
+from here <https://unix.stackexchange.com/questions/495878/copy-files-with-match-prefix-and-suffix-with-shell-script>
+
+```shell
+grep '^2017.*\.md$' list.txt | xargs -I '{}' cp '{}' _posts/2017/
+```
+when inside the folder just do
+```shel
+cp 2023*.md 2023/ 
+```
+where cp is copy 
+2023*.md is selecting all the files that start with 2023 and ends with .md
+2023/ is the destination folder
+
 ### Copyright / License
 
 Copyright © 2022 CSIS iDeas Lab under the [License](LICENSE).

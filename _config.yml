@@ -250,4 +250,5 @@ exclude:
   - assets/_js
   - assets/_sass
   - netlify.toml
+  - _posts/original
   

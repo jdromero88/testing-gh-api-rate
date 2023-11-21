@@ -4,7 +4,7 @@ local_backend: true
 # live
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  branch: staging # Branch to update (optional; defaults to master)
   # branch: dev # Branch to update. Dev is now selected so we dont override any content that the program is adding.
 
 media_folder: '_uploads'
@@ -80,7 +80,7 @@ collections:
       preview: false
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     # sortable_fields: ['title', 'date', 'author', 'states']
-    sortable_fields: []
+    sortable_fields: ['date']
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
