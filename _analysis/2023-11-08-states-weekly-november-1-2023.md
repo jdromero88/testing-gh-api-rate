@@ -11,7 +11,7 @@ excerpt: "Big News: Kerala releases the Draft Kerala Export Promotion Policy
   Chandigarh proposes the Chandigarh Startup Policy; and more."
 is_featured: false
 author:
-  - Richard M. Rossow
+  - Akshat Singh
 ---
 **Big News: Kerala** releases the **Draft Kerala Export Promotion Policy 2023 and its Draft Kerala IT Policy 2023**; **Delhi** releases the **Draft Electronic System Design, Manufacturing and Refurbishment (ESDMR) Policy 2022-27; Chandigarh** proposes the **Chandigarh Startup Policy**; and more.
 
