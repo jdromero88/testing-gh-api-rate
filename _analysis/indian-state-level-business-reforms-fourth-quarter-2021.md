@@ -5,19 +5,18 @@ content_type: analysis
 title: Indian State-Level Business Reforms, Fourth Quarter 2021
 date: 2022-03-07 05:00:00 +0000
 tags: []
-excerpt: Indian states are driving India’s economic transition—data centers and electric
-  vehicles
+excerpt: Indian states are driving India’s economic transition—data centers and
+  electric vehicles
 states: []
 sectors: []
 subsectors: []
-is_featured: true
-feature_image: ''
-feature_image_credit: ''
+is_featured: false
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
 ---
 Significant state-level reforms continued at a slow pace in the fourth quarter of 2021. This was likely due to a mixture of pending elections in six states and the continued effects of the Covid-19 pandemic.   
    
