@@ -1,26 +1,18 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_analysis: false
-title: Kerala informs the Kerala Electricity Regulatory Commission that if the
-  long term electricity contracts between the Kerala State Electricity Board
-  (KSEB) and private sector electricity companies remain cancelled, then KSEB
-  will have to pay a compensation of $60 million to the private electricity
-  companies.
-date: 2023-11-22T16:17:56.862Z
+title: Meghalaya approves amendment to the Fiscal Responsibility and Budget
+  Management Act, 2006
+date: 2023-11-22T16:19:37.339Z
 states:
-  - Kerala
+  - Meghalaya
 sectors:
-  - Climate Change
-  - Energy
+  - Finance
 subsectors:
-  - Power
+  - Financing and Payment
 sources:
-  - name: Mathrubhumi
-    url: https://english.mathrubhumi.com/news/kerala/kseb-will-have-to-pay-a-compensation-of-rs-500-crores-if-electricity-contracts-remain-cancelled-1.9068637
+  - name: The Print
+    url: https://theprint.in/india/meghalaya-cabinet-nod-for-amendment-to-state-frbm-act-to-increase-borrowings-by-up-to-rs-400cr/1847742/
 details:
-  - name: Order
-    url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:63057291-bc77-4d60-8c01-0272c08cf043
+  - url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:85b62888-2c8e-40f5-8648-ebeedeaa5828
+    name: Fiscal Responsibility and Budget Management Act, 2006
 ---
-Kerala informs the Kerala Electricity Regulatory Commission that if the long term electricity contracts between the Kerala State Electricity Board (KSEB) and private sector electricity companies remain cancelled, then KSEB will have to pay a compensation of $60 million to the private electricity companies.
+Meghalaya approves amendment to the Fiscal Responsibility and Budget Management Act, 2006 enabling the state to increase borrowings by up to $ 48 million in the current financial year.
