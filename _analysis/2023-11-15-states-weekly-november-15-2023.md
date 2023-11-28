@@ -10,7 +10,7 @@ excerpt: "Big News: Bihar passes the Bihar Reservation Of Vacancies In P&S (SC,
   2023; Karnataka introduces the draft Karnataka Electric Vehicles (EVs)
   2023-28; Maharashtra approves the Maharashtra Export Promotion Policy 2023;
   and more."
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
