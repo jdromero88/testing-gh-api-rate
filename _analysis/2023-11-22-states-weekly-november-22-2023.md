@@ -12,7 +12,7 @@ excerpt: "Big News: Madhya Pradesh and Chhattisgarh conduct state legislative
   (Distribution Open Access) (Second Amendment) Regulations, 2023 to enhance
   green energy open access; Odisha allows transfer of land in from Scheduled
   Tribe (ST) citizens to non-tribal people in scheduled areas; and more."
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
