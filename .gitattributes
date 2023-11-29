@@ -1,1 +1,2 @@
 admin/config.yml merge=ours
+package.json merge=ours
