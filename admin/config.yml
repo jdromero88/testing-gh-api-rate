@@ -21,8 +21,7 @@ collections:
     create: true
     editor:
       preview: false
-    # slug: '{{slug}}'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Exmple of simple slug: '{{slug}}'
     # sortable_fields: ['title', 'date', 'author', 'states']
     sortable_fields: []
     fields:
@@ -158,6 +157,12 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false,
           field: { label: 'Tag', name: 'tag', widget: 'string' }}
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title',
+          required: false
+        }
       - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true,
           display_fields: [title],
           search_fields: [title],
@@ -228,6 +233,12 @@ collections:
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Summary', name: 'summary', widget: 'text' }
       - { label: 'Publish Date', name: 'posted_on', widget: 'datetime', date_format: 'MM.YYYY', time_format: false, format: 'LLL' }
+      - { label: 'States', name: 'states', widget: 'relation', collection: 'states', multiple: true,
+          display_fields: [title],
+          search_fields: [title],
+          value_field: 'title',
+          required: false
+        }
       - { label: 'Sectors', name: 'sectors', widget: 'relation', collection: 'sectors', multiple: true,
           display_fields: [title],
           search_fields: [title],
