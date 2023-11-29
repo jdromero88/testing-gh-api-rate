@@ -13,7 +13,8 @@ main:
     href: "/analysis/"
   - title: "Resources"
     href: "/resources/"
-  - title: "Goals"
-    href: "/national-goals/"
+  # - title: "Goals"
+  #   href: "/national-goals/"
   - title: "About"
     href: "/about/"
+    
