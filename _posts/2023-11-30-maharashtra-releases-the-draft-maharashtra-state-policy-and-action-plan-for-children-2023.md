@@ -3,8 +3,7 @@ layout: post
 content_type: articles
 breadcrumbs: articles
 is_analysis: false
-title: Maharashtra releases the Draft Maharashtra State Policy and Action Plan
-  for Children, 2023
+title: Maharashtra receives a $500 million loan from the Asian Development Bank (ADB)
 date: 2023-11-29T22:26:55.047Z
 states:
   - Maharashtra
@@ -12,8 +11,13 @@ sectors:
   - Health
 subsectors:
   - Social Determinants of Health
+  - Financing and Payment
+  - Workforce Development
 sources:
-  - name: Indian Express
-    url: https://indianexpress.com/article/cities/mumbai/maharashtras-draft-child-policy-identifies-5-vulnerable-categories-recommends-free-primary-health-care-services-9043357/
+  - name: Mint
+    url: https://www.livemint.com/news/india/adb-approves-500-mln-in-loan-for-healthcare-medical-education-in-maharashtra-11700757795736.html
+details:
+  - name: Press Release
+    url: https://www.adb.org/news/adb-help-improve-access-medical-education-and-quality-and-affordable-tertiary-health-care
 ---
-Maharashtra releases the Draft Maharashtra State Policy and Action Plan for Children, 2023, which identifies specific policy provisions and plan of action for five vulnerable categories of children and recommends free primary health care services. The categories include children from backward and minority communities, urban poor, affected by migration and disabilities, and transgender and gender non-conforming (TGNC) children.
+Maharashtra receives a $500 million loan from the Asian Development Bank (ADB) to enhance the quality and affordability of tertiary health care and medical education in the state.
