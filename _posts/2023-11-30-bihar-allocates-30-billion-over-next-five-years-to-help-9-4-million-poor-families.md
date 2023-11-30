@@ -3,20 +3,20 @@ layout: post
 content_type: articles
 breadcrumbs: articles
 is_analysis: false
-title: "Bihar allocates $30 billion over next five years to help 9.4 million
-  poor families "
+title: Haryana announces free education for girls from families with an annual
+  income of $2,160
 date: 2023-11-29T15:17:28.036Z
 states:
-  - Bihar
+  - Haryana
 sectors:
   - Infrastructure and Governance
 subsectors:
   - Financing and Payment
 sources:
-  - name: Indian Express
-    url: https://indianexpress.com/article/cities/patna/bihar-cabinet-clears-special-status-demand-rs-2-5-lakh-cr-allocation-for-poor-families-9038503/
+  - name: NDTV
+    url: https://www.ndtv.com/india-news/haryanas-big-announcement-on-girls-education-with-families-having-1-8-lakh-income-manohar-lal-khattar-4608426
 details:
-  - name: Cabinet Decisions
-    url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b790f79f-0654-42d1-b72a-7f35d052899d
+  - name: Press release
+    url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:759703b7-4851-4f15-8754-d5bc382ab41f
 ---
-Bihar allocates $30 billion over next five years to help 9.4 million poor families counted in the Bihar caste survey. The cabinet also passed a proposal to send a request to the Centre to demand special category status.
+Haryana announces free education for girls from families with an annual income of $2,160 in both government and private colleges in the state. The state government would also cover half of college fees for girls from families with income ranging from $2,160 to $3,600. The fees for private colleges, where applicable, will be borne by the Haryana government.
