@@ -1,19 +1,21 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_analysis: false
-title: Tamil Nadu approves the State Port Development Policy 2023
-date: 2023-11-29T15:31:19.802Z
+title: Odisha signs three pivotal Memoranda of Understanding (MoUs) with the
+  Rural Electrification Corporation (REC)
+date: 2023-10-18T14:32:23.813Z
 states:
-  - Tamil Nadu
+  - Odisha
 sectors:
-  - Industrial Policy and Business Regulations
+  - Energy
+subsectors:
+  - Renewables
+  - Power & Renewable Energy
+  - Power
+  - Energy Efficiency
 sources:
-  - name: DTNext
-    url: https://www.dtnext.in/news/tamilnadu/tn-cabinet-clears-investment-worth-rs-7108-cr-tn-port-policy-approved-745333
+  - name: Devdiscourse
+    url: https://www.devdiscourse.com/article/headlines/2650668-odisha-rural-electrification-corporation-signs-mous-with-3-companies-to-boost-green-energy
 details:
-  - url: https://tnmaritime.tn.gov.in/media/documents/Tamil_Nadu_State_Port_Development_Policy_2023.pdf
-    name: State Port Development Policy 2023
+  - name: Press release
+    url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8641f9f4-c917-497c-8fdb-083f70daf216
 ---
-Tamil Nadu approves the State Port Development Policy 2023 designed to woo more private investment and promote industrial growth in the state.
+Odisha signs three pivotal Memoranda of Understanding (MoUs) with the Rural Electrification Corporation (REC) aimed at further developing the green energy and thermal power infrastructure in the state.
