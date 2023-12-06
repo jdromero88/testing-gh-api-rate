@@ -25,7 +25,7 @@ states:
   - Telangana
   - Rajasthan
   - Meghalaya
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
