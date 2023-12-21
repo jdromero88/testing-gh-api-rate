@@ -36,7 +36,7 @@ sectors:
   - Climate Change
   - Energy
   - Health
-is_featured: true
+is_featured: false
 sources: []
 author:
   - Akshat Singh
