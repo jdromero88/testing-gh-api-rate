@@ -24,6 +24,9 @@ feature_image_credit: An Accredited Social Health Activist (ASHA) worker (R)
   administers a deworming tablet to a girl during a door-to-door campaign part
   of India's National Deworming Programme at a low-income area in Hyderabad on
   October 6, 2020. (Photo by NOAH SEELAM/AFP via Getty Images)
+sources:
+  - url: https://playlist.megaphone.fm/?e=CSIS9349423218
+    name: Podcast
 author:
   - Akshat Singh
 ---
