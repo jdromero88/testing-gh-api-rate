@@ -22,4 +22,6 @@ sources:
 author:
   - Akshat Singh
 ---
+<iframe frameborder="0" height="200" scrolling="no" src="https://playlist.megaphone.fm/?e=CSIS4367618705" width="100%"></iframe>
+
 Visiting Fellow Katherine Hadda speaks with Mr. Mohammed Suleman, the Madhya Pradesh Additional Chief Secretary for Health. Together, they delve into the landscape of Madhya Pradesh's healthcare system, exploring the state's strategic implementation of Public Private Partnerships to manage and deliver health services. Mr. Suleman provides insights into the evolving role of telemedicine within primary healthcare, shedding light on the impact it has had on health service delivery.
