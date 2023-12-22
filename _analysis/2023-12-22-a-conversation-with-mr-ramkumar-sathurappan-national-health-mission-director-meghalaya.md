@@ -25,6 +25,8 @@ sources:
 author:
   - Akshat Singh
 ---
-[Podcast Link](https://playlist.megaphone.fm/?e=CSIS9349423218)
+<iframe frameborder="0" height="200" scrolling="no" src="https://playlist.megaphone.fm/?e=CSIS9349423218" width="100%"></iframe>
+
+[](https://playlist.megaphone.fm/?e=CSIS9349423218)
 
 In this episode, Yatin Jain of CSIS engages in a compelling conversation with Mr. Ramkumar Sathurappan, the dedicated National Health Mission Director of Meghalaya. Together, they delve into Meghalaya's dynamic collaboration with Multilateral Development Banks, shedding light on the state's persistent efforts to enhance healthcare accessibility for indigenous communities. Mr. Sathurappan shares insights into Meghalaya's approach to managing the challenges posed by the COVID-19 pandemic, particularly emphasizing the strides made in the realm of vaccination hesitancy.
