@@ -5,6 +5,8 @@ is_analysis: true
 content_type: analysis
 title: "States Weekly: December 13, 2023"
 date: 2023-12-13T18:35:49.838Z
+tags:
+  - States Weekly
 excerpt: "Chhattisgarh, Madhya Pradesh, Mizoram, Rajasthan, and Telangana elect
   new chief ministers; Bihar approves the Bihar Electric Vehicle (EV) Policy
   2023; Kerala notifies the Kerala Public Health Act 2023; Gujarat introduces
