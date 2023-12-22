@@ -5,6 +5,8 @@ is_analysis: true
 content_type: analysis
 title: "States Weekly: November 29, 2023"
 date: 2023-11-29T21:23:54.484Z
+tags:
+  - States Weekly
 excerpt: "Big News: Telangana to hold state assembly elections on November 30;
   Kerala releases the Draft Information Technology Policy 2023; Uttar Pradesh
   releases the Uttar Pradesh Foreign Direct Investment (FDI), Fortune Global &
