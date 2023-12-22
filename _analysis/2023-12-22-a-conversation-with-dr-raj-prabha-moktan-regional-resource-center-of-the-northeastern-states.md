@@ -3,8 +3,8 @@ layout: post
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: A Conversation with Dr. Raj Prabha Moktan, Regional Resource Center of
-  the Northeastern States
+title: "Podcast: A Conversation with Dr. Raj Prabha Moktan, Regional Resource
+  Center of the Northeastern States"
 date: 2023-12-22T19:03:07.772Z
 excerpt: In this episode, Yatin Jain of CSIS hosts Dr. Raj Prabha Moktan, former
   National Health Mission Director of Sikkim. Dr. Moktan discusses the role of
