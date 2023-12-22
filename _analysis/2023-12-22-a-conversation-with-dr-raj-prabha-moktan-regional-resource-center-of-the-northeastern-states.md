@@ -16,6 +16,8 @@ states:
 sectors:
   - Health
 is_featured: false
+feature_image: /uploads/gettyimages-1228919005.jpg
+feature_image_credit: NOAH SEELAM/AFP/Getty Images
 sources:
   - url: https://playlist.megaphone.fm/?e=CSIS6639041695" width=
     name: Podcast
