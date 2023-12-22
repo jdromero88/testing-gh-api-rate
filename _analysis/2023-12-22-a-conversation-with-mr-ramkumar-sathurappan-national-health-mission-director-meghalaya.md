@@ -27,6 +27,6 @@ feature_image_credit: An Accredited Social Health Activist (ASHA) worker (R)
 author:
   - Akshat Singh
 ---
-Link- <iframe frameborder="0" height="200" scrolling="no" src="https://playlist.megaphone.fm/?e=CSIS9349423218" width="100%"></iframe>
+[Podcast Link](https://playlist.megaphone.fm/?e=CSIS9349423218)
 
 Yatin Jain of CSIS discusses Meghalaya's healthcare initiatives with National Health Mission Director of Meghalaya, Ramkumar Sathurappan, National Health Mission Director. They explore the state's collaboration with Multilateral Development Banks, emphasizing efforts to improve healthcare for indigenous communities. Ramkumar highlights Meghalaya's effective response to COVID-19 challenges, focusing on vaccination hesitancy.
