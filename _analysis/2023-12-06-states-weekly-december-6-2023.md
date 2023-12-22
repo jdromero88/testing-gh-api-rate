@@ -5,6 +5,8 @@ is_analysis: true
 content_type: analysis
 title: "States Weekly: December 6, 2023"
 date: 2023-12-06T17:47:45.357Z
+tags:
+  - States Weekly
 excerpt: "Big News: Chhattisgarh, Madhya Pradesh, Mizoram, Rajasthan, and
   Telangana announce state legislative assembly elections results; Union and
   Manipur governments sign a peace agreement with the United National Liberation
