@@ -19,8 +19,8 @@ states:
 sectors:
   - Health
 is_featured: false
-feature_image: /uploads/screenshot-2023-12-22-at-1.38.16 pm.png
-feature_image_credit: Photo by NOAH SEELAM/AFP via Getty Images
+feature_image: ""
+feature_image_credit: ""
 sources:
   - url: https://playlist.megaphone.fm/?e=CSIS9349423218
     name: Podcast
