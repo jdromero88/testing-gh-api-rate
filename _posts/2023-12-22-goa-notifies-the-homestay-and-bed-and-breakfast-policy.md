@@ -1,0 +1,19 @@
+---
+layout: post
+content_type: articles
+breadcrumbs: articles
+is_analysis: false
+title: Goa notifies the Homestay and Bed and Breakfast Policy
+date: 2023-12-20T17:38:28.769Z
+states:
+  - Goa
+sectors:
+  - Industrial Policy and Business Regulations
+sources:
+  - name: Prudent Media
+    url: https://www.prudentmedia.in/general/homestay-policy-notified/28074.html
+details:
+  - name: Hindustan Times
+    url: https://www.hindustantimes.com/cities/mumbai-news/govt-waives-increased-service-charges-for-56-mhada-colonies-in-mumbai-101702665940365.html
+---
+Goa notifies the Homestay and Bed and Breakfast Policy aimed to standardize services to the tourists through homestays and Bed & Breakfast (B&Bs) and also to supplement the availability of accommodation options of the state.
