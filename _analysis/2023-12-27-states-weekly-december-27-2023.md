@@ -5,6 +5,8 @@ is_analysis: true
 content_type: analysis
 title: "States Weekly: December 27, 2023"
 date: 2023-12-27T21:58:55.570Z
+tags:
+  - States Weekly
 excerpt: "Big News: Tamil Nadu and the World Bank approve the Tamil Nadu Climate
   Resilient Urban Development Program program with an overlay of $300 million;
   Maharashtra Electricity Regulatory Commission (MERC) rejects a plea for a 50
