@@ -32,7 +32,7 @@ states:
   - Center-State Relations
   - Union Territory of Jammu and Kashmir
   - Puducherry
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
