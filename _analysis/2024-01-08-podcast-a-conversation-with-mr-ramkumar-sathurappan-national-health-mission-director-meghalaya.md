@@ -18,7 +18,7 @@ states:
   - Meghalaya
 sectors:
   - Health
-is_featured: true
+is_featured: false
 feature_image: /uploads/health.jpg
 feature_image_credit: NOAH SEELAM/AFP/Getty Images
 author:
