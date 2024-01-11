@@ -1,0 +1,21 @@
+---
+layout: null
+---
+{
+    "title": "Engaging Indian States: Resources",
+    "items": [
+        {% for resource in site.resources %}
+        {
+            "resource_type": "resource",
+            "headline": {{ resource.title | jsonify }},
+            "url": "{{ resource.link | absolute_url }}",
+            "author": {% assign author_list = resource.author | split: ", " %}{% for author in author_list %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %},
+            "content": {{ resource.summary | jsonify }},
+            "date": "{{ resource.posted_on | date_to_xmlschema }}",
+            "date_month": "{{ resource.posted_on | date: "%b" }}",
+            "date_day": "{{ resource.posted_on | date: "%d" }}",
+            "date_year": "{{ resource.posted_on | date: "%Y" }}",
+        }{% if forloop.last == false %},{% endif %}
+        {% endfor %}
+    ]
+}

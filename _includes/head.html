@@ -10,6 +10,13 @@
   <script src="https://code.highcharts.com/maps/modules/data.js"></script>
   <script type="text/javascript" src="{{ "/assets/js/bundle.js" | relative_url }}"></script>
 
+  <!-- URLs for json endpoints -->
+  <link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ "/feed-newsletters.json" | absolute_url }}" />
+  <link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ "/feed-articles.json" | absolute_url }}" />
+  <link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ "/feed-resources.json" | absolute_url }}" />
+  <link rel="alternate" title="{{ site.title }}" type="application/json" href="{{ "/feed-goals.json" | absolute_url }}" />
+  <!-- End URLs for json endpoints -->
+
   <link rel="icon" sizes="192x192" href="{{ '/assets/img/android-chrome-192x192.png' | relative_url }}" />
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}" />
   <link rel="icon" type="image/png" href="{{ '/assets/img/favicon-32x32.png' | relative_url }}" sizes="32x32" />
