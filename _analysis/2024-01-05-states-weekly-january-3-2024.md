@@ -23,7 +23,7 @@ states:
   - Maharashtra
   - Tamil Nadu
   - Union Territory of Jammu and Kashmir
-is_featured: true
+is_featured: false
 sources: []
 author:
   - Akshat Singh
