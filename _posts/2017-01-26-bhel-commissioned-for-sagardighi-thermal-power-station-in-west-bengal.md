@@ -6,7 +6,6 @@ states:
 sectors:
 - Energy
 subsectors:
-- 
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/bhel-commissions-500-mw-thermal-unit-in-west-bengal/articleshow/56597486.cms

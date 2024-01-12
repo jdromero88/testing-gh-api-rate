@@ -9,7 +9,6 @@ states:
 sectors:
 - Energy
 subsectors:
-- 
 sources:
 - name: 'Business Standard
 
