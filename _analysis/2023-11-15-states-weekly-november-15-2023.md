@@ -5,6 +5,8 @@ is_analysis: true
 content_type: analysis
 title: "States Weekly: November 15, 2023"
 date: 2023-11-15T19:31:21.942Z
+tags:
+  - States Weekly
 excerpt: "Big News: Bihar passes the Bihar Reservation Of Vacancies In P&S (SC,
   ST & OBC) Amendment Bill 2023; Haryana releases the Haryana Solar Power Policy
   2023; Karnataka introduces the draft Karnataka Electric Vehicles (EVs)

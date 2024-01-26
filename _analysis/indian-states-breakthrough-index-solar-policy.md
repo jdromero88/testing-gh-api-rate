@@ -8,7 +8,6 @@ author:
 - Richard M. Rossow
 - Sarah Watson
 states:
-- 
 sectors:
 - Energy
 subsectors:

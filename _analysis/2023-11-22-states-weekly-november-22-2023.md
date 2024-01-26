@@ -5,6 +5,8 @@ is_analysis: true
 content_type: analysis
 title: "States Weekly: November 22, 2023"
 date: 2023-11-22T19:21:40.081Z
+tags:
+  - States Weekly
 excerpt: "Big News: Madhya Pradesh and Chhattisgarh conduct state legislative
   assembly elections; Arunachal Pradesh approves two hydroelectric power
   projects worth $4.8 billion; Maharashtra Electricity Regulatory Commission
@@ -12,7 +14,7 @@ excerpt: "Big News: Madhya Pradesh and Chhattisgarh conduct state legislative
   (Distribution Open Access) (Second Amendment) Regulations, 2023 to enhance
   green energy open access; Odisha allows transfer of land in from Scheduled
   Tribe (ST) citizens to non-tribal people in scheduled areas; and more."
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---

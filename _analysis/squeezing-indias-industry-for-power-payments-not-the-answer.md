@@ -17,7 +17,7 @@ feature_image_credit: 'This chart of the South Bihar Power Distribution Companyâ
   Electricity Regulatory Commissionâ€™s FY17-18 Tariff Order for the South Bihar Power
   Distribution Company. Graphic compiled by CSIS Wadhwani Chair staff.'
 sources:
-  name: CogitAsia
+- name: CogitAsia
   url: https://www.cogitasia.com/squeezing-indias-industry-for-power-payments-not-the-answer/?utm_source=CSIS+All&utm_campaign=0b1c809846-EMAIL_CAMPAIGN_2017_03_04&utm_medium=email&utm_term=0_f326fc46b6-0b1c809846-
 author:
 - Sarah Watson

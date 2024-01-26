@@ -5,6 +5,8 @@ is_analysis: true
 content_type: analysis
 title: "States Weekly: November 8, 2023"
 date: 2023-11-08T20:48:10.463Z
+tags:
+  - States Weekly
 excerpt: "Big News: Andhra Pradesh releases the State Energy Efficiency Action
   Plan (SEEAP); Mizoram conducts elections for the state legislative assembly;
   Uttar Pradesh releases new Foreign Direct Investment (FDI) Policy; Tamil Nadu
