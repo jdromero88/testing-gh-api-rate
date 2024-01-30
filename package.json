@@ -1,7 +1,7 @@
 {
   "name": "indian-states",
   "version": "2.0.0",
-  "description": "The Wadhwani Chair in U.S. India Policy Studies has commissioned a new website that will provide comprehensive insight into India’s 29 States’ policies as related to key sectors. The website will be a tool for users: an organized knowledge base that will facilitate greater business and economic understanding and engagement between India and the United States.",
+  "description": "The Wadhwani Chair in U.S. India Policy Studies has commissioned a new website that will provide comprehensive insight into India’s 29 States’ policies as related to key sectors. The website will be a tool for users: an organized knowledge base that will facilitate greater business and economic understanding and engagement between India and the United States.",
   "main": "index.js",
   "scripts": {
     "clean": "jekyll clean",
