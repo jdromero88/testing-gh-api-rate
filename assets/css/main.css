@@ -3140,6 +3140,10 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
     top: 0px;
   }
 }
+.archive-container .table-iframe {
+  width: 100%;
+  height: 100vh;
+}
 
 /*===========================================
 =            States Landing Page            =

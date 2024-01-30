@@ -8,7 +8,8 @@ layout: default
 <section class="archive-container">
   {% if page.feature_image %}
       {% if jekyll.environment == 'production' and site.cloudinary_url %}
-        <div class="archive-featureImage" style="background-image:url('{{page.feature_image | prepend: site.url | prepend: site.cloudinary_url}}'"></div>
+        <!-- <div class="archive-featureImage" style="background-image:url('{{page.feature_image | prepend: site.url | prepend: site.cloudinary_url}}'"></div> -->
+        <div class="archive-featureImage" style="background-image:url('{{page.feature_image | prepend: site.url | prepend: site.cloudinary_url}}')"></div>
       {% else %}
         <div class="archive-featureImage" style="background-image:url('{{page.feature_image}}')"></div>
       {% endif %}
@@ -24,7 +25,8 @@ layout: default
       {{ page.content }}
     </div>
   </header>
-
+  <iframe class="table-iframe" id="newtable" src="http://localhost:8080" frameborder="0"></iframe>
+  <!-- <iframe class="table-iframe" id="newtable" src="https://indian-states-table.netlify.app" frameborder="0"></iframe> -->
   <section>
     <div class="content-wrapper fullWidthContent">
       <section class="archive-relatedArticlesContainer">
