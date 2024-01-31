@@ -37,9 +37,8 @@
         // Check if iframe is loaded
         iframe.onload = function () {
           // iframe.contentWindow.postMessage(url, '*'); // Sends the URL to the iframe
-          iframe.contentWindow.postMessage(url, '*'); // Sends the URL to the iframe
           // iframe.contentWindow.postMessage(url, 'http://localhost:8080'); // Sends the URL to the iframe
-          // iframe.contentWindow.postMessage(url, 'https://dev--indian-states-v2.netlify.app'); // Sends the URL to the iframe
+          iframe.contentWindow.postMessage(url, 'https://indian-states-v2.netlify.app'); // Sends the URL to the iframe
         };
       });
     </script>
