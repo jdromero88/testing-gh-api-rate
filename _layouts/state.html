@@ -4,9 +4,6 @@ layout: default
 
 <div class="row">
 
-  <!-- Table of Contents -->
-  {% include table-of-contents.html viewAll="true" stickyMenu="true" mobileHide="false" %}
-
   <!-- State Information -->
   <section class="stateInfoContainer col-xs-12 col-md-9">
     <div class="content-wrapper">
@@ -124,29 +121,4 @@ layout: default
   </div>
 </div>
 
-<div class="row">
-  <!-- Table of Contents -->
-  {% include table-of-contents.html viewAll="true" stickyMenu="true" mobileHide="true" %}
-
-  <!-- State Articles -->
-  <section class="sectorsArticlesContainer col-xs-12 col-md-9">
-    <div class="content-wrapper">
-
-      <div class="stateFeatureImageCaptions">
-        <span><em>Left:</em> </span>{{ page.feature_images.primary.credit }}<br />
-        <div class="stateSecondaryCaption"><em>Right:</em> {{ page.feature_images.secondary.credit }}<br /></div>
-      </div>
-
-      <!-- Display Sectors -->
-      {% for sector in site.sectors %}
-        {% capture viewAllLink %}{{ page.url | relative_url }}{{ sector.title | slugify }}{% endcapture %}
-        {% include sector-recent-articles.html viewAllLink = viewAllLink useStatePosts="true" %}
-      {% endfor %}
-
-      <!-- View All Link -->
-      <div class="state-viewAllLink">
-        <a href="{{ page.url | relative_url }}archive"><button class="btn-orange">View All Articles &rsaquo;</button></a>
-      </div>
-    </div>
-  </section>
-</div>
+<iframe class="table-iframe" id="newtable" src="https://indian-states-table.netlify.app" frameborder="0" style="width: 100%; height: 100vh"></iframe>
