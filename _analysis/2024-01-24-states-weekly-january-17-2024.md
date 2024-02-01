@@ -22,7 +22,7 @@ states:
   - Madhya Pradesh
   - Maharashtra
   - Himachal Pradesh
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
