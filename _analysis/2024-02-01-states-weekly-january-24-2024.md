@@ -5,6 +5,8 @@ is_analysis: true
 content_type: analysis
 title: "States Weekly: January 24, 2024"
 date: 2024-01-24T18:18:00.000Z
+tags:
+  - States Weekly
 excerpt: "Big News: Haryana releases the State Action Plan  to tackle air
   pollution in the Delhi-NCR region; Uttar Pradesh approves the Uttar Pradesh
   Semiconductor Policy 2024; Union Ministry of Commerce and Industry releases
