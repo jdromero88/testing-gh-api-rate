@@ -3,18 +3,18 @@ layout: post
 content_type: articles
 breadcrumbs: articles
 is_analysis: false
-title: Bihar forms a new government with the incumbent chief minister (CM)
-  Nitish Kumar taking oath as the CM again
+title: Karnataka issues a notification to bring 11,300 government employees to a
+  defined pension scheme
 date: 2024-01-31T19:47:00.000Z
 states:
-  - Bihar
+  - Karnataka
 sectors:
   - Infrastructure and Governance
 sources:
-  - name: Mint
-    url: https://www.livemint.com/politics/news/nitish-kumar-takes-oath-as-bihar-chief-minister-record-ninth-time-deputies-samrat-chaudhary-vijay-kumar-nda-rjd-alliance-11706441409604.html
+  - name: The Hindu
+    url: https://www.thehindu.com/news/national/karnataka/karnataka-govt-issues-notification-bringing-back-about-11300-employees-to-ops/article67773952.ece
 details:
-  - url: https://www.facebook.com/people/Raj-Bhavan-Bihar/100090417940268/?ref=embed_page
-    name: Swearing in ceremony
+  - name: Notification (in Kannada)
+    url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9e187ef8-c912-4cf9-a787-c05f2d59d00e
 ---
-Bihar forms a new government with the incumbent chief minister (CM) Nitish Kumar taking oath as the CM again. The chief minister’s Janata Dal United (JDU) exited their existing alliance with the Rashtriya Janata Dal (RJD) and entered into a new alliance with the Bharatiya Janata Party (BJP).
+Karnataka issues a notification to bring 11,300 government employees to a defined pension scheme (old pension scheme) from the existing new pension scheme.
