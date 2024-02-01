@@ -5,6 +5,8 @@ is_analysis: true
 content_type: analysis
 title: "States Weekly: January 31, 2024"
 date: 2024-01-31T18:04:00.000Z
+tags:
+  - States Weekly
 excerpt: "Big News: Bihar forms a new government with the incumbent chief
   minister (CM) Nitish Kunar taking oath as the CM again; Union Government
   announces the launch of the “Pradhan Mantri Suryodaya Yojana” with the aim to
