@@ -1,20 +1,13 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_analysis: false
-title: Union Government releases the annual cleanliness rankings for urban areas
-date: 2024-01-17T19:16:00.000Z
+title: Himachal Pradesh approves the Himachal Pradesh Film Policy-2024
+date: 2024-01-17T19:17:00.000Z
 states:
-  - Center-State Relations
-  - Madhya Pradesh
-  - Gujarat
-  - Maharashtra
+  - Himachal Pradesh
 sources:
-  - name: Indian Express
-    url: https://indianexpress.com/article/india/indore-surat-cleanest-cities-maharashtra-cleanest-9105539/
+  - url: https://thenewshimachal.com/2024/01/himachal-pradesh-unveils-progressive-film-policy-2024-to-empower-local-filmmakers/
+    name: The News Himachal
 details:
-  - name: Press Release
-    url: https://pib.gov.in/PressReleasePage.aspx?PRID=1995159
+  - name: Press release
+    url: http://himachalpr.gov.in/OneNews.aspx?Language=1&ID=33446
 ---
-Union Government releases the annual cleanliness rankings for urban areas. Indore, Madhya Pradesh and Surat, Gujarat were named the joint winners of the cleanest city award, while Maharashtra bagged the top spot among states.
+Himachal Pradesh approves the Himachal Pradesh Film Policy-2024. The decision, which aims to promote and facilitate filmmakers within the state.
