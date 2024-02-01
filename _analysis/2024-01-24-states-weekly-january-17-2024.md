@@ -5,6 +5,8 @@ is_analysis: true
 content_type: analysis
 title: "States Weekly: January 17, 2024"
 date: 2024-01-18T01:23:49.018Z
+tags:
+  - States Weekly
 excerpt: 'Big News: Tamil Nadu launches the "Tamil Nadu Sustainably Harnessing
   Ocean Resources and Blue Economy” (TN-SHORE) mission; Delhi governor gives
   assent to the Delhi Goods and Services Tax (Second Amendment) Bill, 2023;
