@@ -18,7 +18,8 @@ layout: null
             "url": "{{ goal.url | absolute_url }}",
             "primary_sources": {{ goal.sources | jsonify }},
             "tags": [],
-            "is_featured": ""
+            "is_featured": "",
+            "author": ""
         }{% if forloop.last == false %},{% endif %}{% endfor %},
         {% for post in site.posts %}
         {
@@ -35,7 +36,8 @@ layout: null
             "url": "{{ post.url | absolute_url }}",
             "primary_sources": {{ post.sources | jsonify }},
             "tags": [],
-            "is_featured": ""
+            "is_featured": "",
+            "author": "",
         }{% if forloop.last == false %},{% endif %}{% endfor %},
         {% for post in site.analysis %}
         {
@@ -52,7 +54,8 @@ layout: null
             "url": "{{ post.url | absolute_url }}",
             "primary_sources": {{ post.sources | jsonify }},
             "tags": {% assign tags_list = post.tags | split: ", " %}{% for tag in tags_list %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %},
-            "is_featured": {{ post.is_featured }}
+            "is_featured": {{ post.is_featured }},
+            "author": {% assign author_list = post.author | split: ", " %}{% for author in author_list %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %},
         }{% if forloop.last == false %},{% endif %}{% endfor %},
         {% for resource in site.resources %}
         {
@@ -70,6 +73,7 @@ layout: null
             "primary_sources": [],
             "tags": [],
             "is_featured": ""
+            "author": [{% assign author_list = resource.author | split: ", " %}{% for author in author_list %}{{ author | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}],
         }{% if forloop.last == false %},{% endif %}
         {% endfor %}
     ]
