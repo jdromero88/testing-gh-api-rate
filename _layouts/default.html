@@ -40,6 +40,12 @@
           iframe.contentWindow.postMessage(url, 'https://indian-states-table.netlify.app/'); // Sends the URL to the iframe
         };
       });
+
+      document.addEventListener("DOMContentLoaded", function() {
+          if(window.location.hash === '#print') {
+            window.print();
+          }
+      });
     </script>
   </body>
 
