@@ -24,13 +24,16 @@
         <nav class="header-breadcrumbs col-xs-10">
           {% include breadcrumbs.html %}
         </nav>
+        {% if page.layout == 'resources' %} <!-- Check if the page layout is 'resources' -->
         <div class="header-breadcrumbsSearch col-xs-2">
           <img src="{{ "/assets/img/search.svg" | relative_url }}" alt="Search" title="Search" class="search-icon" />
         </div>
+        {% endif %} <!-- End of the 'if' statement for 'resources' layout -->
       </div>
     </div>
   </div>
   {% endif %}
+  
 
 </header>
 
