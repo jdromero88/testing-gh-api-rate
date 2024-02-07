@@ -30,20 +30,21 @@
       }
 
       console.log('need to send this to the table')
-      
       document.addEventListener("DOMContentLoaded", function () {
         var iframe = document.getElementById('newtable'); // Replace with your iframe's ID
         var url = window.location.href; // Current URL of the Jekyll website
-
-        if(window.location.hash === '#print') {
-            window.print();
-          }
 
         // Check if iframe is loaded
         iframe.onload = function () {
           // iframe.contentWindow.postMessage(url, 'http://localhost:8080'); // Sends the URL to the iframe
           iframe.contentWindow.postMessage(url, 'https://indian-states-table.netlify.app/'); // Sends the URL to the iframe
         };
+      });
+
+      document.addEventListener("DOMContentLoaded", function() {
+          if(window.location.hash === '#print') {
+            window.print();
+          }
       });
     </script>
   </body>
