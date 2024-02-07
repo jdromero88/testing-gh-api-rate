@@ -3012,6 +3012,71 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
 /*===============================
 =            Sectors            =
 ===============================*/
+.sector-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+  grid-gap: 32px; /* Adjust the gap size as needed */
+  padding: 96px 20px; /* 96px top and bottom padding, 20px left and right padding */
+  margin: 0 auto; /* This centers the grid in the middle of the page */
+  max-width: 1200px; /* Adjust this to your maximum width preference */
+  box-sizing: border-box; /* Ensures padding is included in total width and height */
+}
+
+.sector-card.energy {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
+}
+
+.sector-card.health {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707340033/indian-states/health-tablet-clinic.jpg");
+}
+
+.sector-card {
+  font-family: "newnord";
+  font-weight: bold;
+  background-color: #0077cc; /* Replace with the actual color you want */
+  color: white; /* Replace with the actual text color you want */
+  display: flex;
+  align-items: center; /* This vertically centers the text */
+  justify-content: center; /* This horizontally centers the text */
+  height: 240px; /* Adjust the height as needed */
+  position: relative;
+  overflow: hidden; /* Ensures the content does not overflow */
+  text-decoration: none;
+}
+
+.sector-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 65, 101, 0.7); /* Blue color with 50% opacity */
+  z-index: 1; /* Situates the overlay above the background image but below the content */
+}
+
+/* This wrapper will ensure the text is on top of the overlay */
+.sector-card > .sector-label {
+  position: relative;
+  z-index: 2; /* Higher z-index value than the ::before pseudo-element */
+  /* Other styles for padding or centering the text within the card */
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .sector-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .sector-grid {
+    grid-template-columns: 1fr;
+  }
+}
 .sectorsArticlesContainer {
   padding-bottom: 1rem;
   margin-bottom: 4rem;
