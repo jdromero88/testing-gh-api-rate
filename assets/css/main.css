@@ -2427,12 +2427,10 @@ header.site-header.home-header .header-navContainer .header-nav ul li svg path.s
 .breadcrumbs-extended {
   background-color: #01273C;
   color: #ffffff;
-  -webkit-box-shadow: 0px 5px 4px 0 rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: 0px 5px 4px 0 rgba(0, 0, 0, 0.2);
-  box-shadow: 0px 5px 4px 0 rgba(0, 0, 0, 0.2);
-  padding: 1rem 0 4rem 0;
+  padding: 1rem 0 3.5rem 0;
   z-index: 50;
   position: relative;
+  max-height: 324px;
 }
 @media screen and (min-width: 48em) {
   .breadcrumbs-extended .content-wrapper {
@@ -2440,15 +2438,17 @@ header.site-header.home-header .header-navContainer .header-nav ul li svg path.s
   }
 }
 .breadcrumbs-extended .main-title {
-  margin: 0 0 1rem 0;
+  margin: 2.375rem 0 2rem 0;
   color: #ffffff;
+  text-align: center;
+  font-family: "Utopia Std";
 }
 .breadcrumbs-extended p {
-  margin: 0 0 1rem 0;
-  color: #c1cbd1;
-}
-.breadcrumbs-extended p:last-of-type {
-  margin: 0 0 0 0;
+  margin: 0 auto;
+  color: rgb(152, 176, 188);
+  font-family: "newnord";
+  text-align: center;
+  max-width: 680px;
 }
 
 /*==============================
@@ -3078,49 +3078,23 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
 /*===============================
 =            Sectors            =
 ===============================*/
-.sector-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
-  grid-gap: 32px; /* Adjust the gap size as needed */
-  padding: 96px 20px; /* 96px top and bottom padding, 20px left and right padding */
-  margin: 0 auto; /* This centers the grid in the middle of the page */
-  max-width: 1200px; /* Adjust this to your maximum width preference */
-  box-sizing: border-box; /* Ensures padding is included in total width and height */
-}
-
-.sector-card.energy {
-  background-size: cover;
-  background-position: center;
-  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
-}
-
-.sector-card.health {
-  background-size: cover;
-  background-position: center;
-  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707340033/indian-states/health-tablet-clinic.jpg");
-}
-
-.sector-card {
+.card {
   font-family: "newnord";
   font-weight: bold;
+  font-size: 24px;
   background-color: #0077cc; /* Replace with the actual color you want */
   color: white; /* Replace with the actual text color you want */
+  width: 401px;
+  height: 240px;
+  margin: auto;
   display: flex;
   align-items: center; /* This vertically centers the text */
   justify-content: center; /* This horizontally centers the text */
   text-align: center; /* Ensures the text itself is also centered if it wraps to a new line */
-  height: 240px; /* Adjust the height as needed */
   position: relative;
-  overflow: hidden; /* Ensures the content does not overflow */
-  text-decoration: none;
 }
 
-.sector-card:nth-child(7) {
-  grid-column-start: 2; /* Starts at the second column line */
-  grid-column-end: 3; /* Ends at the third column line */
-}
-
-.sector-card::before {
+.card::before {
   content: "";
   position: absolute;
   top: 0;
@@ -3131,104 +3105,83 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
   z-index: 1; /* Situates the overlay above the background image but below the content */
 }
 
-/* This wrapper will ensure the text is on top of the overlay */
-.sector-card > .sector-label {
+.card > .sector-card-label {
   position: relative;
   z-index: 2; /* Higher z-index value than the ::before pseudo-element */
   /* Other styles for padding or centering the text within the card */
 }
 
-/* Responsive adjustments */
-@media (max-width: 1200px) {
-  .sector-grid {
+.cards {
+  max-width: 1267px;
+  margin: auto;
+  display: grid;
+  grid-gap: 2rem;
+  box-sizing: border-box; /* Ensures padding is included in total width and height */
+  align-items: center;
+  justify-content: center;
+  padding: 96px 20px;
+}
+
+/* Screen larger than 600px? 2 column */
+@media (min-width: 900px) {
+  .cards {
     grid-template-columns: repeat(2, 1fr);
   }
-}
-@media (max-width: 768px) {
-  .sector-grid {
-    grid-template-columns: 1fr;
+  .card:nth-child(7) {
+    grid-column-start: 1; /* Starts at the second column line */
+    grid-column-end: 3; /* Ends at the third column line */
   }
 }
-.sectorsArticlesContainer {
-  padding-bottom: 1rem;
-  margin-bottom: 4rem;
-}
-.sectorsArticlesContainer .subsectorDot {
-  color: #A8A8A8;
-}
-.sectorsArticlesContainer .sectorSection {
-  margin: 5rem 0;
-  /*----------  Sector Title & Icon  ----------*/
-  /*----------  Sector Information  ----------*/
-  /*----------  Recent Articles  ----------*/
-}
-.sectorsArticlesContainer .sectorSection:first-of-type {
-  clear: both;
-}
-.sectorsArticlesContainer .sectorSection .subtitle {
-  text-align: center;
-  margin: 0.3rem 0 2rem 0;
-}
-@media screen and (min-width: 48em) {
-  .sectorsArticlesContainer .sectorSection .subtitle {
-    margin: 0.3rem 0 4rem 0;
+/* Screen larger than 900px? 3 columns */
+@media (min-width: 1200px) {
+  .cards {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .card:nth-child(7) {
+    grid-column-start: 2; /* Starts at the second column line */
+    grid-column-end: 3; /* Ends at the third column line */
   }
 }
-.sectorsArticlesContainer .sectorSection .sectorSection-iconContainer {
-  text-align: center;
+#energy-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
 }
-.sectorsArticlesContainer .sectorSection .sectorSection-iconContainer img {
-  max-width: 50px;
-  height: auto;
+
+#finance-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
 }
-.sectorsArticlesContainer .sectorSection .sectorSection-sectorInfoContainer {
-  margin-bottom: 2rem;
+
+#health-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707340033/indian-states/health-tablet-clinic.jpg");
 }
-@media screen and (min-width: 64em) {
-  .sectorsArticlesContainer .sectorSection .sectorSection-sectorInfo {
-    border-right: 2px solid #F0F0F0;
-    padding: 1rem 1.5rem 1rem 0;
-  }
+
+#business-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
 }
-.sectorsArticlesContainer .sectorSection .sectorSection-subsectorsList {
-  padding: 1rem 0rem 1rem 0.5rem;
+
+#infrastructure-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
 }
-@media screen and (min-width: 64em) {
-  .sectorsArticlesContainer .sectorSection .sectorSection-subsectorsList {
-    padding: 1rem 0rem 1rem 1.5rem;
-  }
+
+#labor-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
 }
-.sectorsArticlesContainer .sectorSection .sectorSection-subsectorsList .sectionSubtitle {
-  margin: 0 0 0.5rem;
-}
-.sectorsArticlesContainer .sectorSection .sectorSection-subsectorsList .sectorSection-subsectorsListSubsector {
-  color: #333333;
-  font-family: "museo-sans", sans-serif;
-  font-size: 17px;
-  font-size: 1.0625rem;
-  line-height: 2.3rem;
-  text-transform: uppercase;
-}
-.sectorsArticlesContainer .sectorSection .sectorSection-subsectorsList .sectorSection-subsectorsListSubsector:hover {
-  color: #004165;
-}
-.sectorsArticlesContainer .sectorSection .sectorSection-articlesContainer .sectionTitle {
-  border-bottom: 4px solid #004165;
-  margin-bottom: 0.2rem;
-  padding-bottom: 0.5rem;
-}
-.sectorsArticlesContainer .sectorSection .sectorSection-articlesContainer .sectionTitle a {
-  box-shadow: none;
-}
-.sectorsArticlesContainer .sectorSection .sectorSection-articlesContainer button {
-  vertical-align: text-bottom;
-  margin-left: 0.5rem;
-  margin-bottom: 0.2rem;
-}
-@media (max-width: 27.5em) {
-  .sectorsArticlesContainer .sectorSection .sectorSection-articlesContainer button {
-    margin-left: 0;
-  }
+
+#water-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
 }
 
 /*=====================================
