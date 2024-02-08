@@ -450,7 +450,7 @@ body {
   font-size: 45px;
   font-size: 2.8125rem;
   line-height: 1em;
-  color: #004165;
+  color: #fff;
   font-weight: 600;
 }
 @media screen and (min-width: 48em) {
@@ -1542,8 +1542,8 @@ ul.shareIcons li a {
   box-shadow: none;
 }
 ul.shareIcons li a svg {
-  width: 20px;
-  height: auto;
+  width: 24px;
+  height: 24px;
 }
 ul.shareIcons li a svg:hover path {
   fill: #E87415;
@@ -1581,6 +1581,72 @@ ul.shareIcons li.share-social .share-socialContainer a:hover {
   color: #F0F0F0;
 }
 ul.shareIcons li.share-social .share-socialContainer:before {
+  bottom: 100%;
+  left: 50%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-bottom-color: gray;
+  border-width: 10px;
+  margin-left: -10px;
+}
+
+ul.shareIconsHeader {
+  list-style-type: none;
+  padding: 0;
+  margin: 0.2em;
+}
+ul.shareIconsHeader li {
+  display: inline-block;
+  margin-right: 0.2em;
+}
+ul.shareIconsHeader li a {
+  display: block;
+  box-shadow: none;
+}
+ul.shareIconsHeader li a svg {
+  width: 24px;
+  height: 24px;
+}
+ul.shareIconsHeader li a svg:hover path {
+  fill: #E87415;
+  mask: none;
+}
+ul.shareIconsHeader li.share-social {
+  padding-bottom: 15px;
+}
+ul.shareIconsHeader li.share-social:hover .share-socialContainer {
+  display: block;
+}
+ul.shareIconsHeader li.share-social .share-socialContainer {
+  display: none;
+  background-color: gray;
+  padding: 0.5rem 1rem 0.8rem 1rem;
+  text-align: center;
+  position: absolute;
+  z-index: 10;
+  font-family: "museo-sans", sans-serif;
+  font-size: 15px;
+  font-size: 0.9375rem;
+  color: #BFBFBF;
+  line-height: 1.5;
+  margin-left: -41.5px;
+  margin-top: 10px;
+  text-transform: none;
+}
+ul.shareIconsHeader li.share-social .share-socialContainer:hover {
+  display: block;
+}
+ul.shareIconsHeader li.share-social .share-socialContainer a {
+  color: #ffffff;
+}
+ul.shareIconsHeader li.share-social .share-socialContainer a:hover {
+  color: #F0F0F0;
+}
+ul.shareIconsHeader li.share-social .share-socialContainer:before {
   bottom: 100%;
   left: 50%;
   border: solid transparent;
@@ -3182,21 +3248,28 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
   }
 }
 .archive-container .archive-header {
-  background-color: #F0F0F0;
+  background-color: rgb(13, 38, 58);
   padding: 0.2rem 0 1.5rem 0;
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically */
+  text-align: center; /* Ensures the text itself is also centered if it wraps to a new line */
 }
 @media screen and (min-width: 48em) {
   .archive-container .archive-header {
-    padding: 0.2rem 0 3rem 0;
+    padding: 3rem 0 3rem 0;
+    max-height: 514px;
   }
 }
 @media screen and (min-width: 48em) {
   .archive-container .archive-header ul.shareIcons {
-    text-align: right;
+    text-align: center;
+    height: 24px !important;
+    width: 24px !important;
   }
 }
 .archive-container .archive-header .subtitle {
-  margin: 0rem 0 1.5rem;
+  margin: 0 0 2rem 0;
+  font-family: "Utopia Std";
 }
 .archive-container .archive-header .subtitle img {
   display: inline;
@@ -3210,6 +3283,15 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
     max-width: 50px;
     top: 0px;
   }
+}
+.archive-container .archive-header p {
+  color: rgb(152, 176, 188);
+  font-family: "newnord";
+  max-width: 680px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 1rem;
+  line-height: 25.2px;
 }
 .archive-container .table-iframe {
   width: 100%;

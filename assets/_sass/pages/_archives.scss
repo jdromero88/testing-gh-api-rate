@@ -3,52 +3,68 @@
 =====================================*/
 
 .archive-container {
+  .archive-featureImage {
+    display: none;
 
-	.archive-featureImage {
-		display: none;
+    @include breakpoint('medium') {
+      display: block;
+      width: 100%;
+      height: 300px;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+    }
+  }
 
-		@include breakpoint("medium") {
-			display: block;
-			width:100%;
-			height: 300px;
-			background-repeat: no-repeat;
-			background-position: center center;
-			background-size: cover; 
+  .archive-header {
+    background-color: rgba(13, 38, 58, 1);
+    padding: 0.2rem 0 1.5rem 0;
+    justify-content: center; /* Centers content horizontally */
+    align-items: center; /* Centers content vertically */
+    text-align: center; /* Ensures the text itself is also centered if it wraps to a new line */
+
+    @include breakpoint('medium') {
+      padding: 3rem 0 3rem 0;
+			max-height: 514px;
+    }
+
+    ul.shareIcons {
+      @include breakpoint('medium') {
+        text-align: center;
+				height: 24px !important;
+				width: 24px !important;
+      }
+    }
+
+    .subtitle {
+			margin: 0 0 2rem 0;
+			font-family: "Utopia Std";
+
+      // Icon for Sector Pages
+      img {
+        display: inline;
+        max-height: 100%;
+        position: relative;
+        max-width: 40px;
+        top: 5px;
+
+        @include breakpoint('medium') {
+          max-width: 50px;
+          top: 0px;
+        }
+      }
+    }
+
+		p {
+			color: rgba(152,176,188,1);
+			font-family: "newnord";
+			max-width: 680px;
+			text-align: center;
+			margin: auto;
+			margin-bottom: 1rem;
+			line-height: 25.2px;
 		}
-	}
-	
-	.archive-header {
-		background-color: $light-gray;
-		padding: 0.2rem 0 1.5rem 0;
-
-		@include breakpoint("medium") {
-			padding: 0.2rem 0 3rem 0;
-			}
-
-		ul.shareIcons {
-			@include breakpoint("medium") {
-				text-align: right;
-			}
-		}
-
-		.subtitle {
-			margin: 0rem 0 1.5rem;
-
-			// Icon for Sector Pages
-			img {
-				display: inline;
-				max-height: 100%;
-				position: relative;
-				max-width: 40px;
-				top: 5px;
-
-				@include breakpoint("medium") {
-				max-width: 50px;
-				top: 0px;
-				}
-			}
-		}
-	}
+  }
 
   .table-iframe {
     width: 100%;
