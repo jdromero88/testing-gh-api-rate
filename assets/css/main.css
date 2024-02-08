@@ -3042,10 +3042,16 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
   display: flex;
   align-items: center; /* This vertically centers the text */
   justify-content: center; /* This horizontally centers the text */
+  text-align: center; /* Ensures the text itself is also centered if it wraps to a new line */
   height: 240px; /* Adjust the height as needed */
   position: relative;
   overflow: hidden; /* Ensures the content does not overflow */
   text-decoration: none;
+}
+
+.sector-card:nth-child(7) {
+  grid-column-start: 2; /* Starts at the second column line */
+  grid-column-end: 3; /* Ends at the third column line */
 }
 
 .sector-card::before {
