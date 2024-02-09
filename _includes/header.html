@@ -42,6 +42,11 @@
   <div class="content-wrapper fullWidthContent">
     <h1 class="main-title">{{ page.title | escape }}</h1>
     <p>{{ page.content }}</p>
+    <!-- Share Icons -->
+    {% if page.layout == 'resources' %} 
+      {% include share-icons-header.html shareTitle=page.title shareLink=page.url individual="false" %}
+    {% endif %}</div>
+
   </div>
   </div>
 {% endif %}

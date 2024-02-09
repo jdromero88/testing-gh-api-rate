@@ -2442,6 +2442,10 @@ header.site-header.home-header .header-navContainer .header-nav ul li svg path.s
   text-align: center;
   max-width: 680px;
 }
+.breadcrumbs-extended ul {
+  margin-top: 1rem;
+  text-align: center;
+}
 
 /*==============================
 =            Footer            =

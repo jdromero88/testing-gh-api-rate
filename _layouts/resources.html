@@ -4,8 +4,6 @@ layout: default
 
 <section class="page-container resources">
   <div class="content-wrapper fullWidthContent">
-    <!-- Share Icons -->
-    {% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
 
     {% assign resources = site.resources | group_by:"type" %}
     
