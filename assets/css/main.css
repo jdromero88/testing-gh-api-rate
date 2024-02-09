@@ -3050,7 +3050,6 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
   font-family: "expo-serif-pro", serif; /* Your choice of font */
   font-size: 0.8rem; /* Adjust the font size as needed */
   color: rgb(115, 115, 115) !important; /* Caption text color */
-  z-index: 99999;
   line-height: 19.6px;
 }
 
