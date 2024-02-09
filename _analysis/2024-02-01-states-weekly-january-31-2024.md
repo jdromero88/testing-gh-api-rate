@@ -30,7 +30,7 @@ states:
   - West Bengal
   - Andhra Pradesh
   - Gujarat
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
