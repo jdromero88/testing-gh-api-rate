@@ -3,21 +3,23 @@ layout: default
 ---
 
 <div class="row">
-
   <!-- State Information -->
   <section class="stateInfoContainer col-xs-12 col-md-9">
     <div class="content-wrapper">
-
-      <!-- Share Icons -->
-      {% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
-
       <h1 class="main-title">{{ page.title | escape }}</h1>
 
       <div class="row">
-        <div class="stateInfo col-xs-12 {% if page.title != 'Center-State Relations' %}col-md-8{% endif %}">
+        <div
+          class="stateInfo col-xs-12 {% if page.title != 'Center-State Relations' %}col-md-8{% endif %}"
+        >
           {{ content }}
 
-          {% if page.title != "Center-State Relations" %}
+          <!-- Share Icons -->
+          <div id="shareIconsContainer"></div>
+          {% include share-icons-states.html shareTitle=page.title
+          shareLink=page.url individual="false" %} {% if page.title !=
+          "Center-State Relations" %}
+
           <div class="stateInfoContainer-stateSummaryContainer">
             <h4 class="sectionSubtitle">State Summary</h4>
             <div class="row">
@@ -25,19 +27,20 @@ layout: default
                 <ul class="stateInfoContainer-stateSummaryList">
                   <li class="hasBorder">
                     <span class="category">Size</span><br />
-                        {{ page.size | append: ' sq. miles' }}
+                    {{ page.size | append: ' sq. miles' }}
                   </li>
                   <li class="hasBorder">
                     <span class="category">Population</span><br />
-                        {{ page.population | append: ' million'}}
+                    {{ page.population | append: ' million'}}
                   </li>
                   <li class="hasBorder">
                     <span class="category">State GDP</span><br />
-                        {{ page.gdp | append: ' billion (USD)'}}
+                    {{ page.gdp | append: ' billion (USD)'}}
                   </li>
                   <li>
-                    <span class="category">Legislative Assembly Seats</span><br />
-                        {{ page.legislative_seats }}
+                    <span class="category">Legislative Assembly Seats</span
+                    ><br />
+                    {{ page.legislative_seats }}
                   </li>
                 </ul>
               </div>
@@ -45,18 +48,17 @@ layout: default
                 <ul class="stateInfoContainer-stateSummaryList">
                   <li class="hasBorder">
                     <span class="category">Rajya Sabha Seats</span><br />
-                        {{ page.rajya_seats }}
+                    {{ page.rajya_seats }}
                   </li>
                   <li class="hasBorder">
                     <span class="category">Lok Sabha Seats</span><br />
-                        {{ page.lok_seats }}
+                    {{ page.lok_seats }}
                   </li>
                   <li>
                     <span class="category">Party Affiliation</span><br />
-                      {% assign party_affiliate = page.party_affiliation | split: " & " %}
-                      {% for pa in party_affiliate %}
-                        {{ pa }}<br />
-                      {% endfor %}
+                    {% assign party_affiliate = page.party_affiliation | split:
+                    " & " %} {% for pa in party_affiliate %} {{ pa }}<br />
+                    {% endfor %}
                   </li>
                 </ul>
               </div>
@@ -65,60 +67,81 @@ layout: default
           {% endif %}
         </div>
         {% if page.title != 'Center-State Relations' %}
-          <div class="stateMapContainer col-xs-12 col-md-4">
-            {% assign stateSlug = page.title | slugify %}
-            {% include map-svg.html state=stateSlug %}
-          </div>
+        <div class="stateMapContainer col-xs-12 col-md-4">
+          {% assign stateSlug = page.title | slugify %} {% include map-svg.html
+          state=stateSlug %}
+        </div>
         {% endif %}
+      </div>
+    </div>
+    <div class="stateFeatureImageContainer row">
+      <div class="col-xs-12 col-md-6">
+        {% if jekyll.environment == 'production' and site.cloudinary_url %}
+        <img
+          sizes="(max-width: 1800px) 100vw, 1800px"
+          srcset="
+          {{ site.cloudinary_url }}c_fill,h_400,w_770/{{ page.feature_images.primary.image | prepend: site.url }} 600w,
+          {{ site.cloudinary_url }}/c_fill,h_1.0,w_1.0/{{ page.feature_images.primary.image | prepend: site.url }} 1800w,"
+          src="{{ site.cloudinary_url }}/c_fill,h_1.0,w_1.0/{{ page.feature_images.primary.image | prepend: site.url }}"
+          alt="{{ page.feature_images.primary.credit }}"
+          title="{{ page.feature_images.primary.credit }}"
+        />
+        {% else %}
+        <img
+          sizes="(max-width: 1800px) 100vw, 1800px"
+          srcset="
+          {{ page.feature_images.primary.image }} 600w,
+          {{ page.feature_images.primary.image }} 1800w,"
+          src="{{ page.feature_images.primary.image }}"
+          alt="{{ page.feature_images.primary.credit }}"
+          title="{{ page.feature_images.primary.credit }}"
+        />
+        {% endif %}
+      </div>
+      <div class="col-xs-12 col-md-6 stateSecondaryImage">
+        {% if jekyll.environment == 'production' and site.cloudinary_url %}
+        <img
+          sizes="(max-width: 1800px) 100vw, 1800px"
+          srcset="
+          {{ site.cloudinary_url }}c_fill,h_400,w_770/{{ page.feature_images.secondary.image | prepend: site.url }} 600w,
+          {{ site.cloudinary_url }}/c_fill,h_1.0,w_1.0/{{ page.feature_images.secondary.image | prepend: site.url }} 1800w,"
+          src="{{ site.cloudinary_url }}/c_fill,h_1.0,w_1.0/{{ page.feature_images.secondary.image | prepend: site.url }}"
+          alt="{{ page.feature_images.secondary.credit }}"
+          title="{{ page.feature_images.secondary.credit }}"
+        />
+        {% else %}
+        <img
+          sizes="(max-width: 1800px) 100vw, 1800px"
+          srcset="
+          {{ page.feature_images.secondary.image }} 600w,
+          {{ page.feature_images.secondary.image }} 1800w,"
+          src="{{ page.feature_images.secondary.image }}"
+          alt="{{ page.feature_images.secondary.credit }}"
+          title="{{ page.feature_images.secondary.credit }}"
+        />
+        {% endif %}
+      </div>
+      <div class="image-caption-container">
+        <p class="image-caption" id="primary-caption-full">
+          Left: {{ page.feature_images.primary.credit }}
+        </p>
+        <p class="image-caption" id="primary-caption-mobile">
+          {{ page.feature_images.primary.credit }}
+        </p>
+        <p class="image-caption" id="secondary-caption">
+          Right: {{ page.feature_images.secondary.credit }}
+        </p>
       </div>
     </div>
   </section>
 </div>
 
 <!-- Feature Images -->
-<div class="stateFeatureImageContainer row">
-  <div class="col-xs-12 col-md-6">
-  {% if jekyll.environment == 'production' and site.cloudinary_url %}
-    <img
-      sizes="(max-width: 1800px) 100vw, 1800px"
-      srcset="
-      {{ site.cloudinary_url }}c_fill,h_400,w_770/{{ page.feature_images.primary.image | prepend: site.url }} 600w,
-      {{ site.cloudinary_url }}/c_fill,h_1.0,w_1.0/{{ page.feature_images.primary.image | prepend: site.url }} 1800w,"
-      src="{{ site.cloudinary_url }}/c_fill,h_1.0,w_1.0/{{ page.feature_images.primary.image | prepend: site.url }}"
-      alt="{{ page.feature_images.primary.credit }}"
-      title="{{ page.feature_images.primary.credit }}">
-  {% else %}
-    <img
-      sizes="(max-width: 1800px) 100vw, 1800px"
-      srcset="
-      {{ page.feature_images.primary.image }} 600w,
-      {{ page.feature_images.primary.image }} 1800w,"
-      src="{{ page.feature_images.primary.image }}"
-      alt="{{ page.feature_images.primary.credit }}"
-      title="{{ page.feature_images.primary.credit }}">
-    {% endif %}
-  </div>
-  <div class="col-xs-12 col-md-6 stateSecondaryImage">
-    {% if jekyll.environment == 'production' and site.cloudinary_url %}
-    <img
-      sizes="(max-width: 1800px) 100vw, 1800px"
-      srcset="
-      {{ site.cloudinary_url }}c_fill,h_400,w_770/{{ page.feature_images.secondary.image | prepend: site.url }} 600w,
-      {{ site.cloudinary_url }}/c_fill,h_1.0,w_1.0/{{ page.feature_images.secondary.image | prepend: site.url }} 1800w,"
-      src="{{ site.cloudinary_url }}/c_fill,h_1.0,w_1.0/{{ page.feature_images.secondary.image | prepend: site.url }}"
-      alt="{{ page.feature_images.secondary.credit }}"
-      title="{{ page.feature_images.secondary.credit }}">
-  {% else %}
-    <img
-      sizes="(max-width: 1800px) 100vw, 1800px"
-      srcset="
-      {{ page.feature_images.secondary.image }} 600w,
-      {{ page.feature_images.secondary.image }} 1800w,"
-      src="{{ page.feature_images.secondary.image }}"
-      alt="{{ page.feature_images.secondary.credit }}"
-      title="{{ page.feature_images.secondary.credit }}">
-    {% endif %}
-  </div>
-</div>
 
-<iframe class="table-iframe" id="newtable" src="https://indian-states-table.netlify.app" frameborder="0" style="width: 100%; height: 100vh"></iframe>
+<iframe
+  class="table-iframe"
+  id="newtable"
+  src="https://indian-states-table.netlify.app"
+  frameborder="0"
+  style="width: 100%; height: 100vh"
+></iframe>

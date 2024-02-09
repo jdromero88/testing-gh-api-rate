@@ -4,149 +4,182 @@
 
 // State Information, Summary, & Map
 .stateInfoContainer {
-	padding-bottom: 4rem;
+  padding-bottom: 4rem;
+  margin: 112px auto 0 auto;
+  max-width: 1267px;
 
-	ul.shareIcons:first-of-type {
-		margin-top: 0.5rem;
+  ul.shareIcons:first-of-type {
+    margin-top: 0.5rem;
 
-		@include breakpoint("medium") {
-			text-align: right;
-		}
-	}
+    @include breakpoint('medium') {
+      text-align: right;
+    }
+  }
 
-	.main-title {
-		margin: 1rem 0;
+  .main-title {
+    margin: 1rem 0;
+    font-family: 'Utopia Std';
+    color: rgba(0, 65, 101, 1);
 
-		@include breakpoint("medium") {
-			margin: 0 0 1rem;
-		}
-	}
+    @include breakpoint('medium') {
+      margin: 0 0 1rem;
+    }
+  }
 
-	.stateInfo {
-		@include breakpoint("medium") {
-			padding-right: 5rem;
-		}
-	}
-	
-	// State Summary
-	.stateInfoContainer-stateSummaryContainer {
-		margin-top: 3rem;
+  .stateInfo {
+    p {
+      font-family: 'newnord';
+      color: rgba(51, 51, 51, 1);
+    }
 
-		.sectionSubtitle {
-			border-bottom: 2px solid $dark-gray;
-			margin: 0;
-		}
+    @include breakpoint('medium') {
+      padding-right: 5rem;
+    }
+  }
 
-		ul.stateInfoContainer-stateSummaryList {
-			list-style-type: none;
-		    margin: 0.5rem 0;
-		    padding: 0;
+  // State Summary
+  .stateInfoContainer-stateSummaryContainer {
+    margin-top: 3rem;
 
-		    li {
-		    	font-family: $font__MuseoSans;
-		    	@include fontSize(14px);
-		    	color: $black;
-		    	line-height: 1.4rem;
-		    	font-style: italic;
+    .sectionSubtitle {
+      color: rgba(0, 65, 101, 1);
+      font-family: 'newnord';
+      text-transform: none;
+      font-size: 1.75rem;
+      border-bottom: 2px solid $dark-gray;
+      margin: 0;
+    }
 
-		    	span.category {
-		    		text-transform: uppercase;
-		    		color: $gray-text;
-		    		font-style: normal;
-		    	}
+    ul.stateInfoContainer-stateSummaryList {
+      list-style-type: none;
+      margin: 0.5rem 0;
+      padding: 0;
 
-		    	// Population Breakdown Items
-		    	&.populationBreakdown {
-		    		padding-left: 1.5rem;
-		    	}
+      li {
+        font-family: 'newnord';
+        font-weight: bold;
+        @include fontSize(14px);
+        color: $black;
+        line-height: 1.4rem;
+        font-style: italic;
+        font-size: 1rem;
 
-		    	// Display border for some list items
-		    	&.hasBorder {
-		    		margin-bottom: 0.5rem;
-		    		padding-bottom: 0.5rem;
-		    		border-bottom: 1px dashed $medium-gray;
-		    	}
-		    }
+        span.category {
+          text-transform: uppercase;
+          color: $gray-text;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 13px;
+        }
 
-		}
-	}
+        // Population Breakdown Items
+        &.populationBreakdown {
+          padding-left: 1.5rem;
+        }
 
-	// Map
-	.stateMapContainer {
-		margin: 3rem auto 0;
+        // Display border for some list items
+        &.hasBorder {
+          margin-bottom: 0.5rem;
+          padding-bottom: 0.5rem;
+          border-bottom: 1px dashed $medium-gray;
+        }
+      }
+    }
+  }
 
-		@include breakpoint("large") {
-			margin: 0rem auto 0;
-		}
+  // Map
+  .stateMapContainer {
+    margin: 3rem auto 0;
 
-		svg {
-			max-width: 400px;
-		}
-	}
+    @include breakpoint('large') {
+      margin: 0rem auto 0;
+    }
+
+    svg {
+      max-width: 400px;
+    }
+  }
 }
 
 // Feature Images
 .stateFeatureImageContainer {
-	max-height: 300px;
-	overflow: hidden;
+  height: 400px;
+  max-width: 1286px;
+  // overflow: hidden;
+  margin: 104px auto 104px auto;
+  position: relative;
 
-	.col-xs-12, .col-md-6 {
-		padding: 0;
-		margin-bottom:-5px;
-	}
+  .col-xs-12,
+  .col-md-6 {
+    padding: 0;
+    // margin-bottom: -5px;
+  }
 
-	.stateSecondaryImage {
-		display: none;
-		@include breakpoint("large") {
-			display: block;
-		}
-	}
+  .stateSecondaryImage {
+    display: none;
+    @include breakpoint('large') {
+      display: block;
+    }
+  }
 
-	img {
-		width:100%;
-		height: auto;
+  img {
+    width: auto; /* will scale the width according to the original aspect ratio */
+    height: 400px; /* fixed height */
+    object-fit: cover; /* this will cover the area without stretching, but it can crop the image */
+    max-width: 100%; /* ensures the image is not wider than its container */
+    margin: auto; /* if the width is auto, this will help center the image */
+  }
+}
+
+.image-caption {
+  position: relative;
+  text-align: left; /* Center the caption text */
+  font-family: 'expo-serif-pro', serif; /* Your choice of font */
+  font-size: 0.8rem; /* Adjust the font size as needed */
+  color: rgba(115, 115, 115, 1) !important; /* Caption text color */
+  z-index: 99999;
+  line-height: 19.6px;
+}
+
+#primary-caption-full {
+  margin-top: 8px; /* Adjust the space between the image and the caption */
+  margin-bottom: 0;
+	display: none;
+	@include breakpoint('large') {
+		display: block;
 	}
 }
 
-.stateFeatureImageCaptions {
-	float: right;
-	border-left: 2px solid $base-orange;
-	color: $gray-text;
-	font-family: $font__ExpoSerif;
-	@include fontSize(12px);
-	line-height: 1.4rem;
-	margin-top: 0.5rem;
-	margin-bottom: 7rem;
-	padding-left: 0.5rem;
+#primary-caption-mobile {
+  margin-top: 8px; /* Adjust the space between the image and the caption */
+  margin-bottom: 0;
+  display: block;
+  @include breakpoint('large') {
+    display: none;
+  }
+}
 
-	span {
-		display: none;
+#secondary-caption {
+  margin-top: 0;
+  display: none;
+  @include breakpoint('large') {
+    display: block;
+  }
+}
 
-		@include breakpoint("large") {
-			display: inline;
-		}
-	}
-
-	@include breakpoint("medium") {
-		max-width: 75%;
-	}
-
-	.stateSecondaryCaption { 
-		display: none;
-		@include breakpoint("large") {
-			display: block;
-		}
-	}
+.image-caption-container {
+  padding-left: 10px;
+  border-left: 2px solid rgba(232, 116, 21, 1);
 }
 
 .state-viewAllLink {
-	text-align: center;
+  text-align: center;
 }
 
 // Content Wrapper
-@include breakpoint("xlarge") {
-	.stateInfoContainer .content-wrapper, .sectorsArticlesContainer .content-wrapper {
-		max-width: 75%;
-		margin: 0 auto;
-	}
+@include breakpoint('xlarge') {
+  .stateInfoContainer .content-wrapper,
+  .sectorsArticlesContainer .content-wrapper {
+    margin: 0 auto;
+  }
 }

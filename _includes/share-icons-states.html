@@ -1,0 +1,29 @@
+<ul class="shareIconsHeader">
+	<li class="share-social">
+		<a href="#">
+			<svg id="Share" data-name="Share" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Share</title><path d="M6.08008 20C5.53008 20 5.05924 19.8042 4.66758 19.4125C4.27591 19.0208 4.08008 18.55 4.08008 18V11C4.08008 10.45 4.27591 9.97917 4.66758 9.5875C5.05924 9.19583 5.53008 9 6.08008 9H9.08008V11H6.08008V18H18.0801V11H15.0801V9H18.0801C18.6301 9 19.1009 9.19583 19.4926 9.5875C19.8842 9.97917 20.0801 10.45 20.0801 11V18C20.0801 18.55 19.8842 19.0208 19.4926 19.4125C19.1009 19.8042 18.6301 20 18.0801 20H6.08008ZM11.0801 16V5.825L9.48008 7.425L8.08008 6L12.0801 2L16.0801 6L14.6801 7.425L13.0801 5.825V16H11.0801Z" fill="#000"/></svg>
+
+		</a>
+		<div class="share-socialContainer">
+			Share via<br />
+			<a href="https://twitter.com/intent/tweet?text={{ include.shareTitle | escape }}&url={{ include.shareLink | absolute_url }}&via={{ site.twitter.username }}&related={{ site.twitter.username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
+		    <a href="https://www.facebook.com/sharer.php?u={{ include.shareLink | absolute_url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+		    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ include.shareLink | absolute_url }}" rel="nofollow" target="_blank" title="Share on LinkedIn">LinkedIn</a>
+		</div>
+	</li>
+	<li>
+		<a href="mailto:?subject={{ site.title | escape }}: {{ include.shareTitle | escape }}&amp;body={{ include.shareLink | absolute_url }}">
+			<svg id="Email" data-name="Email" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Email</title><path d="M4.08008 20C3.53008 20 3.05924 19.8042 2.66758 19.4125C2.27591 19.0208 2.08008 18.55 2.08008 18V6C2.08008 5.45 2.27591 4.97917 2.66758 4.5875C3.05924 4.19583 3.53008 4 4.08008 4H20.0801C20.6301 4 21.1009 4.19583 21.4926 4.5875C21.8842 4.97917 22.0801 5.45 22.0801 6V18C22.0801 18.55 21.8842 19.0208 21.4926 19.4125C21.1009 19.8042 20.6301 20 20.0801 20H4.08008ZM12.0801 13L4.08008 8V18H20.0801V8L12.0801 13ZM12.0801 11L20.0801 6H4.08008L12.0801 11ZM4.08008 8V6V18V8Z" fill="#000"/></svg>
+
+		</a>
+	</li>
+	<li>
+		{% if include.pdf %}
+		<a href="{{ include.pdf }}" class="share-print">
+		{% else %}
+		<a href="#" class="share-print {% if include.individual == 'true' %}printIndividual{% else %}printEntire{% endif %}">
+		{% endif %}
+			<svg id="Print" data-name="Print" xmlns="http://www.w3.org/2000/svg"  viewbox="0 0 24 24"><title>Print</title><path d="M16.0801 8V5H8.08008V8H6.08008V3H18.0801V8H16.0801ZM18.0801 12.5C18.3634 12.5 18.6009 12.4042 18.7926 12.2125C18.9842 12.0208 19.0801 11.7833 19.0801 11.5C19.0801 11.2167 18.9842 10.9792 18.7926 10.7875C18.6009 10.5958 18.3634 10.5 18.0801 10.5C17.7967 10.5 17.5592 10.5958 17.3676 10.7875C17.1759 10.9792 17.0801 11.2167 17.0801 11.5C17.0801 11.7833 17.1759 12.0208 17.3676 12.2125C17.5592 12.4042 17.7967 12.5 18.0801 12.5ZM16.0801 19V15H8.08008V19H16.0801ZM18.0801 21H6.08008V17H2.08008V11C2.08008 10.15 2.37174 9.4375 2.95508 8.8625C3.53841 8.2875 4.24674 8 5.08008 8H19.0801C19.9301 8 20.6426 8.2875 21.2176 8.8625C21.7926 9.4375 22.0801 10.15 22.0801 11V17H18.0801V21ZM20.0801 15V11C20.0801 10.7167 19.9842 10.4792 19.7926 10.2875C19.6009 10.0958 19.3634 10 19.0801 10H5.08008C4.79674 10 4.55924 10.0958 4.36758 10.2875C4.17591 10.4792 4.08008 10.7167 4.08008 11V15H6.08008V13H18.0801V15H20.0801Z" fill="#000"/></svg>				
+		</a>
+	</li>
+</ul>

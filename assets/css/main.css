@@ -2387,14 +2387,6 @@ header.site-header.home-header .header-navContainer .header-nav ul li svg path.s
     font-size: 0.75rem;
   }
 }
-.header-breadcrumbsContainer.useExtended {
-  box-shadow: none;
-}
-.header-breadcrumbsContainer.notExtended {
-  -webkit-box-shadow: 0px 5px 4px 0 rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: 0px 5px 4px 0 rgba(0, 0, 0, 0.2);
-  box-shadow: 0px 5px 4px 0 rgba(0, 0, 0, 0.2);
-}
 .header-breadcrumbsContainer .header-breadcrumbs ul.header-breadcrumbsList {
   list-style-type: none;
   margin: 0;
@@ -2943,6 +2935,8 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
 =========================================*/
 .stateInfoContainer {
   padding-bottom: 4rem;
+  margin: 112px auto 0 auto;
+  max-width: 1267px;
 }
 .stateInfoContainer ul.shareIcons:first-of-type {
   margin-top: 0.5rem;
@@ -2954,11 +2948,17 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
 }
 .stateInfoContainer .main-title {
   margin: 1rem 0;
+  font-family: "Utopia Std";
+  color: rgb(0, 65, 101);
 }
 @media screen and (min-width: 48em) {
   .stateInfoContainer .main-title {
     margin: 0 0 1rem;
   }
+}
+.stateInfoContainer .stateInfo p {
+  font-family: "newnord";
+  color: rgb(51, 51, 51);
 }
 @media screen and (min-width: 48em) {
   .stateInfoContainer .stateInfo {
@@ -2969,6 +2969,10 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
   margin-top: 3rem;
 }
 .stateInfoContainer .stateInfoContainer-stateSummaryContainer .sectionSubtitle {
+  color: rgb(0, 65, 101);
+  font-family: "newnord";
+  text-transform: none;
+  font-size: 1.75rem;
   border-bottom: 2px solid #707079;
   margin: 0;
 }
@@ -2978,17 +2982,21 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
   padding: 0;
 }
 .stateInfoContainer .stateInfoContainer-stateSummaryContainer ul.stateInfoContainer-stateSummaryList li {
-  font-family: "museo-sans", sans-serif;
+  font-family: "newnord";
+  font-weight: bold;
   font-size: 14px;
   font-size: 0.875rem;
   color: #000000;
   line-height: 1.4rem;
   font-style: italic;
+  font-size: 1rem;
 }
 .stateInfoContainer .stateInfoContainer-stateSummaryContainer ul.stateInfoContainer-stateSummaryList li span.category {
   text-transform: uppercase;
   color: #797979;
   font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
 }
 .stateInfoContainer .stateInfoContainer-stateSummaryContainer ul.stateInfoContainer-stateSummaryList li.populationBreakdown {
   padding-left: 1.5rem;
@@ -3011,12 +3019,14 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
 }
 
 .stateFeatureImageContainer {
-  max-height: 300px;
-  overflow: hidden;
+  height: 400px;
+  max-width: 1286px;
+  margin: 104px auto 104px auto;
+  position: relative;
 }
-.stateFeatureImageContainer .col-xs-12, .stateFeatureImageContainer .col-md-6 {
+.stateFeatureImageContainer .col-xs-12,
+.stateFeatureImageContainer .col-md-6 {
   padding: 0;
-  margin-bottom: -5px;
 }
 .stateFeatureImageContainer .stateSecondaryImage {
   display: none;
@@ -3027,42 +3037,58 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
   }
 }
 .stateFeatureImageContainer img {
-  width: 100%;
-  height: auto;
+  width: auto; /* will scale the width according to the original aspect ratio */
+  height: 400px; /* fixed height */
+  object-fit: cover; /* this will cover the area without stretching, but it can crop the image */
+  max-width: 100%; /* ensures the image is not wider than its container */
+  margin: auto; /* if the width is auto, this will help center the image */
 }
 
-.stateFeatureImageCaptions {
-  float: right;
-  border-left: 2px solid #E87415;
-  color: #797979;
-  font-family: "expo-serif-pro", serif;
-  font-size: 12px;
-  font-size: 0.75rem;
-  line-height: 1.4rem;
-  margin-top: 0.5rem;
-  margin-bottom: 7rem;
-  padding-left: 0.5rem;
+.image-caption {
+  position: relative;
+  text-align: left; /* Center the caption text */
+  font-family: "expo-serif-pro", serif; /* Your choice of font */
+  font-size: 0.8rem; /* Adjust the font size as needed */
+  color: rgb(115, 115, 115) !important; /* Caption text color */
+  z-index: 99999;
+  line-height: 19.6px;
 }
-.stateFeatureImageCaptions span {
+
+#primary-caption-full {
+  margin-top: 8px; /* Adjust the space between the image and the caption */
+  margin-bottom: 0;
   display: none;
 }
 @media screen and (min-width: 64em) {
-  .stateFeatureImageCaptions span {
-    display: inline;
-  }
-}
-@media screen and (min-width: 48em) {
-  .stateFeatureImageCaptions {
-    max-width: 75%;
-  }
-}
-.stateFeatureImageCaptions .stateSecondaryCaption {
-  display: none;
-}
-@media screen and (min-width: 64em) {
-  .stateFeatureImageCaptions .stateSecondaryCaption {
+  #primary-caption-full {
     display: block;
   }
+}
+
+#primary-caption-mobile {
+  margin-top: 8px; /* Adjust the space between the image and the caption */
+  margin-bottom: 0;
+  display: block;
+}
+@media screen and (min-width: 64em) {
+  #primary-caption-mobile {
+    display: none;
+  }
+}
+
+#secondary-caption {
+  margin-top: 0;
+  display: none;
+}
+@media screen and (min-width: 64em) {
+  #secondary-caption {
+    display: block;
+  }
+}
+
+.image-caption-container {
+  padding-left: 10px;
+  border-left: 2px solid rgb(232, 116, 21);
 }
 
 .state-viewAllLink {
@@ -3070,8 +3096,8 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
 }
 
 @media screen and (min-width: 90em) {
-  .stateInfoContainer .content-wrapper, .sectorsArticlesContainer .content-wrapper {
-    max-width: 75%;
+  .stateInfoContainer .content-wrapper,
+  .sectorsArticlesContainer .content-wrapper {
     margin: 0 auto;
   }
 }

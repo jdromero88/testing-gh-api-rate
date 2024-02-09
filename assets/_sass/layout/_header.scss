@@ -460,14 +460,6 @@ header.site-header {
     @include fontSize(12px);
   }
 
-  &.useExtended {
-    box-shadow: none;
-  }
-
-  &.notExtended {
-    @include box-shadow(0px, 5px, 4px, 0, rgba(0, 0, 0, 0.2), false);
-  }
-
   // Breadcrumbs
   .header-breadcrumbs {
     ul.header-breadcrumbsList {
