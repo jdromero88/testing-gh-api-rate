@@ -3,20 +3,19 @@ layout: post
 content_type: articles
 breadcrumbs: articles
 is_analysis: false
-title: "Tamil Nadu forms the Tamil Nadu Green Energy Corporation Limited (TNGECL) "
+title: Puducherry releases the Puducherry Motor Vehicle Scrapping Policy 2024
 date: 2024-02-07T13:33:00.000Z
 states:
-  - Tamil Nadu
+  - Puducherry
 sectors:
   - Energy
 subsectors:
-  - Financing and Payment
-  - Renewables
+  - Energy-related Transportation
 sources:
   - name: The Hindu
-    url: https://www.thehindu.com/news/national/tamil-nadu/tn-forms-new-green-company-by-merging-teda-and-tangedcos-renewable-energy-wing/article67804453.ece
+    url: https://www.thehindu.com/news/cities/puducherry/puducherry-government-releases-vehicle-scrapping-policy-to-phase-out-old-condemned-vehicles/article67791875.ece
 details:
-  - name: Government Order
-    url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6df138a4-d889-4de7-b852-61d0aa9f312d
+  - name: Puducherry Motor Vehicle Scrapping Policy 2024
+    url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a174683b-8f3f-4859-8d1c-101b2aaf9fce
 ---
-Tamil Nadu forms the Tamil Nadu Green Energy Corporation Limited (TNGECL) by merging the renewable energy wing of the Tamil Nadu Generation and Distribution Corporation (TANGEDCO) with the Tamil Nadu Energy Development Agency (TEDA). TNGECL has been formed with the aim to fast track the state’s energy transition plans and help mobilize funds for green projects.
+Puducherry releases the Puducherry Motor Vehicle Scrapping Policy 2024, aimed at phasing out old and condemned vehicles in the union territory. The policy is aimed at reducing vehicular pollution and phase out unfit and end-of-life (ELV) vehicles by promoting the recycling of vehicle scrap in an eco-friendly manner.
