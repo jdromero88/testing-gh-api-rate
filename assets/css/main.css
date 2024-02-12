@@ -3119,8 +3119,12 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
   display: flex;
   align-items: center; /* This vertically centers the text */
   justify-content: center; /* This horizontally centers the text */
-  text-align: center; /* Ensures the text itself is also centered if it wraps to a new line */
+  text-align: center; /* Ensures text itself is centered if it wraps */
   position: relative;
+  transition: text-underline-offset 400ms, text-decoration-color 400ms;
+}
+.card:hover {
+  color: #fff;
 }
 
 .card::before {
@@ -3130,14 +3134,21 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(0, 65, 101, 0.7); /* Blue color with 50% opacity */
-  z-index: 1; /* Situates the overlay above the background image but below the content */
+  background: rgba(0, 65, 101, 0.7);
+  z-index: 1; /* Situates overlay above background image but below content */
 }
 
 .card > .sector-card-label {
-  position: relative;
   z-index: 2; /* Higher z-index value than the ::before pseudo-element */
-  /* Other styles for padding or centering the text within the card */
+  text-decoration: underline 2px transparent;
+  text-underline-offset: 0.2em;
+  transition: text-decoration-color 300ms, text-underline-offset 300ms;
+}
+.card > .sector-card-label:hover {
+  line-height: 1.5;
+  color: #fff;
+  text-decoration-color: #fff;
+  text-underline-offset: 8px;
 }
 
 .cards {
