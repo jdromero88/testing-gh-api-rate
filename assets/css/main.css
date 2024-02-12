@@ -2457,7 +2457,7 @@ footer.site-footer .footer-mainContainer {
   background-image: url("../img//map-footer.svg");
   background-repeat: no-repeat;
   background-color: #004165;
-  padding: 2rem 0;
+  padding: 56px 0 24px 0;
   -webkit-box-shadow: 0px 5px 4px 0 rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 0px 5px 4px 0 rgba(0, 0, 0, 0.2);
   box-shadow: 0px 5px 4px 0 rgba(0, 0, 0, 0.2);
@@ -2467,8 +2467,24 @@ footer.site-footer .footer-mainContainer {
     background-position: right;
   }
 }
+footer.site-footer .footer-mainContainer .content-wrapper {
+  max-width: 1440px;
+  margin: auto !important;
+  align-items: center;
+  justify-content: center;
+}
+footer.site-footer .footer-mainContainer .footer-logoContainer {
+  max-width: 347px;
+}
 footer.site-footer .footer-mainContainer .footer-logoContainer p {
+  font-family: "newnord";
   margin-top: 1rem;
+  font-size: 1rem;
+  color: rgb(152, 176, 188);
+}
+footer.site-footer .footer-mainContainer .footer-logoContainer .logo-image {
+  height: 48px;
+  width: auto;
 }
 footer.site-footer .footer-mainContainer .footer-tweetsContainer {
   padding-top: 2rem;
@@ -2503,7 +2519,7 @@ footer.site-footer .footer-mainContainer p {
 }
 footer.site-footer .footer-mainContainer address {
   color: #ffffff;
-  font-family: "expo-serif-pro", serif;
+  font-family: "newnord";
   font-size: 14px;
   font-size: 0.875rem;
   font-style: normal;
@@ -2511,14 +2527,14 @@ footer.site-footer .footer-mainContainer address {
 }
 footer.site-footer .footer-mainContainer .footer-title {
   color: #ffffff;
-  font-family: "museo-sans", sans-serif;
+  font-family: "newnord";
   font-size: 20px;
   font-size: 1.25rem;
   margin-top: 0;
   margin-bottom: 1rem;
 }
 footer.site-footer .footer-mainContainer .footer-title.socialMedia {
-  margin-top: 2rem;
+  margin-top: 0;
 }
 footer.site-footer .footer-mainContainer .footer-socialIcon {
   max-width: 30px;
@@ -2558,6 +2574,7 @@ footer.site-footer.home-footer .footer-mainContainer {
   background-color: transparent;
   box-shadow: none;
   margin-top: -1px;
+  padding-top: 56px;
 }
 footer.site-footer.home-footer .footer-mainContainer .row {
   align-items: flex-end;
@@ -2624,6 +2641,9 @@ footer.site-footer.home-footer .footer-mainContainer .footer-copyright a:hover s
   footer.site-footer.home-footer .footer-mainContainer .footer-copyright div {
     margin-top: 0;
   }
+}
+footer.site-footer.home-footer .footer-mainContainer .content-wrapper-homepage {
+  margin: 0 1.5rem;
 }
 
 /*============================

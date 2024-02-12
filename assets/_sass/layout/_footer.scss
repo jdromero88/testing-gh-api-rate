@@ -7,16 +7,33 @@ footer.site-footer {
     background-image: url('../img//map-footer.svg');
     background-repeat: no-repeat;
     background-color: $base-blue;
-    padding: 2rem 0;
+    padding: 56px 0 24px 0;
     @include box-shadow(0px, 5px, 4px, 0, rgba(0, 0, 0, 0.2), false);
 
     @include breakpoint('medium') {
       background-position: right;
     }
 
+    .content-wrapper {
+      max-width: 1440px;
+      margin: auto !important;
+      align-items: center;
+      justify-content: center;
+    }
+
     .footer-logoContainer {
+      
+      max-width: 347px;
       p {
+        font-family: 'newnord';
         margin-top: 1rem;
+        font-size: 1rem;
+        color: rgba(152,176,188,1);
+      }
+
+      .logo-image {
+        height: 48px;
+        width: auto;
       }
     }
 
@@ -57,7 +74,7 @@ footer.site-footer {
 
     address {
       color: $white;
-      font-family: $font__ExpoSerif;
+      font-family: 'newnord';
       @include fontSize(14px);
       font-style: normal;
       line-height: 1.4;
@@ -65,13 +82,13 @@ footer.site-footer {
 
     .footer-title {
       color: $white;
-      font-family: $font__MuseoSans;
+      font-family: 'newnord';
       @include fontSize(20px);
       margin-top: 0;
       margin-bottom: 1rem;
 
       &.socialMedia {
-        margin-top: 2rem;
+        margin-top: 0;
       }
     }
 
@@ -117,6 +134,7 @@ footer.site-footer {
       background-color: transparent;
       box-shadow: none;
       margin-top: -1px;
+      padding-top: 56px;
 
       .row {
         align-items: flex-end;
@@ -195,6 +213,10 @@ footer.site-footer {
             margin-top: 0;
           }
         }
+      }
+
+      .content-wrapper-homepage {
+        margin: 0 1.5rem;
       }
     }
   }
