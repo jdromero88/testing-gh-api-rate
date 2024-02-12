@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/himachal-tariff-300mw-hydro/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Himachal Pradesh Electricity Regulatory Commission has set a tariff of $0.024 (Rs. 1.70) per kilowatt-hour (kWh) for FY 2019-2020 for the sale of power from BASPA II, a 300 megawatt hydropower project located on Baspa River in the Kinnaur district.

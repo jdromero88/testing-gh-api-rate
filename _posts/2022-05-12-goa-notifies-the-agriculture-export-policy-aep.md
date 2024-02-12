@@ -14,6 +14,6 @@ sources:
 details:
 - url: https://goaprintingpress.gov.in/downloads/2223/2223-5-SI-OG-0.pdf
   name: Gazette Notification
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff order
   url: http://www.uerc.gov.in/ordersPetitions/orders/Misc/2020/September/Suo_moto_order_dt_15.09.20.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,6 +16,6 @@ sources:
 details:
 - name: 'Twitter '
   url: https://twitter.com/DrManikSaha2/status/1637300261994782721
-is_analysis: false
+is_newsletter: false
 
 ---

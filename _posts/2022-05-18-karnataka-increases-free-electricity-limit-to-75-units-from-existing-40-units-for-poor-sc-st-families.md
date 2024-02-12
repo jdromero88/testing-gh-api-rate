@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: http://www.ksge.in/2022/05/decision-to-increase-amount-of-free.html
-is_analysis: false
+is_newsletter: false
 
 ---

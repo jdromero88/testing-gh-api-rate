@@ -16,7 +16,7 @@ sources:
 details:
 - name: Order
   url: http://www.cercind.gov.in/2019/orders/374.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Central Electricity Regulatory Commission approved Adani Power’s revised power purchase agreement for its Mundra power project of 4,620 MW. The approval comes as a relief to the power generator, which had appealed to authorities for seven years regarding the increased cost of imported coal.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Policy
   url: https://tourism.jharkhand.gov.in/Application/uploadDocuments/download/Document20210203_155213.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

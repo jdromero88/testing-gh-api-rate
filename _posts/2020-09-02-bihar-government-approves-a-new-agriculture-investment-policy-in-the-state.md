@@ -12,6 +12,6 @@ sources: []
 details:
 - name: Cabinet Decision (in Hindi)
   url: http://csd.bih.nic.in/Upload/Decisions/c25082020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

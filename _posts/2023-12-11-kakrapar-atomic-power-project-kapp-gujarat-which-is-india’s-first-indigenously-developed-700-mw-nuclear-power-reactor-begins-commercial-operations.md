@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kakrapar Atomic Power Project (KAPP), Gujarat which is India’s first
   indigenously developed 700 MW nuclear power reactor begins commercial
   operations

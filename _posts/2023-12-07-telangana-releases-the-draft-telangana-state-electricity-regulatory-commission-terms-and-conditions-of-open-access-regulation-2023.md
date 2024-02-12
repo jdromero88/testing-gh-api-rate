@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana releases the Draft Telangana State Electricity Regulatory
   Commission (Terms and conditions of Open Access), Regulation, 2023
 date: 2023-09-13T15:22:42.217Z

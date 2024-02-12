@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/msisodia/status/1357679566362300417
-is_analysis: false
+is_newsletter: false
 
 ---

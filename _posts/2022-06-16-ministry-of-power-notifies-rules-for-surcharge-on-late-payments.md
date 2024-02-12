@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://egazette.nic.in/WriteReadData/2022/236266.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

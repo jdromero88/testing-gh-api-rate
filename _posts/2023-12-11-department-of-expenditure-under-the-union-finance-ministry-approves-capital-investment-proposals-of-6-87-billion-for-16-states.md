@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Department of Expenditure under the Union Finance Ministry approves
   capital investment proposals of $6.87 billion for 16 states
 date: 2023-07-05T20:09:55.158Z

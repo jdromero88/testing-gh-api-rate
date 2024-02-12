@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam exempts electricity duty on electricity generated from renewable
   sources consumed on a captive basis for a period of 3 year
 date: 2023-07-26T19:08:33.306Z

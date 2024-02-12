@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tender Notification
   url: http://kredlinfo.in/Solargrid_50MW.aspx
-is_analysis: false
+is_newsletter: false
 
 ---
 The Karnataka Renewable Energy Development Limited has issued a tender for the development of 50 MW (10 MW x 2 blocks + 15 MW x 2 blocks) of grid-connected solar projects at Pavagada Solar Park, in Karnataka.

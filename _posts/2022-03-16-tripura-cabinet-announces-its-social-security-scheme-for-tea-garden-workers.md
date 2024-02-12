@@ -12,6 +12,6 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/current-affairs/tripura-govt-announces-special-scheme-for-tea-workers-aims-social-security-122031000094_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

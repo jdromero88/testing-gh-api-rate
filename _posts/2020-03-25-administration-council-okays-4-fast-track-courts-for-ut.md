@@ -18,7 +18,7 @@ details:
   url: http://new.jkdirinf.in/NewsDescription.aspx?ID=62110
 - name: Press Release (Power, Tourism, Health)
   url: http://new.jkdirinf.in/NewsDescription.aspx?ID=62109
-is_analysis: false
+is_newsletter: false
 
 ---
 The Jammu and Kashmir administrative council has approved four sectoral policies to boost industrial growth in the state. The new policies for tourism, captive power, hydropower and renewable energy, and health care, are expected to facilitate ease of doing business in J&K.

@@ -13,7 +13,7 @@ sources:
 - name: Energetica
   url: https://www.energetica-india.net/news/maharashtra-releases-tender-for-solar-projects-worth-184-mw-for-agricultural-feeders
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra State Power Generation Company Limited released a tender inviting online bids for the development of 184 MW of grid-interactive solar PV power plants at several locations in the state.

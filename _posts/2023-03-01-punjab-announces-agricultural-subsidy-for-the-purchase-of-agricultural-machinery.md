@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press release
   url: http://diprpunjab.gov.in/?q=content/mann-government-provide-subsidy-purchase-agricultural-machinery-kuldeep-singh-dhaliwal
-is_analysis: false
+is_newsletter: false
 
 ---

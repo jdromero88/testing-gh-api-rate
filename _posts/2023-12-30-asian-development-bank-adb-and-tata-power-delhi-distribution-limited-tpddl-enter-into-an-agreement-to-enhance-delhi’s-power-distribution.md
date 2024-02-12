@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Asian Development Bank (ADB) and Tata Power Delhi Distribution Limited
   (TPDDL) enter into an agreement to enhance Delhi’s power distribution
 date: 2023-04-19T19:38:20.312Z

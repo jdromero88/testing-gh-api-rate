@@ -15,6 +15,6 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/renewable/rajasthan-new-impetus-to-make-cities-green-with-rooftop-solar-panels/78397000
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

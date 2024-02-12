@@ -18,6 +18,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.undp.org/india/press-releases/imd-government-japan-and-undp-launch-project-accelerate-climate-action-india
-is_analysis: false
+is_newsletter: false
 
 ---

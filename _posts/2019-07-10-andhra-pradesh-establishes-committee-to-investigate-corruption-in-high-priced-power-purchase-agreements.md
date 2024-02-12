@@ -14,7 +14,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/mnre-andhra-pradesh-committee-solar-wind-ppa/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Andhra Pradesh government established a committee to deliberate the costs in all the high-priced power purchase agreements for wind and solar power projects signed during the previous Chandrababu Naidu-led government, alleging corruption.

@@ -16,7 +16,7 @@ sources:
 details:
 - name: Energy Minister’s Tweet
   url: https://twitter.com/NitinRaut_INC/status/1300369460721639424?s=20
-is_analysis: false
+is_newsletter: false
 
 ---
 **Maharashtra** government refuses to set up new thermal power generation units in the state citing low demand. The state electricity distribution company has signed power purchase agreements for 35,000 Megawatt (MW) but is purchasing only 14,500MW.

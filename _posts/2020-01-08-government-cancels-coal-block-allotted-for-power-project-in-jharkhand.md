@@ -13,7 +13,7 @@ sources:
 - name: The Hindu Business Line
   url: https://www.thehindubusinessline.com/economy/government-deallocates-coal-block-in-jharkhand-allotted-for-power-project/article30449428.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The government canceled the allotment of a coal block for the power project in Jharkhand, after a decade of no significant progress towards operationalization. The coal block was allotted in 2009 to Karanpura Energy Ltd.

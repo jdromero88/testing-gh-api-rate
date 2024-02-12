@@ -16,6 +16,6 @@ sources:
 details:
 - name: CM’s Video Statement
   url: https://twitter.com/ChouhanShivraj/status/1302978186548895745?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

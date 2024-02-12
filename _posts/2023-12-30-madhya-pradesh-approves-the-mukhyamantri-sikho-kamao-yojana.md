@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh approves the Mukhyamantri Sikho Kamao Yojana
 date: 2023-05-24T06:36:06.347Z
 states:

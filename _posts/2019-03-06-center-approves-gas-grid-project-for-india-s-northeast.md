@@ -15,7 +15,7 @@ sources:
 details:
 - name: Twitter Announcement
   url: https://twitter.com/dpradhanbjp/status/1101713251165974528
-is_analysis: false
+is_newsletter: false
 
 ---
 The center approved a $1.26 billion gas-grid project to transport natural gas among India’s seven northeastern states and West Bengal.

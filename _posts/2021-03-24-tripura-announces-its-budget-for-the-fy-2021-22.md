@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget
   url: https://tripura.gov.in/sites/default/files/Budget_At_a_Glance_2021-22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

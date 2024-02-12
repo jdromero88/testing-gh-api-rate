@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "West Bengal creates a Centre for Fiscal Policy and Public Finance (CFPPF-WB) "
 date: 2023-05-03T07:03:36.663Z
 states:

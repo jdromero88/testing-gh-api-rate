@@ -13,7 +13,7 @@ sources:
 - name: Energy Infra Post
   url: http://energyinfrapost.com/maharashtra-power-regulator-reviews-tariff-allows-incentive-power-factor/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Electricity Regulatory Commission has ordered the Maharashtra State Electricity Distribution Company Limited to refund excess charges collected after September 1, 2018, when a new tariff order came into force, from industry consumers. This move provides much needed relief to industrial consumers in the state.

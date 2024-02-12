@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2023-24
   url: https://mahagst.gov.in/en/budget/state/111052
-is_analysis: false
+is_newsletter: false
 
 ---

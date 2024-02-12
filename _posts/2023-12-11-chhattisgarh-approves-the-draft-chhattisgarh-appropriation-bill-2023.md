@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Chhattisgarh approves the Draft Chhattisgarh Appropriation Bill-2023
 date: 2023-07-19T19:29:30.236Z
 states:

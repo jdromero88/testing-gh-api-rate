@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttarakhand tables a supplementary budget of approximately $1.4 billion
   for 2023-24
 date: 2023-09-13T15:37:00.960Z

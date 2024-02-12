@@ -15,6 +15,6 @@ sources:
 details:
 - name: Cabinet Decisions
   url: https://www.maharashtra.gov.in/Site/upload/CabinetDecision/English/112.%20Dt.28-04-2022_Cabinet%20Decisions_(Meeting%20No.112).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

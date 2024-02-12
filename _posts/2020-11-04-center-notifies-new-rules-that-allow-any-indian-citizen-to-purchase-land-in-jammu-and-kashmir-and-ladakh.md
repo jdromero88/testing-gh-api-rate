@@ -16,6 +16,6 @@ sources:
 details:
 - name: Gazette Notification (In Hindi)
   url: http://www.egazette.nic.in/WriteReadData/2020/222750.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

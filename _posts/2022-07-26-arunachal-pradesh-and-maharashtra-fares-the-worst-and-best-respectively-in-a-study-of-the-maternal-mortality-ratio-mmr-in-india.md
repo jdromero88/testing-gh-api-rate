@@ -16,6 +16,6 @@ sources:
 details:
 - name: Report
   url: https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0000441
-is_analysis: false
+is_newsletter: false
 
 ---

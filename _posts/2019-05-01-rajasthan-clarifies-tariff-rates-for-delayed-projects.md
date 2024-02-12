@@ -15,7 +15,7 @@ sources:
 details:
 - name: Order details
   url: http://rerc.rajasthan.gov.in/Orders/Order546.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission has clarified in a new order that in power projects delayed beyond their commissioning timeline, the tariff rate applied to the project will be in line with the one chosen for the year in which the commercial project becomes commercially operational.

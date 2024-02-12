@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tender Details
   url: http://hareda.gov.in/writereaddata/document/hareda589197458.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana Renewable Energy Development Agency has issued a tender for 20 MW of grid-connected rooftop solar projects to be developed across the state. The bid-submission deadline is February 15, 2019.

@@ -14,6 +14,6 @@ sources:
 - name: The Print
   url: https://theprint.in/india/governance/up-govt-invokes-essential-services-act-bans-strikes-for-6-months-in-all-govt-departments/551993/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

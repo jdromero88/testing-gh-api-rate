@@ -14,6 +14,6 @@ sources:
 details:
 - name: Official Tweet (in Hindi)
   url: https://twitter.com/NitishKumar/status/1328338766562349056
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.prharyana.gov.in/en/haryana-government-has-notified-the-assistance-for-waste-management-scheme-for-industrial-sector
-is_analysis: false
+is_newsletter: false
 
 ---

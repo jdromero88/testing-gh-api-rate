@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notice
   url: https://mopng.gov.in/files/Whatsnew/website_0001.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

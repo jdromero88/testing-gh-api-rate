@@ -15,6 +15,6 @@ sources:
 details:
 - name: Bill Details
   url: https://www.egazetteharyana.gov.in/Gazette/Extra-Ordinary/2022/142-2022-Ext/14227.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

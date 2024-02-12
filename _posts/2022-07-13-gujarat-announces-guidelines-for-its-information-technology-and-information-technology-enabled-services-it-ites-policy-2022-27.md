@@ -17,6 +17,6 @@ details:
   url: https://gil.gujarat.gov.in/Media/DocumentUpload/IT%20POLICY-FInal-2022.pdf
 - name: Implementation Guidelines
   url: https://dstpolicy.gujarat.gov.in/public/assets/itpolicy/document/Implementation-Guidelines_IT_ITeS_Policy_2022-27.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

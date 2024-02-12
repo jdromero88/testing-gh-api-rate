@@ -13,7 +13,7 @@ sources:
 - name: Live Mint
   url: https://www.livemint.com/news/india/in-a-climbdown-andhra-may-give-concessions-to-power-producers-1568139788779.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 In a softening of its stance, the Andhra Pradesh government led by Chief Minister Y.S. Jagan Mohan Reddy has communicated its willingness to renegotiate clean energy tariffs with developers.

@@ -18,6 +18,6 @@ sources:
 details:
 - name: Twitter
   url: https://mobile.twitter.com/TelanganaHealth/status/1633419847953522688
-is_analysis: false
+is_newsletter: false
 
 ---

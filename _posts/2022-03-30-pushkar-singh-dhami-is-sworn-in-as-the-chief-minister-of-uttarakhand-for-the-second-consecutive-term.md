@@ -14,6 +14,6 @@ sources:
 details:
 - name: Governor's Tweet
   url: https://twitter.com/LtGenGurmit/status/1506593112830795778
-is_analysis: false
+is_newsletter: false
 
 ---

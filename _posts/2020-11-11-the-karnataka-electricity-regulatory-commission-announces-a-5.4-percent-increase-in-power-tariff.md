@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://karunadu.karnataka.gov.in/kerc/Tariff%20Order%202020/Orders/Press%20Note/English_Press_Note_2020_Ver_5.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

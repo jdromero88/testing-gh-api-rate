@@ -17,6 +17,6 @@ details:
   url: https://www.wburbanservices.gov.in/page/cms/trade_license_about_service_71746e
 - name: Online Building Plan Approval System
   url: https://obpsudma.wb.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

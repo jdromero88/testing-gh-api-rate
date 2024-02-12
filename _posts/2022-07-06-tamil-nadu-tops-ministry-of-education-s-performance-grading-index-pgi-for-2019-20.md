@@ -16,6 +16,6 @@ sources:
 details:
 - name: Performance Grading Index
   url: https://pgi.udiseplus.gov.in/#/home
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2022-23
   url: https://finance.jharkhand.gov.in/ebook2022/BudgetSaar.html
-is_analysis: false
+is_newsletter: false
 
 ---

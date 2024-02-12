@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra Electricity Regulatory Commission (MERC) rejects a plea for a
   50 percent renewable energy obligation (RPO) procurement mandate
 date: 2023-12-27T07:09:04.518Z

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi approves the Delhi Motor Vehicle Aggregator and Delivery Service
   Provider Scheme, 2023
 date: 2023-11-29T14:11:26.266Z

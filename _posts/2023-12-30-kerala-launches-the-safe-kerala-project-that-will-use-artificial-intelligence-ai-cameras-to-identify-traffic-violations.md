@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala launches the Safe Kerala project that will use artificial
   intelligence (AI) cameras to identify traffic violations
 date: 2023-04-26T19:19:13.323Z

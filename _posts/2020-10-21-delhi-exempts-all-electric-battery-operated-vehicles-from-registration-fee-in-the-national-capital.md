@@ -17,6 +17,6 @@ sources:
 details:
 - name: Transport Minister's Tweet
   url: https://twitter.com/hashtag/SwitchDelhi?src=hashtag_click
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -17,6 +17,6 @@ sources:
 details:
 - name: State Wise Installed Capacity
   url: https://mnre.gov.in/the-ministry/physical-progress
-is_analysis: false
+is_newsletter: false
 
 ---

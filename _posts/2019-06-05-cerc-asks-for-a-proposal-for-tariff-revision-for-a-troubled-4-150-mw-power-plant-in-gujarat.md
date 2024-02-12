@@ -14,7 +14,7 @@ sources:
 - name: Financial Express
   url: https://www.financialexpress.com/economy/cerc-directs-tata-power-arm-to-get-discoms-consent-for-mundra-ppa-revision/1592978/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Central Electricity Regulatory Commission has asked Coastal Gujarat Power, the Tata Power arm that runs the troubled 4,150 MW Mundra ultra-mega power plant, to send its proposal for tariff revision.

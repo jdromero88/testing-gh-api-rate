@@ -17,6 +17,6 @@ details:
   url: https://www.labour.gujarat.gov.in/Portal/Document/1_245_1_Contract_labour_Notification.pdf
 - name: Notification – Inter-State Migrant Workmen Act
   url: https://www.labour.gujarat.gov.in/Portal/Document/1_246_1_inter_state_migrant_workmen.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

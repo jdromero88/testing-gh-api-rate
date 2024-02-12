@@ -14,7 +14,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/gujarat-mandates-epc-oem-details-in-wind-bids/articleshow/68194260.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat Electricity Regulatory Commission has passed an order mandating that all bidders in auctions for wind projects specify at least three equipment manufacturers or engineering, procurement, and construction contractors they have tied up with to execute the project.

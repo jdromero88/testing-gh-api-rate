@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh increases the incentives for the parents with a girl
   child from $421 to $2,406
 date: 2023-10-11T18:17:41.695Z

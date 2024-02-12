@@ -16,7 +16,7 @@ sources:
 details:
 - name: Discussion Paper
   url: https://www.gercin.org/wp-content/uploads/2020/02/Final-Solar-tariff-Discussion-Paper_04022020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat Electricity Regulatory Commission (GERC) has invited public opinion on a draft paper discussing tariff determinations for wind projects. The deadline for comments is February 25, 2020, with the public hearing scheduled for February 28, 2020, at Gandhinagar.

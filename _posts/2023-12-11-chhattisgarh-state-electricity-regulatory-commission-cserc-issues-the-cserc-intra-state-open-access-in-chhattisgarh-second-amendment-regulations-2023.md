@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Chhattisgarh State Electricity Regulatory Commission (CSERC) issues the
   CSERC (Intra-State Open Access in Chhattisgarh) (Second Amendment)
   Regulations, 2023

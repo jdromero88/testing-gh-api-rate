@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana amends its Telangana Shops and Establishments Act, 1988
 date: 2023-12-30T20:47:07.109Z
 states:

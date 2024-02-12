@@ -16,7 +16,7 @@ sources:
 details:
 - name: Directions
   url: http://jercuts.gov.in/writereaddata/UploadFile/Relief%20Order%2010th%20April%20copy637221322230125303.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Joint Electricity Regulatory Commission for the state of Goa and union territories has reduced the late payment surcharge from 2 percent to 1 percent per month.

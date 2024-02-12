@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana launches the Drone Imaging and Information Service of Haryana
   Limited (DRIISHYA)
 date: 2023-04-12T21:21:05.769Z

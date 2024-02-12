@@ -16,6 +16,6 @@ sources:
 details:
 - name: Government Order (#28)
   url: https://goir.ap.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

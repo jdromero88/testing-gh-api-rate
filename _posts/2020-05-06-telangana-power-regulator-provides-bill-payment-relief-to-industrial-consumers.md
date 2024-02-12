@@ -15,7 +15,7 @@ sources:
 details:
 - name: Telangana State Electricity Regulatory Commission
   url: http://www.tserc.gov.in/file_upload/uploads/Orders/Commission%20Orders/2020/Mitigation%20of%20Impact%20of%20COVID-19.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Telangana Electricity Regulatory Commission announced relief measures for consumers amidst the lockdown by offering relaxations on bill payment.

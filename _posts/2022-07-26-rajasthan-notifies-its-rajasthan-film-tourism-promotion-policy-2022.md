@@ -14,6 +14,6 @@ sources:
 details:
 - name: Policy
   url: https://ffo.gov.in/uploads/film_policy_file/8cf36b6dbf334ca857c69774758f820f.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

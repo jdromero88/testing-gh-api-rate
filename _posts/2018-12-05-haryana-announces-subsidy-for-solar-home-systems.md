@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.prharyana.gov.in/en/with-a-view-to-promote-renewable-energy-in-the-state-consumers-in-haryana-would-now-be-provided
-is_analysis: false
+is_newsletter: false
 
 ---
 To promote renewable energy in Haryana, the state government announced that consumers in the state will be provided with a $215 subsidy to install a solar home system under the Manohar Jyoti Yojana. The solar home system would be equipped with a lithium battery which does not require maintenance and has long life.

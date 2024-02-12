@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/regulators-cant-rejig-bid-based-tariffs-aptel/articleshow/71367589.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The electricity tribunal has ruled that state regulators cannot alter tariffs determined through competitive bidding, which would have implications for the Andhra Pradesh government’s efforts to review power purchase agreements signed by the previous regime.

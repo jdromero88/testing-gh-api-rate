@@ -15,6 +15,6 @@ sources:
 details:
 - name: Award List
   url: http://dcmsme.gov.in/FINAL%20LIST%20OF%20AWARDEES%20_NATIONAL%20MSME%20AWARDS_2022_COMMUNICATION.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

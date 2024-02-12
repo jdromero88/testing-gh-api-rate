@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala constitutes the Kerala State Climate Change Adaptation Mission (KSCCAM)
 date: 2023-08-16T18:34:02.306Z
 states:

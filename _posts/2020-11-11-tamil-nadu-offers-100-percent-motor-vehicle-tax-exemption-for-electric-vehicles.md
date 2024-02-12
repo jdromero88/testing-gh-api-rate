@@ -16,6 +16,6 @@ sources:
 details:
 - name: Guidance Tamil Nadu's Tweet
   url: https://twitter.com/Guidance_TN/status/1323249301456187392?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

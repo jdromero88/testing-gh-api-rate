@@ -15,7 +15,7 @@ sources:
 details:
 - name: Bid Document
   url: https://www.apdcl.org/irj/go/km/docs/internet/ASSAM/webpage/PDF/Slno_58_2018_19_Bid.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Assam Power Distribution Company Limited issued a tender inviting bids from eligible bidders for the implementation of 7 MW of grid-connected solar rooftop projects for social and institutional buildings in the state.

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra announces incentives in the form of capital subsidies for
   solar project installations by textile units
 date: 2023-09-13T15:17:59.990Z

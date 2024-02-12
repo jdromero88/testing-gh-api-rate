@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Home Affairs (MHA) extends the Armed Forces (Special Powers)
   Act (AFSPA) in parts of Nagaland and Arunachal Pradesh
 date: 2023-10-04T18:29:54.484Z

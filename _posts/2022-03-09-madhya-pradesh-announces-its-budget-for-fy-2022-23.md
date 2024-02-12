@@ -14,6 +14,6 @@ sources:
 details:
 - name: Madhya Pradesh Budget
   url: https://finance.mp.gov.in/uploads/budget/At-a-glance-2022-23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Meeting Details
   url: http://www.myenterprisewb.in/home/download/akhuWUtBM1NHb2QxekVPYW9nV2RldVhSMXJHUW1zbUNDdHlkNks5TlBQQXRPQ3g3eHdwbHV0bG45U0tuWHRUN2RXNGV1QjM4RnVlY1ovMTArWmlnMnVoUGZRaHU1cUpHWEJ2WFdZbVlBR2dGbndiYTQxNFo5K0NyQVBtVzg5cGU
-is_analysis: false
+is_newsletter: false
 
 ---

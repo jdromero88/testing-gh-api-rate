@@ -15,6 +15,6 @@ sources:
 details:
 - name: Cabinet Decisions (in Marathi)
   url: https://www.maharashtra.gov.in/Site/upload/CabinetDecision/English/12-01-2022%20Cabinet%20Decision%20(Meeting%20No.96).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://gujaratindia.gov.in/media/news.htm
-is_analysis: false
+is_newsletter: false
 
 ---
 Gujarat extends electricity payment due date for March-April to May 30, 2020, for all consumers. Also, all Low Tension consumers have been exempted from fixed charge on their April electricity bills.

@@ -79,7 +79,7 @@ const Search = () => {
           item: function(data) {
             if (
               data.content_type == 'Articles' ||
-              data.content_type == 'Analysis'
+              data.content_type == 'Newsletter'
             ) {
               data.formattedDate =
                 '<span class="articleMeta hit-date">Posted on <span class="articleDate">' +

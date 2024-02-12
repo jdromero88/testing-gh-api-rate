@@ -14,6 +14,6 @@ sources:
 details:
 - name: Delhi Budget
   url: https://finance.delhigovt.nic.in/content/budget-glance-2022-23
-is_analysis: false
+is_newsletter: false
 
 ---

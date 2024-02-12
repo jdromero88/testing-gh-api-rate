@@ -15,7 +15,7 @@ sources:
 details:
 - name: Draft amendments in RE tariff Regulations
   url: http://rerc.rajasthan.gov.in/cnpl/PDFs/reamend.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission has issued a second set of amendments to the terms and conditions for the determination of tariff for renewable energy sources, including wind and solar energy. These regulations will come into force from the date of their notification in the Official Gazette.

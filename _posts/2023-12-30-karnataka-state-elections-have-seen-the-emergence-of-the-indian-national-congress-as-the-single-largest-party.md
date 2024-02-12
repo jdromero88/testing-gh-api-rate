@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka state elections have seen the emergence of the Indian National
   Congress as the single largest party
 date: 2023-05-17T06:47:32.098Z

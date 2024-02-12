@@ -17,6 +17,6 @@ details:
   url: https://www.cseindia.org/how-are-indian-cities-managing-their-waste--11071
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1778734
-is_analysis: false
+is_newsletter: false
 
 ---

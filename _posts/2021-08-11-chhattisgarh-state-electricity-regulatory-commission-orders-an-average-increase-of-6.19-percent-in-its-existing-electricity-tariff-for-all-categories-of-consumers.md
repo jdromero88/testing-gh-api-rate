@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Details
   url: http://www.cserc.gov.in/upload/upload_news/02-08-2021_16279086691.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

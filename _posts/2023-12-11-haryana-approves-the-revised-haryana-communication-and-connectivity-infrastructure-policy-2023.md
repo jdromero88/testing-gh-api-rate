@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana approves the revised Haryana Communication and Connectivity
   Infrastructure Policy 2023
 date: 2023-12-06T21:47:34.519Z

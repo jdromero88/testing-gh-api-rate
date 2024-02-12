@@ -15,6 +15,6 @@ sources:
 details:
 - name: Resolution (in Gujarati)
   url: https://labour.gujarat.gov.in/Portal/Document/1_443_1_GR_for_Fire_NOC_Dt._09.02.2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

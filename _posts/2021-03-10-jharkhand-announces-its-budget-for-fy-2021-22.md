@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget Summary (In Hindi)
   url: https://finance.jharkhand.gov.in/pdf/Budget_2021_22/Budget_Saar_compressed.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

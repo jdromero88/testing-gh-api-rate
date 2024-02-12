@@ -14,6 +14,6 @@ sources:
 details:
 - url: http://web1.hry.nic.in/budget/Bgfinal.pdf
   name: Haryana Budget
-is_analysis: false
+is_newsletter: false
 
 ---

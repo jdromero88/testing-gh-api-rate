@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.vikramsolar.com/press-releases/vikram-solar-commissions-20-mw-solar-projects-for-wbsedcl/
-is_analysis: false
+is_newsletter: false
 
 ---
 Vikram Solar, a Kolkata-based solar energy company, announced it commissioned two 10 MW solar projects for West Bengal State Electricity Distribution Company.

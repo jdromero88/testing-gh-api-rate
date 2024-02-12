@@ -19,6 +19,6 @@ sources:
 details:
 - name: Press Note
   url: https://eci.gov.in/files/file/13931-press-note-for-the-general-election-to-legislative-assemblies-of-goa-manipur-punjab-uttarakhand-and-uttar-pradesh-2022-reg/
-is_analysis: false
+is_newsletter: false
 
 ---

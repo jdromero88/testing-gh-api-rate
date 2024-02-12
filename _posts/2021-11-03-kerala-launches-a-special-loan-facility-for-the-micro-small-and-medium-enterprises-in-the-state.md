@@ -15,6 +15,6 @@ sources:
 details:
 - name: Loan Facility Details
   url: https://kfc.org/common-pages/support-msmes-special-scheme-for-assisting-msmes-located-at-industrial-estates
-is_analysis: false
+is_newsletter: false
 
 ---

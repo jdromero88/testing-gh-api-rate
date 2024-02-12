@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget (In Hindi)
   url: https://state.bihar.gov.in/finance/SectionInformation.html?editForm&rowId=3373
-is_analysis: false
+is_newsletter: false
 
 ---

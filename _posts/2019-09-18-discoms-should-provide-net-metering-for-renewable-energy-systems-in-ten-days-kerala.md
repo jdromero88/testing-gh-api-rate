@@ -18,7 +18,7 @@ details:
 - name: Kerala State Electricity Regulatory Commission (Renewable Energy and Net Metering)
     Regulations, 2019
   url: http://www.erckerala.org/regulations/Draft RE Reg-2019-revised 30.08.2019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Kerala State Electricity Regulatory Commission has issued a draft of net metering regulations for renewable energy systems. The commission has sought suggestions from the public and other stakeholders after which a final hearing will be scheduled before the finalization of the draft regulations.

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala announces a 40% capital investment subsidy to MSMEs under the
   Mission 1,000 initiative
 date: 2023-10-18T14:53:30.640Z

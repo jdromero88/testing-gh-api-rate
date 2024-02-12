@@ -14,6 +14,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/jaipur/new-tariff-set-for-expired-green-energy-contracts/articleshow/88602240.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

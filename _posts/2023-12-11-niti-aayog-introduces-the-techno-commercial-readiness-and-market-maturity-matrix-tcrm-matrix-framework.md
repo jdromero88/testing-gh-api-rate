@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: NITI Aayog introduces the Techno-Commercial Readiness and Market Maturity
   Matrix (TCRM Matrix) Framework
 date: 2023-07-26T19:17:37.708Z

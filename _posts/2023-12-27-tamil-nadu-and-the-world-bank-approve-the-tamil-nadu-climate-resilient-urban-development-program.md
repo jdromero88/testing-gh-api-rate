@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu and the World Bank approve the Tamil Nadu Climate Resilient
   Urban Development Program
 date: 2023-12-27T07:22:01.789Z

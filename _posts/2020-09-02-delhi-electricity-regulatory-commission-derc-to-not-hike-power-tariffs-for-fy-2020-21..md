@@ -16,7 +16,7 @@ sources:
 details:
 - name: DERC Press Release
   url: http://www.derc.gov.in/Press%20Release/Press%20Release%20-%2028.08.2020/Press%20Release%20-%20english.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The **Delhi** Electricity Regulatory Commission (DERC) announces there will be no hike in power tariffs for FY 2020-21. DERC has also waived the existing 20 percent surcharge on _time of day tariff_ for the month of September, 2020.

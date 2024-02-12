@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://jercuts.gov.in/writereaddata/UploadFile/PPCL%20Order%20FY%2021-22_1522.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

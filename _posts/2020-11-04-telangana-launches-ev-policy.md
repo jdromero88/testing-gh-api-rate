@@ -15,7 +15,7 @@ sources:
 details:
 - name: Industries and IT Minister tweet
   url: https://twitter.com/KTRTRS/status/1322126641590665218
-is_analysis: false
+is_newsletter: false
 
 ---
 **Telangana** launches its electric vehicle policy which will be effective from 2020 to 2030. The policy offers 100 per cent exemption of road tax and registration fee for the first 200,000 electric two-wheelers purchased and registered within the state.

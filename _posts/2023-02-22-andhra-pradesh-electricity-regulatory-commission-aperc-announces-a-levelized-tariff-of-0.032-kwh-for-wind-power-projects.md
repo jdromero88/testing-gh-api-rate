@@ -18,6 +18,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://aperc.gov.in/admin/upload/Commontarifforderwindprojects11thto20thyear06.02.23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

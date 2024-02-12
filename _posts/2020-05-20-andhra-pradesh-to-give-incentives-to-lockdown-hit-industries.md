@@ -15,7 +15,7 @@ sources:
 details:
 - name: Government order register
   url: https://goir.ap.gov.in/Reports.aspx
-is_analysis: false
+is_newsletter: false
 
 ---
 The state government has announced several measures to incentivize the industries. The measures include waiver of fixed/demand charges (electricity), provision of working capital loans, and pending incentives worth $120 million to small and medium enterprises.

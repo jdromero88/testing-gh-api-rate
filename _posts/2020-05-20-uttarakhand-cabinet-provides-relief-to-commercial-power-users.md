@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/power/uttarakhand-cabinet-provides-relief-to-commercial-power-users/75728542
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttarakhand cabinet provides relief to commercial power users by deferring their fixed demand charge for a period of 3 months.

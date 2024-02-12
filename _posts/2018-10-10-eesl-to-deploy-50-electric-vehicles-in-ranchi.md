@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.eeslindia.org/EN/MediaCorner/Press_releaseDetails?q=hHGzu6Dog5tA/lELhcNGkXlJcaPFbwjw
-is_analysis: false
+is_newsletter: false
 
 ---
 The Jharkhand Bijli Vitran Nigam Limited (JBVNL) has signed an agreement with Energy Efficiency Services Limited for the deployment of 50 electric vehicles (EVs) at various JBVNL offices in Ranchi. In the first batch, 20 EVs will be handed over to JBVNL, followed by 30 vehicles after two weeks.     

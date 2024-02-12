@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bihar approves the Bihar Electric Vehicle (EV) Policy 2023
 date: 2023-12-13T19:36:36.075Z
 states:

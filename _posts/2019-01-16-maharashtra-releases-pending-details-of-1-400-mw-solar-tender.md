@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender details
   url: https://www.mahadiscom.in/notice-for-invitation-of-e-tender-for-long-term-bids-for-procurement-of-1400-mw-solar-power-through-competitive-bidding-process-followed-by-e-reverse-auction-from-projects-to-be-connected-at-distrib-3/
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra State Electricity Distribution Company Limited has released pending details for the 1,400 MW solar tender it had issued last year. The tender calls to develop 1,400 MW of solar projects in 30 administrative divisions in the state.

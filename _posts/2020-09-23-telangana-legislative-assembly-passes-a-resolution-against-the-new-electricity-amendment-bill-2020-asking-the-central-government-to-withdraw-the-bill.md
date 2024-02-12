@@ -17,6 +17,6 @@ sources:
 details:
 - name: Telangana State Government Resolution
   url: https://legislation.telanganalegislature.org.in/PreviewPage.tsl?filePath=basePath&fileName=ResolutionOrdinance/Files/Eng_ResolutionE15_85.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

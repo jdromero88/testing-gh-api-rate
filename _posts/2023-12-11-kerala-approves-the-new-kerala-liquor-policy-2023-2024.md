@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala approves the new Kerala Liquor Policy 2023-2024
 date: 2023-08-02T16:27:41.090Z
 states:

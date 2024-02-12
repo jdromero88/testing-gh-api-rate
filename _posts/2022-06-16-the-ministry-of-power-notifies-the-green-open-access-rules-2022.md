@@ -18,6 +18,6 @@ details:
   url: https://pib.gov.in/Pressreleaseshare.aspx?PRID=1831832
 - name: Notification
   url: https://egazette.nic.in/WriteReadData/2022/236345.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

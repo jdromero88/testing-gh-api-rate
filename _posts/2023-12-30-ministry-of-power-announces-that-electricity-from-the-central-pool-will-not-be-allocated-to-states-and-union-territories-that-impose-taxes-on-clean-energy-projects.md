@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Power announces that electricity from the central pool will
   not be allocated to states and Union Territories that impose taxes on clean
   energy projects

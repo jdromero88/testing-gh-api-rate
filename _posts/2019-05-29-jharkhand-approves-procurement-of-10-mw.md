@@ -15,7 +15,7 @@ sources:
 details:
 - name: JSERC Order
   url: http://jserc.org/pdf/orders/2015_08.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Jharkhand State Electricity Regulatory Commission (JSERC) has approved the procurement of 10 MW of solar PV power by Jharkhand Bijli Vitran Nigam Limited from the Solar Energy Corporation of India. The commission has set a tariff rate of $0.079 (Rs. 5.50) per kWh for a period of 25 years.

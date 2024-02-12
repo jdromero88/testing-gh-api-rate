@@ -14,6 +14,6 @@ sources:
 details:
 - name: Cabinet Decision (in Hindi)
   url: http://cm.jharkhand.gov.in/sites/default/files/cabinet_decision_23_12_2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

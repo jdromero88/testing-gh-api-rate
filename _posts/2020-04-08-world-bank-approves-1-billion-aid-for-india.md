@@ -14,7 +14,7 @@ sources:
 details:
 - name: Press Release
   url: http://www.worldbank.org/en/news/press-release/2020/04/03/world-bank-government-of-india-covid19-coronavirus-emergency-funds-tackle-pandemic
-is_analysis: false
+is_newsletter: false
 
 ---
 The World Bank has approved $1 billion fund to aid India’s COVID-19 response. This is the largest ever health sector support from the World Bank to India.

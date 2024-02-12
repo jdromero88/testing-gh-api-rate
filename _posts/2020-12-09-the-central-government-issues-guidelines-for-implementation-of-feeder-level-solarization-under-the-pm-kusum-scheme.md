@@ -16,6 +16,6 @@ sources:
 details:
 - name: Guidelines
   url: https://mnre.gov.in/img/documents/uploads/file_f-1607073371212.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

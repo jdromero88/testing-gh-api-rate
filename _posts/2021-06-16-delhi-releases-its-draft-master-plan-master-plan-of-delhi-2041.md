@@ -14,6 +14,6 @@ sources:
 details:
 - name: Master Plan
   url: https://dda.org.in/MPD_2041.aspx
-is_analysis: false
+is_newsletter: false
 
 ---

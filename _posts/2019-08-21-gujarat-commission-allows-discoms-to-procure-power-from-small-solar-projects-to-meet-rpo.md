@@ -15,7 +15,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/gujarat-commission-discoms-power-solar-rpo/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat Electricity Regulatory Commission (GERC) has passed an order allowing Gujarat Urja Vikas Nigam Limited (GUVNL) and the other distribution companies (DISCOMs) in the state to procure power from small solar projects with a capacity of up to 4 megawatts (MW) to meet their renewable purchase obligations.

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://punjabgovtindia.wordpress.com/2020/10/23/cm-okays-industrial-development-in-agricultural-mixed-use-land-subject-to-conditions/
-is_analysis: false
+is_newsletter: false
 
 ---

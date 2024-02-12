@@ -13,7 +13,7 @@ sources:
 - name: India Today
   url: https://www.indiatoday.in/india/story/up-cm-yogi-adityanath-emergency-helpline-112-1613142-2019-10-26
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Uttar Pradesh chief minister Yogi Adityanath launched an all-encompassing emergency helpline number ‘112’ to access police, fire brigade, ambulance and other services under the Emergency Response Support System.

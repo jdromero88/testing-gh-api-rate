@@ -15,6 +15,6 @@ sources:
 details:
 - name: Agenda (In Hindi)
   url: https://ukvidhansabha.uk.gov.in/news/view/244
-is_analysis: false
+is_newsletter: false
 
 ---

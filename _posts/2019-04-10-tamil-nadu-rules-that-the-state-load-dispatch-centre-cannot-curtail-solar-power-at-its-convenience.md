@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tamil Nadu Electricity Regulatory Commission order
   url: http://www.tnerc.gov.in/orders/commn%20order/2019/National-MPNo16of2016.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 In a case brought by the National Solar Energy Federation of India, the Tamil Nadu Electricity Regulatory Commission stated that the State Load Dispatch Centre cannot curtail solar power at its convenience, adding that scaling down from the “must run status” power should be resorted to only after all other possible means of achieving and ensuring grid stability and reliable power supply are exhausted.

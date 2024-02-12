@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan launches the “Annapurna Food Packet” scheme
 date: 2023-08-23T18:23:03.592Z
 states:

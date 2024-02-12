@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/uttar-pradesh-550-mw-solar-tender-oversubscribed/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh New and Renewable Energy Development Agency’s 550 MW grid-connected solar photovoltaic tender has oversubscribed, with eight bidders submitting bids aggregating to 795 MW.

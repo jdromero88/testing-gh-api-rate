@@ -15,6 +15,6 @@ sources:
 details:
 - name: CMO Tweet (in Marathi)
   url: https://twitter.com/CMOMaharashtra/status/1298607068618698754?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bihar releases the Bihar Logistics Policy 2023
 date: 2023-12-20T17:07:47.172Z
 states:

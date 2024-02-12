@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Himachal Pradesh sanctions a one-time waiver of Motor Vehicle Tax "
 date: 2023-11-22T14:27:29.307Z
 states:

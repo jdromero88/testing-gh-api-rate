@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff Notification
   url: http://www.orierc.org/Tariff_p_FY%202021-22.html
-is_analysis: false
+is_newsletter: false
 
 ---
 **Odisha** approves a hike in the electricity tariff for FY 2021-22. The revision has resulted in an average tariff increase of $0.0041 per kWh.

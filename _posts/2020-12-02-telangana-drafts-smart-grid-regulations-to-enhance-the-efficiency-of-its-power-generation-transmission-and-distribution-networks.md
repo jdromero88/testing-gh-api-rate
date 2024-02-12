@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft Regulation
   url: http://www.tserc.gov.in/file_upload/uploads/Regulations/Draft/2020/Draft%20regulation%20on%20Smar%20grid.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

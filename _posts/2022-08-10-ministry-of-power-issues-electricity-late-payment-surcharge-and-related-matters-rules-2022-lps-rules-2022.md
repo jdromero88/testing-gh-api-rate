@@ -18,6 +18,6 @@ details:
   name: LPS Rules
 - name: Press Release
   url: https://recindia.nic.in/rec-elevates-the-power-sector-yet-again-sanctions-22-000-crore-under-new-lps-rules
-is_analysis: false
+is_newsletter: false
 
 ---

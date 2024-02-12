@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://wberc.gov.in/sites/default/files/WBERC_A-82_1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Ministry of Power notice
   url: https://powermin.gov.in/sites/default/files/webform/notices/Seeking_comments_on_Discussion_Paper_on_Market_Based_Economic_Dispatch_MBED.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

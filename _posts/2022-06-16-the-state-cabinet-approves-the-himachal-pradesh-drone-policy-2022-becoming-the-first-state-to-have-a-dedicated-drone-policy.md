@@ -15,6 +15,6 @@ sources:
 details:
 - name: Drone Policy
   url: http://rajpatrahimachal.nic.in/OPENFILE1.aspx?ID=%2055/GAZETTE/2022-13/06/2022%20&etype=SPECIAL
-is_analysis: false
+is_newsletter: false
 
 ---

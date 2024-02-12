@@ -15,7 +15,7 @@ sources:
 details:
 - name: ''
   url: ''
-is_analysis: false
+is_newsletter: false
 
 ---
 The **Rajasthan** Electricity Regulatory Commission issues regulations for determining tariffs for renewable energy-based power sources for 2020.

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://olps.punjabtransport.org/Tax%20Amendment%20dated%2012%20Feb%202021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

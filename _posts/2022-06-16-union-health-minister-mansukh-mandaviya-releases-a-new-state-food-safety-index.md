@@ -14,6 +14,6 @@ details:
   url: https://www.fssai.gov.in/upload/uploadfiles/files/Report_SFSI_06_06_2022.pdf
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1831794
-is_analysis: false
+is_newsletter: false
 
 ---

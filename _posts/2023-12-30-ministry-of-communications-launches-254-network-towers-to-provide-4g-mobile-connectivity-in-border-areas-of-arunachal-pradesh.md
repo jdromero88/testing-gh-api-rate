@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Communications launches 254 network towers to provide 4G
   mobile connectivity in border areas of Arunachal Pradesh
 date: 2023-04-26T19:26:48.996Z

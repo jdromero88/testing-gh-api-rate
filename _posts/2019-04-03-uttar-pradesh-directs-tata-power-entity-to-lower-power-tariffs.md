@@ -13,7 +13,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/cut-tariff-before-buying-stressed-asset-up-energy-regulator-to-tata-power-119033000472_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 In a landmark decision, the Uttar Pradesh energy regulator has directed a Tata Power entity to lower power tariffs by $0.002 (Rs.0.14) per kilowatt-hour, or unit, before taking control of stressed thermal power plant in Prayagraj (Allahabad) operated by the Jaypee Group.

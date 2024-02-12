@@ -13,7 +13,7 @@ sources:
 - name: Financial Express
   url: https://www.financialexpress.com/economy/maharashtra-regulator-gives-state-discom-leeway-in-payment-to-wind-firms/1443909/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Electricity Regulatory Commission granted the Maharashtra State Electricity Distribution Company Limited leeway in the timeline for paying the dues to wind power generators. While the power purchase agreements require the distribution company (discom) to pay wind power generators within 45 days after invoices are raised, the regulator has allowed it to make the payments according to a schedule proposed by the discom that is less restrictive.

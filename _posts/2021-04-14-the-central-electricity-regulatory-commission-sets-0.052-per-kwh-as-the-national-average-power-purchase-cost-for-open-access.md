@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: http://www.cercind.gov.in/2021/orders/01-SM-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

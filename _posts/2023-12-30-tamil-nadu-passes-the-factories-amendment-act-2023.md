@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu passes the Factories (Amendment) Act 2023
 date: 2023-04-26T19:17:25.618Z
 states:

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.vikramsolar.com/press-releases/vikram-solar-commissions-200-mw-solar-project-for-apgenco/
-is_analysis: false
+is_newsletter: false
 
 ---
 Vikram Solar announced it has commissioned a 200 megawatt (MW) solar power project for Andhra Pradesh Power Generation Corporation in Anantapuramu district. The plant will power nearly 150,000 homes once connected to the grid.

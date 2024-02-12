@@ -12,7 +12,7 @@ sources:
 - name: Saur Energy
   url: https://www.saurenergy.com/solar-energy-news/teri-tenders-battery-energy-storage-systems-delhi
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Energy and Resources Institute (TERI) has issued a tender for the commissioning of Battery Energy Storage Systems on a turnkey basis under the UI-ASSIST initiative with the BSES Rajdhani (BRPL) in Delhi.

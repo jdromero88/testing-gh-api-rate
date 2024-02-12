@@ -13,7 +13,7 @@ sources:
 - name: Money Control
   url: https://www.moneycontrol.com/news/business/uttar-pradesh-to-get-40-paiseunit-cheaper-power-from-plant-3608331.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Following the acquisition of a 75 percent stake in the Bara power plant by Resurgent Power Ventures, the plant will reduce electricity charges to the Uttar Pradesh Power Corporation by $0.005 per unit under a revised power purchase agreement, which will translate into savings of $71.31 million annually.

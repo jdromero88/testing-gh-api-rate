@@ -15,7 +15,7 @@ sources:
 details:
 - name: Consultative Paper
   url: http://www.tnerc.gov.in/Concept%20Paper/2019/Solar-Concept.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Tamil Nadu Electricity Regulatory Commission has proposed a feed-in tariff for solar photovoltaic (PV) procurement in its latest consultative paper. The tariff will apply to procurement from all solar PV projects of capacity 1 MW and above. The paper is open for comments until March 1, 2019.

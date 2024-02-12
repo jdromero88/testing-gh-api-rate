@@ -15,7 +15,7 @@ sources:
 details:
 - name: Anaemia Mukt Bharat 2019-20 index
   url: https://anemiamuktbharat.info/portal/wp-content/uploads/2019/08/AMB_Score_Card_2019-20_Q127-Aug-V4.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Ranking 17th in the Anaemia Mukt Bharat 2019-20 index, Karnataka has been tasked with reducing its anaemia burden by 3 percent every year as part of the country’s goal for 2022. This can be achieved only by providing iron folic acid supplements to vulnerable groups — children, adolescents, and pregnant women — at regular intervals and ensuring project implementation.

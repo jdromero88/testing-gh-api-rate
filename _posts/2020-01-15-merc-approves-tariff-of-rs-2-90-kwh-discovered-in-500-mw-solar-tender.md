@@ -16,7 +16,7 @@ sources:
 details:
 - name: Order details
   url: https://www.merc.gov.in/faces/merc/common/outputClient.xhtml
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Electricity Regulatory Commission approved a new tariff allowing the Maharashtra State Electricity Distribution Company to procure 500 megawatts from Intra-State solar power projects for meeting the Solar Renewable Purchase Obligations (RPO).

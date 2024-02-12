@@ -15,6 +15,6 @@ sources:
 details:
 - url: https://ipr.ap.nic.in/images/press-releases/agriculture%20review%20with%20central%20minister.pdf
   name: Press Release
-is_analysis: false
+is_newsletter: false
 
 ---

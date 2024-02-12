@@ -15,6 +15,6 @@ sources:
 details:
 - name: Kerala Clinical Establishments Amendment Bill, 2021
   url: http://www.niyamasabha.org/codes/15kla/bills/Bill%20No.%2040%20pub%20eng.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

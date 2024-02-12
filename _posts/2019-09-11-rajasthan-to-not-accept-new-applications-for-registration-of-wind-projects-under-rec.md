@@ -17,7 +17,7 @@ details:
 - name: Draft Rajasthan Wind & Wind-Solar Hybrid Policy 2019
   url: http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Common/Rajasthan
     Wind %26 Wind-Solar Hybrid Policy 2019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Renewable Energy Corporation has issued a draft version of its policy on wind and wind-solar hybrid projects. Rajasthan aims to deploy 2,000 MW of wind power capacity to fulfill the renewable purchase obligation of state distribution companies.

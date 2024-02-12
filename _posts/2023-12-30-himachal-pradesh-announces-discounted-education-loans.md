@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh announces discounted education loans
 date: 2023-04-19T19:46:13.511Z
 states:

@@ -14,7 +14,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/news-cm/power-grid-corporation-of-india-declared-successful-bidder-for-two-transmission-projects-119080101482_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Power Grid Corporation of India is the successful bidder under tariff based competitive bidding to establish transmission system for the following projects:

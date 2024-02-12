@@ -16,6 +16,6 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/cabinet-approves-rs-12-000-cr-for-2nd-phase-of-green-energy-corridor-122010601069_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

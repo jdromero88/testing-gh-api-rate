@@ -14,6 +14,6 @@ sources:
 details:
 - name: Cabinet Minutes
   url: https://www.telangana.gov.in/news/2021/06/Cabinet-meeting-under-the-chairmanship-of-CM-Sri-KCR
-is_analysis: false
+is_newsletter: false
 
 ---

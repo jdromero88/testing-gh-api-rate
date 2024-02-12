@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra makes education in public universities in the state free of
   cost for students from the transgender community
 date: 2023-12-13T19:50:09.800Z

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttarakhand approves the Uttarakhand Micro, Small & Medium Enterprises
   (MSME) Policy, 2023
 date: 2023-08-08T15:55:42.268Z

@@ -13,6 +13,6 @@ sources:
 - name: United News of India
   url: http://www.uniindia.com/haryana-assembly-passes-three-bills/north/news/2340137.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

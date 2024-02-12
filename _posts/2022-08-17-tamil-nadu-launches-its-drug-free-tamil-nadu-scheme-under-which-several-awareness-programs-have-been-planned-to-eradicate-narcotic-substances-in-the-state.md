@@ -16,6 +16,6 @@ sources:
 details:
 - url: https://cms.tn.gov.in/sites/default/files/press_release/pr110822_1378.pdf
   name: Press Release (in Tamil)
-is_analysis: false
+is_newsletter: false
 
 ---

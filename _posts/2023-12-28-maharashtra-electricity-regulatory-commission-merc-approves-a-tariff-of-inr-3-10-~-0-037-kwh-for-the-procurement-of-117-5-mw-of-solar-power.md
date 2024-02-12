@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra Electricity Regulatory Commission (MERC) approves a tariff of
   INR 3.10 (~$0.037)/kWh for the procurement of 117.5 MW of solar power
 date: 2023-05-31T15:22:39.378Z

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Relase
   url: http://pib.nic.in/PressReleaseIframePage.aspx?PRID=1560106
-is_analysis: false
+is_newsletter: false
 
 ---
 The Assam government approved a capacity expansion plan for Numaligarh Refinery from the existing 3 million metric tons per annum (MMTPA) to 9 MMTPA at an estimated cost of $3.16 billion.

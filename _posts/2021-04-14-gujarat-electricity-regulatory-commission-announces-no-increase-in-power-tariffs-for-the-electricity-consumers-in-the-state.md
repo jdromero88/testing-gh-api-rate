@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://gercin.org/wp-content/uploads/2021/04/Tariff-Press-Note-April-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -17,6 +17,6 @@ sources:
 details:
 - name: Draft Rules
   url: https://powermin.nic.in/sites/default/files/webform/notices/Draft%20Electricity%20%28Late%20Payment%20Surcharge%29%20Rules%2C%202020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

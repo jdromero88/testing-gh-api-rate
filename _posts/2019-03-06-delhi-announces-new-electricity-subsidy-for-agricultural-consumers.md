@@ -13,7 +13,7 @@ sources:
 - name: Financial Express
   url: https://www.financialexpress.com/economy/aap-govt-lures-delhi-farmers-with-electricity-subsidy-of-rs-105-per-kw-per-month/1500498/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Delhi government’s cabinet announced a decision to provide agricultural consumers in the union territory an electricity subsidy of $1.47 per kilowatt (KW) per month. The subsidy is expected to benefit at least 11,000 consumers, and will cost the government $105,000.

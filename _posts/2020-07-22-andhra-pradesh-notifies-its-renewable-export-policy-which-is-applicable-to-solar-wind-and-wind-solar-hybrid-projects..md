@@ -11,12 +11,12 @@ sectors:
 subsectors:
 - Renewables
 sources:
-- url: https://indianstates.csis.org/analysis/states-update-july-22-2020/
+- url: https://indianstates.csis.org/newsletter/states-update-july-22-2020/
   name: 'Hindu Business Line '
 details:
 - name: Government Order
   url: https://nredcap.in/PDFs/Pages/AP_RE_Export_policy_2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Andhra Pradesh government notifies its renewable export policy that permits sale of power to other states without any obligation for the distribution utilities to procure power. The policy is applicable to solar, wind, and wind-solar hybrid projects.

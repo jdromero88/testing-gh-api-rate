@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender Details
   url: http://seci.co.in/show_whats_new.php?id=841
-is_analysis: false
+is_newsletter: false
 
 ---
 The Solar Energy Corporation of India issued a tender to set up solar power projects of a cumulative capacity of 275 MW in the UP Solar Park, Uttar Pradesh. The detailed request for selection (RFS) will be available for download by April 30, 2019. Uttar Pradesh has set a target to install 3.2 gigawatts of solar power by March 2021.

@@ -13,6 +13,6 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/uttar-pradesh-blockchain-rooftop-solar-trading/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

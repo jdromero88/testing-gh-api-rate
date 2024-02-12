@@ -14,6 +14,6 @@ sources:
 details:
 - name: Cabinet Decisions
   url: https://cm.assam.gov.in/asm/cabinet-decisions-details?articleId=250355
-is_analysis: false
+is_newsletter: false
 
 ---

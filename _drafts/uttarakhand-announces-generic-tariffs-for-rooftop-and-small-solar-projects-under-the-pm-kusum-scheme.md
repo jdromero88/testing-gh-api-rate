@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tariff order
   url: http://www.uerc.gov.in/ordersPetitions/orders/Misc/2020/September/Suo_moto_order_dt_15.09.20.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Uttarakhand** Electricity Regulatory Commission announces generic tariffs for rooftop and small solar projects under the PM-KUSUM scheme with a subsidy rate of 80 percent.

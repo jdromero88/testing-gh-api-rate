@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: https://legalupdates.in/wp-content/uploads/2022/05/night-shift-for-women-workers-in-uttar-pradesh-under-the-factories-act-1948.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

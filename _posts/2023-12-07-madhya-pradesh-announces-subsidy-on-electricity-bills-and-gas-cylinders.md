@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh announces subsidy on electricity bills and gas cylinders
 date: 2023-09-13T15:25:28.184Z
 states:

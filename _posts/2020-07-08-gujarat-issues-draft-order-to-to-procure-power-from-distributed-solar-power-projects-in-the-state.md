@@ -16,7 +16,7 @@ sources:
 details:
 - url: https://www.gercin.org/wp-content/uploads/2020/06/GERC-Suo-Motu-Order_Draft_30062020.pdf
   name: Order
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat Electricity Regulatory Commission has issued a draft order to implement changes to the tariff framework to procure power from distributed solar power projects in the state.

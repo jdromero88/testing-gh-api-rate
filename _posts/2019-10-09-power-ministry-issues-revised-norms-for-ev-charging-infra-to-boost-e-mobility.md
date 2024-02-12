@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/newsite/PrintRelease.aspx?relid=193630
-is_analysis: false
+is_newsletter: false
 
 ---
 To promote electric vehicles, Power Minister R K Singh approved amendments in guidelines and specifications for charging infrastructure.

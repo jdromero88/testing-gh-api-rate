@@ -15,7 +15,7 @@ sources:
 details:
 - url: http://www.pib.nic.in/Pressreleaseshare.aspx?PRID=1565282
   name: Press Release
-is_analysis: false
+is_newsletter: false
 
 ---
 The government has approved the second phase of the program to set up grid-connected rooftop solar power projects with a central financial support of $1.7 billion, which will be spent over four years. Under the program, the Ministry of New and Renewable Energy aims to establish 40,000 megawatts (MW) of total rooftop solar power generation capacity.

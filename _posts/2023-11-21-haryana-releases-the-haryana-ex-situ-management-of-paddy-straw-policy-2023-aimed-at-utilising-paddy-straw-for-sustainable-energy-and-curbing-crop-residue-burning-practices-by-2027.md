@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana releases the Haryana Ex-Situ Management of Paddy Straw Policy
   2023 aimed at utilising paddy straw for sustainable energy and curbing crop
   residue burning practices by 2027

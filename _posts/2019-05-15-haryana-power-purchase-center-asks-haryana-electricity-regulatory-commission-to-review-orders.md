@@ -20,7 +20,7 @@ details:
   url: https://herc.gov.in/writereaddata/orders/o20190308a.pdf
 - name: 'HERC March 8 Order #1'
   url: https://herc.gov.in/writereaddata/orders/o20190308.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 In a review petition, the Haryana Power Purchase Center asked the Haryana Electricity Regulatory Commission to review its orders passed on March 8, 2019, in which it allowed the deletion of an exit clause in the power purchase agreement.

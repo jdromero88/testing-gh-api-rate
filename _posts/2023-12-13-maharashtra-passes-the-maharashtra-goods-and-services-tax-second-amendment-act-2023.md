@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra passes the Maharashtra Goods and Services Tax (Second
   Amendment) Act, 2023
 date: 2023-12-13T19:39:58.946Z

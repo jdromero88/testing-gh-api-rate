@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jharkhand approves an investment of $42.5 million in Jamshedpur to set up
   a hydrogen related industry
 date: 2023-08-02T16:21:57.191Z

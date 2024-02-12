@@ -15,6 +15,6 @@ sources:
 details:
 - name: CMO's Twitter (in Hindi)
   url: https://twitter.com/CMOMaharashtra/status/1548226043147735045
-is_analysis: false
+is_newsletter: false
 
 ---

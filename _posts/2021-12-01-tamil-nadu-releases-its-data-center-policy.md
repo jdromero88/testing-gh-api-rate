@@ -16,6 +16,6 @@ details:
   url: https://elcot.in/sites/default/files/Connect%20BOOK.pdf
 - name: Press Release
   url: https://elcot.in/honourable-chief-minister-tamilnadu-thiru-mkstalin-launched-tamilnadu-data-centre-policy-2021-0
-is_analysis: false
+is_newsletter: false
 
 ---

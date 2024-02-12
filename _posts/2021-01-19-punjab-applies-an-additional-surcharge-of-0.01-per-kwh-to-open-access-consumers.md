@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://docs.pspcl.in/docs/cecommercial2120210108133148784.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

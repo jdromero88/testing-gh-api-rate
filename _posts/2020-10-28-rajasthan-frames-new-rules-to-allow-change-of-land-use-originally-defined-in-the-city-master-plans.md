@@ -13,6 +13,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/jaipur/now-pay-new-charges-if-you-want-to-change-land-use-in-master-plan-areas/articleshow/78798196.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

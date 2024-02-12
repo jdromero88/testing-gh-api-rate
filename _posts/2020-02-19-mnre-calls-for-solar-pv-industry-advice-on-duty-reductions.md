@@ -13,7 +13,7 @@ sources:
 - name: MNRE
   url: https://mnre.gov.in/sites/default/files/webform/notices/Scan_0.pdf
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Ministry of New and Renewable Energy (MNRE) calls for Solar-PV industry advice on components/capital goods that should get custom duty reductions.

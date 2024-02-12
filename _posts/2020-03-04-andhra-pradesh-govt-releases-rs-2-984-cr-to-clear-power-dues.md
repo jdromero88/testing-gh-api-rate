@@ -15,7 +15,7 @@ sources:
 details:
 - name: 'GO No: RT-17'
   url: https://goir.ap.gov.in/Reports.aspx
-is_analysis: false
+is_newsletter: false
 
 ---
 The Andhra Pradesh government released a sum of $415.67 million to clear long- pending power dues.

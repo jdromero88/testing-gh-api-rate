@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://wberc.gov.in/sites/default/files/SM28.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

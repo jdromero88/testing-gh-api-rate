@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender details
   url: http://www.mprenewable.nic.in/uploads/NIT_RESCO_Industry.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Madhya Pradesh Ujra Vikas Nigam Limited invited bids for 25 MW rooftop solar projects for industrial units in the state. The last day to submit financial bids is May 10, 2019.

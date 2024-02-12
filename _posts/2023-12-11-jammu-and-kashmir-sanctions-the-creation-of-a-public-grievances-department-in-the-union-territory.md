@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jammu and Kashmir sanctions the creation of a public grievances
   department in the Union Territory
 date: 2023-07-19T19:30:18.786Z

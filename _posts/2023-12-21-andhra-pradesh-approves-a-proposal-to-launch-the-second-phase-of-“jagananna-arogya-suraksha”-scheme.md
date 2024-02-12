@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh approves a proposal to launch the second phase of
   “Jagananna Arogya Suraksha” scheme
 date: 2023-12-20T15:21:10.501Z

@@ -14,7 +14,7 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/india-news/arunachal-pradesh-scraps-22-power-projects-for-non-performance/story-xM3z1Lwq2VQvOkgSdgNbOJ.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Arunachal Pradesh government has terminated 22 sanctioned hydro-electric projects with a potential to generate 3,800 MW due to non-performance**.**

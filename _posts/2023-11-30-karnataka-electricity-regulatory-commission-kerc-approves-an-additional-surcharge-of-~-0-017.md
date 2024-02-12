@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka Electricity Regulatory Commission (KERC) approves an additional
   surcharge of ~$0.017
 date: 2023-11-29T14:13:06.517Z

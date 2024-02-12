@@ -39,7 +39,7 @@ layout: null
             "is_featured": "",
             "author": ""
         }{% if forloop.last == false %},{% endif %}{% endfor %},
-        {% for post in site.analysis %}
+        {% for post in site.newsletter %}
         {
             "resource_type": "Newsletter",
             "headline": {{ post.title | jsonify }},

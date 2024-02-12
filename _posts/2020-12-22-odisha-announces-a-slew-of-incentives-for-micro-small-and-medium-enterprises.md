@@ -14,6 +14,6 @@ sources:
 details:
 - name: CM tweet
   url: https://twitter.com/idco_odisha/status/1339082961841344513
-is_analysis: false
+is_newsletter: false
 
 ---

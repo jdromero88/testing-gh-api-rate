@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra launches the Pradhan Mantri Mega Integrated Textile Region
   and Apparel (PM MITRA) park in Amravati
 date: 2023-07-26T19:12:04.124Z

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh launches the “Bijli Mitra” portal
 date: 2023-09-06T15:41:20.910Z
 states:

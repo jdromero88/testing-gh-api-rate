@@ -12,6 +12,6 @@ sources:
 - name: The Shillong Times
   url: https://theshillongtimes.com/2021/01/15/cabinet-clears-right-to-public-services-rules/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

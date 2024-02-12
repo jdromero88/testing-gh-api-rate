@@ -14,6 +14,6 @@ sources:
 details:
 - name: Policy
   url: https://cdnbbsr.s3waas.gov.in/s35352696a9ca3397beb79f116f3a33991/uploads/2022/07/2022071110.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

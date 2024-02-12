@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu announces a relief amount of $72 each, to all families
   affected by Cyclone Michaung
 date: 2023-12-13T19:47:40.592Z

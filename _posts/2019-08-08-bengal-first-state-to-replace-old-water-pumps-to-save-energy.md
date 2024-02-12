@@ -13,7 +13,7 @@ sources:
 - name: The Telegraph
   url: https://www.telegraphindia.com/states/west-bengal/bengal-first-state-to-replace-old-water-pumps-to-save-energy/cid/1695179
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The West Bengal government initiated a program to increase the electric consumption efficiency of municipalities across the state to 15 to 40 percent by servicing the pumps used in water supply.

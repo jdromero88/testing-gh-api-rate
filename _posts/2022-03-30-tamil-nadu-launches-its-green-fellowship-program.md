@@ -14,6 +14,6 @@ sources:
 details:
 - name: Government Order
   url: https://cms.tn.gov.in/sites/default/files/go/spi_e_3_2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

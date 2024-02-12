@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.prharyana.gov.in/en/to-promote-solar-energy-in-haryana-the-dakshin-haryana-bijli-vitaran-nigam-has-implemented-a-scheme
-is_analysis: false
+is_newsletter: false
 
 ---

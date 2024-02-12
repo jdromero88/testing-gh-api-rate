@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff Order
   url: http://www.tnerc.gov.in/orders/Tariff Order 2009/2018/Pooledcost-MO-4-7.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Tamil Nadu Electricity Regulatory Commission has fixed a payment of $0.05/kilowatt-hour (kWh) as the pooled cost of power purchase or a payment of 75 percent of the preferential tariff, whichever is lowest, that the Tamil Nadu Generation and Distribution Corporation will pay to the generators of renewable energy sources.     

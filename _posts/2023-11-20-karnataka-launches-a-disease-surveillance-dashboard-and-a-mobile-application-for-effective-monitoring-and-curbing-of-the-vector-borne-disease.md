@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka launches a disease surveillance dashboard and a mobile
   application for effective monitoring and curbing of the vector-borne disease
 date: 2023-09-13T20:33:20.698Z

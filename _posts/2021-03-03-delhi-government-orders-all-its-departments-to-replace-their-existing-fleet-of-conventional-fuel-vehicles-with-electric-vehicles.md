@@ -17,6 +17,6 @@ sources:
 details:
 - name: Deputy CM Tweet
   url: https://twitter.com/msisodia/status/1364883402944442370
-is_analysis: false
+is_newsletter: false
 
 ---

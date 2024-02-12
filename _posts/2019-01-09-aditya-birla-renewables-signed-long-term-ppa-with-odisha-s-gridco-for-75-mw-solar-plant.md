@@ -14,7 +14,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/companies/aditya-birla-renewables-inks-ppa-for-75-mw-solar-plant-in-odisha-119010100632_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Aditya Birla Renewables Ltd, part of the Aditya Birla Group, signed a long-term power purchase agreement with Odisha’s power trader Gridco to develop a 75 MW solar power plant in the state. The company offered the lowest bid of $0.04 per kilowatt-hour, or unit, in response to a 200 MW solar power tender floated by Gridco.

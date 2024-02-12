@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Rajasthan concludes elections for 199 state assembly seats "
 date: 2023-11-29T15:25:01.308Z
 states:

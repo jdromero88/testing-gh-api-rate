@@ -14,7 +14,7 @@ sources:
 - name: BloombergQuint
   url: https://www.bloombergquint.com/business/50-cities-on-offer-in-10th-city-gas-licensing-round-2#gs.O_ukp6E
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Petroleum and Natural Gas Regulatory Board has issued a bid for a license to retail compressed natural gas and piped natural gas in 50 cities across the country.   

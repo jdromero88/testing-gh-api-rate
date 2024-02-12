@@ -12,6 +12,6 @@ sources: []
 details:
 - name: Kerala Budget 2022-23
   url: http://www.finance.kerala.gov.in/bdgtDcs.jsp
-is_analysis: false
+is_newsletter: false
 
 ---

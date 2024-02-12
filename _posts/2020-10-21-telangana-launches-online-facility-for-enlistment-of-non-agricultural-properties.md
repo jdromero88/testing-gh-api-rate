@@ -14,6 +14,6 @@ sources:
 details:
 - name: Portal
   url: https://npb.telangana.gov.in/NPBUpdation/
-is_analysis: false
+is_newsletter: false
 
 ---

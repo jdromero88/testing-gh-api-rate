@@ -13,7 +13,7 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/india-news/hp-cabinet-meet-policies-to-promote-ayurveda-it-tourism-get-govt-nod/story-EXjvOFAyRp2zSsfYtyZbQJ.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Himachal Pradesh cabinet approved a policy to provide cost-effective Ayush services by upgrading Ayurvedic hospitals and dispensaries across the state.

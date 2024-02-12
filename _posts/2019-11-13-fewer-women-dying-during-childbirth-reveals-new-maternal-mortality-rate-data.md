@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/newsite/PrintRelease.aspx?relid=194365
-is_analysis: false
+is_newsletter: false
 
 ---
 The Registrar General of India has released new data showing that India’s maternal mortality rate has declined from 130 to 122 per 100,000 live births.

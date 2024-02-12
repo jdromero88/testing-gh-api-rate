@@ -13,6 +13,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-announces-stamp-duty-and-registration-fee-relaxations-for-msmes/articleshow/79065094.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

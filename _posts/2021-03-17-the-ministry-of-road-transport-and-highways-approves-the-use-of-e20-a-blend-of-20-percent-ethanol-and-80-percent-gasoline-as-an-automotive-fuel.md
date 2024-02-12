@@ -14,6 +14,6 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/government-approves-ethanol-gasoline-automotive-fuel/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: CMO Tweet
   url: https://twitter.com/cmohry/status/1298671774373044225?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

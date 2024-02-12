@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://lad.py.gov.in/sites/default/files/go-ms-12.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

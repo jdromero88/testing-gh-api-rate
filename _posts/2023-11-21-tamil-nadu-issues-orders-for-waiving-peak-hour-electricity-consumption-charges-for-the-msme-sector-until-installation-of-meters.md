@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu issues orders for waiving peak-hour electricity consumption
   charges for the MSME sector until installation of meters
 date: 2023-11-15T16:20:04.635Z

@@ -13,6 +13,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/vijayawada/green-signal-to-aps-new-electronic-policy/articleshow/82393454.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

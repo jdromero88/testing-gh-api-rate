@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-achieves-1st-rank-operationalisation-hwcs-balbir-singh-sidhu
-is_analysis: false
+is_newsletter: false
 
 ---

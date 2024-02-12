@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jammu and Kashmir Energy Development Agency (JAKEDA) launches a new
   scheme under which consumers can reduce their electricity bills
 date: 2023-05-24T06:42:54.846Z

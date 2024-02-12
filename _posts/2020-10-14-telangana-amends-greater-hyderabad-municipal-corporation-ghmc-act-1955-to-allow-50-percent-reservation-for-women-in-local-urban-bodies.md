@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.telangana.gov.in/news/2020/10/11/State-Cabinet-met-under-the-chairmanship-of-CM-KCR
-is_analysis: false
+is_newsletter: false
 
 ---

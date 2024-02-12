@@ -14,6 +14,6 @@ sources:
 details:
 - name: Jammu and Kashmir Budget
   url: https://jakfinance.nic.in/budget/budget2223/2%20Budget%20at%20a%20Glance%202022-23%20(English).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

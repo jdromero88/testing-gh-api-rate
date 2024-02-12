@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.iea.org/news/iea-launches-first-in-depth-review-of-indias-energy-policies
-is_analysis: false
+is_newsletter: false
 
 ---
 The International Energy Agency (IEA) suggested the Indian government adopt a long-term energy plan for the country. “The draft National Energy Policy by NITI Aayog, currently under consultation, is an excellent framework and should be adopted swiftly to guide policy making, implementation, and enforcement across central and state governments,” IEA said in its India Report 2020 release.

@@ -17,6 +17,6 @@ sources:
 details:
 - name: Policy
   url: https://www.ciicovid19update.in/uploads/1/3/1/3/131362769/andhra_pradesh_oxygen.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

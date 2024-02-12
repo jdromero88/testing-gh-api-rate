@@ -13,7 +13,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/pti-stories/anti-citizenship-act-stir-hits-oil-gas-output-in-assam-119121500691_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Oil production is down over 75 percent in Assam due to state-wide protests of the Citizenship Amendment Act.

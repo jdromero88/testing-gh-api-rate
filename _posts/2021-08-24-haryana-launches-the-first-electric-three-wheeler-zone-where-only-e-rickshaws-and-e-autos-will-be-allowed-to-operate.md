@@ -16,6 +16,6 @@ sources:
 details:
 - url: https://twitter.com/mlkhattar/status/1427188098329317380?s=20
   name: Haryana CM Tweet
-is_analysis: false
+is_newsletter: false
 
 ---

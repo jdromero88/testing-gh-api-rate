@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister’s Post
   url: https://www.facebook.com/cmpsgolay/posts/1591024897764690
-is_analysis: false
+is_newsletter: false
 
 ---

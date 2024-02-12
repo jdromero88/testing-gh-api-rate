@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jharkhand clears the Jharkhand Health Science University Bill, 2023,
   which aims to streamline health education across different disciplines and
   institutions, and establish a specialized autonomous body

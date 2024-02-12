@@ -12,7 +12,7 @@ sources:
 - name: The Navhind Times
   url: http://www.navhindtimes.in/now-smart-meters-for-major-power-consumers-in-state/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 After successfully covering the most parts of Goa with digital meters, the state electricity department is now going to introduce smart power meters for the major power consumers in the state.

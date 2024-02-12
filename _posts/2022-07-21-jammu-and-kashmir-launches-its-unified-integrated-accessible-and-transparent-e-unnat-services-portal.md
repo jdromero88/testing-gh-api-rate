@@ -17,6 +17,6 @@ details:
   url: https://eunnat.jk.gov.in/pages/Home.aspx
 - name: Press Release
   url: http://new.jkdirinf.in/NewsDescription.aspx?ID=89882
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -17,7 +17,7 @@ details:
 - name: Draft Solar PV Grid Interactive System based on Net Metering Regulations,
     2019
   url: http://jercuts.gov.in/writereaddata/UploadFile/jercsolarand.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Joint Electricity Regulatory Commission for the state of Goa and union territories has issued draft net metering regulations. The regulations will be applicable only to the grid-connected rooftop mounted, ground mounted and floating solar power projects.

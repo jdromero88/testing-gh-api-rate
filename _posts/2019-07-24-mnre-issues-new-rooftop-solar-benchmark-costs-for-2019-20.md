@@ -16,7 +16,7 @@ sources:
 details:
 - name: Benchmark costs
   url: https://mnre.gov.in/sites/default/files/uploads/benchmark%20cost%202019-20%20%281%29.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ministry of New and Renewable Energy has notified the new benchmark costs for grid-connected rooftop solar power projects for the financial year (FY) 2019-20.

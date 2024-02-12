@@ -17,6 +17,6 @@ details:
   url: https://bsk.karnataka.gov.in/
 - name: About Bapuji Seva Kendra
   url: https://bsk.karnataka.gov.in/Images/BSK%20detailed%20User%20Manual%20User.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

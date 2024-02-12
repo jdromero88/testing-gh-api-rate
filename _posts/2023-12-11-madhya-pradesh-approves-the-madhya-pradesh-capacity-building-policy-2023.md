@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh approves the Madhya Pradesh Capacity Building Policy 2023
 date: 2023-07-19T19:28:23.969Z
 states:

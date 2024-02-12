@@ -18,6 +18,6 @@ sources:
 details:
 - name: Tariff order
   url: https://hperc.org/new1/File/tohpsebl23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press release
   url: https://cms.tn.gov.in/sites/default/files/press_release/pr290121_e_65.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/gurgaon/haryana-kicks-off-prepaid-power-meter-project/articleshowprint/69868160.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The electricity department of Haryana has begun installing smart prepaid meters in four out of 22 districts as pilot projects and will later cover the entire state.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Policy
   url: https://investingintamilnadu.com/DIGIGOV/StaticAttachment?AttachmentFileName=/pdf/poli_noti/Tamil%20Nadu%20RandD%20Policy%202022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

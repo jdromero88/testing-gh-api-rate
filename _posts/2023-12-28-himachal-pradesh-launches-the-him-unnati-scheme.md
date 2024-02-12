@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh launches the Him Unnati scheme
 date: 2023-05-31T15:26:04.701Z
 states:

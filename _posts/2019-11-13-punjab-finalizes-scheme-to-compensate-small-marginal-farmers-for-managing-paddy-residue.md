@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/chandigarh/punjab-finalises-scheme-to-compensate-small-marginal-farmers-for-managing-paddy-residue/articleshowprint/71976990.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 In compliance with Supreme Court orders, the Punjab government finalized a scheme to compensate small and marginal farmers who are managing paddy residue by the in-situ method and not by setting it on fire.

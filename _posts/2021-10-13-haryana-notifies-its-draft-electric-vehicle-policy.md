@@ -15,6 +15,6 @@ sources:
 details:
 - name: Policy Draft
   url: https://haryanatransport.gov.in/sites/default/files/Electric%20Vehicle%20Policy_2.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

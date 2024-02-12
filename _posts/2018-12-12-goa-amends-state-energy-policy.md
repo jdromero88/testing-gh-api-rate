@@ -15,7 +15,7 @@ sources:
 details:
 - name: Goa State Energy Policy 2017
   url: https://www.goa.gov.in/wp-content/uploads/2017/03/Draft-of-solar-policy-for-Goa-2017.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Goa government has amended the Goa State Energy Policy 2017 to include a 50 percent subsidy for small producers and consumers of solar power. This subsidy will replace an earlier interest-free loan that the government provided small producers and consumers. 

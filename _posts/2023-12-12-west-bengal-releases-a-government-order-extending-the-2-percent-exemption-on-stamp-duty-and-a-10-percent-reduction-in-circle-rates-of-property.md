@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: West Bengal releases a government order extending the 2 percent exemption
   on stamp duty and a 10 percent reduction in circle rates of property
 date: 2023-10-04T18:28:10.804Z

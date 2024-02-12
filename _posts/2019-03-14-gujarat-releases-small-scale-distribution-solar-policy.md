@@ -15,7 +15,7 @@ sources:
 details:
 - name: Policy for Development of Small Scale Distributed Solar Projects - 2019
   url: https://guj-epd.gujarat.gov.in/uploads/Policy_for_Devlopment_of_Small_Scale_Distributed_Solar_Projects-2019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat government released a small scale distribution solar project policy for producers of 500 KW to up to 4 MW.

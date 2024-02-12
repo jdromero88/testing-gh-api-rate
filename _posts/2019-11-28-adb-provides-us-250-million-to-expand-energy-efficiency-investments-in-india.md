@@ -15,7 +15,7 @@ sources:
 details:
 - name: ADB Press release
   url: https://www.adb.org/news/adb-provides-250-million-expand-energy-efficiency-investments-india
-is_analysis: false
+is_newsletter: false
 
 ---
 The Asian Development Bank (ADB) has approved a loan of $250 million as part of an assistance package to Energy Efficiency Services Limited, to expand energy efficiency investments in India.

@@ -16,7 +16,7 @@ sources:
 details:
 - name: Order
   url: https://rerc.rajasthan.gov.in/rerc-user-files/office-orders
-is_analysis: false
+is_newsletter: false
 
 ---
 **Rajasthan** permits net metering and net billing arrangement under the renewable energy service company model. The regulations will apply to all grid-connected distributed renewable systems to be commissioned on or after July 1, 2021.

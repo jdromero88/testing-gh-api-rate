@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh amends the Madhya Pradesh MSME Industrial Land and
   Building Allotment and Management Rules 2021
 date: 2023-12-11T17:15:52.824Z

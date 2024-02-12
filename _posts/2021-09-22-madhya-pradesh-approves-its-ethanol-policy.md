@@ -13,6 +13,6 @@ sources:
 - name: Free Press Journal
   url: https://www.freepressjournal.in/bhopal/madhya-pradesh-ethanol-policy-and-4-state-highways-toll-get-cabinet-nod
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -17,7 +17,7 @@ details:
   url: http://seci.co.in/show_whats_new.php?id=839
 - name: Press Release (Andhra Pradesh)
   url: http://seci.co.in/show_whats_new.php?id=840
-is_analysis: false
+is_newsletter: false
 
 ---
 The Solar Energy Corporation of India issued two tenders for the development of solar photovoltaic (PV) power projects in Madhya Pradesh and Andhra Pradesh. The first tender is to set up 1,200 megawatts (MW) of solar power projects in Madhya Pradesh. The second tender is to set up 200 MW of grid-connected solar power projects in Andhra Pradesh. 

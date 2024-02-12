@@ -17,6 +17,6 @@ details:
   url: https://www.tn.gov.in/scheme/data_view/19694
 - name: Press release (In Tamil)
   url: https://cms.tn.gov.in/sites/default/files/press_release/pr250822_1458.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

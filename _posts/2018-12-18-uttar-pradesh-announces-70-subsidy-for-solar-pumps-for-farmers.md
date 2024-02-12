@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/news/politics-and-nation/uttar-pradesh-government-to-offer-subsidised-solar-pumps-to-farmers-for-irrigation/articleshow/66626513.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh government announced that it will offer a subsidy up to 70 percent for solar pumps for irrigation purpose to the farmers. Under the solar pump voltaic irrigation pump scheme 10,000 units will be given to farmers at a subsidized rate on the basis of first come first serve basis.   

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: http://nagalandtax.nic.in/docs/Notification/Act/Issued%20by%20Finance%20Department/Petroleum/2021/petro%20rate%20latest.jpg
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,6 +13,6 @@ sources:
 - name: Deccan Herald
   url: https://www.deccanherald.com/state/top-karnataka-stories/karnataka-govt-amends-fiscal-responsibility-act-in-view-of-financial-crisis-1090548.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

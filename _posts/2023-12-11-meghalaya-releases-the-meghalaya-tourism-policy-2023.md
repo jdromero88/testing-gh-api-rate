@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Meghalaya releases the Meghalaya Tourism Policy, 2023
 date: 2023-07-05T20:13:09.963Z
 states:

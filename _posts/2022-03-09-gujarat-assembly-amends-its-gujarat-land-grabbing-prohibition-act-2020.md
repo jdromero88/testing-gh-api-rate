@@ -14,6 +14,6 @@ sources:
 details:
 - name: Ordinance
   url: https://lpd.gujarat.gov.in/assets/downloads/GujaratLandGrabbing_11012022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

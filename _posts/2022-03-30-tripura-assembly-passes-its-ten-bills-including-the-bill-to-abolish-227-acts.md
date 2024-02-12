@@ -12,6 +12,6 @@ sources:
 - name: North East Today
   url: https://www.northeasttoday.in/2022/03/24/tripura-assembly-repeals-227-acts-passes-10-bills/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

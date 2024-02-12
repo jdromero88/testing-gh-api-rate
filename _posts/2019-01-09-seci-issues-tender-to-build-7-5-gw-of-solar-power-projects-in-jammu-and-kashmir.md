@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender details
   url: https://economictimes.indiatimes.com/industry/energy/power/india-floats-first-tender-to-build-solar-projects-in-kashmir/articleshow/67344514.cms
-is_analysis: false
+is_newsletter: false
 
 ---
 The Solar Energy Corporation of India issued a tender to build 7.5-gigawatt of solar power projects in Jammu and Kashmir, as part of a larger plan to build 23 gigawatts of solar capacity in Ladakh, a region in the country’s extreme north bordering China.

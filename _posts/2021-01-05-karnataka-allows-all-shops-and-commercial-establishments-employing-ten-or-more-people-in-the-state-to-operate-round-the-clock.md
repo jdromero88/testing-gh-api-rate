@@ -14,6 +14,6 @@ sources:
 - name: NDTV
   url: https://www.ndtv.com/india-news/karnataka-allows-shops-other-businesses-to-remain-open-24x7-maximum-shift-duration-is-10-hours-2346916
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

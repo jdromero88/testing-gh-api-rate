@@ -13,6 +13,6 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/india-news/west-bengal-passes-resolution-against-three-farm-laws-sixth-state-to-do-so-101611832758966.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

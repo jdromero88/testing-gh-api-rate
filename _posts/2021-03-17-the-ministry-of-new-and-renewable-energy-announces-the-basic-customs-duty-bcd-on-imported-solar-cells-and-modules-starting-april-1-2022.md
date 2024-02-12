@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://mnre.gov.in/img/documents/uploads/file_f-1615355045648.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

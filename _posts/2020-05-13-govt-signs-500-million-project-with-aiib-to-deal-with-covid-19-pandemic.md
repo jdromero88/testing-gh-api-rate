@@ -15,7 +15,7 @@ sources:
 details:
 - name: Asian Infrastructure Investment Bank
   url: https://www.aiib.org/en/news-events/news/2020/AIIB-Approves-USD500M-to-Support-Indias-Response-to-COVID-19.html
-is_analysis: false
+is_newsletter: false
 
 ---
 The Asian Infrastructure Investment Bank has approved a $500 million loan to aid Indian government’s COVID-19 efforts. The financing will help India strengthen its public health preparedness, and cover all states and Union Territories.

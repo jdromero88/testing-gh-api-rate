@@ -15,6 +15,6 @@ sources:
 details:
 - name: Government Resolution (In Marathi)
   url: https://www.maharashtra.gov.in/1145/Government-Resolutions
-is_analysis: false
+is_newsletter: false
 
 ---

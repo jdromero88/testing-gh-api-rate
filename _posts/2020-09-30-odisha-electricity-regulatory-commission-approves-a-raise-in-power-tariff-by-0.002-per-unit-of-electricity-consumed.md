@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff order
   url: http://www.orierc.org/Retail%20Supply%20Tariff.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh amends the “Swaran Jayanti Energy Policy”
 date: 2023-08-30T18:04:26.008Z
 states:

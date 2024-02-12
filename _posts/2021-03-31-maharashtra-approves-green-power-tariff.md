@@ -16,7 +16,7 @@ sources:
 details:
 - name: Order
   url: https://www.merc.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---
 **Maharashtra** allows a _green power tariff_ of $0.009 per kWh for consumers opting for 100 percent green energy. The power sourced from renewables is $0.02 per kWh less than the power sourced from conventional power plants in the state.

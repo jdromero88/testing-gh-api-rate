@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka announces a $3,615.81 subsidy for minorities purchasing
   four-wheeler vehicles.
 date: 2023-09-13T15:33:39.873Z

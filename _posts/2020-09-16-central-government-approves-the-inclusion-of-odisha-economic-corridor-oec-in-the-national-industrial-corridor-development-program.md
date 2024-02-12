@@ -14,6 +14,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/bhubaneswar/state-economic-corridor-to-be-part-of-central-project/articleshow/78025621.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

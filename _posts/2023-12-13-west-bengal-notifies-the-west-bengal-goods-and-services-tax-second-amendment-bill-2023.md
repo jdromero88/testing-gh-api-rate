@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: West Bengal notifies the West Bengal Goods and Services Tax (Second
   Amendment) Bill, 2023
 date: 2023-12-13T19:40:39.750Z

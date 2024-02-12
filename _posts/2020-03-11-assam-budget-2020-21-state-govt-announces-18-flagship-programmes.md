@@ -15,7 +15,7 @@ sources:
 details:
 - name: Budget 2020-21
   url: https://finassam.in/budget_documents/
-is_analysis: false
+is_newsletter: false
 
 ---
 Assam’s budget proposed a series of cash incentives including, a $1.3 billion sop to 2.7 million poor households, free rice to 5.8 million households, and free electricity to all households with a monthly consumption of less than 30 kWh.

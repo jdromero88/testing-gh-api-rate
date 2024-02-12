@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff order
   url: https://www.uperc.org/App_File/TariffOrderUPStateDiscomsDigitallySigned-pdf11112020121317PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Uttar Pradesh** Electricity Regulatory Commission (UPERC) rejects a hike in electricity tariff. The state distribution utility had proposed a slab change in electricity rates to increase the tariff.

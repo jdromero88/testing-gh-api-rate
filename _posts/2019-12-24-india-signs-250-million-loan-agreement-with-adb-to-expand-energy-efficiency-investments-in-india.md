@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/newsite/PrintRelease.aspx?relid=195939
-is_analysis: false
+is_newsletter: false
 
 ---
 The Asian Development Bank (ADB) and the government of India on December 16, 2019, signed a $250 million loan to Energy Efficiency Services Limited to expand energy efficiency investments in India that will benefit agricultural, residential, and institutional consumers.

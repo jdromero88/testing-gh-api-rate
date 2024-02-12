@@ -15,6 +15,6 @@ sources:
 details:
 - name: Assembly Decision (In Hindi)
   url: https://secure.evidhan.nic.in/SecureFileStructure/Notices/76dfd8b2-001c-44bb-b80a-d8071e14e20f.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

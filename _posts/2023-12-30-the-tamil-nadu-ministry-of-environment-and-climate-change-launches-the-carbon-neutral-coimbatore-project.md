@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "The Tamil Nadu Ministry of Environment and Climate Change launches the
   Carbon Neutral Coimbatore project "
 date: 2023-05-03T19:10:02.819Z

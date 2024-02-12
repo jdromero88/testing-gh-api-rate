@@ -14,6 +14,6 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/news/economy/policy/punjab-cabinet-approves-amendment-in-industrial-policy/articleshow/81111781.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

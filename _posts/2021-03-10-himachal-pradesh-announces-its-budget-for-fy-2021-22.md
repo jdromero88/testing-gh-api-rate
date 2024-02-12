@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget
   url: https://hpvidhansabha.nic.in/Home/Budgets
-is_analysis: false
+is_newsletter: false
 
 ---

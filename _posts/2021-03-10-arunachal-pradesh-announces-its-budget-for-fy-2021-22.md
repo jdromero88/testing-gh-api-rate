@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget Speech
   url: http://www.arunachalbudget.in/doc/speech.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

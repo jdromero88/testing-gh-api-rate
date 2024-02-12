@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana announces the Haryana Enterprises and Employment Policy (HEEP)-2020
 date: 2023-04-12T21:12:28.345Z
 states:

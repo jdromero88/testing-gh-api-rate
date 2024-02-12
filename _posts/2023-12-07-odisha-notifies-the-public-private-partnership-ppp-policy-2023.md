@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha notifies the Public Private Partnership (PPP) Policy, 2023
 date: 2023-09-13T15:30:45.980Z
 states:

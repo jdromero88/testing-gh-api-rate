@@ -13,6 +13,6 @@ sources:
 - name: CNBC
   url: https://www.cnbctv18.com/economy/jk-govt-approves-industrial-land-allotment-policy-2021-30-8085801.htm
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

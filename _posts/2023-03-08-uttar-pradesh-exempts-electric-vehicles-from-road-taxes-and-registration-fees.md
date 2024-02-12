@@ -18,6 +18,6 @@ sources:
 details:
 - name: UP Government order
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:64682c8e-89bd-4013-b115-b1d8aa4915ac
-is_analysis: false
+is_newsletter: false
 
 ---

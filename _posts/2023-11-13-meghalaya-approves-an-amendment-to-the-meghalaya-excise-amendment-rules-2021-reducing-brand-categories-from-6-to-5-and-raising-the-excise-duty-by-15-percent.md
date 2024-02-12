@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Meghalaya approves an amendment to the Meghalaya Excise Amendment Rules,
   2021, reducing brand categories from 6 to 5, and raising the excise duty by 15
   percent

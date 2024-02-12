@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tripura State Electricity Corporation Ltd (TSECL) announces a power
   tariff hike of 5 to 7 per cent
 date: 2023-09-28T03:37:37.007Z

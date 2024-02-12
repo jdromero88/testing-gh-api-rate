@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra Electricity Regulatory Commission (MERC) announces the
   generic tariff for net-meter consumers
 date: 2023-05-31T15:21:44.439Z

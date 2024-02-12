@@ -15,6 +15,6 @@ sources:
 details:
 - name: 'Notification '
   url: https://cercind.gov.in/2021/draft_reg/Draft%20DSM%20Regulations_070921.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

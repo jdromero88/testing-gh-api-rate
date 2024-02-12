@@ -19,6 +19,6 @@ details:
 - name: The Farmers (Empowerment and Protection) Agreement on Price Assurance and
     Farm Services Bill, 2020
   url: http://164.100.47.4/BillsTexts/LSBillTexts/PassedLoksabha/Bill%20Farmers%20%20Empowermente%20(As%20passed_Eng).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

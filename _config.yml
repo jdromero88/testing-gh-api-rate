@@ -2,8 +2,8 @@
 title: Engaging Indian States
 timezone: UTC
 collections:
-  analysis:
-    title: Analysis
+  newsletter:
+    title: Newsletter
     output: true
     path: '/:path/:title/'
   posts:
@@ -60,11 +60,11 @@ defaults:
         - name:
           url:
       content_type: Articles
-      is_analysis: false
+      is_newsletter: false
       breadcrumbs: articles
   - scope:
       path: ''
-      type: analysis
+      type: newsletter
     values:
       layout: post
       excerpt:
@@ -82,9 +82,9 @@ defaults:
           url:
       author: []
       pdf:
-      breadcrumbs: analysis
-      content_type: Analysis
-      is_analysis: true
+      breadcrumbs: newsletter
+      content_type: Newsletter
+      is_newsletter: true
   - scope:
       path: ''
       type: events
@@ -102,7 +102,7 @@ defaults:
           url:
       breadcrumbs: events
       content_type: Event
-      is_analysis: false
+      is_newsletter: false
   - scope:
       path: ''
       type: post-type

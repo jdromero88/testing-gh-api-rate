@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release (In Tamil)
   url: Press Release (In Tamil)
-is_analysis: false
+is_newsletter: false
 
 ---

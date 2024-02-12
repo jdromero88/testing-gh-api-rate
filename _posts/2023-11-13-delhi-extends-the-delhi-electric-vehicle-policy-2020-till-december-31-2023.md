@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi extends the Delhi Electric Vehicle Policy 2020 till December 31, 2023
 date: 2023-10-25T17:16:43.599Z
 states:

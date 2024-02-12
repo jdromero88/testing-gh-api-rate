@@ -14,6 +14,6 @@ sources:
 details:
 - name: CM’s Twitter (Cabinet decisions)
   url: https://twitter.com/CMMadhyaPradesh/status/1627522219143483393
-is_analysis: false
+is_newsletter: false
 
 ---

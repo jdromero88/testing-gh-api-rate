@@ -18,6 +18,6 @@ details:
   url: https://powermin.gov.in/sites/default/files/webform/notices/Green_Hydrogen_Policy.pdf
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1799067
-is_analysis: false
+is_newsletter: false
 
 ---

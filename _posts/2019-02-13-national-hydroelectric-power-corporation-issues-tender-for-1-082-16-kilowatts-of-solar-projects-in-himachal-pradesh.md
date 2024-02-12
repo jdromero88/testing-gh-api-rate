@@ -14,7 +14,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/nhpc-rooftop-solar-tender-himachal/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The National Hydroelectric Power Corporation issued a tender for 1,082.16 kilowatts of rooftop and small solar power projects at various power stations in Himachal Pradesh. The successful bidder will get nine months to commission the project and will be required to provide operation and maintenance services for five years.

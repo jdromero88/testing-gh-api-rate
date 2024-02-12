@@ -15,6 +15,6 @@ sources:
 details:
 - name: Bill
   url: https://nammabnp.org/upload/blog/attachments/KDJkxiLPtI.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

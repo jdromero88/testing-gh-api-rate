@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.bsesdelhi.com/documents/73527/626545808/Micro_Solar_Grid_eng.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Power discom BSES Yamuna Power Limited has commissioned four solar microgrids with storage batteries in east Delhi which will help reduce the city’s carbon footprint and provide backup power in case of outages.

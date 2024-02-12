@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh Electricity Regulatory Commission (APERC) introduces
   amendments to the Renewable Power Purchase Obligation (RPO) Compliance
 date: 2023-07-26T19:07:19.398Z

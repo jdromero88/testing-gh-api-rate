@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notice
   url: https://www.dhi.nic.in/writereaddata/UploadFile/FAME%20II%20-%20Polict%20modfications.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

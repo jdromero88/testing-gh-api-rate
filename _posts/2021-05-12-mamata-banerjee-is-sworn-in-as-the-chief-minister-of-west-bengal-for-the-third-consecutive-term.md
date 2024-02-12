@@ -15,6 +15,6 @@ sources:
 details:
 - name: Governor’s Tweet
   url: https://twitter.com/jdhankhar1/status/1391657733762404352?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

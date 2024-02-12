@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://powermin.gov.in/sites/default/files/Gazette_notification_dtd_01102021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

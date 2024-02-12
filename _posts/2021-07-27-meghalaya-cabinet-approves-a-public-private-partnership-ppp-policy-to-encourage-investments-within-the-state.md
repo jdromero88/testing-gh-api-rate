@@ -15,6 +15,6 @@ sources:
 details:
 - name: PPP Policy
   url: https://meghalaya.gov.in/sites/default/files/press_release/PPP_Policy_July_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,7 +16,7 @@ sources:
 details:
 - name: Schedule of electricity tariffs
   url: https://www.bestundertaking.com/in/pdf/BEST_111_PN_TariffAd_41x20_eng_bw.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Electricity Regulatory Commission released a tariff order reducing rates by six to eight percent for residential consumers of the Brihanmumbai Electricity Supply and Transport (BEST) company. Industrial consumers, however, saw an overall increase in tariffs of between two and two-and-a-half percent.

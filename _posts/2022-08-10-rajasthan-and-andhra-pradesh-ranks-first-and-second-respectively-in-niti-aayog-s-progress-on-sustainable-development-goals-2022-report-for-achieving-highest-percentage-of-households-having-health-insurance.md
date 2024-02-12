@@ -18,6 +18,6 @@ sources:
 details:
 - name: Sustainable Development Goals–2022 report
   url: https://www.niti.gov.in/sites/default/files/2022-07/The_Indian_Model_of_SDG_Localisation_13072022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

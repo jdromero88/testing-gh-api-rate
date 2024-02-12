@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/uttar-pradesh-approves-bid-100-mw-floating-solar/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh Electricity Regulatory Commission approved a new tender for the development of 100 MW of floating solar photovoltaic projects in the state.

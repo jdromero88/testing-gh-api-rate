@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-to-invest-rs-3200-crore-to-drill-115-wells-across-eight-fields-in-tripura/73575074
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Oil and Natural Gas Corporation , the country’s largest petroleum explorer, plans to invest $448.3 million to drill around 115 wells across eight oil and gas fields in Tripura.

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana announces a 11-15% levy on electric vehicles
 date: 2023-08-23T18:26:05.507Z
 states:

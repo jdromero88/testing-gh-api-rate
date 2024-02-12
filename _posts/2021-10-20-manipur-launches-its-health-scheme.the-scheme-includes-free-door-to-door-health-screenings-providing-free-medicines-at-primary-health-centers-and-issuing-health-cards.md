@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister’s Office Tweet
   url: https://twitter.com/manipur_cmo/status/1448578344321093634
-is_analysis: false
+is_newsletter: false
 
 ---

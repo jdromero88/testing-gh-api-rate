@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff order
   url: https://berc.co.in/orders/tariff/distribution/nbpdcl/2619-tariff-order-of-strong-span-style-color-000000-north-bihar-power-distribution-company-ltd-nbpdcl-south-bihar-power-distribution-company-ltd-sbpdcl-span-strong-for-fy-2023-24
-is_analysis: false
+is_newsletter: false
 
 ---

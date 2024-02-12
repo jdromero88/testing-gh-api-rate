@@ -14,6 +14,6 @@ sources:
 details:
 - name: Arunachal Pradesh Budget
   url: https://www.arunachalbudget.in/docs/glance.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

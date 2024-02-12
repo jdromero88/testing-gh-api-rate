@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.bsesdelhi.com/documents/55701/1190197189/Blockchain_November_13_Eng.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Delhi electricity distribution company BSES announced that BSES Rajdhani Power Ltd has partnered with Australia’s Power Ledger, a global leader in blockchain technology. The partnership hopes to launch consumer-to-consumer solar power trading on a trial basis.

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Schedule
   url: https://karunadu.karnataka.gov.in/kerc/Tariff%20Order%202021/Final%20Revised%20Retail%20Supply%20Schedule%20for%20FY21.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

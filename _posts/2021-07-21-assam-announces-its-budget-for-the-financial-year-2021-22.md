@@ -16,6 +16,6 @@ sources:
 details:
 - name: Budget Speech
   url: https://finance.assam.gov.in/portlets/assam-budget-2021-22
-is_analysis: false
+is_newsletter: false
 
 ---

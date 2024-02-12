@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana releases the draft notification on Haryana Energy Conservation
   Building Code (HECBC) Rules
 date: 2023-06-28T14:13:20.569Z

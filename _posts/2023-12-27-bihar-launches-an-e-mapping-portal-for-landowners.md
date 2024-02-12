@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bihar launches an e-mapping portal for landowners
 date: 2023-12-27T07:18:56.945Z
 states:

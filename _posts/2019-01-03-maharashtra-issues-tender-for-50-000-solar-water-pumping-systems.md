@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender details
   url: http://www.mahadiscom.com/TCIL_Solar_Taluka_27042018.shtm
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra State Electricity Distribution Company Limited issued a tender for 50,000 solar water pumping systems. These solar water pumps are to be installed at projects sites of identified farmers in the state. The last date for bid submission has been fixed on January 16, 2019.

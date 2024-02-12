@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/hyderabad/power-body-issues-guidelines-to-discoms/articleshow/73619703.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Andhra Pradesh Electricity Regulation Commission (APERC) has issued guidelines for feedback and grievance redressal to power distribution companies to improve accountability and transparency. APERC has directed discoms to set up complaint boxes at all offices, such that they are visible to consumers.

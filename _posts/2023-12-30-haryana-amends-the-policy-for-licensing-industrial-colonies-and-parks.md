@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana amends the policy for licensing industrial colonies and parks
 date: 2023-05-24T16:49:35.627Z
 states:

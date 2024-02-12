@@ -14,7 +14,7 @@ sources:
 - name: News18
   url: https://www.news18.com/news/india/government-run-health-institutions-in-odisha-to-get-linked-to-facebook-twitter-to-increase-efficiency-2254915.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Healthcare services in Odisha are being made more effective and more transparent by a state government initiative to widen the use of social media by health institutions across the state.

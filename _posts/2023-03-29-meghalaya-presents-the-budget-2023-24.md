@@ -14,6 +14,6 @@ sources:
 details:
 - name: State Budget 2023-24
   url: https://megfinance.gov.in/budget_documents/2023-2024/others/highlight_budget.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

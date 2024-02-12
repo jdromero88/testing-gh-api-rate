@@ -14,7 +14,7 @@ sources:
 - name: Financial Express
   url: https://www.financialexpress.com/education-2/jammu-and-kashmir-centre-sanctions-rs-325-crore-for-medical-college-for-handwara/1781115/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The center will sponsor a new $45.3 million government medical college in Kupwara district, which will be attached with the district and referral hospital Handwara in north Kashmir.

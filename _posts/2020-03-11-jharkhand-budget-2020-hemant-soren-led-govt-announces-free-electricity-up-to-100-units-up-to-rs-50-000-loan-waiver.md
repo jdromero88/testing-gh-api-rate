@@ -16,7 +16,7 @@ sources:
 details:
 - name: Budget 2020-21
   url: https://finance-jharkhand.gov.in/pdf/budget_2020_21/Book_No_02_Budget_At_a_Glance.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Jharkhand’s budget of $11.6 billion includes free electricity for the first 100 kWh, or units, for low-use households, farm loan wavers, and assistance for medical treatments.

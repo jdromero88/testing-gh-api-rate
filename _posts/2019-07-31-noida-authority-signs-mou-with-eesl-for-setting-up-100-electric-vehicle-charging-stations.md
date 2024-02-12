@@ -14,7 +14,7 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/noida/noida-authority-signs-mou-with-eesl-for-setting-up-100-electric-vehicle-charging-stations/story-OBgJ5YhYjsmeYKiE0N77kN.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Noida authority signed a memorandum of understanding (MOU) with the state-run Energy Efficiency Services Limited to install 100 electric vehicle charging stations in parking lots across the city over the next year.

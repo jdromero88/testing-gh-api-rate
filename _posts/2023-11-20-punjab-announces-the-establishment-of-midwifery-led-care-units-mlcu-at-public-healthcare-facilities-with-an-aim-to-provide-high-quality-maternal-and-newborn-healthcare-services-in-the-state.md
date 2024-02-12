@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Punjab announces the establishment of Midwifery Led Care Units (MLCU) at
   public healthcare facilities with an aim to provide high quality maternal and
   newborn healthcare services in the state

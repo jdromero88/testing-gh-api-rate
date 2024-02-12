@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/haryana-government-has-announced-one-time-settlement-ots-scheme-2022-for-the-indebted-farmers
-is_analysis: false
+is_newsletter: false
 
 ---

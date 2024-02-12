@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.tatapower.com/media/PressReleaseDetails/1636/merc-approves-700-mw-ppa-between-distribution-and-generation-business-of-tata-power-for-the-next-five-years
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Electricity Regulatory Commission (MERC) approved a proposal by the distribution arm of Tata Power to sign a power purchase arrangement with its generation arm for 700 megawatts (MW), which will be supplied from its Trombay thermal and hydro plants for five years.

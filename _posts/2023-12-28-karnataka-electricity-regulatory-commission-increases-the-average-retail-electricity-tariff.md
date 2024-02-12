@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka Electricity Regulatory Commission increases the average retail
   electricity tariff
 date: 2023-06-07T15:07:21.629Z

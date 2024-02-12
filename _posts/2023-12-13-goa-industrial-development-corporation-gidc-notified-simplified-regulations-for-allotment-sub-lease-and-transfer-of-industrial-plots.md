@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa Industrial Development Corporation (GIDC) notified simplified
   regulations for allotment, sub-lease, and transfer of industrial plots
 date: 2023-12-13T19:42:49.508Z

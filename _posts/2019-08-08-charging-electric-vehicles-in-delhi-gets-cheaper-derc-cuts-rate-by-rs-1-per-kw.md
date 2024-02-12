@@ -14,7 +14,7 @@ sources:
 - name: News 18
   url: https://www.news18.com/news/auto/charging-electric-vehicles-in-delhi-gets-cheaper-derc-cuts-rate-by-rs-1-per-kw-2254029.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Delhi Electricity Regularity Commission (DERC) reduced the rates at charging stations for e-rickshaws and other electric vehicles to help curb pollution levels.

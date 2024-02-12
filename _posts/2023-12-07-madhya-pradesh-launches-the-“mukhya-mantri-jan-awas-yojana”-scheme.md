@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh launches the “Mukhya Mantri Jan Awas Yojana” scheme
 date: 2023-08-23T18:20:30.811Z
 states:

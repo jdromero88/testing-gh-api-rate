@@ -16,7 +16,7 @@ sources:
 details:
 - name: Draft Regulation
   url: http://www.tserc.gov.in/file_upload/uploads/Regulations/Draft/2020/Draft%20Reg%20on%20Net%20Metering.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Telangana** amends the net metering regulations for grid-connected rooftop solar systems. Per the amendment, the number of electricity units exported by the eligible consumer should be measured in kilowatt hours only.

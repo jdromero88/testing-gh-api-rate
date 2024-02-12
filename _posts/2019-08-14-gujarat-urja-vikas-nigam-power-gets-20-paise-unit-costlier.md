@@ -13,7 +13,7 @@ sources:
 - name: DNA
   url: https://www.dnaindia.com/ahmedabad/report-gujarat-urja-vikas-nigam-power-gets-20-paiseunit-costlier-2779017
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The state increased the fuel and power purchase price adjustment charges for electricity consumers of Gujarat Urja Vikas Nigam Ltd. by $0.002 while the charges for Torrent Power Ltd (TPL) will remain unchanged at $0.029 per unit.

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://karunadu.karnataka.gov.in/kerc/TariffOrders2022/Order/BESCOM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,7 +14,7 @@ sources:
 - name: The Hindu Business Line
   url: https://www.thehindubusinessline.com/companies/ntpc-pgcil-form-jv-to-enter-power-distribution-business/article28110345.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The National Thermal Power Corporation and PowerGrid Corporation of India Limited have jointly agreed to set up the National Electricity Distribution Company Limited, a joint venture where each company would hold 50 percent of the equity.

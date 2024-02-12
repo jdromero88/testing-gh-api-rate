@@ -16,6 +16,6 @@ sources:
 details:
 - name: BRI March 2020 Report
   url: https://icrier.org/pdf/2-March-2020/BRI.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

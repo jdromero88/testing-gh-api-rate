@@ -13,6 +13,6 @@ sources:
 details:
 - url: https://results.eci.gov.in/ResultAcGenMar2022/partywiseresult-S19.htm?st=S19
   name: ECI Results
-is_analysis: false
+is_newsletter: false
 
 ---

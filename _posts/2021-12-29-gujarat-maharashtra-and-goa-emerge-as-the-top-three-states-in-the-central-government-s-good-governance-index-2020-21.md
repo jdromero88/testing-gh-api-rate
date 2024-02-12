@@ -20,6 +20,6 @@ details:
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1785140
 - name: Good Governance Index, 2020-21
   url: https://darpg.gov.in/sites/default/files/GGI_Report_22.12.2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

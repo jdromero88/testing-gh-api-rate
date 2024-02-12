@@ -16,6 +16,6 @@ details:
   url: https://investingintamilnadu.com/TNPDF/policies/Tamil%20Nadu%20FinTech%20Policy%202021%20Final%20Web%20Copy%20(1).pdf
 - name: Press Release
   url: https://cms.tn.gov.in/sites/default/files/press_release/pr231121_1179.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

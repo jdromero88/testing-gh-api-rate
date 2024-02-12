@@ -15,6 +15,6 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/himachal-pradesh-reduces-subsidies/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Meghalaya approves an amendment to the Meghalaya Excise Amendment Rules, 2021
 date: 2023-11-08T14:36:38.720Z
 states:

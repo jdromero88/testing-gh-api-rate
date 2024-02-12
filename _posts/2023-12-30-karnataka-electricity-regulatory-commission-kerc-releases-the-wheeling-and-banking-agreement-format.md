@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka Electricity Regulatory Commission (KERC) releases the Wheeling
   and Banking Agreement Format
 date: 2023-04-26T19:21:15.433Z

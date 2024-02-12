@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Chandigarh proposes the Chandigarh Startup Policy
 date: 2023-11-01T14:05:17.449Z
 states:

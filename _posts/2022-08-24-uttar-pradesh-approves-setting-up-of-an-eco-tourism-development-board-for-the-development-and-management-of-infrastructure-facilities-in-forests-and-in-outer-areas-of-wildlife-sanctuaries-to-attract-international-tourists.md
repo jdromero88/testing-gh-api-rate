@@ -18,6 +18,6 @@ details:
   url: https://twitter.com/UPGovt/status/1559552184534331395
 - name: Cabinet Decisions (press conference video)
   url: https://twitter.com/UPGovt/status/1559439687277690880
-is_analysis: false
+is_newsletter: false
 
 ---

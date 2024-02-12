@@ -16,6 +16,6 @@ sources:
 details:
 - name: JERC Order
   url: http://jercuts.gov.in/writereaddata/UploadFile/tariff%20order%20andaman_1857.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,7 +13,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/pti-stories/centre-deallocates-coal-block-allotted-to-pfc-arm-for-power-project-120010500461_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The center has deallocated a coal block in Odisha allotted to the Power Finance Corporation for a 4,000 megawatt power project on account of nine years of delays in the development of the mine.

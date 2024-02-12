@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order (RERC Regulations, 2021)
   url: https://rerc.rajasthan.gov.in/rerc-user-files/office-orders
-is_analysis: false
+is_newsletter: false
 
 ---

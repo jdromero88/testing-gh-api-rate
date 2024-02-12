@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: The Parliament passes the Government of National Capital Territory of
   Delhi (Amendment) Bill, 2023
 date: 2023-08-08T16:18:07.696Z

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Order details
   url: http://uperc.org/App_File/Pt-no-1411of2019UPPCL-23-01-19-pdf124201961126PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh Electricity Regulatory Commission approved amendments to the bidding documents for the procurement of bagasse (or sorghum fiber)-based power from generators by the Uttar Pradesh Power Corporation Ltd.

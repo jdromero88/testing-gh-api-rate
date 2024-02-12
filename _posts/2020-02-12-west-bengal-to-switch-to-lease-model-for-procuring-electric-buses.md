@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/kolkata/west-bengal-to-switch-to-lease-model-for-procuring-electric-buses/articleshowprint/74049614.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The West Bengal government has decided to switch to “lease model” for procuring new electric buses to overcome high initial capital expenditure, a senior official of the state transport department said.

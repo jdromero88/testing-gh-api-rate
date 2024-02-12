@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister's Tweet
   url: https://twitter.com/CMOGuj/status/1401129743047565313
-is_analysis: false
+is_newsletter: false
 
 ---

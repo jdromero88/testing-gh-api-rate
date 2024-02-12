@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/chennai/tangedco-gets-nod-to-float-tenders-for-solar-wind-power-projects/articleshowprint/66741967.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Tamil Nadu Electricity Regulation Commission approved a proposal by Tangedco to float solar and wind power tenders for the current financial year. The commission has set a minimum tariff of $0.04 per kilowatt-hour, or unit, for solar power and $0.03 per unit for wind power.

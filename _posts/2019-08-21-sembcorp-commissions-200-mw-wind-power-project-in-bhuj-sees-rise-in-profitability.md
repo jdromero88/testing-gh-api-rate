@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/business/india-business/sembcorp-commissions-200-mw-wind-power-project-in-bhuj-sees-rise-in-profitability/articleshowprint/70700660.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Indian arm of Singapore-based Sembcorp Industries said that it has commissioned 200 MW of wind power for a project at Bhuj in Gujarat. The effort is designed to increase the project’s total generating capacity to 450 MW and to become the largest producer of electricity from wind energy in the country.

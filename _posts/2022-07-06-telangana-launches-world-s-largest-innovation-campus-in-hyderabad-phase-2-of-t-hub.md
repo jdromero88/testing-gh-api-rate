@@ -17,6 +17,6 @@ details:
   url: https://t-hub.co/
 - name: CMO Twitter
   url: https://twitter.com/TelanganaCMO/status/1541762228029759488
-is_analysis: false
+is_newsletter: false
 
 ---

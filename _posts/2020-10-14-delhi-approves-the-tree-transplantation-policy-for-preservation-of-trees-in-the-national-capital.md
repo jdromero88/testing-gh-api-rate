@@ -16,6 +16,6 @@ sources:
 details:
 - name: Policy
   url: http://web.delhi.gov.in/wps/wcm/connect/0dfe530048ffdb97887f9a26edbf4824/Tpolicy.pdf?MOD=AJPERES&lmod=807584386&CACHEID=0dfe530048ffdb97887f9a26edbf4824
-is_analysis: false
+is_newsletter: false
 
 ---

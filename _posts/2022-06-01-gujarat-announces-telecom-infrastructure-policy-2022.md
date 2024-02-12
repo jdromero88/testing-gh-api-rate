@@ -14,6 +14,6 @@ sources:
 details:
 - name: Policy
   url: https://dst.gujarat.gov.in/Portal/Document/1_471_ROW%20POLICY%20OF%20GUJARAT%20STATE_25.05.2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

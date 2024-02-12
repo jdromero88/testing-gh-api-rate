@@ -13,7 +13,7 @@ sources:
 - name: Financial Express
   url: https://www.financialexpress.com/economy/uttar-pradesh-keeps-local-units-out-system-only-for-inter-state-buys/1662356/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh Power Corporation will adhere to the letter of credit system for power purchases from August 1, 2019, but has kept independent power producers within the state outside of the new payment security mechanism.

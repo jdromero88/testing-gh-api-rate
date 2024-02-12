@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra approves the Green Hydrogen Policy
 date: 2023-07-12T19:53:12.879Z
 states:

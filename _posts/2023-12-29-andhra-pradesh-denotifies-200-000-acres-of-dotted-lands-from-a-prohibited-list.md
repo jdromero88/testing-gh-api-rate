@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh denotifies 200,000 acres of dotted lands from a prohibited list
 date: 2023-05-24T16:48:17.240Z
 states:

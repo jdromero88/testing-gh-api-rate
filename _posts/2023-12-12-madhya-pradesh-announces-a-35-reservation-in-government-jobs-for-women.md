@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh announces a 35% reservation in government jobs for women
 date: 2023-10-11T18:16:06.904Z
 states:

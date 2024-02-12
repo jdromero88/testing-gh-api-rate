@@ -12,6 +12,6 @@ sources:
 - name: Republic World
   url: https://www.republicworld.com/india-news/general-news/haryana-govt-amends-reservation-quota-income-limit-reduced-to-rs-6-lakhs-for-ews.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

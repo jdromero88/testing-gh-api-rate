@@ -16,6 +16,6 @@ sources:
 details:
 - name: Bill
   url: http://www.punjabassembly.nic.in/images/docs/Bill%20No.12-PLA-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

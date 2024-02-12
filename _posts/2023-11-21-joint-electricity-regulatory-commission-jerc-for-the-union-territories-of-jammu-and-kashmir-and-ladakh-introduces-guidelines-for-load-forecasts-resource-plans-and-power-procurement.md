@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Joint Electricity Regulatory Commission (JERC) for the Union Territories
   of Jammu and Kashmir and Ladakh introduces guidelines for load forecasts,
   resource plans, and power procurement process applicable to the Jammu and

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra signs a Memorandum of Understanding (MoU) with the National
   Hydro Power Corporation and Torrent Power
 date: 2023-06-14T14:49:18.459Z

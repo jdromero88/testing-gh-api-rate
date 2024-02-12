@@ -17,6 +17,6 @@ sources:
 details:
 - name: Notification
   url: https://www.uperc.org/App_File/1845-pdf517202252337PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: State Energy Efficiency Index 2020
   url: https://stateenergyefficiencyindex.in/wp-content/uploads/2021/10/SEEI-2020-Report-Final-web.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

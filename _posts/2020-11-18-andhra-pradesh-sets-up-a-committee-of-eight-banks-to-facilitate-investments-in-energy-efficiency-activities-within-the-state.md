@@ -16,6 +16,6 @@ sources:
 details:
 - name: BEE’s Scheme
   url: https://beeindia.gov.in/sites/default/files/PRGFEE_0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

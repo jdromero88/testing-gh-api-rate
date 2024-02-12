@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa notifies the Goa Logistics and Warehousing Policy, 2023
 date: 2023-06-14T06:40:24.658Z
 states:

@@ -13,7 +13,7 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/dehradun/uttarakhand-approves-comprehensive-mobility-plan-for-3-cities-including-dehradun/story-qVdTtPWLrX8sYzgvNFJ5jP.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttarakhand government has approved an extensive metro rail project, including the construction of Personal Rapid Transit in the state.

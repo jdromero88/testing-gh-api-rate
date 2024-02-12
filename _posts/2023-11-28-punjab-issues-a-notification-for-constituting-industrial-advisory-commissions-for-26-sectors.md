@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Punjab issues a notification for constituting industrial advisory
   commissions for 26 sectors "
 date: 2023-11-01T14:03:45.176Z

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Footwear and Leather Policy 2022
   url: https://investingintamilnadu.com/DIGIGOV/StaticAttachment?AttachmentFileName=/pdf/poli_noti/Footwear_and_Leather_Products_Policy_2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

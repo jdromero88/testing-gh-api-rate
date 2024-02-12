@@ -14,6 +14,6 @@ sources:
 details:
 - name: Draft Rules
   url: https://powermin.gov.in/sites/default/files/webform/notices/Seeking_comments_on_Draft_Electricity_Promoting_renewable_energy_through_Green_Energy_Open_Access%20_Rules_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

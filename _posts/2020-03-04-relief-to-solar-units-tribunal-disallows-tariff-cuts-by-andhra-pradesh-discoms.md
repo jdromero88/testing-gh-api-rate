@@ -16,7 +16,7 @@ sources:
 details:
 - name: Judgement
   url: http://aptel.gov.in/sites/default/files/A.Nos.%20368%20of%202019,369%20of%202019,%20370%20of%202019,%20371%20of%202019,%20372%20of%202019%20and%20373%20of%202019_27.02.20.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Appellate Tribunal For Electricity has disallowed tariff cuts by state-owned power distribution companies.

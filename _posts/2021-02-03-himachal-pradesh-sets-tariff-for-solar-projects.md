@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tariff Order
   url: http://hperc.org/File/SM79-2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Himachal Pradesh** issues a levelized tariff for solar projects with a maximum size of five megawatts. The tariff is applicable for the period 2020-21.

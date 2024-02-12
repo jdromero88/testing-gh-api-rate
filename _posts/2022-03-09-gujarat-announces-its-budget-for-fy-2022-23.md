@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget in brief 2022-23
   url: https://financedepartment.gujarat.gov.in/Documents/Bud-Eng_1100_2022-3-3_212.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

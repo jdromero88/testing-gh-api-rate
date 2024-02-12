@@ -15,7 +15,7 @@ sources:
 details:
 - name: Lala Lajpat Rai Memorial (LLRM) Medical College
   url: http://llrmmedicalcollege.nic.in/index.html
-is_analysis: false
+is_newsletter: false
 
 ---
 The city of Meerut opened its first Culture and Drug Sensitivity Lab on Wednesday to check adverse drug reactions on Tuberculosis patients at Lala Lajpat Rai Memorial (LLRM) Medical College.

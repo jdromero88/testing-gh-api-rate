@@ -14,7 +14,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/uttar-pradesh-discom-deposit-%E2%82%B97-billion-rpo-fund/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh Energy Regulatory Commission (UPERC) has directed the Uttar Pradesh Power Corporation Limited (UPPCL) to create a separate RPO Regulatory Fund. The commission has asked UPPCL to deposit an amount of $103.3 million (₹7.37 billion).

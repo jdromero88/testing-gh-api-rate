@@ -15,6 +15,6 @@ sources:
 details:
 - name: CMO’s Tweet
   url: https://twitter.com/NBirenSingh/status/1303294715605868544?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,7 +14,7 @@ sources:
 - name: Outlook India
   url: https://www.outlookindia.com/newsscroll/jk-inks-mou-with-undp-to-strengthen-immunization-supply-chain-system/1688197
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Jammu and Kashmir administration signed an MOU with the United Nations Development Programme India to strengthen immunization supply chain system in the union territory, according to an official spokesperson.

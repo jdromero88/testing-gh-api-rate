@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi government launches a “one-time settlement scheme” for pending
   arrear bills
 date: 2023-06-21T17:25:24.080Z

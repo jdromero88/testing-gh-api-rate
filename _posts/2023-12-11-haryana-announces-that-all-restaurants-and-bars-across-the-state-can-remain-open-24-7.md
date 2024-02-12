@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana announces that all restaurants and bars across the state can
   remain open 24/7
 date: 2023-07-12T19:49:58.255Z

@@ -18,6 +18,6 @@ sources:
 details:
 - name: National Portal for Rooftop Solar
   url: https://solarrooftop.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

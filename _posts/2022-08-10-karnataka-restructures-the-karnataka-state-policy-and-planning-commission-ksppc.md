@@ -14,6 +14,6 @@ sources:
 details:
 - name: CMO Twitter
   url: https://twitter.com/CMofKarnataka/status/1556173982679781376
-is_analysis: false
+is_newsletter: false
 
 ---

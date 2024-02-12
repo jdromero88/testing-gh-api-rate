@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana announces a complete waiver of taxes and penalties on outstanding
   property tax
 date: 2023-10-11T18:15:23.932Z

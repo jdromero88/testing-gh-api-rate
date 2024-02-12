@@ -14,6 +14,6 @@ sources:
 details:
 - url: https://finance.punjab.gov.in/uploads/10Mar2023/Budget_Speech_English.pdf
   name: Budget 2023-24
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Cabinet Decisions
   url: https://cm.jharkhand.gov.in/sites/default/files/cabinet_decision_30_03_2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

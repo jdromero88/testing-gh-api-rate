@@ -13,6 +13,6 @@ sources:
 - name: Indian Express
   url: https://indianexpress.com/article/india/goa-g-ovt-approves-new-tourism-policy6730490/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

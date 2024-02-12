@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://dipr.rajasthan.gov.in/content/dipr/en/news-detail.226606.html
-is_analysis: false
+is_newsletter: false
 
 ---

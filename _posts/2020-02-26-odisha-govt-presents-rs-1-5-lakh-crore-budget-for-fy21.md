@@ -14,7 +14,7 @@ sources:
 details:
 - name: Budget at a glance
   url: https://budget.odisha.gov.in/budget-glance
-is_analysis: false
+is_newsletter: false
 
 ---
 Odisha budget included a $445 million budget allocation for a livelihood and income scheme, and a $154 million budget allocation for a health coverage.

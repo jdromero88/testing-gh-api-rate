@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/CMOMaharashtra/status/1336669977680650241?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

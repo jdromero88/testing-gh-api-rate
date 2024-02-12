@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-cabinet-reduces-power-tariff-domestic-sector-consumers-having-connected-load-upto-7
-is_analysis: false
+is_newsletter: false
 
 ---

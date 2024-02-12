@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Punjab State Electricity Regulatory Commission (PSERC) introduces the
   Punjab State Electricity Regulatory Commission
 date: 2023-07-05T20:07:51.496Z

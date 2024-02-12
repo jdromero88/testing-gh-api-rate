@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana expands the Ayushman Chirayu Scheme coverage including families
   with an annual income under $3,607, from the earlier cap of annual income of
   $2164

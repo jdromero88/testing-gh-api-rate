@@ -14,6 +14,6 @@ sources:
 details:
 - name: Chief Minister Tweet
   url: https://twitter.com/PemaKhanduBJP/status/1433768941105471497
-is_analysis: false
+is_newsletter: false
 
 ---

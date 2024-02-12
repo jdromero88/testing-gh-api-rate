@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bihar passes the Bihar Reservation Of Vacancies In P&S. (SC, ST & OBC)
   Amendment Bill 2023 reserving seventy-five percent of positions in government
   jobs and educational institutions for people from marginalised castes and

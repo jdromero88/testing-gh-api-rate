@@ -15,6 +15,6 @@ sources:
 details:
 - name: Inaugural Address
   url: https://twitter.com/MinisterKTR/status/1539540520778670080
-is_analysis: false
+is_newsletter: false
 
 ---

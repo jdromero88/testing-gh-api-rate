@@ -15,6 +15,6 @@ details:
 - name: Gazette Notification-Part V-A Ext. No. 23 (17th Aug. 2022) L. A. BILL No.
     XXII OF 2022.
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ccdab71f-7b24-4bbe-a9d4-f624310e66ff
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Nagaland receives permission from the National Medical Commission (NMC)
   to set up the Nagaland Institute of Medical Sciences and Research
 date: 2023-04-26T15:09:53.737Z

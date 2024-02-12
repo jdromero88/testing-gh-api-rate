@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi forms a Special Task Force (STF) to enforce regulations and assist
   in monitoring of air quality
 date: 2023-11-27T16:10:28.108Z

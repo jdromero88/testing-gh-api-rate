@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://uerc.gov.in/ordersPetitions/orders/Misc/2022/may/Order%20dt.%2004.05.22%20on%20benchmark%20capital%20cost.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

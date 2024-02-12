@@ -16,6 +16,6 @@ sources:
 details:
 - name: Cabinet Decision (In Marathi)
   url: https://www.maharashtra.gov.in/Site/upload/CabinetDecision/English/07-10-2020%20Cabinet%20Decision%20(Meeting%20No.40).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

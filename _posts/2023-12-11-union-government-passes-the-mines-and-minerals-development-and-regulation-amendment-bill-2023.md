@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Union Government passes the Mines and Minerals (Development and
   Regulation) Amendment Bill, 2023
 date: 2023-08-02T16:29:39.974Z

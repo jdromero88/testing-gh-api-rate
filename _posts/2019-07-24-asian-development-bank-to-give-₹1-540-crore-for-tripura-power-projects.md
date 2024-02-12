@@ -13,7 +13,7 @@ sources:
 - name: Live Mint
   url: https://www.livemint.com/news/india/asian-development-bank-to-give-rs-1-540-crore-for-tripura-power-projects-1563458913674.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Asian Development Bank will provide $223 million for upgrades in power generation, transmission and distribution projects in Tripura.

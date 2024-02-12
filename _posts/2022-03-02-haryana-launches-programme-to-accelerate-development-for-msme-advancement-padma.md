@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://haryanacmoffice.gov.in/23-february-2022-0
-is_analysis: false
+is_newsletter: false
 
 ---

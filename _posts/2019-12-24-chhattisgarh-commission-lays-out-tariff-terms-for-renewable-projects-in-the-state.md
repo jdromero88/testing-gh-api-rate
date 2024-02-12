@@ -17,7 +17,7 @@ sources:
 details:
 - name: CSERC Regulations
   url: http://www.cserc.gov.in/pdf/Regulations_Notified/83-CSERC%20RE%20traiff%20Regulations%202019%20(English).pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Chhattisgarh State Electricity Regulatory Commission (CSERC) has specified the terms and conditions of tariffs for renewable energy sources for the sale of power to distribution licensees.

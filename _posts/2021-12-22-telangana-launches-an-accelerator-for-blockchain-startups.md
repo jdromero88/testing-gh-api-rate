@@ -14,6 +14,6 @@ sources:
 details:
 - name: Accelerator Website
   url: https://blockchaindistrict.telangana.gov.in/tblock/
-is_analysis: false
+is_newsletter: false
 
 ---

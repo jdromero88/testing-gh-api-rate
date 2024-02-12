@@ -17,7 +17,7 @@ sources:
 details:
 - name: Order
   url: http://pserc.gov.in/pages/Order-in-petition-no-13-of-2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Punjab State Electricity Regulatory Commission has extended the validity of the Central Electricity Regulatory Commission’s Renewable Energy Tariff Regulations, 2017, and the levelized generic tariffs for renewable projects for FY 2019-2020 for another three months.

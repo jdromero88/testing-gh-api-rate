@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff Order
   url: http://www.gercin.org/uploaded/document/ac2c696e-6173-4980-ad45-8a078f052eed.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 In a relief to electricity consumers in the state, the Gujarat Electricity Regulatory Commission announced there would be no power tariff increase for the financial year 2019-20.

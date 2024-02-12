@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget Speech (In Hindi & English)
   url: https://dea.gov.in/sites/default/files/Budget%20Speech%202021-22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

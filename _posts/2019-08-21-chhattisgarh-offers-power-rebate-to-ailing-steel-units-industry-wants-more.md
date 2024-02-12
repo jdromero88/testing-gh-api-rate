@@ -13,7 +13,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/chhattisgarh-offers-power-rebate-to-ailing-steel-units-industry-wants-more-119081401232_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Chhattisgarh government introduced a rebate on power tariffs to specific units. As per the decision of the state government, mini steel plants operating captive power plants of up to 1 MW will be eligible for a discount of $0.011 per unit of power consumed.

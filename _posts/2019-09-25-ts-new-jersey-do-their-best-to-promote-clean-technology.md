@@ -14,7 +14,7 @@ sources:
 details:
 - name: CSIS Press Release
   url: https://www.csis.org/news/us-india-subnational-energy-connections-continue-grow-partnership-between-new-jersey-and
-is_analysis: false
+is_newsletter: false
 
 ---
 The U.S.-India State and Urban Initiative at the Center for Strategic and International Studies (CSIS) facilitated a dialogue between the governments of New Jersey and Telangana to bolster clean tech cooperation between the two states. During New Jersey governor Phil Murphy’s visit to Telangana, the two states signed a sister-state agreement, which included partnerships in a wide range of sectors.

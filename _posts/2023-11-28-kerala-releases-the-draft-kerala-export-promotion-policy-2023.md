@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala releases the Draft Kerala Export Promotion Policy 2023
 date: 2023-11-01T13:59:11.536Z
 states:

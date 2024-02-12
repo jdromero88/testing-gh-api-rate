@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://pib.nic.in/newsite/PrintRelease.aspx?relid=191432
-is_analysis: false
+is_newsletter: false
 
 ---
 The center will support the construction of 300-bed hospital in Sikkim at a cost of $52.2 million after a meeting with a delegation from the Sikkim government, Union Minister of State Development of North Eastern Region Jitendra Singh, and others.

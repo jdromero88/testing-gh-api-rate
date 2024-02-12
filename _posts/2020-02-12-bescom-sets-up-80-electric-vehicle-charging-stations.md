@@ -13,7 +13,7 @@ sources:
 - name: The Hindu
   url: https://www.thehindu.com/news/cities/bangalore/bescom-sets-up-80-electric-vehicle-charging-stations/article30743515.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Bangalore Electricity Supply Company is opening 80 electric vehicle charging stations next week. Once operational, it will be the “first of its kind” network of charging stations run by a public utility, officials said.

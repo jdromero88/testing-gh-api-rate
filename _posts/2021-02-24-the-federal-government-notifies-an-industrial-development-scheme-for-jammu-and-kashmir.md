@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://dipp.gov.in/sites/default/files/Notification-J%26K-NewPolicy-23February2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=24998
-is_analysis: false
+is_newsletter: false
 
 ---

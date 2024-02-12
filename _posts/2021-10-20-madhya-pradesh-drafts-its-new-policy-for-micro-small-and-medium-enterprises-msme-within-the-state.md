@@ -15,6 +15,6 @@ sources:
 details:
 - name: MSME Development Policy
   url: https://mpmsme.gov.in/mpmsmecms/Uploaded%20Document/Documents/MP%20MSMED%20Policy%202021%20Booklet%20English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

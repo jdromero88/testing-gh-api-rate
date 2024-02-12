@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://powermin.gov.in/sites/default/files/webform/notices/Enabling_the_Discoms_to_either_continue_or_exit_from_the_PPA_after_completion.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

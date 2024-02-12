@@ -15,7 +15,7 @@ sources:
 details:
 - name: " Transport Minister’s Tweet"
   url: https://twitter.com/hashtag/SwitchDelhi?src=hashtag_click
-is_analysis: false
+is_newsletter: false
 
 ---
 **Delhi** exempts all electric, battery-operated vehicles from registration fee in the national capital.

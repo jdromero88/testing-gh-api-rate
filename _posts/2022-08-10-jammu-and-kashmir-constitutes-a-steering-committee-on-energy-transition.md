@@ -15,6 +15,6 @@ sources:
 details:
 - name: Government Order
   url: http://jkgad.nic.in/common/showOrder.aspx?actCode=O41853
-is_analysis: false
+is_newsletter: false
 
 ---

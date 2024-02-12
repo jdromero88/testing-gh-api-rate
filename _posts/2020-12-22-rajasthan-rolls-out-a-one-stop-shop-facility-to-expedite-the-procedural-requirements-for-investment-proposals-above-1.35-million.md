@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/ashokgehlot51/status/1339565583470190594?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

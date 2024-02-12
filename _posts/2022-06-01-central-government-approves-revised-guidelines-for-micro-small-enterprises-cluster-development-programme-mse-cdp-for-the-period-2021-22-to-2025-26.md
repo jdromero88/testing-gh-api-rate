@@ -17,6 +17,6 @@ details:
   url: http://www.dcmsme.gov.in/schemes/New-Guidelines.pdf
 - url: https://pib.gov.in/PressReleasePage.aspx?PRID=1828753
   name: Press Release
-is_analysis: false
+is_newsletter: false
 
 ---

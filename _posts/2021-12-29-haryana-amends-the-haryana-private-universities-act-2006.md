@@ -12,6 +12,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/home/education/news/haryana-private-universities-bill-passed/articleshow/88433271.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

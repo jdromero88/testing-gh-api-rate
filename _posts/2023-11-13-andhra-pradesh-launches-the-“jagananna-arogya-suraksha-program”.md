@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh launches the “Jagananna Arogya Suraksha Program”
 date: 2023-10-11T15:16:04.088Z
 states:

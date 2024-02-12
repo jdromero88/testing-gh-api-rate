@@ -17,6 +17,6 @@ sources:
 details:
 - name: Order
   url: https://twitter.com/MPIDC/status/1388859066596790282?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

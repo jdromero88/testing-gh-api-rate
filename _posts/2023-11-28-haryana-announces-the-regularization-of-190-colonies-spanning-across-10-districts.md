@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana announces the regularization of 190 colonies spanning across 10
   districts
 date: 2023-11-01T14:07:56.147Z

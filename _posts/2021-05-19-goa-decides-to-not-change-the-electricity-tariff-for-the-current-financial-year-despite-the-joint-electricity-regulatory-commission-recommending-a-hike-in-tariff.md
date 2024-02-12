@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://jercuts.gov.in/writereaddata/UploadFile/ED%20Goa%20Order%202021-22_1760.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Governor’s Tweet
   url: https://twitter.com/LGov_Puducherry/status/1390589000805601280?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

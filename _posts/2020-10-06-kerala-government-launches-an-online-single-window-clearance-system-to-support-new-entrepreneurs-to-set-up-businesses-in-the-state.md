@@ -15,6 +15,6 @@ sources:
 details:
 - name: KSWIFT
   url: http://www.kswift.kerala.gov.in/index/
-is_analysis: false
+is_newsletter: false
 
 ---

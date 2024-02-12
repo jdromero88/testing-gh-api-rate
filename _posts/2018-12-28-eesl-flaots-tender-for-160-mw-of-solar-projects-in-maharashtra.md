@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/eesl-solar-tender-160-mw-maharashtra/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Energy Efficiency Services Limited has floated a tender for 160 MW of solar projects to be developed near pooling substations across the state of Maharashtra.

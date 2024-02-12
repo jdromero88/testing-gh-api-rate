@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Tamil Nadu launches the “Kalaignar Magalir Urimai Thittam” "
 date: 2023-09-20T15:13:02.578Z
 states:

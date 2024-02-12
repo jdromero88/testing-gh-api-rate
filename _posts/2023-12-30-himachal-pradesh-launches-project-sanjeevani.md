@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh launches Project Sanjeevani
 date: 2023-04-19T19:45:22.225Z
 states:

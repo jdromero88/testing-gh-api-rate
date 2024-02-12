@@ -17,6 +17,6 @@ sources:
 details:
 - name: Guidelines
   url: http://gasab.gov.in/gasab/pdf/Guidelines_June2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

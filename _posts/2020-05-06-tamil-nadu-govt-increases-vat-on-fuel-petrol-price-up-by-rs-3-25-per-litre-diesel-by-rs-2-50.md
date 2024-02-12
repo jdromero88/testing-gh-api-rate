@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Information Bureau Daily Bulletin
   url: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1620974
-is_analysis: false
+is_newsletter: false
 
 ---
 The Tamil Nadu government has increased VAT on fuel. With the revised VAT, petrol and diesel prices have increased by $0.04 per liter and $0.03 per liter respectively.

@@ -14,7 +14,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/discoms-to-pay-full-tariff-during-non-supply-period-to-renewable-gencos-mnre/articleshow/70470006.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The central government announced that the power distribution companies will pay the agreed full tariff to the renewable energy producers during the period of non-supply of electricity.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget Speech
   url: applewebdata://01844DCB-0AF8-4977-A4BF-D0AEBD3E8D9C/Meghalaya%20announces%20its%20budget%20for%20FY%202022-23.%20The%20budget%20estimates%20the%20state’s%20total%20receipt%20and%20expenditure%20at%20$2.43%20billion%20and%20$2.52%20billion
-is_analysis: false
+is_newsletter: false
 
 ---

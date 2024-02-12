@@ -13,6 +13,6 @@ sources:
 - name: United News of India
   url: https://www.uniindia.com/story/Kerala-Cabinet-gives-in-principle-approval-for--Canoli-Canal-development-project
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

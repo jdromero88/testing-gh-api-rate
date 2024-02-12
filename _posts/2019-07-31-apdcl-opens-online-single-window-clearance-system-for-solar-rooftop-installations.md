@@ -14,7 +14,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/apdcl-opens-online-single-window-clearance-system-for-solar-rooftop-installations/articleshow/70307534.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Assam Power Distribution Company Limited (APDCL) has come up with a single-window clearance system for accelerating deployment of grid-connected solar rooftop installations.

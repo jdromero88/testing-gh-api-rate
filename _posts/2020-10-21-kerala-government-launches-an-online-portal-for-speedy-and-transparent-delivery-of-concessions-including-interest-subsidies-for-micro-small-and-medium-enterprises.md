@@ -16,6 +16,6 @@ sources:
 details:
 - name: Portal
   url: http://industry.kerala.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

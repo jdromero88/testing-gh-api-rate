@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Chandigarh proposes the Chandigarh Startup Policy, aiming to boost
   innovation and research in sectors such as education, health, and information
   technology (IT)

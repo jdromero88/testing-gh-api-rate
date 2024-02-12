@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification (Gazette No. 497)
   url: https://jharkhandgazette.nic.in/SearchNotific.aspx
-is_analysis: false
+is_newsletter: false
 
 ---

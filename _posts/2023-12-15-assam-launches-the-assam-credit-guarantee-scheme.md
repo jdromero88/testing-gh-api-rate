@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Assam launches the Assam Credit Guarantee Scheme "
 date: 2023-06-21T14:19:53.739Z
 states:

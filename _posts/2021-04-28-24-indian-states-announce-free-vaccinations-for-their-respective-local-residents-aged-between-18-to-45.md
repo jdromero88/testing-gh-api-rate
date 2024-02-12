@@ -14,6 +14,6 @@ sources:
 - name: India Today
   url: https://www.indiatoday.in/coronavirus-outbreak/vaccine-updates/story/full-list-of-states-providing-free-covid-19-vaccine-from-may-1-1795067-2021-04-26
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

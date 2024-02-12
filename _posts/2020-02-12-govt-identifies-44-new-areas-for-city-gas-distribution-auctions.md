@@ -13,7 +13,7 @@ sources:
 - name: Financial Express
   url: https://www.financialexpress.com/economy/govt-identifies-44-new-areas-for-city-gas-distribution-auctions/1857915/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Petroleum and Natural Gas Regulatory Board has proposed 44 new geographical areas for the upcoming round of bidding for city gas distribution. The current network covers 232 geographical areas in 27 states.

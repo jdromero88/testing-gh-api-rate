@@ -17,6 +17,6 @@ sources:
 details:
 - name: India Skills Report
   url: https://www.cii.in/PublicationDetail.aspx?enc=tqg4pk6AY1Uj+SwRfF02NhuILvTKQ6CEkGTvjhN8hYA=
-is_analysis: false
+is_newsletter: false
 
 ---

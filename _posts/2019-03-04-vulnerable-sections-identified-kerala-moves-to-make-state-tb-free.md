@@ -13,7 +13,7 @@ sources:
 - name: The Indian Express
   url: https://indianexpress.com/article/lifestyle/health/vulnerable-sections-identified-kerala-moves-to-make-state-tb-free-5609439/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 India has the highest tuberculosis burden in the world, but in Kerala, the incidence is already down to 44 cases per 100,000 population. 

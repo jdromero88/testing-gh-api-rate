@@ -15,7 +15,7 @@ sources:
 details:
 - name: Healthy States Progressive India Report - 2019
   url: https://niti.gov.in/writereaddata/files/document_publication/NITI-WB%20Health%20Index%20Report%20%28Web%20Ver%29_11-06-19.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 NITI Aayog released the second edition of its State Health Index, ranking Kerala as the healthiest state in India, and Uttar Pradesh as the unhealthiest.

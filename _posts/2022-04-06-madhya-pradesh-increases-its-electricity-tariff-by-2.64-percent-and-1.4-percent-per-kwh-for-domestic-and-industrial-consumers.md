@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://www.mperc.in/31032022-DISCOM-MYT-Order-FY-2022-23-to-FY-2026-27.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

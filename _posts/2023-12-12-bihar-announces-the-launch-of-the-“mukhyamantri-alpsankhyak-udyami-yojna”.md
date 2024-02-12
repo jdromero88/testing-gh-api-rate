@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bihar announces the launch of the “Mukhyamantri Alpsankhyak Udyami Yojna”
 date: 2023-10-04T18:25:47.170Z
 states:

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra approves an amendment to the Maharashtra Slum Areas
   (Improvement, Clearance, and Redevelopment) Act of 1971
 date: 2023-08-02T16:26:50.513Z

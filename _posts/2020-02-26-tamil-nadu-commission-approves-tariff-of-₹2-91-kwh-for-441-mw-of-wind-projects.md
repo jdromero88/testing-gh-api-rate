@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tariff Order
   url: http://www.tnerc.gov.in/orders/commn%20order/2020/TANGEDCO-MPNo1of2020%20.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Tamil Nadu Electricity Regulatory Commission approved a tariff rate of \~$0.04 per kilowatt-hour for procuring about 441 MW of wind power through the Solar Energy Corporation of India for 25 years.

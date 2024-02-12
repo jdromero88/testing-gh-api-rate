@@ -17,6 +17,6 @@ sources:
 details:
 - name: Scheme Details (in Hindi)
   url: https://sects.up.gov.in/public/PDF/SECTS%20GO.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

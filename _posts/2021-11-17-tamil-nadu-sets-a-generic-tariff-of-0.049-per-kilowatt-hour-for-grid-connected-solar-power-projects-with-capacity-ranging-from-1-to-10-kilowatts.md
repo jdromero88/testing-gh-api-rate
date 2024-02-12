@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff order
   url: http://www.tnerc.gov.in/Orders/files/TO-Order%20No%20251020211341.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

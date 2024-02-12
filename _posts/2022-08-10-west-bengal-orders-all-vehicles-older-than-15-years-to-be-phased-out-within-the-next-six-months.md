@@ -17,6 +17,6 @@ sources:
 details:
 - name: Order
   url: https://greentribunal.gov.in/gen_pdf_test.php?filepath=L25ndF9kb2N1bWVudHMvbmd0L2Nhc2Vkb2MvanVkZ2VtZW50cy9LT0xLQVRBLzIwMjItMDctMjYvMTY1ODgyOTg4MzEyMjQwMjU3OTA2MmRmYmMzYjNmZDA2LnBkZg==
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,7 +13,7 @@ sources:
 - name: Daiji World
   url: http://www.daijiworld.com/news/newsDisplay.aspx?newsID=703662
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Meghalaya government has decided to allow mining activities to resume from May 4 for domestic purpose and has barred the export outside the country.

@@ -14,6 +14,6 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/oil-and-gas/assam-cabinet-increases-compensation-to-be-paid-by-oil-exploration-companies-for-private-land-acquisition/83846346
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

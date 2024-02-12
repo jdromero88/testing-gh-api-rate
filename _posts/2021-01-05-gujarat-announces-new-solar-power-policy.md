@@ -15,7 +15,7 @@ sources:
 details:
 - url: https://guj-epd.gujarat.gov.in/uploads/Solar_Power_Policy_2021_B1.PDF
   name: Solar Power Policy (2021)
-is_analysis: false
+is_newsletter: false
 
 ---
 **Gujarat** announces its new solar power policy. The policy has multiple incentives for reducing the share of coal-based power in the state’s energy mix.

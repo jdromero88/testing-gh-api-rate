@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://twitter.com/IPR_Odisha/status/1488149746745176066
-is_analysis: false
+is_newsletter: false
 
 ---

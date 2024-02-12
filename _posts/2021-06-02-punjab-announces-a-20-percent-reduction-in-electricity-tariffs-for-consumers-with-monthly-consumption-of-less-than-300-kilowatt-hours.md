@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Note
   url: http://pserc.gov.in/pages/Press%20Note%20FY%202021-22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

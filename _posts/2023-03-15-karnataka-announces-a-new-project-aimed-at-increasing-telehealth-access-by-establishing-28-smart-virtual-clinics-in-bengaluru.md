@@ -19,6 +19,6 @@ sources:
 details:
 - name: Twitter
   url: https://twitter.com/CMofKarnataka/status/1634522907652280321
-is_analysis: false
+is_newsletter: false
 
 ---

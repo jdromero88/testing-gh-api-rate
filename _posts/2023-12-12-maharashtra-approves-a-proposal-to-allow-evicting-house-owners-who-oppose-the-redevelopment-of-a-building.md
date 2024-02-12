@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra approves a proposal to allow evicting house owners who oppose
   the redevelopment of a building
 date: 2023-10-11T18:12:47.145Z

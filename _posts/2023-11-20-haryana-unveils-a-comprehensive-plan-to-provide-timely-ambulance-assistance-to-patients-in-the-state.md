@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana unveils a comprehensive plan to provide timely ambulance
   assistance to patients in the state
 date: 2023-10-25T20:01:47.975Z

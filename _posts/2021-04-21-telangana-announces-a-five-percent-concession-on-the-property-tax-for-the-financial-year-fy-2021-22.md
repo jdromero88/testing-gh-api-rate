@@ -15,6 +15,6 @@ sources:
 details:
 - name: Circular
   url: https://cdma.telangana.gov.in/pdfs/Circular_rebate.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

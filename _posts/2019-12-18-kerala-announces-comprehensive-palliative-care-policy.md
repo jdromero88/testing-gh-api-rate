@@ -12,7 +12,7 @@ sources:
 - name: The News Minute
   url: https://www.thenewsminute.com/article/kerala-announces-comprehensive-palliative-care-policy-113924
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Kerala has announced a new comprehensive Palliative Care Policy 2019 for the critically-ill with an aim to provide them with “high quality service with social support”.

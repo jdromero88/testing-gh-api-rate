@@ -15,7 +15,7 @@ sources:
 details:
 - name: Notification
   url: http://nagalandtax.nic.in/docs/Notification/Act/Issued%20by%20Finance%20Department/Petroleum/2020/Petro%20rate.jpg
-is_analysis: false
+is_newsletter: false
 
 ---
 **Nagaland** hikes tax on diesel and petrol from 14.5 percent to 17.50 percent per liter.

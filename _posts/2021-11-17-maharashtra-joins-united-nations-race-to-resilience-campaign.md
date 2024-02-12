@@ -14,6 +14,6 @@ sources:
 details:
 - name: Environment Minister's Tweet
   url: https://twitter.com/AUThackeray/status/1457818534361321473?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

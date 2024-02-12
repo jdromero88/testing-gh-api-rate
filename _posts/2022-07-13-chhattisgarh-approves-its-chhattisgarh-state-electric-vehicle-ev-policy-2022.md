@@ -18,6 +18,6 @@ details:
   url: https://twitter.com/ChhattisgarhCMO/status/1545081938112757761
 - name: Cabinet Decisions
   url: https://dprcg.gov.in/post/1657203113/Raipur_:_Cabinet_Meeting
-is_analysis: false
+is_newsletter: false
 
 ---

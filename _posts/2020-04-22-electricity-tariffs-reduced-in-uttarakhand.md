@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff Order
   url: http://www.uerc.gov.in/press_release_2020-21/upcl/english.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttarakhand Electricity Regulatory Commission has announced new electricity rates for the year 2020-21. In all categories, the average has been reduced by 4 percent. **Source:** [UNN](https://uttarakhandnewsnetwork.com/2020/04/electricity-tariffs-reduced-in-uttarakhand/); **In detail:** [Tariff order](http://www.uerc.gov.in/press_release_2020-21/upcl/english.pdf)

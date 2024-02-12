@@ -16,6 +16,6 @@ sources:
 details:
 - name: Government Order (Twitter)
   url: https://twitter.com/supriyasahuias/status/1547140316658302978
-is_analysis: false
+is_newsletter: false
 
 ---

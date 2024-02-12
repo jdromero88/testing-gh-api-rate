@@ -14,6 +14,6 @@ sources:
 details:
 - name: Excise Policy, 2022-23
   url: https://www.dailyexcelsior.com/wp-content/uploads/2022/02/SO-71-Excise-Policy-2022-23-dated-22.02.2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

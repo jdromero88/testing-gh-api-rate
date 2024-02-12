@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu releases the Tamil Nadu Tourism Policy 2023
 date: 2023-12-07T04:45:17.291Z
 states:

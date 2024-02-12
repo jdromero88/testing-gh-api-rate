@@ -14,7 +14,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/newsite/PrintRelease.aspx?relid=194225
-is_analysis: false
+is_newsletter: false
 
 ---
 The Environment Pollution (Prevention and Control) Authority declared a public health emergency in Delhi as the pollution levels in the region entered the severe plus category.

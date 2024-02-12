@@ -16,6 +16,6 @@ sources:
 details:
 - name: Amendment
   url: http://www.tnerc.gov.in/Regulation/files/Reg-070420221039Eng.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 - url: https://www.newindianexpress.com/states/kerala/2023/mar/16/cabinet-nod-for-kerala-fiber-optic-network-project-terms-2556468.html
   name: New Indian Expree
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -17,6 +17,6 @@ sources:
 details:
 - name: Export Preparedness Index 2020
   url: https://niti.gov.in/sites/default/files/2020-08/Digital_ExportPreparednessIndex2020_0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

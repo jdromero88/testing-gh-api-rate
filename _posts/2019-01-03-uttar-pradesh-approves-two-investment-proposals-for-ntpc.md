@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/renewable/ntpc-gets-investment-approval-for-160-mw-solar-power-projects-in-up/67258720
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The National Thermal Power Corporation (NTPC) announced it has received investment approvals for two solar power projects of 160 MW capacity in Uttar Pradesh.

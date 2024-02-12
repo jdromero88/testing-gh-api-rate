@@ -14,6 +14,6 @@ sources:
 details:
 - name: Revenue Minister’s Tweet
   url: https://twitter.com/SmtJMOfficial/status/1329800417992085507?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

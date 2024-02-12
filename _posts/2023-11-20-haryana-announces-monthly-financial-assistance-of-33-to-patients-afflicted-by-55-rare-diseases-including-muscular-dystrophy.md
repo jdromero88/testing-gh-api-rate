@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana announces monthly financial assistance of $33 to patients
   afflicted by 55 rare diseases, including muscular dystrophy
 date: 2023-10-11T20:07:25.253Z

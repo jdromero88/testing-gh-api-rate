@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam Environment and Forest Department issues a notification prohibiting
   the manufacture, import, stocking, distribution, sale, and use of plastic
   water bottles

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: https://jkgad.nic.in/common/showOrder.aspx?actCode=S38382
-is_analysis: false
+is_newsletter: false
 
 ---

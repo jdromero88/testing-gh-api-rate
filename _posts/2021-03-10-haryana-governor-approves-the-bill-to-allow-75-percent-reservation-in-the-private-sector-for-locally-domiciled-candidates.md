@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.prharyana.gov.in/en/haryana-minister-of-state-for-labour-and-employment-sh-anoop-dhanak-said-the-state-has-given-a
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Solar Power Policy 2021
   url: https://guj-epd.gujarat.gov.in/uploads/Solar_Power_Policy_2021_B1.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

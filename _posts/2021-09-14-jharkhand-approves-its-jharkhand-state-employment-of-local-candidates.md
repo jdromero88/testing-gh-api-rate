@@ -12,6 +12,6 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/india-news/jharkhand-assembly-clears-bill-on-75-quota-for-locals-in-private-sector-101631126684055.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

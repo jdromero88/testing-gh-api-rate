@@ -14,6 +14,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/delhi/over-1-lakh-10-year-old-diesel-vehicles-deregistered-in-delhi/articleshow/88642316.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

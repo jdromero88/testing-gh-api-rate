@@ -15,7 +15,7 @@ sources:
 details:
 - name: Collector of Electricity Duty
   url: http://ceiced.ncode.in/CED/
-is_analysis: false
+is_newsletter: false
 
 ---
 Gujarat government launched a web portal to allow industrial units to make online application for waiver of electricity duty.

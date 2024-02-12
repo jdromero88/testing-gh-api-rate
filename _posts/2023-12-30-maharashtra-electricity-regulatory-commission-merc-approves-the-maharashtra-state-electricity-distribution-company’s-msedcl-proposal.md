@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra Electricity Regulatory Commission (MERC) approves the
   Maharashtra State Electricity Distribution Company’s (MSEDCL) proposal
 date: 2023-05-24T06:39:47.097Z

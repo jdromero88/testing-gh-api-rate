@@ -15,7 +15,7 @@ sources:
 details:
 - name: Draft Regulations
   url: https://herc.gov.in/WriteReadData/Pdf/D20210324.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Haryana** Electricity Regulatory Commission issues draft regulations for net metering. Per the draft, open access solar consumers in the state will not be allowed net metering facility. Net metering allows consumers to export their surplus energy back into the grid.

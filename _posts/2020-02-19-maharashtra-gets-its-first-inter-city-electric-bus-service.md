@@ -13,7 +13,7 @@ sources:
 - name: Money Control
   url: https://www.moneycontrol.com/news/technology/auto/maharashtra-gets-its-first-inter-city-electric-bus-service-4946371.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Maharashtra’s first inter-city electric bus service rolled out on February 14 with the inauguration of the Mumbai to Pune service.

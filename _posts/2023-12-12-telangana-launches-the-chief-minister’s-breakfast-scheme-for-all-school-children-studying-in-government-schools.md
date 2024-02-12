@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana launches the Chief Minister’s Breakfast Scheme for all school
   children studying in government schools
 date: 2023-10-11T18:13:52.160Z

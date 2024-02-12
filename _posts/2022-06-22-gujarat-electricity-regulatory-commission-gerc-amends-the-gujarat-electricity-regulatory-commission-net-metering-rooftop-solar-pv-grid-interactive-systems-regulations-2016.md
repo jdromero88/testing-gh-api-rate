@@ -18,6 +18,6 @@ sources:
 details:
 - name: Regulation
   url: https://gercin.org/wp-content/uploads/2022/05/Notification-No.-02-of-2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

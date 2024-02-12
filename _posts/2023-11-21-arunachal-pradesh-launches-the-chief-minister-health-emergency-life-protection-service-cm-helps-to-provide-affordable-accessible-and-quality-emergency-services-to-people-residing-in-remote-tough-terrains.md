@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Arunachal Pradesh launches the Chief Minister Health Emergency Life
   Protection Service (CM HELPS) to provide affordable, accessible, and quality
   emergency services to people residing in remote, tough terrains

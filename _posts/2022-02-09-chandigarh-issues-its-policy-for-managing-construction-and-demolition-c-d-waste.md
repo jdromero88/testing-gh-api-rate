@@ -17,6 +17,6 @@ sources:
 details:
 - name: Notification
   url: https://chandigarh.gov.in/sites/default/files/jan2022/lg22-1533-0102.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

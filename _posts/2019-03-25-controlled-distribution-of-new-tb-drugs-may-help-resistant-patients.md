@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/jaipur/controlled-distribution-of-new-tb-drugs-may-help-resistant-patients/articleshow/68553417.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The state's health department's plan of controlled distribution of new tuberculosis drugs limits patient-use in hope of combating multi-drug-resistant tuberculosis (MDR-TB). Committees at government-run medical colleges decide which MDR-TB patients receive each new drug.

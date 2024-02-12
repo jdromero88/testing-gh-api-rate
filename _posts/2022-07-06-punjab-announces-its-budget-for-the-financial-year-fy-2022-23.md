@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget
   url: https://finance.punjab.gov.in/uploads/05Jul2022/c86fe66f-0a1c-4c34-9c07-6fd440b98816_20220705152110.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha approves the “Ama Hospital” scheme which aims to improve
   infrastructure and ensure sufficient manpower in the state-run healthcare
   facilities

@@ -18,6 +18,6 @@ sources:
 details:
 - name: CMO Twitter
   url: https://twitter.com/PemaKhanduBJP/status/1552665916810629120
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 - url: https://indianexpress.com/article/cities/ahmedabad/gujarat-assembly-passes-bill-to-regulate-private-healthcare-sector-7254977/
   name: Indian Express
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

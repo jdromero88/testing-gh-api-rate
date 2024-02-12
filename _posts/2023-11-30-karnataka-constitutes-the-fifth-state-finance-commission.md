@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka constitutes the fifth State Finance Commission
 date: 2023-10-18T14:57:14.644Z
 states:

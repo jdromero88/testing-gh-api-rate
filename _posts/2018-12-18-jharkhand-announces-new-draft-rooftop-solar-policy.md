@@ -15,7 +15,7 @@ sources:
 details:
 - name: Draft Jharkhand Rooftop Solar Policy
   url: http://jreda.com/tenders/pdf/2017/28_11_17_drft_of_solr%20_pwr_roftop%20_plcy.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Jharkhand Renewable Energy Development Agency announced that it has prepared a framework for the state rooftop policy 2018 with an objective to produce 500 megawatts (MW) of power through grid-connected rooftop solar plants by 2022.  

@@ -18,6 +18,6 @@ sources:
 details:
 - name: Electric Vehicle Policy 2020
   url: https://transport.delhi.gov.in/sites/default/files/All-PDF/Delhi_Electric_Vehicles_Policy_2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

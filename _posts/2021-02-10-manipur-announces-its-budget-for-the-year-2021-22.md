@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2021-22
   url: https://manipur.gov.in/wp-content/uploads/2021/02/Budget-at-a-glance.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

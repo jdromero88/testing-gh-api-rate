@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/newsite/PrintRelease.aspx?relid=192842
-is_analysis: false
+is_newsletter: false
 
 ---
 Following a high-level cabinet meeting, Union Ministers Prakash Javadekar and Piyush Goyal said at a press conference that the government has approved the establishment of 75 new medical colleges in the country. Javadekar said that the addition would lead to the creation 15,700 more Bachelor of Medicine, Bachelor of Surgery (MBBS) seats in India.

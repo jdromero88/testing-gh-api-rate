@@ -16,7 +16,7 @@ details:
 - name: Renewable Purchase Obligation, its Compliance and REC Framework Implementation)
     (3rd Amendment) Regulations, 2018
   url: https://berc.co.in/rules-requlations/regulations/individual-regulation/1912-renewable-purchase-obligation-its-compliance-and-rec-framework-implementation-3rd-amendment-regulations-2018
-is_analysis: false
+is_newsletter: false
 
 ---
 The Bihar Electricity Regulatory Commission ruled against a request by the Bihar State Power Holding Company Ltd. to carry forward the shortfall in the renewable purchase obligations for the financial year 2018-19 to the next year, and instead penalized the company.

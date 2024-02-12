@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://punjabgovtindia.wordpress.com/2020/11/18/punjab-cabinet-okays-amendents-to-inter-state-migrant-workers-rules-to-avail-additional-central-borrowing-of-2-of-gsdp/
-is_analysis: false
+is_newsletter: false
 
 ---

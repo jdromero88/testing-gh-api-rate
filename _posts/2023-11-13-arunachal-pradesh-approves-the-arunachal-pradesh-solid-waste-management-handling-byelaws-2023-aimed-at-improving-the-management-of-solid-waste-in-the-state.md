@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Arunachal Pradesh approves the Arunachal Pradesh Solid Waste (Management
   & Handling) Byelaws 2023 aimed at improving the management of solid waste in
   the state

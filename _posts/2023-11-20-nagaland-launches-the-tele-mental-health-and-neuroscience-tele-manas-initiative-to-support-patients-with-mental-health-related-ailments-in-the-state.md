@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Nagaland launches the Tele-Mental Health and Neuroscience (Tele-MANAS)
   initiative to support patients with mental health related ailments in the
   state

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Niti Aayog
   url: https://sdgindiaindex.niti.gov.in/#/ranking
-is_analysis: false
+is_newsletter: false
 
 ---

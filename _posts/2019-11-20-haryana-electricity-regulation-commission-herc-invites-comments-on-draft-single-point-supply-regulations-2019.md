@@ -16,7 +16,7 @@ sources:
 details:
 - name: Draft Regulation
   url: https://herc.gov.in/writereaddata/pdf/d20191031.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Haryana Electricity Regulation Commission has invited various stakeholders to share their comments on the draft Single Point Supply Regulations 2019 by November 28.

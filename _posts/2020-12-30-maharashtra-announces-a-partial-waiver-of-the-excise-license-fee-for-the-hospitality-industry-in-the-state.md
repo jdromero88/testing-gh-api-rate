@@ -13,6 +13,6 @@ sources:
 - name: NDTV
   url: https://www.ndtv.com/india-news/maharashtra-announces-license-fee-relief-for-hotels-restaurants-2343226
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

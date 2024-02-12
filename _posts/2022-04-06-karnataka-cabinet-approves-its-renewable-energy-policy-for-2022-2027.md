@@ -15,6 +15,6 @@ sources:
 details:
 - name: Policy
   url: https://kredl.karnataka.gov.in/storage/pdf-files/EC/Energy%20Department%20(GoK)%20%20Notification%20on%20EE%20&%20EC%20Policy%202022-27.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

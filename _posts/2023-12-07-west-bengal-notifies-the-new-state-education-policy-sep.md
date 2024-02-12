@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: West Bengal notifies the new State Education Policy (SEP)
 date: 2023-12-07T16:40:17.665Z
 states:

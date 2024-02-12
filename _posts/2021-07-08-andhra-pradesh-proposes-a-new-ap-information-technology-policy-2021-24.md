@@ -12,6 +12,6 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/andhra-unveils-it-policy-for-2021-24-expected-to-create-over-55-000-jobs-121070100050_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: West Bengal allots 30 acres land in the Asansol Industrial Area to
   Eastern Coalfields Limited (ECL)
 date: 2023-05-31T15:15:30.013Z

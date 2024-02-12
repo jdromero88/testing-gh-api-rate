@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft Karnataka Renewable Energy Policy 2021-2026
   url: https://kredlinfo.in/solargrid/Letter%20for%20stake%20holder%20comments.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

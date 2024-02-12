@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff order
   url: http://www.orierc.org/Retail%20Supply%20Tariff.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Odisha** Electricity Regulatory Commission approves a raise in power tariff by $0.002 per unit of electricity consumed. The revision will be applicable from October 1, 2020 onwards.

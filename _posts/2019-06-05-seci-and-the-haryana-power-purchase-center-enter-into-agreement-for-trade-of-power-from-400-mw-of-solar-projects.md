@@ -14,7 +14,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/seci-and-haryana-psa-400-mw-solar/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Solar Energy Corporation of India (SECI) and the Haryana Power Purchase Centre have entered into a power sale agreement for the trade of power from 400 MW of solar projects.

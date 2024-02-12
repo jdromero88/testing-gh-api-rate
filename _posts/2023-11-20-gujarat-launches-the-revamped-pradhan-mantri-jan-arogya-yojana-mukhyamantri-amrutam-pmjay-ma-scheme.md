@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Gujarat launches the revamped Pradhan Mantri Jan Arogya
   Yojana-Mukhyamantri Amrutam (PMJAY-MA) scheme
 date: 2023-07-19T20:55:05.935Z

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/ArvindKejriwal/status/1323245385314299905
-is_analysis: false
+is_newsletter: false
 
 ---

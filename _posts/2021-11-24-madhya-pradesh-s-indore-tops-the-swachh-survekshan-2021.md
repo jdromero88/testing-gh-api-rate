@@ -17,6 +17,6 @@ details:
   url: https://www.ss2021.in/#/home
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1773458
-is_analysis: false
+is_newsletter: false
 
 ---

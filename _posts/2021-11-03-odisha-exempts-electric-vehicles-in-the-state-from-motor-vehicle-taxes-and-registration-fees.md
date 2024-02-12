@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: https://twitter.com/CTOdisha/status/1454333786196348929
-is_analysis: false
+is_newsletter: false
 
 ---

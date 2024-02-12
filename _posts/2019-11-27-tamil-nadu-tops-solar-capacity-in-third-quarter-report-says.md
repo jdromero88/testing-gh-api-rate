@@ -13,7 +13,7 @@ sources:
 - name: The Hindu
   url: https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-tops-solar-capacity-in-third-quarter-a-report-says/article30038095.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Tamil Nadu emerges as the top state in terms of solar capacity, at 32.6 gigawatts by the end of the third quarter of 2019, according to report by Mercom Capital Group.

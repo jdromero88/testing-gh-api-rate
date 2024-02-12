@@ -15,7 +15,7 @@ sources:
 details:
 - name: List of Substations (in Hind)
   url: http://www.upneda.org.in/MediaGallery/substations_UPNEDA_bid_phase_III.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh government announced a tender for 500 MW of grid-connected solar projects with an upper tariff ceiling of $0.043/kilowatt-hour (kWh). The deadline to submit bids is February 14, 2019.

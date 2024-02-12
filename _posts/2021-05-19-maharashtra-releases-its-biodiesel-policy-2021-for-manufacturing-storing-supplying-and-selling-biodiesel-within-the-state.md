@@ -14,6 +14,6 @@ sources:
 - name: Free Press Journal
   url: https://www.freepressjournal.in/mumbai/mumbai-state-govt-releases-biodiesel-policy-2021
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

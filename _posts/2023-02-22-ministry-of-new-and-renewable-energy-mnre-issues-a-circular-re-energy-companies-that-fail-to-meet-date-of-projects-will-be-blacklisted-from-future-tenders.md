@@ -15,6 +15,6 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/centre-to-blacklist-renewable-energy-companies-delaying-project-completion-123021601092_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Swachh Survekshan, 2021
   url: https://swachhsurvekshan2021.org/ImpDocs/SS2020fullreport.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

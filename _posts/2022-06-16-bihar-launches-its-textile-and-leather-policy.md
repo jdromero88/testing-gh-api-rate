@@ -16,6 +16,6 @@ sources:
 details:
 - url: http://www.udyogmitrabihar.in/docs/policies/Bihar-Textile-Leather-Policy-2022-English-7June22.pdf#new_tab
   name: Bihar Textile and Leather Policy, 2022
-is_analysis: false
+is_newsletter: false
 
 ---

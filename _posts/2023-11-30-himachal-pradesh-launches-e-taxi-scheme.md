@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh launches e-taxi scheme
 date: 2023-11-29T14:43:38.129Z
 states:

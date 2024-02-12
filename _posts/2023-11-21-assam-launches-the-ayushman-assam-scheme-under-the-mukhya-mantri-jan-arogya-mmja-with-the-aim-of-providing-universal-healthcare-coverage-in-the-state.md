@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam launches the Ayushman Assam Scheme under the Mukhya Mantri Jan
   Arogya (MMJA) with the aim of providing universal healthcare coverage in the
   state

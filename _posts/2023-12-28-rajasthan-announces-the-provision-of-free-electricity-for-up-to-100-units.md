@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan announces the provision of free electricity for up to 100 units
 date: 2023-06-07T15:05:10.512Z
 states:

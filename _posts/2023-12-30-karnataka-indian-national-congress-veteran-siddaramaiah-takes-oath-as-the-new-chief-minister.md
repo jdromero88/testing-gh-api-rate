@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka Indian National Congress veteran Siddaramaiah takes oath as the
   new chief minister
 date: 2023-05-24T06:37:16.116Z

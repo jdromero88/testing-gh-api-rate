@@ -12,6 +12,6 @@ sources:
 - name: Indian Express
   url: https://indianexpress.com/article/cities/ahmedabad/gujarat-govt-roadmap-agri-sector-development-apmc-7674576/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: RBI Notifications
   url: https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11959&Mode=0
-is_analysis: false
+is_newsletter: false
 
 ---

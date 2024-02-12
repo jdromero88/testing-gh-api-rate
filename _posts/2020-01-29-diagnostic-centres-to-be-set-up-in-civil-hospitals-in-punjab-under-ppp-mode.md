@@ -13,7 +13,7 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/chandigarh/diagnostic-centres-to-be-set-up-in-civil-hospitals-in-punjab-under-ppp-mode/story-5nvRnRT7ruHxoidw5FKmrM.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Punjab health department plans to invite private players to set up diagnostic facilities inside civil hospitals. According to a policy being finalized by the department, tenders will be floated for private players to set up diagnostic centers to be run under public private partnerships.

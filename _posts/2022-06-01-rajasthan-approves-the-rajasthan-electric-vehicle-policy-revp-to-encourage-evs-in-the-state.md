@@ -20,6 +20,6 @@ details:
   name: CMO Twitter (in Hindi)
 - url: https://evreporter.com/wp-content/uploads/2021/07/RJ-EV-Policy.pdf
   name: Policy (in Hindi)
-is_analysis: false
+is_newsletter: false
 
 ---

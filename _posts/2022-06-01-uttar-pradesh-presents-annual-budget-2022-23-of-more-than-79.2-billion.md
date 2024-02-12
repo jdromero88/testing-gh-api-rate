@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget Speech
   url: https://budget.up.nic.in/budgetbhashan/budgetbhashan_2022_2023.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

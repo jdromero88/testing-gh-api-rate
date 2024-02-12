@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bihar passes the Bihar Goods and Services Tax (GST) Amendment Bill 2023
 date: 2023-07-19T19:25:50.854Z
 states:

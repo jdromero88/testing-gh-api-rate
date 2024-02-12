@@ -15,7 +15,7 @@ sources:
 details:
 - name: MERC Order
   url: http://www.mercindia.org.in/pdf/Order%2058%2042/Order-20%20of%202019-07032019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Electricity Regulatory Commission issued an order saying that it will initiate a public consultative process to amend the net-metering regulations and frame new regulations to oversee issues related to grid-connected renewable energy sources.

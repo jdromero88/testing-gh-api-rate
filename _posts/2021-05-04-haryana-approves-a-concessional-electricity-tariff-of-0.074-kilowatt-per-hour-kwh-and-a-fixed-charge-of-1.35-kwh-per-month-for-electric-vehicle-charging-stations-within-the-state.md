@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://herc.gov.in/WriteReadData/Orders/O20210330a.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

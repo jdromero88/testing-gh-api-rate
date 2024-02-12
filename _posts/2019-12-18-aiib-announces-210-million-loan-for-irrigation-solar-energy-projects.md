@@ -15,7 +15,7 @@ sources:
 details:
 - url: https://www.aiib.org/en/news-events/news/2019/20191220_001.html
   name: Press release
-is_analysis: false
+is_newsletter: false
 
 ---
 The Beijing-based Asian Infrastructure Investment Bank (AIIB) announced a total loan of $210 million for irrigation and solar energy projects in West Bengal and Rajasthan, respectively.

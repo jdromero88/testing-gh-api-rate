@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/chandigarh/regulator-drops-power-price-for-agro-industries/articleshow/74421751.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana Electricity Regulatory Commission state advisory committee has lowered the rate of electricity for agricultural industries. The flat unit charge of $0.10 per kilowatt-hour (kWh) is reduced to $0.06 per kWh.

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Chhattisgarh announces a new unemployment allowance for the youth
 date: 2023-04-12T21:13:39.690Z
 states:

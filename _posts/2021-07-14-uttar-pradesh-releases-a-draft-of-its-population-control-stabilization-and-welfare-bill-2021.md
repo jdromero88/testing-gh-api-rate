@@ -15,6 +15,6 @@ sources:
 details:
 - name: Bill
   url: https://images.assettype.com/barandbench/2021-07/07481512-f2b9-4a79-8853-5fee01bd1585/UP_Population_Control_Bill.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

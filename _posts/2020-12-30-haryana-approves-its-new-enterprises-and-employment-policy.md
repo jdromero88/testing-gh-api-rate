@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/haryana-cabinet-which-met-under-the-chairmanship-of-chief-minister-mr-manohar-lal-here-today-182
-is_analysis: false
+is_newsletter: false
 
 ---

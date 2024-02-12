@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh MSME cell signs a Memorandum of Agreement (MoA) with the
   Goa government project management unit (PMU)
 date: 2023-11-22T16:30:48.924Z

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/newsite/PrintRelease.aspx?relid=192752
-is_analysis: false
+is_newsletter: false
 
 ---
 Karnataka has emerged as the best state for setting up a roof top solar project, according to a survey released by the center. The state rooftop solar attractiveness index–SARAL released by the Ministry of New and Renewable Energy said that Telangana, Gujarat and Andhra Pradesh were among the top four states with a rating of A++. The states were evaluated on the basis of on their attractiveness for rooftop development.

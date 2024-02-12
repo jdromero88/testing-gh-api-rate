@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariffs for EV Charging
   url: http://www.uperc.org/App_File/SM182019SuoMotoproceedingfordeterminationofTariffforElectricVehicleCharging-pdf38201915052PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 In order to provide a stimulus to the electric vehicle (EV) sector in Uttar Pradesh, Uttar Pradesh Electric Regulatory Commission has announced a liberal tariff chart for EV charging stations.

@@ -12,6 +12,6 @@ sources:
 - name: Indian Express
   url: https://indianexpress.com/article/cities/bangalore/karnataka-covid-relief-package-hospitality-sector-7375416/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

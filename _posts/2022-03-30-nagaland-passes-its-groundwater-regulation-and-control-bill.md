@@ -12,6 +12,6 @@ sources:
 - name: Eastern Mirror
   url: https://easternmirrornagaland.com/nla-passes-two-government-bills/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Assam reduces the existing tax rate on Motor Vehicle Tax (non-Transport)
   by 2 percent "
 date: 2023-11-22T16:16:18.576Z

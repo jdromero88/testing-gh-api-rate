@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Noida approves the draft Master Plan 2041 for New Noida
 date: 2023-08-23T18:18:25.458Z
 states:

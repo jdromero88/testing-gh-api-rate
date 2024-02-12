@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa amends the Goa Non-Biodegradable Garbage (Control) Act, 1996
 date: 2023-08-16T18:32:58.737Z
 states:

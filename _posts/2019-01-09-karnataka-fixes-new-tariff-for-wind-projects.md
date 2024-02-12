@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/generic-tariff-wind-karnataka-2-95/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Karnataka Electricity Regulatory Commission has proposed a generic tariff of $0.042/kWh for wind projects in the state. Once the proposal is finalized, it will become the ceiling tariff for wind tenders in Karnataka for the financial year (FY) 2019-20.

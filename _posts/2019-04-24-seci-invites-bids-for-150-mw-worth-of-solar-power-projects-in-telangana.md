@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender details
   url: http://seci.co.in/show_whats_new.php?id=871
-is_analysis: false
+is_newsletter: false
 
 ---
 The Solar Energy Corporation of India invited tenders to set up 150 MW worth of solar photo-voltaic power projects on behalf of coal mining company Singareni Collieries Company Ltd.

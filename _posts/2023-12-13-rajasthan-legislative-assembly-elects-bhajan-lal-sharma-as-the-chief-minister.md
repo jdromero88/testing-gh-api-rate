@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan legislative assembly elects Bhajan Lal Sharma as the chief minister
 date: 2023-12-13T19:46:24.783Z
 states:

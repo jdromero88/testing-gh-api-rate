@@ -17,6 +17,6 @@ sources:
 details:
 - name: Case Order
   url: http://www.tnerc.gov.in/orders/commn%20order/2021/TANGEDCO-MP18of2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

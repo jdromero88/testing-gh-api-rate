@@ -13,7 +13,7 @@ sources:
 - name: Money Control
   url: https://www.moneycontrol.com/news/business/gujarat-govt-gives-nod-for-cng-port-terminal-at-bhavnagar-4624691.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat government gave its approval for a compressed natural gas terminal in Bhavnagar with a proposed investment of $266.5 million.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Himachal Pradesh Budget
   url: https://ebudget.hp.nic.in/budgetglance.aspx
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Discussion Paper
   url: https://powermin.gov.in/sites/default/files/webform/notices/revised_discussion_paper_on_REC_mechanism_07_June_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

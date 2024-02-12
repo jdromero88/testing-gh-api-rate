@@ -14,6 +14,6 @@ sources:
 details:
 - name: Order
   url: https://cdnbbsr.s3waas.gov.in/s3d79c6256b9bdac53a55801a066b70da3/uploads/2021/07/2021071376.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

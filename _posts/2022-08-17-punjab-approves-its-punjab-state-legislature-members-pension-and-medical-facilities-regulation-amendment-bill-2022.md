@@ -16,6 +16,6 @@ sources:
 details:
 - name: Gazette Report (Notification Number No.17-Leg./2022)
   url: https://dsa.punjab.gov.in/EGazette/finalreport
-is_analysis: false
+is_newsletter: false
 
 ---

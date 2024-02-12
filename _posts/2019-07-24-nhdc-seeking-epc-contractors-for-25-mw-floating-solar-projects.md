@@ -13,7 +13,7 @@ sources:
 - name: Saur Energy
   url: https://www.saurenergy.com/solar-energy-news/nhdc-epc-contractors-25-mw-floating-solar-projects
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 NHDC Ltd, a joint venture between state-owned NHPC Ltd. and the government of Madhya Pradesh, has issued a tender for the development of 25 MW floating solar power projects at the Omkareshwar reservoir in Madhya Pradesh.

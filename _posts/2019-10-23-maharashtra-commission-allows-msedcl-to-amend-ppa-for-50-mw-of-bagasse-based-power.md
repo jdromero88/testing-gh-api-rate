@@ -16,7 +16,7 @@ sources:
 details:
 - name: MERC Orders index
   url: https://www.merc.gov.in/faces/merc/common/outputClient.xhtml
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Electricity Regulatory Commission has approved the Maharashtra State Electricity Distribution Company Limited’s procurement of 50 megawatts of bagasse-based co-generation power.

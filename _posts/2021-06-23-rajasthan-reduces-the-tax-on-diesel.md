@@ -15,6 +15,6 @@ sources:
 details:
 - name: Finance Department Order
   url: https://finance.rajasthan.gov.in/PDFDOCS/TAX/CCT/F-CCT-9472-08062021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

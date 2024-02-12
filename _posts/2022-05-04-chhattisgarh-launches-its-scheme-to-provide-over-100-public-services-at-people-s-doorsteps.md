@@ -15,6 +15,6 @@ sources:
 details:
 - name: CMO Twitter
   url: https://twitter.com/ChhattisgarhCMO/status/1520659933728890880
-is_analysis: false
+is_newsletter: false
 
 ---

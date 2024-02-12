@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tamil Nadu Organic Farming Policy 2023
   url: http://www.agritech.tnau.ac.in/pdf/66617733-Tamil-Nadu-Organic-Farming-Policy-2023_230315_093042.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

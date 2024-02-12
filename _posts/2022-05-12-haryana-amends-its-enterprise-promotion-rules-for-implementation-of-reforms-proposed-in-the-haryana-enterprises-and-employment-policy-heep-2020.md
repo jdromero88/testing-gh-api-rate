@@ -15,6 +15,6 @@ sources:
 details:
 - name: Policy
   url: https://investharyana.in/content/pdfs/Haryana%20Enterprises%20Promotiom%20(Amendment)%20Bill,%202021-Notification.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

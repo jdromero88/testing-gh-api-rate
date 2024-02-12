@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleseDetailm.aspx?PRID=1733828
-is_analysis: false
+is_newsletter: false
 
 ---

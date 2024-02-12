@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan increases the minimum wages for labourers
 date: 2023-09-06T15:46:50.722Z
 states:

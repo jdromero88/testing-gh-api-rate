@@ -14,6 +14,6 @@ sources:
 details:
 - name: Punjab Government Tweet
   url: https://twitter.com/PunjabGovtIndia/status/1439828773927456769?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,7 +16,7 @@ sources:
 details:
 - name: Discussion Paper
   url: https://www.gercin.org/wp-content/uploads/2020/08/GERC-Wind-Solar-Hybrid-Discussion-Paper_28082020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Gujarat electricity commission invites comments on regulatory process for determining tariffs for wind-solar hybrid projects.

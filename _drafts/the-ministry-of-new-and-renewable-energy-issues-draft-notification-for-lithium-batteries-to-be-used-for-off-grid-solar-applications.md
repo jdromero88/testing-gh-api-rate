@@ -16,7 +16,7 @@ sources:
 details:
 - name: Notification
   url: https://mnre.gov.in/img/documents/uploads/file_f-1597899633568.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ministry of New and Renewable Energy issues a draft notification detailing the specifications of lithium batteries that can be used for off-grid solar applications. The ministry has requested comments and suggestions from stakeholders by August 28, 2020.

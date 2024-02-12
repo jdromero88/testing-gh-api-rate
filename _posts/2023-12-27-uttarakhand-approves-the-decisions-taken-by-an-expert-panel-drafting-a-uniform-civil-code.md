@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttarakhand approves the decisions taken by an expert panel drafting a
   uniform civil code
 date: 2023-12-27T07:24:29.413Z

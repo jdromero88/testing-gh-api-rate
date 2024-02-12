@@ -14,6 +14,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/CMofKarnataka/status/1341298622609063936
-is_analysis: false
+is_newsletter: false
 
 ---

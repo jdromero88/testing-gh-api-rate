@@ -14,6 +14,6 @@ sources:
 details:
 - name: Election Commission of India
   url: https://results.eci.gov.in/ResultAcGenMar2023/partywiseresult-S17.htm?st=S17
-is_analysis: false
+is_newsletter: false
 
 ---

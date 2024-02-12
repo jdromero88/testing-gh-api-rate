@@ -18,6 +18,6 @@ details:
   url: https://csis-pardot.s3.amazonaws.com/MailChimp+Template+Files/India+Chair/GazetteSearch+(1).pdf
 - name: Notification 1
   url: https://csis-pardot.s3.amazonaws.com/MailChimp+Template+Files/India+Chair/GazetteSearch.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

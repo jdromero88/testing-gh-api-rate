@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: http://www.diprpunjab.gov.in/?q=content/punjab-government-notifies-punjab-news-web-channel-policy-2021
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,7 +16,7 @@ sources:
 details:
 - url: http://pib.nic.in/newsite/PrintRelease.aspx?relid=187376
   name: Press Release
-is_analysis: false
+is_newsletter: false
 
 ---
 Energy Efficiency Services Ltd (EESL), the energy services company under the Union Ministry of Power, has announced the completion of the project to replace 50,000 conventional electricity meters with smart meters in the New Delhi Municipal Council (NDMC) area. The adoption of smart meters will lead to total annual savings of $1.77 million to NDMC.

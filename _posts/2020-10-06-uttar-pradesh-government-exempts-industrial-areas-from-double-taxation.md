@@ -12,6 +12,6 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/pandemic-relief-up-govt-exempts-industrial-areas-from-double-taxation-120100400479_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,6 +13,6 @@ sources:
 details:
 - name: 'SHAKTI Criminal Laws '
   url: https://prsindia.org/files/bills_acts/bills_states/maharashtra/2020/Mah.%20L.A.%20Bill%20no.%2051%20of%202020%20English%20Shakti%20Criminal%20Laws%20(Maharashtra%20Amendment)%20Bill,%202020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

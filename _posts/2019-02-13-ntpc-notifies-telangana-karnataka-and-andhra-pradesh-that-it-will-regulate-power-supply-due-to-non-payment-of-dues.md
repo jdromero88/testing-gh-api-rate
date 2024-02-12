@@ -14,7 +14,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/ntpc-to-cut-power-in-3-southern-states-over-non-payment-up-next-in-list-119020500236_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The National Thermal Power Corporation Limited (NTPC) issued notices to the state governments of Telangana, Karnataka, and Andhra Pradesh that it would be “regulating power supply” to those states due to non-payment of outstanding dues for more than two months. The three states owe a total of $686.3 million to NTPC.

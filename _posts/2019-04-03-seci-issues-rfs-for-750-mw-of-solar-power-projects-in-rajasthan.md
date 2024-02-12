@@ -15,7 +15,7 @@ sources:
 details:
 - name: Project details
   url: http://seci.co.in/show_whats_new.php?id=825
-is_analysis: false
+is_newsletter: false
 
 ---
 The Solar Energy Corporation of India issued a Request for Selection for 750 MW of grid-connected solar photovoltaic (PV) projects in Rajasthan.

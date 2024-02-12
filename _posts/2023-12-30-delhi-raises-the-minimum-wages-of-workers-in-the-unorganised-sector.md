@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi raises the minimum wages of workers in the unorganised sector
 date: 2023-04-26T19:16:35.474Z
 states:

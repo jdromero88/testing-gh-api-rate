@@ -14,6 +14,6 @@ sources:
 details:
 - name: Delhi Film Policy 2022
   url: https://delhitourism.gov.in/dttdc/efilm/docs/fp2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

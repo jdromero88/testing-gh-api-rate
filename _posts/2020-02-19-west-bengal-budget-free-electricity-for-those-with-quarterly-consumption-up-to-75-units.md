@@ -16,7 +16,7 @@ sources:
 details:
 - name: Budget Statement
   url: http://wbfin.nic.in/writereaddata/Budget_Speech/2020_English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The West Bengal budget includes provision for 100 micro, small, and medium enterprise (MSME) parks in 3 years, free electricity for consumers with quarterly consumption up to 75 units, and $69 million for a housing scheme for tea garden workers.

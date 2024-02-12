@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://acreplacementscheme.uhbvn.org.in/HERC%20Order%20DSM%20Scheme.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

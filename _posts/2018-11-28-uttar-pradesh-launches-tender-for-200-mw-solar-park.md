@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/uttar-pradesh-200-mw-solar-park-invites-bids/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh New and Renewable Energy Development Agency has invited bids from a selection of solar park developers to develop a 200 megawatt (MW) solar park in the state through tariff-based competitive bidding process. 

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh approves JSW Neo Energy’s proposal
 date: 2023-07-19T19:43:15.720Z
 states:

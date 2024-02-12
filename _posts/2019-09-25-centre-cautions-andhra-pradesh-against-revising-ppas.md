@@ -13,7 +13,7 @@ sources:
 - name: " The Hindu Business Line"
   url: https://www.thehindubusinessline.com/economy/centre-cautions-andhra-pradesh-against-revising-ppas/article29475228.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Power Minister RK Singh has asked Andhra Pradesh chief minister Jagan Mohan Reddy not to revisit power purchase agreements, as this behavior sends the wrong signal to investors and jeopardizes India’s commitment to climate change.

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Power approves the proposal for the implementation of the
   Revamped Distribution Sector Scheme (RDSS) in Ladakh
 date: 2023-05-10T06:59:37.875Z

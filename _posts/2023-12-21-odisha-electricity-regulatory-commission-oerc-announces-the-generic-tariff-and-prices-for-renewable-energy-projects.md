@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha Electricity Regulatory Commission (OERC) announces the generic
   tariff and prices for renewable energy projects
 date: 2023-12-20T16:14:58.961Z

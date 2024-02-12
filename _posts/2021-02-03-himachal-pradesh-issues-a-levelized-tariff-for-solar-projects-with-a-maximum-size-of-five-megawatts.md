@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff order
   url: http://hperc.org/File/SM79-2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

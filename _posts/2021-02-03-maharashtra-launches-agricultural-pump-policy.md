@@ -15,7 +15,7 @@ sources:
 details:
 - name: Policy (In Marathi)
   url: https://www.mahadiscom.in/solar/AG_Policy/202012181511437310.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Maharashtra** launches its agriculture pump power connection policy. The policy aims to provide eight hour power supply to farmers in the next three years (2021-23).

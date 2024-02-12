@@ -14,6 +14,6 @@ sources:
 details:
 - name: Order (in Hindi)
   url: https://state.bihar.gov.in/gad/cache/4/19-Jan-21/SHOW_DOCS/700.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

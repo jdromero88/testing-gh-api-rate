@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget Speech
   url: http://www.tnbudget.tn.gov.in/tnweb_files/Budget_speech_RBE_ENG_2021_22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

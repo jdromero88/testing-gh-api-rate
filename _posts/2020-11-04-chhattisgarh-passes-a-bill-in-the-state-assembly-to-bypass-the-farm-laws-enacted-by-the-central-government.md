@@ -16,6 +16,6 @@ sources:
 details:
 - name: Assembly Proceedings (In Hindi)
   url: http://cgvidhansabha.gov.in/hindi_new/satra/fifth_assembly/eighth/patrak1-27102020.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

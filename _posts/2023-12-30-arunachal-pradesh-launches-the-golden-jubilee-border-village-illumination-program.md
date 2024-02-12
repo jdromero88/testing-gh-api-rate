@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Arunachal Pradesh launches the Golden Jubilee Border Village Illumination
   Program
 date: 2023-04-19T19:35:29.871Z

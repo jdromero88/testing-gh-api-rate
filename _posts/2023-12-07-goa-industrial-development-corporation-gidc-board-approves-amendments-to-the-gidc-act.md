@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa Industrial Development Corporation (GIDC) board approves amendments
   to the GIDC Act
 date: 2023-09-28T03:39:00.699Z

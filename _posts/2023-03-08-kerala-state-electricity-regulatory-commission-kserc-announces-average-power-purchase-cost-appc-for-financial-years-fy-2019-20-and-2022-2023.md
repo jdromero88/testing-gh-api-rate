@@ -18,6 +18,6 @@ sources:
 details:
 - name: KSERC Order
   url: https://www.erckerala.org/orders/APPC%20Order%20dated%2023.02.2023.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

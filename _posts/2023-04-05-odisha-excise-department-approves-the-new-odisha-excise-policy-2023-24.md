@@ -14,6 +14,6 @@ sources:
 details:
 - name: Excise Policy 2023-24
   url: https://excise.odisha.gov.in/sites/default/files/2023-03/Excise%20Policy%202023-24%20%282%29.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

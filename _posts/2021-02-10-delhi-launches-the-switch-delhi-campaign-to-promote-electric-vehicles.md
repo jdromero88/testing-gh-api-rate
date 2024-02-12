@@ -16,6 +16,6 @@ sources:
 details:
 - name: CM Tweet
   url: https://twitter.com/ArvindKejriwal/status/1357215145949159425
-is_analysis: false
+is_newsletter: false
 
 ---

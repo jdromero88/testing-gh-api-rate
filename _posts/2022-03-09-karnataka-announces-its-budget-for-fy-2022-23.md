@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget Highlights
   url: https://finance.karnataka.gov.in/storage/pdf-files/Budget%20Highlights%202022-23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
