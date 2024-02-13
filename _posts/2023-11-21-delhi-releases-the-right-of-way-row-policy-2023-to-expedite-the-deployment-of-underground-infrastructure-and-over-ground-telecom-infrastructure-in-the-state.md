@@ -17,6 +17,6 @@ sources:
 details:
   - name: The Delhi Right of Way (RoW) Policy for Underground Infrastructure and
       Over-ground Telecommunications Infrastructure, 2023
-    url: https://indianstates.csis.org/analysis/2023-11-15-states-weekly-november-15-2023/#:~:text=The%20Delhi%20Right%20of%20Way%20(RoW)%20Policy%20for%20Underground%20Infrastructure%20and%20Over%2Dground%20Telecommunications%20Infrastructure%2C%202023
+    url: https://indianstates.csis.org/newsletter/2023-11-15-states-weekly-november-15-2023/#:~:text=The%20Delhi%20Right%20of%20Way%20(RoW)%20Policy%20for%20Underground%20Infrastructure%20and%20Over%2Dground%20Telecommunications%20Infrastructure%2C%202023
 ---
 Delhi releases the Right of Way (ROW) Policy 2023, to expedite the deployment of underground infrastructure and over ground telecom infrastructure in the state.
