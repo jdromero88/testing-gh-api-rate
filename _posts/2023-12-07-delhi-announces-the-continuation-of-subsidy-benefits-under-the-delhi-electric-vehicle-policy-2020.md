@@ -12,7 +12,6 @@ sectors:
   - Climate Change and Energy
 subsectors:
   - Energy-related Transportation
-  - Financing and Payment
 sources:
   - name: Economic Times
     url: https://energy.economictimes.indiatimes.com/news/power/subsidy-under-existing-electric-vehicle-policy-to-continue-till-new-one-gets-notified-delhi-transport-minister/102517228
