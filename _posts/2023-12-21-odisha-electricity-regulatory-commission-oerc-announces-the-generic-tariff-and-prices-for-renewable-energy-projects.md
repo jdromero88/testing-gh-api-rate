@@ -11,7 +11,6 @@ states:
 sectors:
   - Climate Change and Energy
 subsectors:
-  - Financing and Payment
   - Renewables
   - Power
   - Power & Renewable Energy
