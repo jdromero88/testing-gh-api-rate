@@ -4,7 +4,7 @@ date: 2017-09-06 00:00:00 Z
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

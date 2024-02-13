@@ -6,7 +6,7 @@ date: 2020-01-29 05:00:00 +0000
 states:
 - Meghalaya
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

@@ -6,7 +6,7 @@ date: 2021-03-31 04:00:00 +0000
 states:
 - Odisha
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

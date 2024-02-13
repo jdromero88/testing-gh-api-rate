@@ -6,7 +6,7 @@ date: 2019-11-27 05:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

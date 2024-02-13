@@ -7,7 +7,7 @@ date: 2018-12-18 16:31:13 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

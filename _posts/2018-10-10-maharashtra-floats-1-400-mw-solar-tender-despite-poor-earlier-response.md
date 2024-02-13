@@ -7,7 +7,7 @@ date: 2018-10-10 13:52:13 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

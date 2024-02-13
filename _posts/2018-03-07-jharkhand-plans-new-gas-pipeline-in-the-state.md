@@ -4,7 +4,7 @@ date: 2018-03-07 20:34:00 Z
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:

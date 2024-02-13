@@ -9,7 +9,7 @@ date: 2023-05-10T06:59:37.875Z
 states:
   - Union Territory of Ladakh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
 sources:

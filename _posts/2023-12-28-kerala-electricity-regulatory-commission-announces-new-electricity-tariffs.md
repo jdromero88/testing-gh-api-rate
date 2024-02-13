@@ -8,7 +8,7 @@ date: 2023-06-07T15:08:26.113Z
 states:
   - Kerala
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

@@ -9,7 +9,7 @@ date: 2023-11-29T14:46:14.692Z
 states:
   - Uttarakhand
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
   - Power

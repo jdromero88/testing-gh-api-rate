@@ -6,7 +6,7 @@ date: 2020-06-17 04:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 - Energy-related Transportation

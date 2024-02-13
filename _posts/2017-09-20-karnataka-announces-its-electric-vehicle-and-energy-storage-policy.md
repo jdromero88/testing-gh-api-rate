@@ -7,7 +7,7 @@ tags:
 states:
 - Karna
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 - Power

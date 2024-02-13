@@ -4,7 +4,7 @@ date: 2018-01-24 17:43:00 Z
 states:
 - Mizoram
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

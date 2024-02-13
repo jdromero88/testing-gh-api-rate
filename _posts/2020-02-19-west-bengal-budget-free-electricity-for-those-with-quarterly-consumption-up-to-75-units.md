@@ -7,7 +7,7 @@ date: 2020-02-19 05:00:00 +0000
 states:
 - West Bengal
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

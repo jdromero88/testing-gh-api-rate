@@ -8,7 +8,7 @@ states:
 - Meghalaya
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

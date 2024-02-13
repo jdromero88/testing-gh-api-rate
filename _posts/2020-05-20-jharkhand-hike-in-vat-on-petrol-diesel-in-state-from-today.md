@@ -6,7 +6,7 @@ date: 2020-05-20 04:00:00 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 - Oil and Gas

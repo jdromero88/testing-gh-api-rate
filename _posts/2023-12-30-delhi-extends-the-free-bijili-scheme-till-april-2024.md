@@ -8,7 +8,7 @@ date: 2023-04-12T21:18:15.229Z
 states:
   - Delhi
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
 sources:

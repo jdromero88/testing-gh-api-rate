@@ -6,7 +6,7 @@ date: 2020-12-30 05:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

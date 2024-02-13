@@ -9,7 +9,7 @@ date: 2023-10-04T18:22:49.107Z
 states:
   - Assam
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
   - Power & Renewable Energy

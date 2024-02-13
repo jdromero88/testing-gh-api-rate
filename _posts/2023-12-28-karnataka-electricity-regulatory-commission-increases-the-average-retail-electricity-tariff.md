@@ -9,7 +9,7 @@ date: 2023-06-07T15:07:21.629Z
 states:
   - Karnataka
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

@@ -6,7 +6,7 @@ date: 2018-10-10 14:25:54 +0000
 states:
 - Kerala
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

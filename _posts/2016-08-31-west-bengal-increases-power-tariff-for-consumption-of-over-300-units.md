@@ -6,7 +6,7 @@ tags:
 states:
 - West Bengal
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

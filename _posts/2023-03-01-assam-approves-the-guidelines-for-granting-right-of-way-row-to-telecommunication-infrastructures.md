@@ -7,7 +7,7 @@ date: 2023-03-01 05:00:00 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors:
 - Power and Renewable Energy

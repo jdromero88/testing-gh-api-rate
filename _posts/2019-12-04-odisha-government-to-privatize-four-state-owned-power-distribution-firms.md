@@ -6,7 +6,7 @@ date: 2019-12-04 05:00:00 +0000
 states:
 - Odisha
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

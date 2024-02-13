@@ -7,7 +7,7 @@ tags:
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Nuclear
 sources:

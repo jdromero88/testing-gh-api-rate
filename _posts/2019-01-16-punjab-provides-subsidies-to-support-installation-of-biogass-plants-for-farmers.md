@@ -6,7 +6,7 @@ date: 2019-01-16 05:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

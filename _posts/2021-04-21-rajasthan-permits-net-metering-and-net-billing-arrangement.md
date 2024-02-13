@@ -6,7 +6,7 @@ date: 2021-04-21 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - " Financing and Payment "

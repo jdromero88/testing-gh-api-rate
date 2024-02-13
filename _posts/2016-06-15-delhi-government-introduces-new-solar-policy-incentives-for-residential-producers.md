@@ -8,7 +8,7 @@ tags:
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

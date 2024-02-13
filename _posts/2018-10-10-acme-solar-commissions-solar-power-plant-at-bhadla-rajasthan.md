@@ -6,7 +6,7 @@ date: 2018-10-10 13:56:20 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

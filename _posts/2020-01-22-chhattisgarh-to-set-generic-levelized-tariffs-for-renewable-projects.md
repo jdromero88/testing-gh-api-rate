@@ -6,7 +6,7 @@ date: 2020-01-22 05:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power

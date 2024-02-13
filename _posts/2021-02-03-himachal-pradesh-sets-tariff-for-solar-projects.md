@@ -6,7 +6,7 @@ date: 2021-02-03 05:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - " Financing and Payment "
 - Renewables

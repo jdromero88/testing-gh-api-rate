@@ -8,7 +8,7 @@ states:
 - Karnataka
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 - Renewables

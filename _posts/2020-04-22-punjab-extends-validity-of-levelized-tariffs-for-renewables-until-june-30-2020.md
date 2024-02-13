@@ -7,7 +7,7 @@ date: 2020-04-22 04:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power

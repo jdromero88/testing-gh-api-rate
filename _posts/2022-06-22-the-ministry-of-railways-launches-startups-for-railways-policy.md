@@ -7,7 +7,7 @@ states:
 - Center-State Relations
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Hindustan Times

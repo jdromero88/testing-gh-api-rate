@@ -9,7 +9,7 @@ date: 2023-06-28T14:12:16.117Z
 states:
   - Punjab
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy-related Transportation
 sources:

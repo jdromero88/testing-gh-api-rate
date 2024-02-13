@@ -4,7 +4,7 @@ date: 2017-10-12 00:00:00 Z
 states:
 - Jammu and Kashmir
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:

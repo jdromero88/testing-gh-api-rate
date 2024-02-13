@@ -4,7 +4,7 @@ date: 2018-02-07 22:51:00 Z
 states:
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

@@ -7,7 +7,7 @@ date: 2021-07-21 04:00:00 +0000
 states:
 - Union Territory of Chandigarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

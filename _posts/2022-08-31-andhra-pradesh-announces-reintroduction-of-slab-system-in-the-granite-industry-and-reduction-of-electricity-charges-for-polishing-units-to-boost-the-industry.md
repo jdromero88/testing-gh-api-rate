@@ -7,7 +7,7 @@ date: 2022-08-31 04:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors:
 - Power and Renewable Energy

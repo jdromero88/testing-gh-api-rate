@@ -6,7 +6,7 @@ states:
 - Uttar Pradesh
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

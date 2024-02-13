@@ -7,7 +7,7 @@ date: 2019-01-24 05:00:00 +0000
 states:
 - Jammu and Kashmir
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

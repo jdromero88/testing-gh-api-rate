@@ -9,7 +9,7 @@ date: 2023-09-13T15:22:42.217Z
 states:
   - Telangana
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

@@ -7,7 +7,7 @@ date: 2020-09-30 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 - Industrial Policy and Business Regulations
 subsectors:

@@ -11,7 +11,7 @@ tags:
 states:
 - Odisha
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

@@ -7,7 +7,7 @@ date: 2019-07-16 04:00:00 +0000
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

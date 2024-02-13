@@ -7,7 +7,7 @@ states:
 - Telangana
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

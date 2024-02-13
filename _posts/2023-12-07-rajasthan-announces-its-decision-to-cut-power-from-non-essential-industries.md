@@ -8,7 +8,7 @@ date: 2023-08-30T18:06:48.085Z
 states:
   - Rajasthan
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

@@ -9,7 +9,7 @@ date: 2023-07-19T19:41:40.595Z
 states:
   - Uttar Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Renewables

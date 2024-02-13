@@ -4,7 +4,7 @@ date: 2018-01-31 17:46:00 Z
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

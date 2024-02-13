@@ -7,7 +7,7 @@ date: 2018-10-11 14:41:07 +0000
 states:
 - Odisha
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

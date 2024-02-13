@@ -7,7 +7,7 @@ date: 2019-07-31 04:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

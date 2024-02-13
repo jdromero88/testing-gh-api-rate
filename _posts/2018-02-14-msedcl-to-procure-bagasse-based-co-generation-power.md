@@ -4,7 +4,7 @@ date: 2018-02-14 20:14:00 Z
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

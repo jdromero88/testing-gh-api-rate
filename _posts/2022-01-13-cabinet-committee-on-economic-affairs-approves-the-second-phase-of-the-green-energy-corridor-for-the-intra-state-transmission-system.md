@@ -8,7 +8,7 @@ states:
 - Center-State Relations
 sectors:
 - Climate Change and Energy
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Press Release

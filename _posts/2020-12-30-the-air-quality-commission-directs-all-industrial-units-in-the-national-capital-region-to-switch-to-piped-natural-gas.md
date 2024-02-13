@@ -10,7 +10,7 @@ states:
 - Haryana
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors:
 - Oil and Gas

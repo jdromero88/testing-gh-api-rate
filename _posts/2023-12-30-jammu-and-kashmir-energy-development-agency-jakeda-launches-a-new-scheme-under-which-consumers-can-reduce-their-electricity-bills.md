@@ -9,7 +9,7 @@ date: 2023-05-24T06:42:54.846Z
 states:
   - Union Territory of Jammu and Kashmir
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

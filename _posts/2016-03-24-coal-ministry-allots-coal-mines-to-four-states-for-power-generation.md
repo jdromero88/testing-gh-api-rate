@@ -10,7 +10,7 @@ states:
 - Andhra Pradesh
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

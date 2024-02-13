@@ -7,7 +7,7 @@ states:
 - Andhra Pradesh
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:

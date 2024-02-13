@@ -9,7 +9,7 @@ states:
 - Madhya Pradesh
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

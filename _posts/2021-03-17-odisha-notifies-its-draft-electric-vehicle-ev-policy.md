@@ -7,7 +7,7 @@ states:
 - Odisha
 sectors:
 - Infrastructure and Governance
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

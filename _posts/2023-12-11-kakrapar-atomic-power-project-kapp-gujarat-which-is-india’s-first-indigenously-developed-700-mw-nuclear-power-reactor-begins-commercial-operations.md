@@ -10,7 +10,7 @@ date: 2023-07-05T20:04:16.288Z
 states:
   - Gujarat
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

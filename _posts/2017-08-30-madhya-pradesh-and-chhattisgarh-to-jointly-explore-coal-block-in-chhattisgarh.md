@@ -5,7 +5,7 @@ states:
 - Madhya Pradesh
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

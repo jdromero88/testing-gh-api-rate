@@ -6,7 +6,7 @@ date: 2020-01-08 05:00:00 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

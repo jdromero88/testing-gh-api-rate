@@ -6,7 +6,7 @@ date: 2021-02-17 05:00:00 +0000
 states:
 - Meghalaya
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Oil and Gas

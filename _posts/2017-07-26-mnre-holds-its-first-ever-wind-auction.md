@@ -10,7 +10,7 @@ states:
 - Jharkhand
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 - Renewables

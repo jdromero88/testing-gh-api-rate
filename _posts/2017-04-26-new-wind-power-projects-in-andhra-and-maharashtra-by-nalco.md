@@ -10,7 +10,7 @@ states:
 - Andhra Pradesh
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

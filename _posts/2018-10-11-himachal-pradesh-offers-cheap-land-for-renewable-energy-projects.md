@@ -6,7 +6,7 @@ date: 2018-10-11 14:39:59 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

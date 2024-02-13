@@ -7,7 +7,7 @@ date: 2018-12-18 16:50:44 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

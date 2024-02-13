@@ -8,7 +8,7 @@ date: 2023-06-28T14:09:19.700Z
 states:
   - Maharashtra
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

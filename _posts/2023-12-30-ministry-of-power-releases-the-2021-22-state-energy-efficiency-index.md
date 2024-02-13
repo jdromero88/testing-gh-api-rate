@@ -13,7 +13,7 @@ states:
   - Rajasthan
   - Telangana
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
 sources:

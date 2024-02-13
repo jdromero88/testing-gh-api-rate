@@ -6,7 +6,7 @@ date: 2019-08-14 04:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 - Energy-related Transportation

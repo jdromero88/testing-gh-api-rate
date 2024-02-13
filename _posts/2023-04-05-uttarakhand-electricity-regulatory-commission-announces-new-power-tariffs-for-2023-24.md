@@ -8,7 +8,7 @@ states:
 - Uttarakhand
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 - Power and Renewable Energy

@@ -6,7 +6,7 @@ date: 2018-10-30 16:01:46 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

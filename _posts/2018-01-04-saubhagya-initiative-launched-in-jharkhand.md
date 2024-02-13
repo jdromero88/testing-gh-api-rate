@@ -5,7 +5,7 @@ states:
 - Center-State Relations
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

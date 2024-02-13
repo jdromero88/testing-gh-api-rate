@@ -4,7 +4,7 @@ date: 2018-01-10 16:46:00 Z
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

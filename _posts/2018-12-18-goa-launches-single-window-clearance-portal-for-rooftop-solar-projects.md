@@ -6,7 +6,7 @@ date: 2018-12-18 16:32:16 +0000
 states:
 - Goa
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

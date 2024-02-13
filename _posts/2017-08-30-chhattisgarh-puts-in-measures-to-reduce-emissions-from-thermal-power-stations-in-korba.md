@@ -5,7 +5,7 @@ date: 2017-08-30 00:00:00 Z
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

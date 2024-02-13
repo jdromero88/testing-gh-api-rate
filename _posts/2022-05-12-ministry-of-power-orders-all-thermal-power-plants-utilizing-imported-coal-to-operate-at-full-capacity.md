@@ -7,7 +7,7 @@ date: 2022-05-12 07:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - url: https://energy.economictimes.indiatimes.com/news/coal/india-invokes-emergency-law-to-operate-idle-coal-import-based-utilities/91368892

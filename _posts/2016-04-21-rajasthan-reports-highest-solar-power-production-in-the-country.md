@@ -7,7 +7,7 @@ states:
 - Rajasthan
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

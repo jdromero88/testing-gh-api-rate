@@ -6,7 +6,7 @@ date: 2019-09-18 04:00:00 +0000
 states:
 - Nagaland
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

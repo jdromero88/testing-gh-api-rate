@@ -5,7 +5,7 @@ states:
 - Center-State Relations
 - Odisha
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

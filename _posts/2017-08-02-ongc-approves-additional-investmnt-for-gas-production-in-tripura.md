@@ -4,7 +4,7 @@ date: 2017-08-02 00:00:00 Z
 states:
 - Tripura
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:

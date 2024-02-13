@@ -6,7 +6,7 @@ date: 2021-09-01 04:00:00 +0000
 states:
 - Puducherry
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:

@@ -8,7 +8,7 @@ states:
 - Karnataka
 sectors:
 - Infrastructure and Governance
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

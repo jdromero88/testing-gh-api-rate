@@ -4,7 +4,7 @@ date: 2017-09-06 20:26:00 Z
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

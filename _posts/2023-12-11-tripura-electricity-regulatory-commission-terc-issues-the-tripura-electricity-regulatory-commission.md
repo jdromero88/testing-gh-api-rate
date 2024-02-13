@@ -9,7 +9,7 @@ date: 2023-07-19T19:46:04.117Z
 states:
   - Tripura
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

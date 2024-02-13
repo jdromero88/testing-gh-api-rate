@@ -7,7 +7,7 @@ date: 2020-02-26 05:00:00 +0000
 states:
 - Kerala
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

@@ -6,7 +6,7 @@ date: 2020-03-04 05:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power

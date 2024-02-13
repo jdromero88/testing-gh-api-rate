@@ -4,7 +4,7 @@ date: 2018-01-10 17:42:00 Z
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

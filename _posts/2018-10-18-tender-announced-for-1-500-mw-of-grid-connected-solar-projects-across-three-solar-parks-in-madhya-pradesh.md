@@ -7,7 +7,7 @@ date: 2018-10-18 14:40:17 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

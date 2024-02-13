@@ -4,7 +4,7 @@ date: 2018-02-14 19:42:00 Z
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

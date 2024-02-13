@@ -6,7 +6,7 @@ date: 2019-12-04T05:00:00.000+00:00
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

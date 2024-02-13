@@ -7,7 +7,7 @@ date: 2022-04-06 07:00:00 +0000
 states:
 - Mizoram
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

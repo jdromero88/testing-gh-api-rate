@@ -6,7 +6,7 @@ date: 2021-03-24 04:00:00 +0000
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

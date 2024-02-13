@@ -6,7 +6,7 @@ date: 2020-05-27 04:00:00 +0000
 states:
 - Puducherry
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

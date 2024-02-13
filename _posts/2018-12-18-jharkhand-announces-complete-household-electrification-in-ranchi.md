@@ -6,7 +6,7 @@ date: 2018-12-18 16:33:46 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

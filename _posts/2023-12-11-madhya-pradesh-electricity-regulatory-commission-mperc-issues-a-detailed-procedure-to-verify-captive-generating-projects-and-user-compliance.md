@@ -9,7 +9,7 @@ date: 2023-07-19T19:44:36.064Z
 states:
   - Madhya Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

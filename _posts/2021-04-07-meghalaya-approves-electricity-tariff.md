@@ -6,7 +6,7 @@ date: 2021-04-07 04:00:00 +0000
 states:
 - Meghalaya
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - " Financing and Payment "
 - Power

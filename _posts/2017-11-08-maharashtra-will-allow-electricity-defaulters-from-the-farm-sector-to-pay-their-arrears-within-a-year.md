@@ -5,7 +5,7 @@ date: 2017-11-08 00:00:00 Z
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

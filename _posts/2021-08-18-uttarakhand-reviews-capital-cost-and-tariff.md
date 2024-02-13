@@ -6,7 +6,7 @@ date: 2021-08-18 04:00:00 +0000
 states:
 - Uttarakhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

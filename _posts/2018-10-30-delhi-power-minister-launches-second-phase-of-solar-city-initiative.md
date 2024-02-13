@@ -6,7 +6,7 @@ date: 2018-10-30 16:00:36 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

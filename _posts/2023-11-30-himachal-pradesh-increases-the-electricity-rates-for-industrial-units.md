@@ -8,7 +8,7 @@ date: 2023-11-29T14:48:53.255Z
 states:
   - Himachal Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

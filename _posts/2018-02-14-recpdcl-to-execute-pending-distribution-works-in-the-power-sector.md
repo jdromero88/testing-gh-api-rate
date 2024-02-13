@@ -5,7 +5,7 @@ states:
 - Jammu and Kashmir
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

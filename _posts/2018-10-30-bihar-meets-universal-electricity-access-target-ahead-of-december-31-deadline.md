@@ -6,7 +6,7 @@ date: 2018-10-30 15:59:13 +0000
 states:
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

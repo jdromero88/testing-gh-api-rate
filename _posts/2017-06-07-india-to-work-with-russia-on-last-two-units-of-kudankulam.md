@@ -9,7 +9,7 @@ states:
 - Tamil Nadu
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Nuclear
 sources:

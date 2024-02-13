@@ -10,7 +10,7 @@ date: 2023-11-29T14:41:46.825Z
 states:
   - West Bengal
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Renewables
 sources:

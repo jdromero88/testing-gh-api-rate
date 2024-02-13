@@ -9,7 +9,7 @@ date: 2023-06-21T06:27:54.161Z
 states:
   - Center-State Relations
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

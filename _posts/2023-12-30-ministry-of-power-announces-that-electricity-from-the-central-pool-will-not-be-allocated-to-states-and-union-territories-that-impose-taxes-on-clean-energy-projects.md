@@ -10,7 +10,7 @@ date: 2023-04-19T19:42:12.114Z
 states:
   - Center-State Relations
 sectors:
-  - Energy
+  - Climate Change and Energy
 sources:
   - name: Economic Times
     url: https://economictimes.indiatimes.com/industry/energy/power/govt-sets-criteria-for-allocation-of-power-from-central-pool-to-states-uts/articleshow/99297037.cms?from=mdr

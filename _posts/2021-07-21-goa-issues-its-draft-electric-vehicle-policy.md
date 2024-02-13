@@ -7,7 +7,7 @@ states:
 - Goa
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

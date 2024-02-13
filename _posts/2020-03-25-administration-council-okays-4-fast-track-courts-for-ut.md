@@ -7,7 +7,7 @@ states:
 - Jammu and Kashmir
 sectors:
 - Health
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

@@ -6,7 +6,7 @@ date: 2019-10-03 04:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

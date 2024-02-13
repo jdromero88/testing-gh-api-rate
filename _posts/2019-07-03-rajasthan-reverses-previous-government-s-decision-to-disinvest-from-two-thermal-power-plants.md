@@ -7,7 +7,7 @@ date: 2019-07-03 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

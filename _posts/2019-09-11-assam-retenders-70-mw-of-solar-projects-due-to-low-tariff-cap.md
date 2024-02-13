@@ -6,7 +6,7 @@ date: 2019-09-11 04:00:00 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power

@@ -8,7 +8,7 @@ date: 2022-07-21 04:00:00 +0000
 states:
 - Nagaland
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

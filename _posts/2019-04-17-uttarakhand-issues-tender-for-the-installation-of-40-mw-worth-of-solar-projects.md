@@ -6,7 +6,7 @@ date: 2019-04-17 04:00:00 +0000
 states:
 - Uttarakhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

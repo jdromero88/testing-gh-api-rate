@@ -6,7 +6,7 @@ date: 2019-12-24 05:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Saur Energy

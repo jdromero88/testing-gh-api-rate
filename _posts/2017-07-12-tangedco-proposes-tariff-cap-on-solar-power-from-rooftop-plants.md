@@ -9,7 +9,7 @@ tags:
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 - Power

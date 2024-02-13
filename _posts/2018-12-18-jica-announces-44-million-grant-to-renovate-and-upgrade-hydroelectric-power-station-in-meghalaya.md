@@ -7,7 +7,7 @@ date: 2018-12-18 16:57:52 +0000
 states:
 - Meghalaya
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

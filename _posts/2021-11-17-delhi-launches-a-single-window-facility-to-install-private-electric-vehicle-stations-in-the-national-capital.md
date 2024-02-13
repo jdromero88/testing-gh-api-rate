@@ -8,7 +8,7 @@ states:
 - Delhi
 sectors:
 - Climate Change and Energy
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

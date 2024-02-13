@@ -9,7 +9,7 @@ states:
 - Center-State Relations
 sectors:
 - Infrastructure and Governance
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

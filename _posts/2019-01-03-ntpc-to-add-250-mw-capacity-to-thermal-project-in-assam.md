@@ -6,7 +6,7 @@ date: 2019-01-03 05:00:00 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

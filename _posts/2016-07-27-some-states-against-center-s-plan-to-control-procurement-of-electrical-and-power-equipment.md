@@ -11,7 +11,7 @@ states:
 - Maharashtra
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

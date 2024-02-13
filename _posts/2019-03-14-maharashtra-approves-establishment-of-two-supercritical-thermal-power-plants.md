@@ -6,7 +6,7 @@ date: 2019-03-14 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

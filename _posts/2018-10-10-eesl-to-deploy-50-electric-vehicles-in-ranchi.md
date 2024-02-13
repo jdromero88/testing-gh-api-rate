@@ -6,7 +6,7 @@ date: 2018-10-10 14:24:59 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

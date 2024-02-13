@@ -7,7 +7,7 @@ date: 2021-05-25 04:00:00 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 - Health
 subsectors:
 - " Healthcare Workforce"

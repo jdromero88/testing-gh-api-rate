@@ -7,7 +7,7 @@ date: 2019-10-23 04:00:00 +0000
 states:
 - Tripura
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Indian Express

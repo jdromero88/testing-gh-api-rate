@@ -8,7 +8,7 @@ states:
 - Bihar
 sectors:
 - Infrastructure and Governance
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

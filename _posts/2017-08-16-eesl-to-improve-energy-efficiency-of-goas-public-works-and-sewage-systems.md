@@ -7,7 +7,7 @@ states:
 - Goa
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:

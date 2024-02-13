@@ -7,7 +7,7 @@ date: 2020-11-18 05:00:00 +0000
 states:
 - Nagaland
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:

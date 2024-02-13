@@ -4,7 +4,7 @@ date: 2018-01-31 17:46:00 Z
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

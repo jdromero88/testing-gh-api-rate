@@ -7,7 +7,7 @@ date: 2018-12-18 16:29:36 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:

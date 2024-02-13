@@ -4,7 +4,7 @@ date: 2017-10-18 00:00:00 Z
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

@@ -6,7 +6,7 @@ date: 2020-01-02T05:00:00.000+00:00
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
