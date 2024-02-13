@@ -12,7 +12,6 @@ sectors:
 subsectors:
   - Oil and Gas
   - Power
-  - Financing and Payment
 sources:
   - name: India TV News
     url: https://www.indiatvnews.com/madhya-pradesh/ahead-of-elections-shivraj-singh-chouhan-announces-subsidy-in-electricity-gas-cylinders-2023-08-31-889962
