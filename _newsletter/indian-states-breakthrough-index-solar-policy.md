@@ -12,7 +12,7 @@ sectors:
 - Energy
 subsectors:
 - Renewables
-feature_image: "/uploads/analysis/breakthrough-index-solar-policy-ranking.jpg"
+feature_image: "/uploads/newsletter/breakthrough-index-solar-policy-ranking.jpg"
 feature_image_credit: 
 excerpt: In September 2016, Madhya Pradesh became the latest state to encourage consumers
   to install solar rooftop panels. But despite the vogue for such sources of renewable

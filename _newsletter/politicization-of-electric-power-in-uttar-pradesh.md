@@ -11,7 +11,7 @@ sectors:
 - Energy
 subsectors:
 - Power
-feature_image: "/uploads/analysis/politicization-electric-power-uttar-pradesh.jpg"
+feature_image: "/uploads/newsletter/politicization-electric-power-uttar-pradesh.jpg"
 feature_image_credit: 'Skyline in Varanasi, Uttar Pradesh. Source: Bobulix’s flickr
   photostream, used under a creative commons license.'
 excerpt: HELP marks the biggest transition from an era of government control to government

@@ -8,7 +8,7 @@ sectors:
 - Energy
 subsectors:
 - Renewables
-feature_image: "/uploads/analysis/payment-security-mechanism-solar-power-india.jpg"
+feature_image: "/uploads/newsletter/payment-security-mechanism-solar-power-india.jpg"
 feature_image_credit: 
 author:
 - Sharmila Bellur

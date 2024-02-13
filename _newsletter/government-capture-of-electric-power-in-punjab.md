@@ -11,7 +11,7 @@ sectors:
 - Energy
 subsectors:
 - Power
-feature_image: "/uploads/analysis/government-capture-electric-power-punjab.jpg"
+feature_image: "/uploads/newsletter/government-capture-electric-power-punjab.jpg"
 feature_image_credit: 'Market district in Amritsar, in Punjab, India. Source: Rwoan’s
   flickr photostream, used under a creative commons license.'
 ---

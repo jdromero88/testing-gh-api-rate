@@ -12,7 +12,7 @@ sectors:
 - Energy
 subsectors:
 - Oil and Gas
-feature_image: "/uploads/analysis/payment-security-mechanism-solar-power-india.jpg"
+feature_image: "/uploads/newsletter/payment-security-mechanism-solar-power-india.jpg"
 feature_image_credit: 
 excerpt: HELP marks the biggest transition from an era of government control to government
   support for upstream E&P in India. OALP removes restrictions on exploration by giving
