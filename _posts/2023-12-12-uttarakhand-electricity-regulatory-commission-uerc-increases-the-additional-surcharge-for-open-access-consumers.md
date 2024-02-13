@@ -12,7 +12,6 @@ sectors:
   - Climate Change and Energy
 subsectors:
   - Power
-  - Financing and Payment
 sources:
   - name: Mercom
     url: https://www.mercomindia.com/uttarakhand-additional-surcharge-1-05
