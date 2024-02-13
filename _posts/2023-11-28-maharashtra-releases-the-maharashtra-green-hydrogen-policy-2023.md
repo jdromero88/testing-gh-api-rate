@@ -7,7 +7,6 @@ sectors:
   - Climate Change and Energy
 subsectors:
   - Power
-  - Financing and Payment
 sources:
   - name: HW news
     url: https://hwnews.in/news/politics/maharashtra-govt-releases-green-hydrogen-policy/
