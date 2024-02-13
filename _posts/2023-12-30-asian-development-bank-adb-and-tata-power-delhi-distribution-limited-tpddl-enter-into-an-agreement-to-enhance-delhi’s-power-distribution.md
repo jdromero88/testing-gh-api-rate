@@ -12,7 +12,6 @@ sectors:
   - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
-  - Financing and Payment
 sources:
   - name: Economic Times
     url: https://energy.economictimes.indiatimes.com/news/power/adb-tata-power-sign-deal-to-enhance-delhis-power-distribution/99376480
