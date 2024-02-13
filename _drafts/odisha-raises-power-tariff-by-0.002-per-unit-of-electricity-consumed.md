@@ -6,7 +6,7 @@ date: 2020-09-30 04:00:00 +0000
 states:
 - Odisha
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
