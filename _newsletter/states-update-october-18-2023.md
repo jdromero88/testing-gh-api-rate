@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: "States Weekly: October 18, 2023"
 date: 2023-10-18 04:00:00 +0000
 tags: []

@@ -2,7 +2,7 @@
 post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: December 21, 2022'
 date: 2022-12-21 05:00:00 +0000
 tags: []

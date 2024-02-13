@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: July 3, 2019'
 date: 2019-07-03 04:00:00 +0000
 tags:

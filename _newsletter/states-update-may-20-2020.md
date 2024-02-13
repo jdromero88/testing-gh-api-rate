@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: May 20, 2020'
 date: 2020-05-20 04:00:00 +0000
 tags: []

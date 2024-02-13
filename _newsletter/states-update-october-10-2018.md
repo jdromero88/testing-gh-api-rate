@@ -2,7 +2,7 @@
 title: 'States Update: October 10, 2018'
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 date: 2018-10-10 00:00:00 +0000
 tags:
 - Update on India's States

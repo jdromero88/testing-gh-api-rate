@@ -2,7 +2,7 @@
 layout: post
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: "States Weekly: October 25, 2023"
 date: 2023-10-25T19:53:29.838Z
 tags:

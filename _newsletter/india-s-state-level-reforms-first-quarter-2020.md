@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: Indian State-Level Business Reforms, First Quarter 2020
 date: 2020-04-20T04:00:00.000+00:00
 tags:

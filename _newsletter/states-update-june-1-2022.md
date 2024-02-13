@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: June 1, 2022'
 date: 2022-06-01 04:00:00 +0000
 tags: []

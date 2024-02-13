@@ -2,7 +2,7 @@
 layout: post
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: "States Weekly: January 3, 2024"
 date: 2024-01-03T19:00:31.709Z
 tags:

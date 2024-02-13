@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: April 22, 2020'
 date: 2020-04-22T04:00:00.000+00:00
 tags:

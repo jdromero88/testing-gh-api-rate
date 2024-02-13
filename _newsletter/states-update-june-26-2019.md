@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: June 26, 2019'
 date: 2019-06-26T04:00:00.000+00:00
 tags: []

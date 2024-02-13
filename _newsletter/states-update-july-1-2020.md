@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: July 1, 2020'
 date: 2020-06-30 04:00:00 +0000
 tags: []

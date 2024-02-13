@@ -2,7 +2,7 @@
 post_type: []
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: November 16, 2022'
 date: 2022-11-16 05:00:00 +0000
 tags: []

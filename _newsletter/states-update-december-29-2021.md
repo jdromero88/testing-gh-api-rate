@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: December 29, 2021'
 date: 2021-12-28 05:00:00 +0000
 tags: []

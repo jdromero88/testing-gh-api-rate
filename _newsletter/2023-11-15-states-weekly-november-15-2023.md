@@ -2,7 +2,7 @@
 layout: post
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: "States Weekly: November 15, 2023"
 date: 2023-11-15T19:31:21.942Z
 tags:

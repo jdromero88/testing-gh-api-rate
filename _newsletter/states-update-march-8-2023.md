@@ -2,7 +2,7 @@
 post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: March 8, 2023'
 date: 2023-03-08T05:00:00.000+00:00
 tags: []

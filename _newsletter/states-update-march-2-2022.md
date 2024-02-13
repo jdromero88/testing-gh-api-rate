@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: March 2, 2022'
 date: 2022-03-02T05:00:00.000+00:00
 tags: []

@@ -2,7 +2,7 @@
 post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: June 21, 2023'
 date: 2023-06-21 04:00:00 +0000
 tags: []

@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: May 8, 2019'
 date: 2019-05-08 04:00:00 +0000
 tags:

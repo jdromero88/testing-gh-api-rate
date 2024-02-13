@@ -2,7 +2,7 @@
 title: 'States Update: November 28, 2018'
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 date: 2018-11-28 17:19:07 +0000
 tags:
 - Update on India's States

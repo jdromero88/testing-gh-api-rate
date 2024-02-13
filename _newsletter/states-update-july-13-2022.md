@@ -2,7 +2,7 @@
 post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: July 13, 2022'
 date: 2022-07-13 04:00:00 +0000
 tags:

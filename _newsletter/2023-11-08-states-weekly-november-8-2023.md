@@ -2,7 +2,7 @@
 layout: post
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: "States Weekly: November 8, 2023"
 date: 2023-11-08T20:48:10.463Z
 tags:

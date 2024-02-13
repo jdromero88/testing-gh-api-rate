@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: February 9, 2022'
 date: 2022-02-09 05:00:00 +0000
 tags: []

@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: July 08,2021'
 date: 2021-07-08T04:00:00.000+00:00
 tags:

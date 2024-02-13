@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: September 16, 2020'
 date: 2020-09-16 04:00:00 +0000
 tags: []

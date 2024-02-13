@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: May 4, 2022'
 date: 2022-05-04 04:00:00 +0000
 tags: []

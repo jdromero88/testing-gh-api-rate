@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: June 16, 2021'
 date: 2021-06-16T04:00:00.000+00:00
 tags:

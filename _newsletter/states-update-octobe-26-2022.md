@@ -2,7 +2,7 @@
 post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: October 26, 2022'
 date: 2022-10-26 04:00:00 +0000
 tags: []

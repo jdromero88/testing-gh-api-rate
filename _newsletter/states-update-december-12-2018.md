@@ -2,7 +2,7 @@
 title: 'States Update: December 12, 2018'
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 date: 2018-12-12 16:07:40 +0000
 tags:
 - Update on India's States

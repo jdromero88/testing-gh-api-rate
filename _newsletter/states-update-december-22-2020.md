@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: December 22, 2020'
 date: 2020-12-22 05:00:00 +0000
 tags: []

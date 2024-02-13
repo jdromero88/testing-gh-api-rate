@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: 'States Update: February 13, 2019'
 date: 2019-02-13 05:00:00 +0000
 tags:

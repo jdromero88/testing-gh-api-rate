@@ -1,7 +1,7 @@
 ---
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: India’s State-Level Reforms, Fourth Quarter 2019
 date: 2020-02-06 05:00:00 +0000
 tags: []

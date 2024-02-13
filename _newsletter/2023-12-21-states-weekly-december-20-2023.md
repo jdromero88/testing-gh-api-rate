@@ -2,7 +2,7 @@
 layout: post
 breadcrumbs: newsletter
 is_newsletter: true
-content_type: analysis
+content_type: newsletter
 title: "States Weekly: December 20, 2023"
 date: 2023-12-20T15:16:35.517Z
 tags:
