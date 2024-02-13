@@ -8,8 +8,8 @@
     {% if page.breadcrumbs %}
       {% assign breadcrumbComparison = page.breadcrumbs | prepend: '/' | append: '/' %}
     {% endif %}
-    {% if page.is_analysis %}
-      {% assign breadcrumbComparison = '/analysis/' %}
+    {% if page.is_newsletter %}
+      {% assign breadcrumbComparison = '/newsletter/' %}
     {% endif %}
     {% assign menu = site.data.navigation.main %}
     <ul>
