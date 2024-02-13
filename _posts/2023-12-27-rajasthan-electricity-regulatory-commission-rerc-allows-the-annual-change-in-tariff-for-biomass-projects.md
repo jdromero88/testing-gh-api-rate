@@ -9,7 +9,7 @@ date: 2023-12-27T07:10:45.185Z
 states:
   - Rajasthan
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Mercom
     url: https://www.mercomindia.com/rajasthan-to-allow-annual-revision-in-biomass-tariffs

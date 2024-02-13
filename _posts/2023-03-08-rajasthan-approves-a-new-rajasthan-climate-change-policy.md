@@ -7,7 +7,7 @@ states:
 - Rajasthan
 sectors:
 - Industrial Policy and Business Regulations
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 - Energy Efficiency

@@ -10,8 +10,7 @@ states:
   - Jammu and Kashmir
   - Union Territory of Jammu and Kashmir
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
   - Power & Renewable Energy

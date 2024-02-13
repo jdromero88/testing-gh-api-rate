@@ -9,8 +9,7 @@ date: 2023-12-06T21:13:55.264Z
 states:
   - Haryana
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Renewables
   - Power & Renewable Energy

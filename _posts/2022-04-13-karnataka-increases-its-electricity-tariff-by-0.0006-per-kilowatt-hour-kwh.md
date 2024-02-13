@@ -6,8 +6,7 @@ date: 2022-04-13 07:00:00 +0000
 states:
 - Karnataka
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Deccan Herald

@@ -7,8 +7,7 @@ date: 2022-04-13 07:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Mercom

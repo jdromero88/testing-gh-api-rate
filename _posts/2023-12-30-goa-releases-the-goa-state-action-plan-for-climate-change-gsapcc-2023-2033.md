@@ -8,7 +8,7 @@ date: 2023-05-03T19:08:51.167Z
 states:
   - Goa
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors: []
 sources:
   - name: Times of India

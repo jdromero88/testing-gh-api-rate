@@ -7,8 +7,7 @@ date: 2022-08-03 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

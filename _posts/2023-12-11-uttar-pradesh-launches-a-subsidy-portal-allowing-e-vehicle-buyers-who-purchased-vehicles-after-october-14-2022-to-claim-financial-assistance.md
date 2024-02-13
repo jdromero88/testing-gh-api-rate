@@ -9,7 +9,7 @@ date: 2023-07-26T19:05:00.992Z
 states:
   - Uttar Pradesh
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Energy-related Transportation
 sources:

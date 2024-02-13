@@ -8,7 +8,7 @@ states:
 sectors:
 - Industrial Policy and Business Regulations
 - Infrastructure and Governance
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: New Indian Express

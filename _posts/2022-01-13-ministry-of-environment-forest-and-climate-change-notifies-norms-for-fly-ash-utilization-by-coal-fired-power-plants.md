@@ -8,7 +8,7 @@ states:
 - Center-State Relations
 sectors:
 - Industrial Policy and Business Regulations
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Economic Times

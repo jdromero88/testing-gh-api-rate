@@ -10,7 +10,7 @@ states:
   - Goa
   - Uttarakhand
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - url: https://currentaffairs.adda247.com/goa-signed-mou-with-uttarakhand-for-strengthening-tourism-cooperation/
     name: Current Affairs

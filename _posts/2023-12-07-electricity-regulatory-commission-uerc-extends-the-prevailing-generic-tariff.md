@@ -6,7 +6,7 @@ is_newsletter: false
 title: Electricity Regulatory Commission (UERC) extends the prevailing generic tariff
 date: 2023-08-23T18:14:27.216Z
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power
   - Power & Renewable Energy

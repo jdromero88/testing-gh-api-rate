@@ -8,7 +8,7 @@ date: 2023-08-16T18:34:02.306Z
 states:
   - Kerala
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Times of India
     url: https://timesofindia.indiatimes.com/city/thiruvananthapuram/kerala-forms-climate-change-adaptation-mission/articleshow/102568174.cms

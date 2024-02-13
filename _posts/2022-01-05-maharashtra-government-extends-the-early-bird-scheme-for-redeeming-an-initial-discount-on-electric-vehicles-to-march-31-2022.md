@@ -8,7 +8,7 @@ states:
 - Maharashtra
 sectors:
 - Energy
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Car and Bike

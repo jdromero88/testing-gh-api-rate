@@ -6,8 +6,7 @@ date: 2021-12-08 05:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

@@ -7,7 +7,7 @@ states:
 - Karnataka
 sectors:
 - Energy
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Mercom

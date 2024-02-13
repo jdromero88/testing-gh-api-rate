@@ -8,8 +8,7 @@ date: 2022-06-22 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

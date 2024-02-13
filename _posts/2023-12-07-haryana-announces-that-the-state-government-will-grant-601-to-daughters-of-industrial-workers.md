@@ -9,7 +9,7 @@ date: 2023-09-28T03:34:34.648Z
 states:
   - Haryana
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Energy-related Transportation
 sources:

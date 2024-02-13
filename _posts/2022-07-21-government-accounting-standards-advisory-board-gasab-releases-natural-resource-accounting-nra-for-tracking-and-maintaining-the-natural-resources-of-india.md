@@ -8,7 +8,7 @@ states:
 - Center-State Relations
 sectors:
 - Land & Labor Laws
-- Climate Change
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors: []
 sources:

@@ -8,7 +8,7 @@ states:
 - Telangana
 - Center-State Relations
 sectors:
-- Energy
+- Cliamte Change and Energy
 subsectors:
 - Coal
 sources:

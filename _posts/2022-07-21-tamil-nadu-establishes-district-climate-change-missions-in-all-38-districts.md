@@ -6,8 +6,7 @@ date: 2022-07-21 04:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors: []
 sources:

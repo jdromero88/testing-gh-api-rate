@@ -6,8 +6,7 @@ date: 2022-07-06 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 - Energy-related Transportation

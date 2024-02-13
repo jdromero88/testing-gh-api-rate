@@ -9,7 +9,7 @@ date: 2023-06-28T14:13:20.569Z
 states:
   - Haryana
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
 sources:

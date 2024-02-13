@@ -8,7 +8,7 @@ date: 2023-08-16T18:31:17.294Z
 states:
   - Maharashtra
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Deccan Herald
     url: https://www.deccanherald.com/india/maharashtra/maharashtra-government-forms-climate-action-cell-2642047

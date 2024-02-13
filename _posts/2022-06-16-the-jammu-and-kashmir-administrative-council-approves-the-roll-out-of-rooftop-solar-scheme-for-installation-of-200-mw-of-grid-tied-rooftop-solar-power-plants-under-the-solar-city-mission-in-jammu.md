@@ -8,8 +8,7 @@ date: 2022-06-16 04:00:00 +0000
 states:
 - Union Territory of Jammu and Kashmir
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:

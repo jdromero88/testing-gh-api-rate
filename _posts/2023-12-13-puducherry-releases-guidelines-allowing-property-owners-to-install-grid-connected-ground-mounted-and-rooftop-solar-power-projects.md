@@ -9,8 +9,7 @@ date: 2023-12-13T19:37:27.742Z
 states:
   - Puducherry
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Renewables
   - Power

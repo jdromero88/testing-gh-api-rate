@@ -8,8 +8,7 @@ date: 2022-06-16 04:00:00 +0000
 states:
 - Delhi
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

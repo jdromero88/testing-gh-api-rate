@@ -6,8 +6,7 @@ date: 2022-03-16 07:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

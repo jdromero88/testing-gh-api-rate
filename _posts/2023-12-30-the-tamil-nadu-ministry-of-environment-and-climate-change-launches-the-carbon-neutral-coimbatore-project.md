@@ -9,7 +9,7 @@ date: 2023-05-03T19:10:02.819Z
 states:
   - Tamil Nadu
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: New Indian Express
     url: https://www.newindianexpress.com/states/tamil-nadu/2023/apr/30/tamil-nadu-minister-launches-carbon-neutral-coimbatore-project-firstin-state-2570631.html

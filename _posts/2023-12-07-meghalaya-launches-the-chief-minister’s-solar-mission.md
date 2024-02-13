@@ -8,7 +8,7 @@ date: 2023-08-16T18:34:51.628Z
 states:
   - Meghalaya
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Renewables
   - Power & Renewable Energy

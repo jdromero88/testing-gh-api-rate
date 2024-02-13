@@ -7,8 +7,7 @@ date: 2022-04-06 07:00:00 +0000
 states:
 - Odisha
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

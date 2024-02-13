@@ -8,7 +8,7 @@ date: 2023-08-30T17:58:05.396Z
 states:
   - Tamil Nadu
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Economic Times
     url: https://energy.economictimes.indiatimes.com/news/renewable/tn-cm-launches-green-fellowship-programme/102910519

@@ -8,7 +8,7 @@ date: 2023-07-12T19:57:33.155Z
 states:
   - Union Territory of Chandigarh
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Energy-related Transportation
 sources:

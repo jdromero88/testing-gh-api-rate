@@ -9,7 +9,7 @@ date: 2023-09-21T03:48:10.117Z
 states:
   - Tamil Nadu
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power
   - Power & Renewable Energy

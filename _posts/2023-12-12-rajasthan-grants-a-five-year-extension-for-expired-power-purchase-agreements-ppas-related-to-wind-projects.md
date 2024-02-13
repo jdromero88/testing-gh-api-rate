@@ -9,7 +9,7 @@ date: 2023-10-04T18:21:25.887Z
 states:
   - Rajasthan
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Renewables
   - Power & Renewable Energy

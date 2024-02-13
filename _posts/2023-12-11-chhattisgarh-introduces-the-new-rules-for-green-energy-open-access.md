@@ -8,7 +8,7 @@ date: 2023-08-02T16:20:34.504Z
 states:
   - Chhattisgarh
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power
   - Renewables

@@ -8,8 +8,7 @@ date: 2022-08-03 04:00:00 +0000
 states:
 - Goa
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 - Energy-related Transportation

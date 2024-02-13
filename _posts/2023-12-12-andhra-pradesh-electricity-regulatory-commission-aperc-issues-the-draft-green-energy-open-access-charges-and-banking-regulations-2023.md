@@ -9,7 +9,7 @@ date: 2023-10-11T18:06:35.258Z
 states:
   - Andhra Pradesh
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Financing and Payment

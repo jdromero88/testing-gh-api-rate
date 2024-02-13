@@ -7,7 +7,7 @@ states:
 - Center-State Relations
 sectors:
 - Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

@@ -9,7 +9,7 @@ date: 2023-08-02T16:23:10.098Z
 states:
   - Kerala
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Times of India
     url: https://timesofindia.indiatimes.com/city/thiruvananthapuram/project-launched-to-help-farmers-fight-climate-change/articleshow/102121536.cms

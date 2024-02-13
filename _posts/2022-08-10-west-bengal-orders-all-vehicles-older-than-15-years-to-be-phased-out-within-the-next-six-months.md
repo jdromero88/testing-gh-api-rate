@@ -7,8 +7,7 @@ date: 2022-08-10 04:00:00 +0000
 states:
 - West Bengal
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

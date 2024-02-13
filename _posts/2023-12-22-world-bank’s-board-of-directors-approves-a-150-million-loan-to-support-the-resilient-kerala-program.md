@@ -9,7 +9,7 @@ date: 2023-06-21T16:49:04.755Z
 states:
   - Kerala
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Siasat
     url: https://www.siasat.com/world-bank-approves-150-mn-loan-to-support-resilient-kerala-program-2617756/

@@ -9,7 +9,7 @@ date: 2023-08-02T16:18:50.470Z
 states:
   - Tamil Nadu
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Times of India
     url: https://timesofindia.indiatimes.com/city/chennai/now-industrial-green-ranking-in-tamil-nadu/articleshow/102186315.cms

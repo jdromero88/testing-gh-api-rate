@@ -9,7 +9,7 @@ date: 2023-11-29T14:11:26.266Z
 states:
   - Delhi
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Energy-related Transportation
 sources:

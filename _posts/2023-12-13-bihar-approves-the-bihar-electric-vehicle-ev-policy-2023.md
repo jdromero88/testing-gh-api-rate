@@ -8,8 +8,7 @@ date: 2023-12-13T19:36:36.075Z
 states:
   - Bihar
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy-related Transportation
 sources:

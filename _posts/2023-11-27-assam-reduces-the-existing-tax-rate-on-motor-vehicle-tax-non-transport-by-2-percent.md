@@ -9,8 +9,7 @@ date: 2023-11-22T16:16:18.576Z
 states:
   - Assam
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
   - Financing and Payment
