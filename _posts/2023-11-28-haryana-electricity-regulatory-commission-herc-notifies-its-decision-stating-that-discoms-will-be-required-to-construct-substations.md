@@ -7,7 +7,6 @@ states:
 sectors:
   - Climate Change and Energy
 subsectors:
-  - Financing and Payment
 sources:
   - name: Times of India
     url: https://timesofindia.indiatimes.com/city/gurgaon/developers-not-to-build-power-infra-as-hry-brings-in-major-policy-change/articleshow/104482216.cms
