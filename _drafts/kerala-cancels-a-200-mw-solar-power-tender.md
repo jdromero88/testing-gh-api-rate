@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/ksebl-cancels-200-mw-solar-tender/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Kerala State Electricity Board Limited has passed an order for the cancellation of a tender for 200 MW of ground-mounted solar power projects in Kerala.
