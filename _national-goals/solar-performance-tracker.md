@@ -1,6 +1,6 @@
 ---
 title: Solar Performance Tracker
-sectors: Energy
+sectors: Climate Change and Energy
 subsectors: Renewables
 show_map: true
 show_progressbars: true

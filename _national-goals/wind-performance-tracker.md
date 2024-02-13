@@ -1,7 +1,7 @@
 ---
 title: Wind Performance Tracker
 date: '2017-09-15T12:55:00.000+00:00'
-sectors: Energy
+sectors: Climate Change and Energy
 subsectors: Renewables
 show_map: true
 show_progressbars: true
