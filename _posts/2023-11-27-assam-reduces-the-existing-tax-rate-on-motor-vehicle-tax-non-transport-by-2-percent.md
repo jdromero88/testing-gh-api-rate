@@ -12,7 +12,6 @@ sectors:
   - Climate Change and Energy
 subsectors:
   - Energy Efficiency
-  - Financing and Payment
   - Energy-related Transportation
 sources:
   - name: Assam Tribune
