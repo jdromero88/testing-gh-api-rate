@@ -35,8 +35,7 @@ sectors:
   - Land & Labor Laws
   - Industrial Policy and Business Regulations
   - Finance
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
   - Health
 is_featured: false
 sources: []
