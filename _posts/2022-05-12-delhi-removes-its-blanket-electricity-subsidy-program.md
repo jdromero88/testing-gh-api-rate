@@ -15,6 +15,6 @@ sources:
 details:
 - name: CMO Twitter
   url: https://twitter.com/CMODelhi/status/1522161662597361665
-is_analysis: false
+is_newsletter: false
 
 ---

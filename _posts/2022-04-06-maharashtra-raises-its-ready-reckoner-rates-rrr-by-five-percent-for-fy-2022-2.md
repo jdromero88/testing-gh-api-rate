@@ -12,6 +12,6 @@ sources:
 - name: Bloomberg Quint
   url: https://www.bloombergquint.com/politics/maharashtra-government-raises-ready-reckoner-rates-by-average-5
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Approval document
   url: http://www.uperc.org/App_File/SmartMeters-pdf1116201863256PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh State Electricity Regulatory Commission has approved the proposal of the Uttar Pradesh Power Corporation Limited to begin installation of smart meters in the state.   

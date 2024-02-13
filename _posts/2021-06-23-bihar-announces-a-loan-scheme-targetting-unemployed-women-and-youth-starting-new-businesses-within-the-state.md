@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: http://cms.bih.nic.in/Press/PR-02-18-06-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

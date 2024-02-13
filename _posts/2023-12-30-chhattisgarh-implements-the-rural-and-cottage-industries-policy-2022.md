@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Chhattisgarh implements the Rural and Cottage Industries Policy-2022
 date: 2023-04-12T21:10:52.219Z
 states:

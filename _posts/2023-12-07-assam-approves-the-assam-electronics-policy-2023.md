@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam approves the Assam Electronics Policy 2023
 date: 2023-08-30T18:07:51.500Z
 states:

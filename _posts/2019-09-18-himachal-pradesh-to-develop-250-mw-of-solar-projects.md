@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/himachal-pradesh-solar-projects/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The government of Himachal Pradesh has signed two agreements for setting up 250 MW of solar power projects in the state. The estimated cost of the projects is $139.7 million. The two companies that signed the deal with the Himachal Pradesh government are ReNew Power and CSE Development (India), Private Ltd.

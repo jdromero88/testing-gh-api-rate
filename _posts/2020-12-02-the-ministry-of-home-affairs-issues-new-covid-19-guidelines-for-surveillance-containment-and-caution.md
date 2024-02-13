@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: https://www.mha.gov.in/sites/default/files/MHAOrder25112020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

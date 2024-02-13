@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: https://powermin.gov.in/sites/default/files/webform/notices/OM_Revamped_Distribution_Sector_Scheme.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

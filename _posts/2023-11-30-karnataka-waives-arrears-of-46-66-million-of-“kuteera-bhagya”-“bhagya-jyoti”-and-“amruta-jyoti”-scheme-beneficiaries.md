@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka waives arrears of $46.66 million of “Kuteera Bhagya”, “Bhagya
   Jyoti” and “Amruta Jyoti” scheme beneficiaries
 date: 2023-11-29T14:47:48.009Z

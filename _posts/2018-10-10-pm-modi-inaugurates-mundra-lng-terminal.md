@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://pib.nic.in/newsite/PrintRelease.aspx?relid=183839
-is_analysis: false
+is_newsletter: false
 
 ---
 Prime Minister Narendra Modi inaugurated the Mundra liquefied natural gas (LNG) terminal, which has a capacity of 5 million tons per year and has been built at a cost of $695 million. It is connected to a high-pressure transmission grid that ensures LNG reaches the end user directly.    

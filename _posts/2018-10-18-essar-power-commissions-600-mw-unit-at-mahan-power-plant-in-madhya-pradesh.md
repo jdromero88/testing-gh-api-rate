@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.essar.com/essar-completes-rs-8000-crore-capex-cycle-for-2x600-mw-mahan-power-project-commissions-second-unit/
-is_analysis: false
+is_newsletter: false
 
 ---
 Essar Power announced it has commissioned the second 600 MW unit of the Mahan power plant in Madhya Pradesh, completing an overall $1 billion investment in the flagship project.

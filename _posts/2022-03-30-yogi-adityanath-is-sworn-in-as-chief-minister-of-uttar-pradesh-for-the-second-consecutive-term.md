@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: http://upgovernor.gov.in/site/writereaddata/UploadedPressRelease/pdf/C_202203261711543404.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -12,6 +12,6 @@ sources:
 - name: Northeast Now
   url: https://nenow.in/north-east-news/nagaland/neiphiu-rio-inaugurates-noklak-as-12th-district-of-nagaland.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender Details
   url: http://hareda.gov.in/writereaddata/document/hareda987563933.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana Renewable Energy Development Agency has released a tender for a proposed 20 megawatt (MW) grid-connected rooftop solar project in the state. Bidders have until November 30 to announce their interest in constructing and operating a project worth an estimated $13.9 million.   

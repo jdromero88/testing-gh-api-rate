@@ -17,6 +17,6 @@ sources:
 details:
 - name: Industries and IT Minister Tweet
   url: https://twitter.com/KTRTRS/status/1322126641590665218
-is_analysis: false
+is_newsletter: false
 
 ---

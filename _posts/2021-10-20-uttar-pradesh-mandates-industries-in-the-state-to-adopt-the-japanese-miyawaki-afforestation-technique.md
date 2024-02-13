@@ -13,6 +13,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/lucknow/uttar-pradesh-asks-industries-to-adopt-miyawaki-method-to-reduce-carbon-footprint/articleshow/87027089.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Meghalaya Electric Vehicle Policy 2021
   url: https://www.meghalaya.gov.in/sites/default/files/documents/Meghalaya_Electric_vehicle_policy_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

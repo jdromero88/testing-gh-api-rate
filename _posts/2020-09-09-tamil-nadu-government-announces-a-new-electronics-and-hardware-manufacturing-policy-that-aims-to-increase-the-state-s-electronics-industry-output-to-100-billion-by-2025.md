@@ -17,6 +17,6 @@ sources:
 details:
 - name: Electronics Hardware Manufacturing Policy 2020
   url: https://www.thehindu.com/news/resources/article32540081.ece/binary/TNElectronicsHardwareManufacturing-policy.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

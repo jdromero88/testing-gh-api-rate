@@ -14,7 +14,7 @@ sources:
 - name: The News Minute
   url: https://www.thenewsminute.com/article/karnataka-govt-launches-new-emergency-helpline-number-112-111544
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Karnataka now has an integrated emergency helpline number, 112, which will allow residents of the state to call for police, fire and emergency, and ambulance services.

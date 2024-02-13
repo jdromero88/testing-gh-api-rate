@@ -13,6 +13,6 @@ sources:
 - name: New Indian Express
   url: https://www.newindianexpress.com/states/odisha/2021/aug/15/50-per-cent-power-subsidy-for-odishas-cold-stores-2344957.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

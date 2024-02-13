@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh inaugurates the “Mukhyamantri Krishak Mitra Yojana”
 date: 2023-09-28T03:36:08.945Z
 states:

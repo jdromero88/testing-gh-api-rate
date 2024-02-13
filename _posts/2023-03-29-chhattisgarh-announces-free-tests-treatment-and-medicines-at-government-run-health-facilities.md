@@ -18,6 +18,6 @@ sources:
 details:
 - name: Chhattisgarh Health and Family Welfare Minister’s Twitter
   url: https://twitter.com/TS_SinghDeo/status/1638507581470834688
-is_analysis: false
+is_newsletter: false
 
 ---

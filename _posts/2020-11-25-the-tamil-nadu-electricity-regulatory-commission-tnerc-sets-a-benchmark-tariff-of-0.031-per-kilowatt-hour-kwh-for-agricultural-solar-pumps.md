@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: http://www.tnerc.gov.in/orders/commn%20order/2020/TEDA-MPNo2of2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

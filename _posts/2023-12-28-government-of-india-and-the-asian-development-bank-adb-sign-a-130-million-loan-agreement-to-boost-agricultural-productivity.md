@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Government of India and the Asian Development Bank (ADB) sign a $130
   million loan agreement to boost agricultural productivity
 date: 2023-12-28T15:51:03.387Z

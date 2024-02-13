@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Conference
   url: https://www.youtube.com/watch?v=zIxV7QamPfo
-is_analysis: false
+is_newsletter: false
 
 ---

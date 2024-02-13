@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: http://www.tnerc.gov.in/Orders/files/CO-MPNo31%20121020211530.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

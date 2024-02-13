@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://powermin.nic.in/sites/default/files/webform/notices/Draft_Electricity_Rights_of_Consumers_Rules_2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

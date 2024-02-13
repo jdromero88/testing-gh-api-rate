@@ -15,7 +15,7 @@ sources:
 details:
 - name: Twitter Announcement
   url: https://twitter.com/MamataOfficial/status/1073391903121403904
-is_analysis: false
+is_newsletter: false
 
 ---
 Chief Minister Mamata Banerjee announced that between 2011 and 2018, West Bengal has recorded an increase in solar power generation from 1.2 MW to 53.2 MW. 

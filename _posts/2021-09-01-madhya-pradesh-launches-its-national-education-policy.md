@@ -14,6 +14,6 @@ sources:
 details:
 - name: Chief Minister's Twitter Message
   url: https://twitter.com/ChouhanShivraj/status/1430777662679642113
-is_analysis: false
+is_newsletter: false
 
 ---

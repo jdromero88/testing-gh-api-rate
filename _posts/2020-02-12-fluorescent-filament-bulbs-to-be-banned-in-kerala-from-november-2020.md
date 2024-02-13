@@ -13,7 +13,7 @@ sources:
 - name: The News Minute
   url: https://www.thenewsminute.com/article/fluorescent-filament-bulbs-be-banned-kerala-november-2020-117721
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 To achieve optimum energy efficiency and conserve power, Kerala will now ban the sale of compact fluorescent lamp and filament light bulbs across the state from November 1, announced Finance Minister Thomas Isaac in his budget speech.

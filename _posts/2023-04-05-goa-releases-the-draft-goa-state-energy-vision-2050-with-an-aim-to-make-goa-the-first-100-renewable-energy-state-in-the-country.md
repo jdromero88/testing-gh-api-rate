@@ -17,6 +17,6 @@ sources:
 - name: Herald
   url: https://www.heraldgoa.in/Goa/Draft-%E2%80%98Goa-State-Energy-Vision-2050%E2%80%99-released/203033
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender details
   url: http://www.wbreda.org/wp-content/uploads/2019/02/NIeT-11.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The West Bengal Renewable Energy Development Agency issued a tender to set up 2 MW of grid-connected rooftop solar PV projects under residential, institutional and social sectors in the state.

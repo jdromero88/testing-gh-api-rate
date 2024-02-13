@@ -13,7 +13,7 @@ sources:
 - name: Financial Express
   url: https://www.financialexpress.com/india-news/assam-launches-diarrhoea-control-fortnight-campaign/1592039/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The National Health Mission in Assam has launched an Intensified Diarrhoea Control Fortnight campaign, targeting 3.4 million children. 

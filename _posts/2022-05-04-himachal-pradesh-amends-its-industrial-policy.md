@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://emerginghimachal.hp.gov.in/themes/backend/uploads/policies/Industrial-Policy-Amendment.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

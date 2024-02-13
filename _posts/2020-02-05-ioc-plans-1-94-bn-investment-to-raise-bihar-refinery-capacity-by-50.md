@@ -15,7 +15,7 @@ sources:
 details:
 - name: IOC Project List
   url: https://www.iocl.com/AboutUs/Majorprojects.aspx
-is_analysis: false
+is_newsletter: false
 
 ---
 Indian Oil Corporation will invest $1.94 billion to expand the capacity of its Barauni refinery in eastern Bihar state by 50 percent to 180,000 barrels per day by April 2023.

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: http://hperc.org/File/fordersolar21-22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

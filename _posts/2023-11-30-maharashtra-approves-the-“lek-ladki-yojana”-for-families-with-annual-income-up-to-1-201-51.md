@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra approves the “Lek Ladki Yojana” for families with annual
   income up to $1,201.51
 date: 2023-10-18T15:01:02.779Z

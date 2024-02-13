@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh launches a subsidy portal, allowing e-vehicle buyers who
   purchased vehicles after October 14, 2022, to claim financial assistance
 date: 2023-07-26T19:05:00.992Z

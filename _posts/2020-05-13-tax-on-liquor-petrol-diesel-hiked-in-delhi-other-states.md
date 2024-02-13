@@ -16,7 +16,7 @@ sources:
 details:
 - name: Notification
   url: http://it.delhigovt.nic.in/writereaddata/egaz202055602.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Delhi government has raised value added tax (VAT) on petrol and diesel. As a result, petrol and diesel price in the national capital has increased by $0.02 a liter and $0.09 per liter respectively.

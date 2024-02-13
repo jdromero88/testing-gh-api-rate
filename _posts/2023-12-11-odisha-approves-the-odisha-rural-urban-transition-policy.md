@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha approves the Odisha Rural-Urban Transition Policy
 date: 2023-07-19T19:31:15.091Z
 states:

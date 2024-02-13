@@ -13,6 +13,6 @@ sources:
 - name: Economic Times
   url: https://realty.economictimes.indiatimes.com/news/residential/first-time-home-buyers-in-jammu-kashmir-to-get-50-stamp-duty-remission/89847883
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

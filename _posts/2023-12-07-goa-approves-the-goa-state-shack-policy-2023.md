@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa approves the Goa State Shack Policy 2023
 date: 2023-09-13T15:27:06.274Z
 states:

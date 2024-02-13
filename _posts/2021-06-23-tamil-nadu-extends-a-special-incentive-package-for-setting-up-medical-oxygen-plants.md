@@ -13,6 +13,6 @@ sources:
 - name: The News Minute
   url: https://www.thenewsminute.com/article/tn-govt-extends-period-incentive-companies-setting-oxygen-plants-150584
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

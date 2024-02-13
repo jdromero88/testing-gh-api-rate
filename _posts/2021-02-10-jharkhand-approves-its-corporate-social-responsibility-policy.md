@@ -14,6 +14,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/JharkhandCMO/status/1358054207689924619
-is_analysis: false
+is_newsletter: false
 
 ---

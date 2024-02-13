@@ -15,7 +15,7 @@ sources:
 details:
 - name: Notification
   url: https://mnre.gov.in/img/documents/uploads/file_f-1586332072120.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ministry of New and Renewable Energy extends the deadlines for the approved list of models and manufacturers by 6 months.

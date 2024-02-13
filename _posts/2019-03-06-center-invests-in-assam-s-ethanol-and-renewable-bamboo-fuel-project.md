@@ -13,7 +13,7 @@ sources:
 - name: The Sentinel
   url: https://www.sentinelassam.com/news/new-delhi-to-invest-rs-1259-crore-to-produce-ethanol-in-assam/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The central government announced a decision to invest $177 million to produce ethanol and renewable fuel from bamboo in Assam’s Bongaigaon Refinery.

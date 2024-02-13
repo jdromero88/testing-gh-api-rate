@@ -14,7 +14,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/nagpur/msedcl-gets-another-1000mw-cheap-solar-power/articleshowprint/68102541.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra State Electricity Distribution Company Limited announced it will sign power purchase agreements for 1,000 MW of solar power after it received bids at $0.0385 and $0.0387 per unit. This purchase will prevent increase in power tariff in the coming years.

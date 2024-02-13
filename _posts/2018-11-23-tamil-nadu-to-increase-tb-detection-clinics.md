@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/chennai/state-to-increase-tb-detection-clinics/articleshow/66757930.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 After finding a gross delay in diagnosis of patients with tuberculosis, the state has decided to make testing facilities available in all public hospitals from primary health centers to medical college hospitals across the state.

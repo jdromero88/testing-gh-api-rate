@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana launches the biennial Integrated Water Resources Action Plan (2023-25)
 date: 2023-06-14T06:43:30.509Z
 states:

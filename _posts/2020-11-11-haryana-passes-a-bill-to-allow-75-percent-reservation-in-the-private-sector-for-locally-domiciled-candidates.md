@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister's Tweet
   url: https://twitter.com/mlkhattar/status/1325010292061822977?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

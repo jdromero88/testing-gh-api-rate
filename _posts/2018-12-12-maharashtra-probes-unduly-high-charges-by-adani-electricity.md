@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/merc-to-probe-unduly-high-adani-power-bills-in-mumbai/articleshow/66997737.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Maharashtra’s power regulator has set up a two-member fact-finding panel to probe the “unduly high” utility charges by Adani Electricity after explanations offered by the private-sector distributor failed to convince the state agency.

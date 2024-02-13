@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: http://cms.neva.gov.in/FileStructure_MN/AssemblyFiles/12/2/20220805/3.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

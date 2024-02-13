@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi raises the transfer duty on property purchases exceeding $30,465.8, by 1%
 date: 2023-07-19T19:22:26.714Z
 states:

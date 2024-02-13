@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.pngrb.gov.in/pdf/public-notice/NF_22082019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 To speed up gas infrastructure activities in the states, the ministry of petroleum and natural gas has prepared a draft policy for city-gas distribution (CGD), which the government expects will be a template for every state to come up with their own CGD policies.

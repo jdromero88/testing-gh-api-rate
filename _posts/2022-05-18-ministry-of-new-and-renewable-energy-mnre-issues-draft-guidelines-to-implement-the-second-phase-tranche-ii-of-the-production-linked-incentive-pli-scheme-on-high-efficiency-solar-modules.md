@@ -14,6 +14,6 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/production-linked-incentive-program-solar-module-manufacturing/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

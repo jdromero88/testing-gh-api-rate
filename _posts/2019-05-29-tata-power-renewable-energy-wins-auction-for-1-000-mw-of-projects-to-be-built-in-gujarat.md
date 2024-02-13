@@ -14,7 +14,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/tata-power-renewable-energy-wins-gujarat-solar-auction/articleshow/69434362.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Tata Power Renewable Energy Ltd emerged as the winner of an auction conducted by the Gujarat Urja Vikas Nigam Limited for 1,000 megawatts (MW) of projects to be built at Dholera solar park. Tata Power quoted a tariff rate of $0.0395 (Rs. 2.75) per unit.

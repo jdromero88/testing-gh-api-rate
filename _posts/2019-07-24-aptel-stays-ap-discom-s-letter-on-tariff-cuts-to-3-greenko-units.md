@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/aptel-stays-ap-discoms-letter-on-tariff-cuts-to-3-greenko-units/articleshow/70269676.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Appellate Tribunal for Electricity blocked the controversial July 12 letter issued by a distribution power utility of Andhra Pradesh asking for drastic reduction of the solar power tariff.

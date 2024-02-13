@@ -15,7 +15,7 @@ sources:
 details:
 - name: Approval of Smart Meter Plan
   url: http://www.uperc.org/App_File/SmartMeters-pdf1116201863224PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh Electricity Regulatory Commission approved a petition filed by Uttar Pradesh Power Corporation Ltd. to begin installation of smart meters for urban high-end customers. Smart meters for the remaining consumers will be installed later in a phased manner. 

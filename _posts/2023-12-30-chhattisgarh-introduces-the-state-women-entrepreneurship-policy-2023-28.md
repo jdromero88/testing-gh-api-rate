@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Chhattisgarh introduces the State Women Entrepreneurship Policy 2023-28
 date: 2023-04-12T21:14:34.870Z
 states:

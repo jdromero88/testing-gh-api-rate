@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press release
   url: http://diprpunjab.gov.in/?q=content/bhagwant-mann-government-swings-action-compensate-farmers-crop-loss
-is_analysis: false
+is_newsletter: false
 
 ---

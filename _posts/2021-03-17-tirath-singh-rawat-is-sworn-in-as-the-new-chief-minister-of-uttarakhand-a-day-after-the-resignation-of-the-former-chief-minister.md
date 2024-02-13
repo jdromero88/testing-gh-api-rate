@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release (In Hindi)
   url: https://governoruk.gov.in/pressrelease/view/2649
-is_analysis: false
+is_newsletter: false
 
 ---

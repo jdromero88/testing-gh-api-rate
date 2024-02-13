@@ -16,7 +16,7 @@ sources:
 details:
 - name: Notification
   url: https://gst.py.gov.in/gomsno25-puducherry-gst-fifth-amendment-rules-2020
-is_analysis: false
+is_newsletter: false
 
 ---
 The Commercial Taxes Department has imposed a special tax on petrol and diesel in Puducherry.

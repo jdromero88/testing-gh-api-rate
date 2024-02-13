@@ -13,7 +13,7 @@ sources:
 - name: Financial Express
   url: https://www.financialexpress.com/industry/kerala-state-psu-to-launch-e-auto-rickshaws-with-50-paisa-km-cost/1625329/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 An indigenous electric three-wheeler with German battery technology created by Kerala Automobiles, running at a cost of just $0.0073 per kilometer, will debut on Indian roads by September.

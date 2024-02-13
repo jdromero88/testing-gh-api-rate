@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa releases the Goa State Action Plan for Climate Change (GSAPCC) 2023-2033
 date: 2023-05-03T19:08:51.167Z
 states:

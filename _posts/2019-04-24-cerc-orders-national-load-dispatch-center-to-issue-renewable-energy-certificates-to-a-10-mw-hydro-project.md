@@ -16,7 +16,7 @@ sources:
 details:
 - name: Order
   url: http://cercind.gov.in/2019/orders/292.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Central Electricity Regulatory Commission has ordered the national load dispatch center to issue renewable energy certificates for a small hydro project of capacity 10 megawatts (MW) owned and operated by Gokak Power and Energy Limited.

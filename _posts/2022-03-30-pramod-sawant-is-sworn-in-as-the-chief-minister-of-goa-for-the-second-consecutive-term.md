@@ -14,6 +14,6 @@ sources:
 details:
 - name: CM Twitter
   url: https://twitter.com/DrPramodPSawant/status/1508345760798060544
-is_analysis: false
+is_newsletter: false
 
 ---

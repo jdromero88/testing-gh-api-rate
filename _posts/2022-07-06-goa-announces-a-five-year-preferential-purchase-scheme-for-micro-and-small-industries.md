@@ -15,6 +15,6 @@ sources:
 details:
 - name: Scheme Details
   url: https://goaprintingpress.gov.in/downloads/2223/2223-13-SI-OG-0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

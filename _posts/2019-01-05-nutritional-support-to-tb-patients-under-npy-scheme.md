@@ -15,7 +15,7 @@ sources:
 details:
 - name: MoHFW Press Release
   url: http://pib.nic.in/PressReleaseIframePage.aspx?PRID=1558638
-is_analysis: false
+is_newsletter: false
 
 ---
 Ministry of Health and Family Welfare has launched the Direct Benefit Transfer scheme for nutritional support to tuberculosis patients as 'Nikshay Poshan Yojana' (NPY) from April 1, 2018.

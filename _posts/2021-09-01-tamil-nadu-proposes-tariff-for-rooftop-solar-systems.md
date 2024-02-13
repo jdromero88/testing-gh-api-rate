@@ -17,6 +17,6 @@ details:
   url: http://www.tnerc.gov.in/PressRelease/files/PR-170820211740Eng.pdf
 - name: Regulation
   url: http://www.tnerc.gov.in/PressRelease/files/PR-170820211645Eng.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

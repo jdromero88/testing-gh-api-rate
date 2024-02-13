@@ -14,6 +14,6 @@ sources:
 details:
 - name: Policy 2021-26
   url: https://it.telangana.gov.in/wp-content/uploads/2021/09/Telanganas-2nd-ICT-Policy-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

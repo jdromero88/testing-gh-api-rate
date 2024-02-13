@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://sjvn.nic.in/pressdetail.htm?217
-is_analysis: false
+is_newsletter: false
 
 ---
 The Himachal Pradesh government has allotted the 780 MW Jangi-Thopan-Powari hydroelectric project to the state-run power producer, Satluj Jal Vidyut Nigam Limited. The allotment of project is on a “Build, Own, and Operate & Transfer” basis for a period of 70 years.

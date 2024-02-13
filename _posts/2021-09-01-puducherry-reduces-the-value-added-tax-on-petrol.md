@@ -15,6 +15,6 @@ sources:
 details:
 - name: Government Order
   url: https://gst.py.gov.in/sites/default/files/goms26dt26082021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

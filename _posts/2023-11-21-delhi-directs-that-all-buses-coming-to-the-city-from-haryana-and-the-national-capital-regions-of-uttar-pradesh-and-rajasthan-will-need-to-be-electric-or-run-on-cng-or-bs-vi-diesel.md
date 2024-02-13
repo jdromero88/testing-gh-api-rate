@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi directs that all buses coming to the city from Haryana, and the
   National Capital Regions of Uttar Pradesh, and Rajasthan will need to be
   electric, or run on CNG or BS-VI diesel

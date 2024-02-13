@@ -13,7 +13,7 @@ sources:
 - name: Livemint
   url: https://www.livemint.com/Companies/yNZIktSInWsZAcNjDw4VVP/Gujarat-allows-power-tariff-hikes-in-relief-to-Tata-Adani.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat government issued an order to allow tariff hikes by three imported coal-based power plants owned by Adani Power Ltd, Tata Power Co. Ltd, and Essar Power Ltd. The companies will now amend their power purchase agreements with the Gujarat Urja Vikar Nigam Ltd, passing the higher cost of coal on to consumers in the state. 

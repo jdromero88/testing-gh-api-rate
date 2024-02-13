@@ -16,7 +16,7 @@ details:
 - name: HPERC (Rooftop Solar PV Grid Interactive System based on Net Metering) Order,
     2019
   url: http://hperc.org/File1/solarrooftop19.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Himachal Pradesh Electricity Regulatory Commission issued an order for rooftop solar grid-interactive systems based on net metering. The order comes after the commission issued a draft order called the Himachal Pradesh Electricity Regulatory Commission (Rooftop Solar PV Grid Interactive System based on Net Metering) Order, 2019, and remains largely similar.

@@ -15,7 +15,7 @@ sources:
 details:
 - name: APERC Order
   url: http://www.aperc.gov.in/admin/upload/SolarRoofToporderin.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Andhra Pradesh Electricity Regulatory Commission (APERC) has approved a solar rooftop program proposed by the Eastern Power Distribution Company of Andhra Pradesh Limited.

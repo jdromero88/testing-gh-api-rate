@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget
   url: http://www.diprpunjab.gov.in/sites/default/files/Budget%20At%20A%20Glance%20FY%202021-22_compressed.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

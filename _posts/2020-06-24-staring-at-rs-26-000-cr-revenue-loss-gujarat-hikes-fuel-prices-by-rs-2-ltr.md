@@ -16,7 +16,7 @@ sources:
 details:
 - url: https://www.commercialtax.gujarat.gov.in/vatwebsite/circular.do?strType=NOTI&strActionType=LIST
   name: 'Notification (No: N-GHN-52-2020-VAT)'
-is_analysis: false
+is_newsletter: false
 
 ---
   

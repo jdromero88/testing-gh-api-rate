@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Uttar Pradesh releases a policy for processing foreign investment proposals "
 date: 2023-11-29T14:50:16.435Z
 states:

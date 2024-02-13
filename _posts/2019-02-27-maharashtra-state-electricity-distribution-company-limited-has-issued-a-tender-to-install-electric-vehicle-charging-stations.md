@@ -14,7 +14,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/maharashtra-bids-50-ev-charging-stations/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra State Electricity Distribution Company Limited (MSEDCL) has issued a tender to install 50 electric vehicle charging stations in the state. These charging stations will be spread across seven locations.

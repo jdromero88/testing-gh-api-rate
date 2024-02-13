@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff order
   url: https://www.uperc.org/App_File/TariffOrderUPStateDiscomsDigitallySigned-pdf11112020121317PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

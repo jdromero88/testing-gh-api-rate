@@ -17,6 +17,6 @@ sources:
 details:
 - url: https://www.herc.gov.in/WriteReadData/Orders/O20220718a.pdf
   name: Final Order
-is_analysis: false
+is_newsletter: false
 
 ---

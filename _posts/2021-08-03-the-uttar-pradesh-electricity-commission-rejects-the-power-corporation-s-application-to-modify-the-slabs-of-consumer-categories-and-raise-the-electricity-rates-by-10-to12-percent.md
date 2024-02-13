@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://www.uperc.org/App_File/Final_TariffOrderUPStateDISOCMsFY2021-22(29-07-2021)DigitallySigned-pdf729202113115PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

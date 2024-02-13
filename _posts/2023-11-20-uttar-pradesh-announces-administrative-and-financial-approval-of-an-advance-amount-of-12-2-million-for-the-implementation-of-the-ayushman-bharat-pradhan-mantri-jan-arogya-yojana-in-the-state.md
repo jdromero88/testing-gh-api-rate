@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh announces administrative and financial approval of an
   advance amount of $12.2 million for the implementation of the Ayushman
   Bharat-Pradhan Mantri Jan Arogya Yojana in the state

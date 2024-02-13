@@ -37,6 +37,6 @@ details:
   url: https://state.bihar.gov.in/main/cache/1/11-May-21/SHOW_DOCS/430.pdf
 - name: Karnataka
   url: https://covid19.karnataka.gov.in/storage/pdf-files/Government%20Orders/Order-Enforcement%20of%20Containment%20measure%20for%20COVID-19%20in%20the%20State%20and%20UTS.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

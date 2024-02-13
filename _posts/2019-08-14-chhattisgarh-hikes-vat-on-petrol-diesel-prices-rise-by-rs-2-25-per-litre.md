@@ -14,7 +14,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/chhattisgarh-hikes-vat-on-petrol-diesel-prices-rise-by-rs-2-25-per-litre-119080801051_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The prices of petrol and diesel in Chhattisgarh increased after the state government increased the value added tax (VAT) on automobile fuels from 21 to 25 percent.

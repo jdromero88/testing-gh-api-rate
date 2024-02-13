@@ -19,7 +19,7 @@ details:
   url: http://seci.co.in/show_whats_new.php?id=826
 - name: Tender details (Jharkhand)
   url: http://seci.co.in/show_whats_new.php?id=828
-is_analysis: false
+is_newsletter: false
 
 ---
 The Solar Energy Corporation of India Limited issued three tenders for the expansion of renewable capacity across the three states, including 750 megawatts (MW) of solar projects in Rajasthan, 500 MW of projects in Tamil Nadu, and 150 MW of projects in Jharkhand.

@@ -16,7 +16,7 @@ sources:
 details:
 - name: CERC Order
   url: http://www.cercind.gov.in/2019/orders/340-MP-2018.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The CERC ruled in favor of three independent power producers, who sought a release from paying their performance bank guarantee to the tune of $3.7 million, and to extend and defer the schedule commissioning date of two solar projects at the Bhadla Solar Park in Rajasthan.

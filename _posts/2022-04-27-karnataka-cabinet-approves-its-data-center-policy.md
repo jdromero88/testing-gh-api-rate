@@ -14,6 +14,6 @@ sources:
 details:
 - name: Minister's Tweet
   url: https://twitter.com/drashwathcn/status/1516086140516048897
-is_analysis: false
+is_newsletter: false
 
 ---

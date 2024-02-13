@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam launches a universal online admission site called SAMARTH
 date: 2023-06-21T06:33:05.849Z
 states:

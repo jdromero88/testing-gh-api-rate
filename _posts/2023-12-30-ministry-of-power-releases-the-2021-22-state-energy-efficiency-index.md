@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Power releases the 2021-22 State Energy Efficiency Index
 date: 2023-04-19T19:43:14.142Z
 states:

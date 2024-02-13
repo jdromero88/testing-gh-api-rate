@@ -17,7 +17,7 @@ sources:
 details:
 - name: HERC Notification
   url: https://herc.gov.in/WriteReadData/Pdf/R20200422.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana Electricity Regulatory Commission (HERC) has issued new regulations for single-point supply through rooftop solar and open access projects in the state.

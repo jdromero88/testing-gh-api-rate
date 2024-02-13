@@ -14,6 +14,6 @@ sources:
 details:
 - name: Jharkhand Industrial and Investment Promotion Policy 2021
   url: https://jharkhandindustry.gov.in/sites/default/files/JIIPP2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

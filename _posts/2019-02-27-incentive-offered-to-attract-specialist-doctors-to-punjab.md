@@ -13,7 +13,7 @@ sources:
 - name: The Tribune
   url: https://www.tribuneindia.com/news/punjab/punjab-offers-rs-75-000-incentive-to-woo-specialist-docs/733867.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 To attract specialist doctors to the state, the Punjab government decided to offer an incentive of up to $1,055 in addition their monthly pay check. Currently, gynaecologists and pediatricians qualified under the National Health Mission are eligible to receive this incentive.

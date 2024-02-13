@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://www.prharyana.gov.in/en/haryana-government-has-signed-a-memorandum-of-understanding-mou-with-indian-oil-corporation-0
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana government signed an MOU with Indian Oil Corporation for setting up bio-compressed natural gas plants based on paddy straw and other agricultural waste in the state. The MOU will open opportunities to establish 200 compressed biogas plants in the state by 2023, with total capacity of about 1,000 tons per day of compressed biogas. 

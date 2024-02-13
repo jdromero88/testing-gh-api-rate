@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release (Hindi)
   url: https://gujaratinformation.gujarat.gov.in/article/?id=Mzc2MTU=
-is_analysis: false
+is_newsletter: false
 
 ---

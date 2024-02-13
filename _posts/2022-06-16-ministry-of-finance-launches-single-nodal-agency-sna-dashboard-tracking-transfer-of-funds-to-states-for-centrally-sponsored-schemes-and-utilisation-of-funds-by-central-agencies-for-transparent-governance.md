@@ -16,6 +16,6 @@ sources:
 details:
 - name: Guidelines
   url: https://dof.gov.in/documents/office-orders/guidelines-implementation-single-nodal-agencies
-is_analysis: false
+is_newsletter: false
 
 ---

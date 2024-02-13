@@ -15,6 +15,6 @@ sources:
 details:
 - url: https://www.niti.gov.in/energy-swaraj-geospatial-energy-map-india-presents-immense-potential-and-opportunities
   name: Geospatial Energy Map of India
-is_analysis: false
+is_newsletter: false
 
 ---

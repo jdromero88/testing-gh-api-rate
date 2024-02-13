@@ -13,6 +13,6 @@ sources:
 - name: Indian Express
   url: https://indianexpress.com/article/cities/kolkata/govt-stipulates-new-norms-to-regulate-app-based-cab-services-7801899/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

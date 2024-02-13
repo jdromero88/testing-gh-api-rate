@@ -13,6 +13,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/bhubaneswar/state-assembly-passes-the-odisha-essential-services-amendment-bill-2020/articleshow/79374418.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

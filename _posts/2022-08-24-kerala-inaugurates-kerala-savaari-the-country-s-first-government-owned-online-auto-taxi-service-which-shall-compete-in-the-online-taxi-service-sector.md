@@ -15,6 +15,6 @@ sources:
 details:
 - name: CMO Twitter
   url: https://twitter.com/CMOKerala/status/1559903575933091840
-is_analysis: false
+is_newsletter: false
 
 ---

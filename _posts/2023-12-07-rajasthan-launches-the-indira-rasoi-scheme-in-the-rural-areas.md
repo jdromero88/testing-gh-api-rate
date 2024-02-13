@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Rajasthan launches the Indira Rasoi Scheme in the rural areas "
 date: 2023-09-13T15:35:58.074Z
 states:

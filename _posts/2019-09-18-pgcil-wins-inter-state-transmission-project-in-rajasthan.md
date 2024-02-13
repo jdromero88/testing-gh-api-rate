@@ -13,7 +13,7 @@ sources:
 - name: Sauenergy
   url: https://www.saurenergy.com/solar-energy-news/pgcil-wins-inter-state-transmission-project-rajasthan
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 State-owned utility Power Grid Corporation of India has won an inter-state power transmission project under a tariff-based competitive bidding process, which would benefit Rajasthan and Madhya Pradesh.

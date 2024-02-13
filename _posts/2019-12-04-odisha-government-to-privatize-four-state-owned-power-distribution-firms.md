@@ -17,7 +17,7 @@ details:
   url: http://www.orierc.org/OERC - NIB - WESCO.pdf
 - name: OERC Notice for Bids (South)
   url: http://www.orierc.org/OERC - NIB - SOUTHCO.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Odisha government is set to privatize four state-owned electricity distribution companies, said sources. The drive is headed by Odisha Electricity Regulatory Commission and is the first such move in nearly two decades in India’s power sector.

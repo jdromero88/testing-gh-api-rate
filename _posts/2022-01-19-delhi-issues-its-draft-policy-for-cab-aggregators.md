@@ -14,6 +14,6 @@ sources:
 details:
 - name: Draft Policy
   url: https://transport.delhi.gov.in/sites/default/files/All-PDF/Draft_Aggregator_Scheme_.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

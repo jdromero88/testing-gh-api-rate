@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi announces the decision to bear 90 percent of the cost to transform
   26 non-conforming industrial areas in the city into conforming industrial
   areas

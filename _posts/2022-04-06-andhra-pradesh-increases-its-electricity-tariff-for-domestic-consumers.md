@@ -17,6 +17,6 @@ details:
   url: https://aperc.gov.in/admin/upload/RSTOFY202223VolII.pdf
 - name: Tariff Order Vol 1
   url: https://aperc.gov.in/admin/upload/RSTOFY202223Vol1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: http://www.diprpunjab.gov.in/?q=content/punjab-govt-issues-comprehensive-policy-routine-water-sampling-outbreaks-water-borne
-is_analysis: false
+is_newsletter: false
 
 ---

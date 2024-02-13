@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Union Cabinet Committee on Economic Affairs (CCEA) approves the project
   on Green Energy Corridor (GEC) Phase-II – Inter-State Transmission System
   (ISTS)

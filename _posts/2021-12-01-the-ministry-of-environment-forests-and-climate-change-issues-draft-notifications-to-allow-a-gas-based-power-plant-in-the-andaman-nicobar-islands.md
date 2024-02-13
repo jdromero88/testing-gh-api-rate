@@ -15,6 +15,6 @@ sources:
 details:
 - name: 'Notification '
   url: https://moef.gov.in/wp-content/uploads/2021/11/SO-4790-E-dated-18-11-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

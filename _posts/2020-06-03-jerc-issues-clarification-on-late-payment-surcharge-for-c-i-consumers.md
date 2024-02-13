@@ -17,7 +17,7 @@ details:
   name: JERC Notification
 - name: ''
   url: ''
-is_analysis: false
+is_newsletter: false
 
 ---
 The Joint Electricity Regulatory Commission has issued a notification to clarify that there will be no late payment surcharges on fixed electricity charges for bills raised between March 24, 2020, and June 30, 2020.

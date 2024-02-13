@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/mpuvn-rooftop-solar-gets-lowest-ever-tariff-of-rs-1-38-per-unit/articleshow/66086332.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Madhya Pradesh Urja Vikas Nigam announced that it has achieved a historic low tariff of 1 cent per kilowatt-hour (kWh), or unit, for central government buildings in its RESCO II rooftop solar tender.     

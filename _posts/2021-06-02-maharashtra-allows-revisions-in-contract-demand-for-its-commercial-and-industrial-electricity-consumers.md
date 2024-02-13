@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://www.merc.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

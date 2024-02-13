@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/trichy/tn-wind-power-cos-get-jolt-as-tariff-plummets/articleshowprint/67330629.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Tamil Nadu wind power developers have complained to the Appellate Tribunal for Electricity that the latest tariff of $0.038 per kilowatt-hour, or unit, is too low and Tamil Nadu Electricity Regulator Commission has not taken into consideration the total cost for setting up a wind power tower.

@@ -13,7 +13,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/up-announces-e-vehicles-policy-targets-rs-40-000-cr-investment-by-2024-119080600664_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh government introduced an electric vehicles policy, which targets attracting nearly $5.62 billion in private investment by the year 2024.

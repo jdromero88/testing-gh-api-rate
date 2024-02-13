@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka announces that the beneficiaries of the Kuteera Jyothi, Bhagya
   Jyothi, and Amrutha Jyothi schemes will also be eligible to avail the benefits
   of the Gruha Jyothi scheme

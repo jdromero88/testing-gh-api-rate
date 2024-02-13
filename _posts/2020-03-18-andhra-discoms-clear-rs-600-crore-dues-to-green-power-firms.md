@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/andhra-discoms-clear-rs-600-crore-dues-to-green-power-firms/articleshow/74648465.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Energy Department of Andhra Pradesh has cleared power purchase dues of $3.45 billion, and has devised a strategy to clear the pending bills in the next few months.

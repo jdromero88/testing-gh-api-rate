@@ -14,6 +14,6 @@ sources:
 details:
 - name: Official Gazette
   url: https://state.bihar.gov.in/forest/cache/36/21-Dec-21/SHOW_DOCS/single%20use%20plasticguide%20line.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

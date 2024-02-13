@@ -14,7 +14,7 @@ sources:
 - name: Energy Infra Post
   url: http://energyinfrapost.com/nhpc-tenders-1082-16-kw-solar-capacity-in-himachal-pradesh/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 National Hydroelectric Power Corporation invited bids to establish an aggregate 1082.16 kilowatt-peak capacity of rooftop and small solar power plants at its four power stations/units in the state of Himachal Pradesh.

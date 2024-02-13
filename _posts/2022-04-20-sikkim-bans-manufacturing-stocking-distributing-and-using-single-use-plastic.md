@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: http://www.spcb.sikkim.gov.in/docs/SUP-Notice.jpg
-is_analysis: false
+is_newsletter: false
 
 ---

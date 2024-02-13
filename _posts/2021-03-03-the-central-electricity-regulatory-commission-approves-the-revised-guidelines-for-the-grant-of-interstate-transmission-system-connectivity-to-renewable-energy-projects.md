@@ -17,6 +17,6 @@ sources:
 details:
 - name: Order
   url: http://www.cercind.gov.in/2021/regulation/RE_Detailed-Procedure-20feb2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

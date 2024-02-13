@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-government-inks-knowledge-sharing-agreement-delhi-government
-is_analysis: false
+is_newsletter: false
 
 ---

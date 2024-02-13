@@ -13,7 +13,7 @@ sources:
 - name: Saur Energy
   url: https://www.saurenergy.com/solar-energy-news/bhel-tender-solar-projects-69-mw-telangana
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Bharat Heavy Electricals Limited has issued a tender, seeking bids from eligible bidders for setting up of two solar photovoltaic power projects worth a combined 69 MW in the state of Telangana.

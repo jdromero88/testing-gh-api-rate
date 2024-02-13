@@ -19,6 +19,6 @@ sources:
 details:
 - name: Press note (Invest UP)
   url: https://invest.up.gov.in/wp-content/uploads/2023/03/Government_300323.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

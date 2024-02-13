@@ -18,6 +18,6 @@ sources:
 details:
 - name: Order
   url: https://caqm.nic.in/WriteReadData/RTF/Dir.No.64-dt-02.06.20223e8419cb-1289-42f7-b64d-1cff8c83f10a.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Portal
   url: https://esanjeevaniopd.in/Home
-is_analysis: false
+is_newsletter: false
 
 ---

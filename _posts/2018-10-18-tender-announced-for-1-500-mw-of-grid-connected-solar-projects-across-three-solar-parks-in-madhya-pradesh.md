@@ -20,7 +20,7 @@ details:
   url: http://rumsl.com/pdf/NIT for Neemuch Solar Park.pdf
 - name: Bid Invitation - Shajapur Solar Park
   url: http://rumsl.com/pdf/NIT for Shajapur Solar Park.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Rewa Ultra Mega Solar Limited has announced a tender of 1,500 MW of grid-connected solar photovoltaic projects to be developed across three solar parks in the state of Madhya Pradesh.     

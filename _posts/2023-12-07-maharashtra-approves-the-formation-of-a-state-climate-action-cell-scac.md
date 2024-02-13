@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra approves the formation of a State Climate Action Cell (SCAC)
 date: 2023-08-16T18:31:17.294Z
 states:

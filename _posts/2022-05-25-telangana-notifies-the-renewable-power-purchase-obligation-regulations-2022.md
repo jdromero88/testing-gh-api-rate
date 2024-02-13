@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: https://tserc.gov.in/file_upload/uploads/Regulations/Final/tserc/2022/Regulation%20No%207%20of%202022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

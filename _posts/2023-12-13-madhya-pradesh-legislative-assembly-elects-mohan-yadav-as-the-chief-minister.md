@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh legislative assembly elects Mohan Yadav as the chief minister
 date: 2023-12-13T19:45:07.315Z
 states:

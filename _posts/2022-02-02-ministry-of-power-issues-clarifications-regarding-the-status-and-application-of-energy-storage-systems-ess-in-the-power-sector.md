@@ -15,6 +15,6 @@ sources:
 details:
 - url: https://powermin.gov.in/sites/default/files/webform/notices/Clarification_regarding_usage_of_Energy_Storage_System%28ESS%29_in_various_applications_across_the_entire_value_chain_of_power_Sector.pdf
   name: Notice
-is_analysis: false
+is_newsletter: false
 
 ---

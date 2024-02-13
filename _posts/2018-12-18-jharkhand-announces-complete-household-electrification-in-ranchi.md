@@ -13,7 +13,7 @@ sources:
 - name: Energy Infra Post
   url: http://energyinfrapost.com/diwali-eve-ranchi-becomes-jharkhands-4th-district-get-100-power-connectivity/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Chief Minister Raghubar Das announced that all households in Ranchi district have access to power supply. He also promised that by 2019 all households will have 24-hour power supply.  

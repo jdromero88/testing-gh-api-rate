@@ -14,6 +14,6 @@ sources:
 details:
 - name: Assam Budget
   url: https://finassam.in/budget_documents/
-is_analysis: false
+is_newsletter: false
 
 ---

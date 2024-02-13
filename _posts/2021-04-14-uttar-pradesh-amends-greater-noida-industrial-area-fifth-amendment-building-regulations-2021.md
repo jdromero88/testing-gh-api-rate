@@ -15,6 +15,6 @@ sources:
 details:
 - name: Amendment
   url: https://www.greaternoidaauthority.in/files/attachments/bylaws_amendment_5_8321.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

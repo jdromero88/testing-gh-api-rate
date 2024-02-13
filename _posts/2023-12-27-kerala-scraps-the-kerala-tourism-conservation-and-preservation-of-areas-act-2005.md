@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala scraps the Kerala Tourism Conservation and Preservation of Areas
   Act 2005
 date: 2023-12-27T07:17:50.053Z

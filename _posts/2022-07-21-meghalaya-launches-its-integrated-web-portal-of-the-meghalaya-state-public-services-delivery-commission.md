@@ -17,6 +17,6 @@ details:
   url: http://mspsdc.meghalaya.gov.in/indextest.htm
 - name: Press Release
   url: https://meghalaya.gov.in/press/content/42871
-is_analysis: false
+is_newsletter: false
 
 ---

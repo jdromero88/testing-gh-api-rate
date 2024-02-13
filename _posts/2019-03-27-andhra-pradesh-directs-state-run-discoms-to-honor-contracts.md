@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/andhra-pradesh-asks-power-discoms-not-to-back-out-of-green-power-purchase-agreements/articleshow/68506403.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Andhra Pradesh government directed state-run power distribution companies to honor contracts signed with renewable energy developers, offering relief to generators at a time when several clean energy buyers are backing out of agreements and seeking lower tariffs.

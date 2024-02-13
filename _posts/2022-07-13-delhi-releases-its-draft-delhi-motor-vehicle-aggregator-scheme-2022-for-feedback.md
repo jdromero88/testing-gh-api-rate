@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft Scheme
   url: https://ev.delhi.gov.in/files/Aggregator%20Scheme_July_2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

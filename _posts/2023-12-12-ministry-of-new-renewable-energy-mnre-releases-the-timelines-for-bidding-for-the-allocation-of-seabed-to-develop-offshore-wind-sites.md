@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of New & Renewable Energy (MNRE) releases the timelines for
   bidding for the allocation of seabed to develop offshore wind sites
 date: 2023-10-04T18:32:08.628Z

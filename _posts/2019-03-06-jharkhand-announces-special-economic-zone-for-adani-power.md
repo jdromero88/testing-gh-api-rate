@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/govt-approves-adani-powers-rs-14000-cr-jharkhand-sez-project/articleshow/68240390.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The central government approved a $1.96 billion special economic zone project by Adani Power in Jharkhand, which will export all of the e power generated to Bangladesh.

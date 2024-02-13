@@ -15,7 +15,7 @@ sources:
 details:
 - name: Request for Proposal
   url: http://www.apgcl.org/70%20MW%20Park%20-%20APGCL%20-%20Latest%20(07%201%202019).pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Assam Power Generation Corporation Ltd has issued a Request for Proposal for the development of 70 MW of grid-connected solar photovoltaic projects in Amguri Solar Park in the state. The last date for the submission of bids is February 6, 2019.

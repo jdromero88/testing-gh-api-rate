@@ -17,6 +17,6 @@ details:
   url: https://cmogujarat.gov.in/en/latest-news/chief-minister-announces-the-drone-promotion-and-usage-policy/
 - name: Drone policy
   url: https://cmogujarat.gov.in/en/portfolio/the-drone-promotion-usage-policy/
-is_analysis: false
+is_newsletter: false
 
 ---

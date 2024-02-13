@@ -15,6 +15,6 @@ sources:
 details:
 - name: Cabinet Decisions
   url: https://state.bihar.gov.in/main/cache/1/22-Jul-22/SHOW_DOCS/492.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

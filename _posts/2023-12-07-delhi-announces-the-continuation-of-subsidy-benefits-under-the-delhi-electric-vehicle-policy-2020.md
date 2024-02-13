@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi announces the continuation of subsidy benefits under the Delhi
   Electric Vehicle Policy, 2020
 date: 2023-08-16T18:28:28.225Z

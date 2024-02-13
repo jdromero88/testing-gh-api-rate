@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.keralatourism.org/articlesonkerala/15_09_202120210915075842_1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

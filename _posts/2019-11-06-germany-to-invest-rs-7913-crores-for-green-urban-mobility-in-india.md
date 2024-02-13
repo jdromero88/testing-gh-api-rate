@@ -13,7 +13,7 @@ sources:
 - name: New Indian Express
   url: http://www.newindianexpress.com/nation/2019/nov/02/germany-to-invest-rs-7913-crores-for-green-urban-mobility-in-india-2056137.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Chancellor Angela Merkel of Germany pledged to invest $1.11 billion over the next five years in environmentally friendly urban mobility in India.

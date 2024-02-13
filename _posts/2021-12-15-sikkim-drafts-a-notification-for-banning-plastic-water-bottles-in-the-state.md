@@ -14,6 +14,6 @@ sources:
 details:
 - name: Draft Notification
   url: http://sikenvis.nic.in/WriteReadData/UserFiles/file/Draft%20Notification_Plastic%20Water%20Bottles.pdf?fbclid=IwAR21LQtn5f5C3mhuNNfNTLljAwq7FXPJvQ3XZHwDgnVG7iPx9XiZzNbA0cg
-is_analysis: false
+is_newsletter: false
 
 ---

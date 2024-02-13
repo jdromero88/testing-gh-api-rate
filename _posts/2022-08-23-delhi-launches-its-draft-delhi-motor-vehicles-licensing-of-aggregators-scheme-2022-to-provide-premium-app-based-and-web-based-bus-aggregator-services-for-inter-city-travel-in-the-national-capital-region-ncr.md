@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft Policy
   url: https://transport.delhi.gov.in/sites/default/files/All-PDF/DocScanner%2018-Aug-2022%203-12%20pm.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

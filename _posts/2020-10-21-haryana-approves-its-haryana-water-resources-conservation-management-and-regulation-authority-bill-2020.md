@@ -15,6 +15,6 @@ sources:
 details:
 - name: Bill
   url: http://hid.gov.in/hwra/Content/Images/Tentative_act_of_HWRA.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

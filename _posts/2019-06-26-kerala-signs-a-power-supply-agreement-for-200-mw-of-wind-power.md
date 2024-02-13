@@ -15,7 +15,7 @@ sources:
 details:
 - name: Twitter Announcement
   url: https://twitter.com/SECI_Ltd/status/1139512208277291010
-is_analysis: false
+is_newsletter: false
 
 ---
 The Kerala State Electricity Board (KSEB) has signed a PSA with SECI for procuring 200 MW of wind power.

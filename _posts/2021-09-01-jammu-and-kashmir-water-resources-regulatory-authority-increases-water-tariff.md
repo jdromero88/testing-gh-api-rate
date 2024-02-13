@@ -14,6 +14,6 @@ sources:
 details:
 - name: Order
   url: http://jkswrra.nic.in/Orders/Tariff%20Order%20No.%2075.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

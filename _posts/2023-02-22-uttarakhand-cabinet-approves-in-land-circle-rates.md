@@ -14,6 +14,6 @@ sources:
 details:
 - name: Government order
   url: https://registration.uk.gov.in/files/Deradun_combined.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

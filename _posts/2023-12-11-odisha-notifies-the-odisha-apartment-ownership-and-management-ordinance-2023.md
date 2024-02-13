@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha notifies the Odisha Apartment (Ownership and Management) Ordinance, 2023
 date: 2023-07-05T20:01:25.615Z
 states:

@@ -12,6 +12,6 @@ sources:
 - name: Inc42
   url: Inc42
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

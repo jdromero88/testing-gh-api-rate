@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: http://jkindustriescommerce.nic.in/Orders%202021/162%20IND%20OF%202021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: GST Councils’ Note
   url: https://static.pib.gov.in/WriteReadData/userfiles/Annexure%20GST%20Options.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

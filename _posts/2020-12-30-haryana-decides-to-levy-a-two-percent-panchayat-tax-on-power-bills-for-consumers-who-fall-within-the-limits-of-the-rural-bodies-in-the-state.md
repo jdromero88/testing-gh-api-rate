@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/in-order-to-augment-the-financial-resources-of-gram-panchayats-the-haryana-government-has-decided
-is_analysis: false
+is_newsletter: false
 
 ---

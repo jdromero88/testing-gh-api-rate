@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://www.egazetteharyana.gov.in/Gazette/Extra-Ordinary/2021/35-2021-Ext/11143.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

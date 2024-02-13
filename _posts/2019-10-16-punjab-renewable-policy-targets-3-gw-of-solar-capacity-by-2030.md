@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/punjab-renewable-policy-solar-capacity/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Punjab government has launched a draft version of its renewable energy policy, which aims to meet 21 percent of its power requirement through renewable energy by the year 2030. The policy has set a target of deploying 3,000 MW of solar projects by 2030, which will include utility-scale, canal-top, rooftop, floating, and hybrid solar projects.

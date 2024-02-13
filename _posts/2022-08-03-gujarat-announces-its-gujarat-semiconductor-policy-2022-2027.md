@@ -14,6 +14,6 @@ sources:
 details:
 - name: Gujarat Semiconductor Policy 2022-2027
   url: https://cmogujarat.gov.in/en/portfolio/gujarat-semiconductor-policy-2022-27/
-is_analysis: false
+is_newsletter: false
 
 ---

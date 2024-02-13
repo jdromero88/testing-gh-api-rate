@@ -15,7 +15,7 @@ sources:
 details:
 - name: Kerala Electric Vehicle Policy
   url: https://icfoss.in/doc/Draft-EV-policy.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Kerala state cabinet amended and approved a finalized Electric Vehicle policy for the state.

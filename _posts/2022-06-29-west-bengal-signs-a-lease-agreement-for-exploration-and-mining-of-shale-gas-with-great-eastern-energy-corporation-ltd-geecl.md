@@ -16,6 +16,6 @@ sources:
 details:
 - name: Shale Exploration Programme
   url: https://www.londonstockexchange.com/news-article/GEEC/shale-exploration-programme/15507856
-is_analysis: false
+is_newsletter: false
 
 ---

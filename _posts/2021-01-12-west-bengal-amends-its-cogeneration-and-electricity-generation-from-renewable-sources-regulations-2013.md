@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://wberc.gov.in/sites/default/files/REGU71.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

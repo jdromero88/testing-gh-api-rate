@@ -15,6 +15,6 @@ sources:
 details:
 - name: Act (in Hindi)
   url: https://www.livelaw.in/pdf_upload/hp-freedom-of-religion-amendment-act-2022-430334.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

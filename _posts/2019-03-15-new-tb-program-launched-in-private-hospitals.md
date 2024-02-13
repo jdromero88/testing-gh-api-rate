@@ -13,7 +13,7 @@ sources:
 - name: The Hindu
   url: https://www.thehindu.com/news/cities/Thiruvananthapuram/steps-in-two-private-hospitals/article26537829.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Two private hospitals in Thiruvananthapuram have launched STEPS (System for TB Elimination in Private Sector) centers, thus joining hands with the government in the Kerala Tuberculosis Elimination Mission. STEPS will be a single window for TB case notification, linkage for public health actions, and treatment support.

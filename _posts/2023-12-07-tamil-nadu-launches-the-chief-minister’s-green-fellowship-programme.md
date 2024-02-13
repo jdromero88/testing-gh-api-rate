@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu launches the Chief Minister’s Green Fellowship Programme
 date: 2023-08-30T17:58:05.396Z
 states:

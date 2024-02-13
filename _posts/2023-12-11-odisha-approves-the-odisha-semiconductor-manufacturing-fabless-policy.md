@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha approves the Odisha Semiconductor Manufacturing & Fabless Policy
 date: 2023-07-26T19:13:22.072Z
 states:

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://cmogujarat.gov.in/en/chief-minister-announces-new-tourism-policy-2021-25/
-is_analysis: false
+is_newsletter: false
 
 ---

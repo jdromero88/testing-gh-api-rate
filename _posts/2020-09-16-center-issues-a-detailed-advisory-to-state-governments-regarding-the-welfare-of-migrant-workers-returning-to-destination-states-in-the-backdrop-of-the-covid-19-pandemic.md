@@ -17,6 +17,6 @@ sources:
 details:
 - name: Advisory
   url: https://labour.gov.in/sites/default/files/Migrant_Worker_Guidelines.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

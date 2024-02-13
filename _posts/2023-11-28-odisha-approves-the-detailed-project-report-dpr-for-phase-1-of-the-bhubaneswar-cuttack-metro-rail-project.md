@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha approves the Detailed Project Report (DPR) for phase 1 of the
   Bhubaneswar-Cuttack metro rail project
 date: 2023-11-22T14:22:18.669Z

@@ -17,6 +17,6 @@ details:
   url: https://goir.ap.gov.in/
 - name: Government Order
   url: https://goir.ap.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

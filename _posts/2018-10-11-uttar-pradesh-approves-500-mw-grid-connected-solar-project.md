@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/upper-tariff-ceiling-3-25-upneda-solar-500-mw/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh Electricity Regulatory Commission has approved a request for the procurement and a power purchase agreement for 500 MW of grid-connected solar photovoltaic projects put forth by the Uttar Pradesh New and Renewable Energy Development Agency.    

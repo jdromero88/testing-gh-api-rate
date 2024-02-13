@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi extends the Free Bijili Scheme till April 2024
 date: 2023-04-12T21:18:15.229Z
 states:

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget 2021-22
   url: https://finance.delhigovt.nic.in/sites/default/files/All-PDF/Budget%20at%20a%20Glance%202021-22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

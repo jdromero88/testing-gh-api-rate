@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tamil Nadu Electric Vehicles Policy 2023
   url: https://www.thehindu.com/news/national/tamil-nadu/66507714-TN-Electric-Vehicles-Policy-2023.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget
   url: http://finance.cg.gov.in/budget_doc/main_budget.asp?year1=2021
-is_analysis: false
+is_newsletter: false
 
 ---

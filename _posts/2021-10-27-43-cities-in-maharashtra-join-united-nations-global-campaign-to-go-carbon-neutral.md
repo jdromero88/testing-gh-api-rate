@@ -15,6 +15,6 @@ sources:
 details:
 - name: Tweet from State Minister
   url: https://twitter.com/BansodeSpeaks/status/1451622986260250627?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

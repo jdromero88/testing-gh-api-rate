@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister's Office
   url: https://twitter.com/CMO_Odisha/status/1474405013183242244/
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Puducherry releases guidelines allowing property owners to install
   grid-connected ground mounted and rooftop solar power projects
 date: 2023-12-13T19:37:27.742Z

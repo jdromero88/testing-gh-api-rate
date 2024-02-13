@@ -14,6 +14,6 @@ sources:
 details:
 - name: Order
   url: http://goir.telangana.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

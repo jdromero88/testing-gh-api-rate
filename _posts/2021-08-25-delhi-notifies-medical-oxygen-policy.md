@@ -15,6 +15,6 @@ sources:
 details:
 - name: Policy
   url: https://egazette.nic.in/WriteReadData/2021/229173.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

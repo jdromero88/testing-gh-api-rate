@@ -21,6 +21,6 @@ details:
   url: https://legislation.telanganalegislature.org.in/PreviewPage.tsl?filePath=basePath&fileName=Bills/PassedBills/English/Eng_passbill_L_15_6__99_v_1.pdf
 - name: Telangana Rights in Land and Pattadar Passbooks Bill 2020
   url: https://legislation.telanganalegislature.org.in/PreviewPage.tsl?filePath=basePath&fileName=Bills/PassedBills/English/Eng_passbill_L_15_6__100_v_1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

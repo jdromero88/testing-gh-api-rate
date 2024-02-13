@@ -14,6 +14,6 @@ sources:
 details:
 - name: RBI Press Release
   url: https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51682
-is_analysis: false
+is_newsletter: false
 
 ---

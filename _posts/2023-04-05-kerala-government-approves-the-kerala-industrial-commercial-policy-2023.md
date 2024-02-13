@@ -16,6 +16,6 @@ sources:
 details:
 - name: Kerala Industrial & Commercial Policy (Draft) 2022
   url: https://keralaindustry.org/images/2022/policy_book_V2_english.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

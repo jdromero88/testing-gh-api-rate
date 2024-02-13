@@ -16,6 +16,6 @@ sources:
 details:
 - name: The Electricity Amendment Bill, 2022
   url: http://164.100.47.4/BillsTexts/LSBillTexts/Asintroduced/187_2022_LS_ENGLISH.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

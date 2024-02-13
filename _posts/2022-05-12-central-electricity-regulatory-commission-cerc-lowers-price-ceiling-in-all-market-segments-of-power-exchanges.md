@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://cercind.gov.in/2022/orders/5-SM-2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

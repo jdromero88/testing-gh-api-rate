@@ -16,7 +16,7 @@ sources:
 details:
 - name: MERC solar rooftop regulations
   url: https://www.mahadiscom.in/wp-content/uploads/2020/01/41.-30.12.2019-Grid-Interactive-RRE-Regulations2019-English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Energy Regulatory Commission (MERC) has done away with the plan to have a compulsory gross metering for solar power generation.

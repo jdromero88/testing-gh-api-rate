@@ -17,6 +17,6 @@ sources:
 details:
 - name: Approved Models List
   url: https://ev.delhi.gov.in/ui/images/Eligible_Models_under_the_delhi_ev_policy.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

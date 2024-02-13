@@ -15,7 +15,7 @@ sources:
 details:
 - name: Comprehensive National Nutrition Survey 2016-2018
   url: https://www.popcouncil.org/uploads/pdfs/2019RH_CNNSreport.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Union Health and Family Welfare Ministry published the Comprehensive National Nutrition Survey 2016-2018. Despite being one of the most affluent states in the country, Punjab has the highest prevalence of iron deficiency among children across all three age groups.

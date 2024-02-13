@@ -16,6 +16,6 @@ sources:
 details:
 - name: Gujarat Industrial Policy 2020 (In Gujarati)
   url: https://www.scribd.com/document/471685126/Press-Note-Industrial-Policy-07082020-Gujarati
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh issues guidelines for the production and sale of biodiesel
   in the state
 date: 2023-10-11T18:07:40.063Z

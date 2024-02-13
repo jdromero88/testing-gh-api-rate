@@ -15,6 +15,6 @@ sources:
 details:
 - name: 'Notification '
   url: http://www.niyamasabha.org/codes/14kla/Ordinances/ordinance%20no.%2010.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

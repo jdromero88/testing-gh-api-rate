@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://powermin.gov.in/sites/default/files/webform/notices/Final_Consolidated_EVCI_Guidelines_January_2022_with_ANNEXURES.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

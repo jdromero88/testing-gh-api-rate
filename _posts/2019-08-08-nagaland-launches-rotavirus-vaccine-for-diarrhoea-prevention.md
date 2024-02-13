@@ -13,7 +13,7 @@ sources:
 - name: North East Today
   url: https://www.northeasttoday.in/nagaland-launches-rotavirus-vaccine-for-diarrhoea-prevention/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Nagaland launched a new vaccine called Rotavirus Vaccine as part of the routine immunization program across the state for diarrhoea prevention.

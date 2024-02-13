@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.aeee.in/state-energy-efficiency-index-2019/
-is_analysis: false
+is_newsletter: false
 
 ---
 Haryana, Karnataka, and Kerala have topped the State Energy Efficiency Index 2019. This index tracks the progress of Energy Efficiency (EE) initiatives in 36 states and union territories based on 97 significant indicators, an official statement said.

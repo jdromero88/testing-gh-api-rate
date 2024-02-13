@@ -16,6 +16,6 @@ details:
   url: https://twitter.com/CMO_Odisha/status/1434503649636478979?s=20
 - name: The Bill
   url: http://www.urbanodisha.gov.in/UploadFiles/Notifications/Town_Planning_Urban_9th_July_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

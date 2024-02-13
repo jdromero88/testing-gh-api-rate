@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tariff Order
   url: https://www.mahadiscom.in/consumer/wp-content/uploads/2020/03/Order-322-of-2019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra government announced an average of 8 percent electricity tariff cut for the next five years to help businesses and people tide over the Covid-19 crisis.

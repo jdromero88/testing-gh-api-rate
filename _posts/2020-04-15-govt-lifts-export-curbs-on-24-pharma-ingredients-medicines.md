@@ -15,7 +15,7 @@ sources:
 details:
 - name: Notification
   url: https://dgft.gov.in/sites/default/files/Noti%202%20Final_0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The government lifts restrictions on the export of 24 pharmaceutical ingredients and medicines made from them.

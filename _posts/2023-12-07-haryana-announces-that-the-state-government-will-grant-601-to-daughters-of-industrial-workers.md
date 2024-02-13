@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana announces that the state government will grant $601 to daughters
   of industrial workers
 date: 2023-09-28T03:34:34.648Z

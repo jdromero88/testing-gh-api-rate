@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra approves guidelines for the formation of cluster universities
   by educational institutes in the state
 date: 2023-11-29T15:27:26.229Z

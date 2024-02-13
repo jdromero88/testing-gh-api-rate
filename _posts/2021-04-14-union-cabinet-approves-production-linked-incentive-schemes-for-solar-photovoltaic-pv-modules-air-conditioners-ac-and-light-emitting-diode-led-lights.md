@@ -18,6 +18,6 @@ details:
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1710116
 - name: Press Release (Solar PV)
   url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1710114
-is_analysis: false
+is_newsletter: false
 
 ---

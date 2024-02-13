@@ -13,7 +13,7 @@ sources:
 - name: Money Control
   url: https://www.moneycontrol.com/news/business/renew-power-commissions-300-mw-solar-plant-in-karnataka-3800201.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 ReNew Power announced it has commissioned its 300 MW solar plant at Pavagada Solar Park in Tumkur district of Karnataka. This is ReNew Power’s largest solar plant commissioned in terms of capacity till date.

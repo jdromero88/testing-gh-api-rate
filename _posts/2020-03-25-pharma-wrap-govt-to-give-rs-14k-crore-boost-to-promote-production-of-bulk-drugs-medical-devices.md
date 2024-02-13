@@ -17,7 +17,7 @@ details:
   url: https://pib.gov.in/PressReleseDetail.aspx?PRID=1607486
 - name: Press Release (API)
   url: https://pib.gov.in/PressReleseDetail.aspx?PRID=1607484
-is_analysis: false
+is_newsletter: false
 
 ---
 The government has announced a $1.86 billion package to counter COVID-19. The package would incentivize production of active pharmaceutical ingredient (API) and medical devices in the country.

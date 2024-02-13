@@ -15,6 +15,6 @@ sources:
 details:
 - url: https://twitter.com/PiramalS/status/1480809949554827264?s=20
   name: Twitter
-is_analysis: false
+is_newsletter: false
 
 ---

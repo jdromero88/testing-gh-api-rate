@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget Speech
   url: https://apfinance.gov.in/uploads/budget-2021-22-books/SpeechEnglish.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

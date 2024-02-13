@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana announces the Dignity Housing Scheme
 date: 2023-08-23T18:21:16.153Z
 states:

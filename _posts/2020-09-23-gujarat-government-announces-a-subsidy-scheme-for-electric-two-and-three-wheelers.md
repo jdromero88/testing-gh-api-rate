@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://gujaratinformation.net/article/?id=MjEwMzM=
-is_analysis: false
+is_newsletter: false
 
 ---

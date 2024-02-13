@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/power/uttarakhand-cm-launches-awareness-campaign-to-stop-power-theft/71416201
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Chief Minister Trivendra Singh Rawat launched an awareness campaign aimed at stopping power theft.

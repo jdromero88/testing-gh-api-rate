@@ -16,7 +16,7 @@ sources:
 details:
 - name: Kisan Urja Suraksha evam Utthaan Mahabhiyan Portal
   url: https://kusum.online/
-is_analysis: false
+is_newsletter: false
 
 ---
 The government published guidelines for the implementation of the Kisan Urja Suraksha evam Utthaan Mahabhiyan program which will facilitate the installation of solar pumps and grid-connected solar power plants by farmers. Under the program, the government plans to develop decentralized solar energy and other renewable energy generation plants of capacity up to 2 megawatts (MW).

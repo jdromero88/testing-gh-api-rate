@@ -16,6 +16,6 @@ sources:
 details:
 - name: Judgement
   url: https://main.sci.gov.in/supremecourt/2020/11439/11439_2020_34_1501_24245_Judgement_01-Oct-2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

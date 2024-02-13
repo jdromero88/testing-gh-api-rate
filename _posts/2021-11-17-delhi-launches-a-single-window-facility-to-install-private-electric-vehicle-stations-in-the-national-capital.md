@@ -17,6 +17,6 @@ sources:
 details:
 - name: Transport Department Tweet
   url: https://twitter.com/TransportDelhi/status/1457939208622858244?s=20\\
-is_analysis: false
+is_newsletter: false
 
 ---

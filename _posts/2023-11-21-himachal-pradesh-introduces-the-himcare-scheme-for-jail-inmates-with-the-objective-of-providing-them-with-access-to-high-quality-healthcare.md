@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh introduces the Himcare Scheme for jail inmates, with the
   objective of providing them with access to high-quality healthcare
 date: 2023-05-24T14:56:40.801Z

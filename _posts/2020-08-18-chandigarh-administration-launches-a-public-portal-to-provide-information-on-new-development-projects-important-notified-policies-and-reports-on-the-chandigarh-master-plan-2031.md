@@ -16,6 +16,6 @@ sources:
 details:
 - name: Portal
   url: https://urbanplanning.chd.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

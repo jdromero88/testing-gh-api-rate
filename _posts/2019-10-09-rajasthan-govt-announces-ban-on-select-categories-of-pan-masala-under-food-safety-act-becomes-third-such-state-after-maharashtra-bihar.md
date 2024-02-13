@@ -13,7 +13,7 @@ sources:
 - name: First Post
   url: https://www.firstpost.com/india/rajasthan-govt-announces-ban-on-select-categories-of-pan-masala-under-food-safety-act-becomes-third-such-state-after-maharashtra-bihar-7443771.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan government announced a ban on pan masala containing magnesium carbonate, nicotine, tobacco, mineral oil, and flavored ‘supari.’ Rajasthan has become the third state after Maharashtra and Bihar to announce such a move.

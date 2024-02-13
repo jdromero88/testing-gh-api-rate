@@ -13,7 +13,7 @@ sources:
 - name: Pharmabiz
   url: http://www.pharmabiz.com/NewsDetails.aspx?aid=114846&sid=1
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 In order to make healthcare facilities accessible in remote areas adjoining Haridwar and Rishikesh, the Uttarakhand government and All India Institute of Medical Sciences (AIIMS) have signed a memorandum of understanding to develop primary healthcare centres in Raiwala, Ramnagar Danda, Thano, and Dhanaulti in Uttarakhand.

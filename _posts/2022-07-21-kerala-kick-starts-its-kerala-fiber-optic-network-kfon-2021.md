@@ -16,6 +16,6 @@ details:
   url: https://kfon.kerala.gov.in/
 - name: Press Release (in Malayalam)
   url: https://kerala.gov.in/articledetail/MzQ3MjM5OTgzLjY0/0
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -17,6 +17,6 @@ sources:
 details:
 - name: Notification
   url: https://powermin.gov.in/sites/default/files/webform/notices/Direction_to_Gencos_having_Domestic_Coal_Based_plants_0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

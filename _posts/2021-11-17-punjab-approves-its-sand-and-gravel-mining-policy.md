@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-cabinet-okays-punjab-state-sand-and-gravel-mining-policy-2021
-is_analysis: false
+is_newsletter: false
 
 ---

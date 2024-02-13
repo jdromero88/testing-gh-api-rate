@@ -15,6 +15,6 @@ sources:
 details:
 - name: Minister's Tweet
   url: https://twitter.com/AUThackeray/status/1496419272603881472
-is_analysis: false
+is_newsletter: false
 
 ---

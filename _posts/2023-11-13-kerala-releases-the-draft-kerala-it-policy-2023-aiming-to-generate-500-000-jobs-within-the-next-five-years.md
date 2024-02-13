@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala releases the Draft Kerala IT Policy 2023, aiming to generate
   500,000 jobs within the next five years
 date: 2023-11-01T17:03:21.160Z

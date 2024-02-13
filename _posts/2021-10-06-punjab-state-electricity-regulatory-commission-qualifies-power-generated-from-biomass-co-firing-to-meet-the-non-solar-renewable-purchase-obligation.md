@@ -14,6 +14,6 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/biomass-qualifies-non-solar-rpo/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

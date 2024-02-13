@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://dhi.nic.in/writereaddata/UploadFile/DHI-Gazette%20for%20Scheme%20Extension.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

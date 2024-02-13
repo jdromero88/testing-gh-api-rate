@@ -17,6 +17,6 @@ sources:
 details:
 - name: The Energy Conservation (Amendment) Bill, 2022
   url: http://164.100.47.4/BillsTexts/LSBillTexts/PassedLoksabha/177_ C_2022_LS_E.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

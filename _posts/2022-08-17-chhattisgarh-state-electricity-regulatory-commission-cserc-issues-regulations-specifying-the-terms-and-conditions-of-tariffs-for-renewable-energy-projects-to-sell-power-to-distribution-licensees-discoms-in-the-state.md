@@ -17,6 +17,6 @@ sources:
 details:
 - url: https://cserc.gov.in/upload/upload_news/10-08-2022_16601265391.pdf
   name: Regulations
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,6 +16,6 @@ sources:
 details:
 - name: CM Twitter
   url: https://twitter.com/ashokgehlot51/status/1528060324301410304?s=20&t=9Lz1m8fLYVztfKpRcReXdQ
-is_analysis: false
+is_newsletter: false
 
 ---

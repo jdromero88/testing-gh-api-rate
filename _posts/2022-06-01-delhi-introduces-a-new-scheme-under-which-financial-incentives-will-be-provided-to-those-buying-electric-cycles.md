@@ -17,6 +17,6 @@ sources:
 details:
 - name: Operational Guidelines
   url: https://ev.delhi.gov.in/files/Operational%20Guideline%20for%20e-cycles.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

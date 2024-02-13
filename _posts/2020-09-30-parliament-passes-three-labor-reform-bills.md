@@ -18,6 +18,6 @@ details:
   url: http://164.100.47.219/BillsTexts/LSBillTexts/PassedLoksabha/121-C_2020_LS_Eng.pdf
 - name: The Occupational Safety, Health And Working Conditions Code, 2020
   url: http://164.100.47.219/BillsTexts/LSBillTexts/PassedLoksabha/122-C_2020_LS_Eng.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Resolution (In Punjabi)
   url: http://www.punjabassembly.nic.in/images/Debates/2020/20.10.2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

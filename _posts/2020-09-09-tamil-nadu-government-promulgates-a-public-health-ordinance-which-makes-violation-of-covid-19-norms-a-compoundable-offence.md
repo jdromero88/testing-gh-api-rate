@@ -17,6 +17,6 @@ sources:
 details:
 - name: Ordinance
   url: https://www.tnrajbhavan.gov.in/PressReleases/2020/PR040920-2.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

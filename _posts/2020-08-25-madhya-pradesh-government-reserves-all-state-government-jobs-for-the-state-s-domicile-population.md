@@ -15,6 +15,6 @@ sources:
 details:
 - name: Twitter Message
   url: https://twitter.com/CMMadhyaPradesh/status/1295662571169517569
-is_analysis: false
+is_newsletter: false
 
 ---

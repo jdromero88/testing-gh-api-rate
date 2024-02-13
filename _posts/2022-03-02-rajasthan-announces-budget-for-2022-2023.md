@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2022-23
   url: https://finance.rajasthan.gov.in/docs/budget/statebudget/2022-2023/BudgetAtaGlance.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

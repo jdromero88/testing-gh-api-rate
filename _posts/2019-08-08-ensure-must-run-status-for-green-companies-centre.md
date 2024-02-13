@@ -14,7 +14,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/ensure-must-run-status-for-green-companies-centre/articleshow/70491709.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The central government notified the states that they cannot curtail generation of renewable energy without providing written justification to generating companies.

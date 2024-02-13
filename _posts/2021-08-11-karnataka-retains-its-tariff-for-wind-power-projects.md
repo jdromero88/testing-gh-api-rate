@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://karunadu.karnataka.gov.in/kerc/Documents/Determination%20of%20Generic%20Tariff%20for%20wind%20Power%20Project%20for%20FY%202020-21.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

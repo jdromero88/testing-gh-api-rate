@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://powermin.gov.in/sites/default/files/webform/notices/MoP_PPP_MII_Order_dated_16th_Nov_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press release
   url: https://www.ncaer.org/event_details.php?EID=270&EID=270
-is_analysis: false
+is_newsletter: false
 
 ---

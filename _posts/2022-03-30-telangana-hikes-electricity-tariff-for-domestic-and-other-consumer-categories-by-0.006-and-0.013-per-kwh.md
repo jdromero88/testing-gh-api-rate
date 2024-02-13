@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://tserc.gov.in/file_upload/uploads/Tariff%20Orders/Current%20Year%20Orders/2022/RST%20Schedule%20for%20FY%202022-23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

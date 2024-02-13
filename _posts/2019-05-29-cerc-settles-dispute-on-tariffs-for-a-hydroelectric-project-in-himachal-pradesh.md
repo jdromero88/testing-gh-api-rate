@@ -15,7 +15,7 @@ sources:
 details:
 - name: CERC Order
   url: http://www.cercind.gov.in/2019/orders/309-GT-2018.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Central Electricity Regulatory Commission (CERC) settled a dispute regarding the determination of tariff rates for a hydroelectric project in Himachal Pradesh. Sutlej Jal Vidyut Nigam Limited had filed a petition seeking to revise the tariff rates between 2009 and 2014 for a 1,500 MW hydroelectric project at the Nathpa Jhakri project.

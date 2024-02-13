@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana introduces cashless services in all its district hospitals,
   across the state through a Public-Private Partnership (PPP) initiative
 date: 2023-09-27T20:10:03.683Z

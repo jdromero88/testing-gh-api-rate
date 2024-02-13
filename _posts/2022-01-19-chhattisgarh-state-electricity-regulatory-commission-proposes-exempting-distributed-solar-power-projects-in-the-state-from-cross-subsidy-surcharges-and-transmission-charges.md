@@ -18,6 +18,6 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/no-transmission-wheeling-charges-distributed-solar/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

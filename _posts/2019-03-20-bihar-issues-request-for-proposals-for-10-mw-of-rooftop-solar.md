@@ -13,7 +13,7 @@ sources:
 - name: Energy Log
   url: http://www.energy-log.in/bihar-announces-10mw-rooftop-solar-tender/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Bihar Renewable Energy Development Agency issued a request for proposal to install 10 MW of rooftop solar projects. The last date for the submission of bids is April 9, 2019.

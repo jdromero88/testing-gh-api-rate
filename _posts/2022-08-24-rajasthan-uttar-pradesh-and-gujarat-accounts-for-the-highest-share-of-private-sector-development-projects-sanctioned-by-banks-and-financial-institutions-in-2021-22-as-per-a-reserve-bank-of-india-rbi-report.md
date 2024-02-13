@@ -18,6 +18,6 @@ sources:
 details:
 - name: RBI document
   url: https://rbidocs.rbi.org.in/rdocs/Bulletin/PDFs/05_PCIG1808202225506D257434449CBC572C36BF13F073.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

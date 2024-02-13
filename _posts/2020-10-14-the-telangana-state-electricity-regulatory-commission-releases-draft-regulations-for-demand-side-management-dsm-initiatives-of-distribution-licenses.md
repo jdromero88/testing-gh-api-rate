@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft Regulation
   url: http://www.tserc.gov.in/file_upload/uploads/Regulations/Draft/2020/Draft%20TSERC%20(DSM)%20Regulations%202020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

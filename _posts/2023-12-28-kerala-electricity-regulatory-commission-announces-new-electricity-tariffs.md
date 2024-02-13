@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala Electricity Regulatory Commission announces new electricity tariffs
 date: 2023-06-07T15:08:26.113Z
 states:

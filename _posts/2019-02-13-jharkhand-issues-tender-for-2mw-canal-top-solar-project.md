@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender Details
   url: http://www.jreda.com/tenders/tenders/pdf/2019/BidDocumentNIB19_CANALTOP.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Jharkhand Renewable Energy Development Agency issued a tender for an engineering procurement construction firm to set up a 2 MW canal top solar project in Ranchi.

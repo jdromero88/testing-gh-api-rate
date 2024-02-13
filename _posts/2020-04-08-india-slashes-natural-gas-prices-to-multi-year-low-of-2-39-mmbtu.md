@@ -15,7 +15,7 @@ sources:
 details:
 - url: https://www.ppac.gov.in/WriteReadData/CMS/202003310535049612411DomesticNaturalGasPricefortheperiodApril-September2020.pdf
   name: Notice
-is_analysis: false
+is_newsletter: false
 
 ---
 The government cuts the domestic natural gas price by 26 percent to $ 2.39/MMBTU on Gross Calorific Value (GCV) basis, for the April-September 2020 period.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Excise Policy 2021-22
   url: http://finance.rajasthan.gov.in/PDFDOCS/EXCISE/F-EXCISE-9260-06022021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

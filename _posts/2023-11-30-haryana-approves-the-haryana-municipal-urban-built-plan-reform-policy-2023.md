@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana approves the Haryana Municipal Urban Built-Plan Reform Policy, 2023
 date: 2023-10-18T14:56:18.124Z
 states:

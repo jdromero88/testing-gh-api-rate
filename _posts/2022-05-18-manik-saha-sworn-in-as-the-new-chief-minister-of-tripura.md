@@ -13,6 +13,6 @@ sources:
 details:
 - name: Twitter
   url: https://twitter.com/SatyadeoNArya/status/1525745582408577025
-is_analysis: false
+is_newsletter: false
 
 ---

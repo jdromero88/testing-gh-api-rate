@@ -15,6 +15,6 @@ sources:
 details:
 - name: Cabinet Decisions (In Hindi)
   url: http://cm.jharkhand.gov.in/sites/default/files/cabinet_decision_25_02_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1562978
-is_analysis: false
+is_newsletter: false
 
 ---
 The Union Cabinet approved a proposal by the Ministry of Power to allocate 85 percent of electricity generated from central power projects in Telangana and Jharkhand to the home states.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2023-24
   url: https://finance.mp.gov.in/budget
-is_analysis: false
+is_newsletter: false
 
 ---

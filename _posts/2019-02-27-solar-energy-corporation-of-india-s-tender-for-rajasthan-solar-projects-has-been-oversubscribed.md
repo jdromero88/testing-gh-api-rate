@@ -14,7 +14,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/seci-750mw-solar-tender-oversubscribed/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Solar Energy Corporation of India’s 750 MW tender for solar photovoltaic projects across Rajasthan has been oversubscribed by 1,620 MW. Bids totaling 2,370 MW were submitted in response to the tendered capacity of 750 MW.

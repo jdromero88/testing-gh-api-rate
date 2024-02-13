@@ -14,6 +14,6 @@ sources:
 details:
 - name: Excise Policy
   url: https://haryanatax.gov.in/HEX/DownloadPDF?formName=/ExcisePolicy2021_22/Excise_Policy_2021_22_001.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

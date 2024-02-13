@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha approves a proposal to amend the Odisha Mobile Towers & Telegraph
   Line, OFC & Related Infrastructure Policy 2017
 date: 2023-08-16T18:43:16.653Z

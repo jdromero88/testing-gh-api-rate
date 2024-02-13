@@ -15,6 +15,6 @@ sources:
 details:
 - name: Amendments
   url: https://powermin.gov.in/sites/default/files/webform/notices/Amendments%20to%20the%20Guidelines.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

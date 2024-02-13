@@ -14,6 +14,6 @@ sources:
 details:
 - name: Draft Notification
   url: http://www.cercind.gov.in/2021/draft_reg/Draft_Ancillary_Services_Regulations.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

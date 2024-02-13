@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/kejriwal’s-free-electricity-guarantee-becomes-reality-cm-bhagwant-mann-announces-300-units
-is_analysis: false
+is_newsletter: false
 
 ---

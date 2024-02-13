@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2022-2023
   url: https://budget.uk.gov.in/pages/display/129-budget-2022-23
-is_analysis: false
+is_newsletter: false
 
 ---

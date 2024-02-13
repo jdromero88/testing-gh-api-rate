@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan grants a five-year extension for expired Power Purchase
   Agreements (PPAs) related to wind projects
 date: 2023-10-04T18:21:25.887Z

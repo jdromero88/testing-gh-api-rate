@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh approves new industrial land allotment policy, which seeks
   to do away with the current land lease model, and introduce the sale deed
   system

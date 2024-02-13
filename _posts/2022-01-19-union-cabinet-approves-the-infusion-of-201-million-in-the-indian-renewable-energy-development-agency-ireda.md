@@ -19,6 +19,6 @@ details:
   url: https://www.ireda.in/images/pressrelease/Press-Release_equity-infusion_19.01.2022.pdf
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1790941
-is_analysis: false
+is_newsletter: false
 
 ---

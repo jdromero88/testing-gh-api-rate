@@ -15,7 +15,7 @@ sources:
 details:
 - name: Notice
   url: http://pserc.gov.in/pages/LPC%20public%20notice-%208.4.20.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Punjab State Electricity Regulatory Commission has provisionally reduced the rate of late payment surcharge to 6 percent per annum.

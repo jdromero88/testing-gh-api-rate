@@ -17,6 +17,6 @@ sources:
 details:
 - name: Health Index
   url: http://social.niti.gov.in/hlt-ranking
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: World Bank sanctions $200 million for financing the Himachal Power Sector
   Development Program
 date: 2023-07-05T20:06:49.345Z

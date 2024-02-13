@@ -13,6 +13,6 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/power/green-buildings-kerala-government-issues-guidelines-on-incentives/89959072
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

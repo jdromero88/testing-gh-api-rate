@@ -14,6 +14,6 @@ sources:
 details:
 - name: Policy
   url: https://www.niti.gov.in/sites/default/files/2022-04/20220420_Battery_Swapping_Policy_Draft_0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

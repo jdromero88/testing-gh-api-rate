@@ -15,6 +15,6 @@ sources:
 details:
 - name: Bill
   url: https://assambidhansabha.org/assets/uploads/bills/en/The%20Assam%20Municipal(%20Third%20Amendment)%20Bill,2021_1.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

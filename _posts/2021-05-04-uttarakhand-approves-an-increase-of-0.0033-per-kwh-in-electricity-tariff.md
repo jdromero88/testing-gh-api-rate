@@ -15,6 +15,6 @@ sources:
 details:
 - name: UERC order
   url: http://www.uerc.gov.in/Tariff_Orders_of_FY_2021-22/orders/Tariff%20Order%20of%20UPCL%20for%20FY%202021-22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

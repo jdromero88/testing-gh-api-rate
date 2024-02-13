@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://www.goa.gov.in/wp-content/uploads/2022/06/Govt-Notifies-Goa-State-Mariculture-Policy.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

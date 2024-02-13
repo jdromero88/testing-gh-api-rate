@@ -12,6 +12,6 @@ sources:
 - name: Indian Express
   url: https://indianexpress.com/article/cities/hyderabad/telangana-budget-harish-rao-bjp-mla-suspended-7804799/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Index
   url: https://competitiveness.in/report-on-state-of-foundational-literacy-and-numeracy-in-india/
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://cms.tn.gov.in/sites/default/files/press_release/pr290819g.jpg
-is_analysis: false
+is_newsletter: false
 
 ---
 On his visit to London, Chief Minister Edappadi K Palaniswami signed three key partnership agreements in the health sector on skills, tropical diseases, and other elements of healthcare.

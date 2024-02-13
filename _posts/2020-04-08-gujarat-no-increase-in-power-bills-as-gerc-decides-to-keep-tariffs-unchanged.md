@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff Notice
   url: https://www.gercin.org/wp-content/uploads/2020/03/Tariff-Press-Note-March-2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Gujarat Electricity Regulatory Commission (GERC) keeps power tariffs unchanged for the 2020-21 fiscal.

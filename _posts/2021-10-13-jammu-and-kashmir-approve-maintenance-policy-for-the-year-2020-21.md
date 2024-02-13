@@ -14,6 +14,6 @@ sources:
 details:
 - name: Order
   url: https://jkpwdrb.nic.in/pdfs/302_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

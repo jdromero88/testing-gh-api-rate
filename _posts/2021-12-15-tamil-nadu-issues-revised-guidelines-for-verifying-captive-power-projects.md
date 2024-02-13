@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: http://www.tnerc.gov.in/PressRelease/files/PR-021220211536Eng.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,7 +13,7 @@ sources:
 - name: Saur Energy
   url: https://www.saurenergy.com/solar-energy-news/ntpc-wins-40-mw-solar-capacity-uttar-pradesh
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The National Thermal Power Corporation announced that it has won 40 MW solar energy projects in an auction conducted by Uttar Pradesh New and Renewable Energy Development Agency recently. The company quoted a tariff of $0.04 per kilowatt-hour for a period of 25 years to win the auction.

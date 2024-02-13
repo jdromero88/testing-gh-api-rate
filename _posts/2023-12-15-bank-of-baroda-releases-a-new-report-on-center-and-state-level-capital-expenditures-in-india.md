@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bank of Baroda releases a new report on center and state level capital
   expenditures in India
 date: 2023-06-28T14:14:31.583Z

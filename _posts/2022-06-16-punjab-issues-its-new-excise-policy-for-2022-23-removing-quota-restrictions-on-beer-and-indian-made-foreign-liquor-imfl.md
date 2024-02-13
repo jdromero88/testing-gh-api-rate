@@ -15,6 +15,6 @@ sources:
 details:
 - name: Excise Policy
   url: https://excise.punjab.gov.in/CommonUser/Portal_New_Portal_Acts_Rules_Cirular.aspx?type=0
-is_analysis: false
+is_newsletter: false
 
 ---

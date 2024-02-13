@@ -16,6 +16,6 @@ sources:
 details:
 - name: Maharashtra Minister of Tourism and Environment’s Twitter
   url: https://twitter.com/AUThackeray/status/1476897849262493698
-is_analysis: false
+is_newsletter: false
 
 ---

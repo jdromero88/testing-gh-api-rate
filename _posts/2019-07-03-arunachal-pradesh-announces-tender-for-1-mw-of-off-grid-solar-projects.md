@@ -13,7 +13,7 @@ sources:
 - url: https://mercomindia.com/arunachal-off-grid-solar-tender/
   name: Mercom
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Arunachal Pradesh Energy Development Agency introduced a tender for over 1 MW of off-grid solar photovoltaic (PV) projects to be installed in the state. The bid submission deadline is July 5, 2019, with the entire capacity divided into four packages.

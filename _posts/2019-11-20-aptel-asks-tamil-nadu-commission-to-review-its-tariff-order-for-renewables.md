@@ -14,7 +14,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/aptel-asks-tamil-nadu-commission-review-renewables/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Appellate Tribunal for Electricity has asked the Tamil Nadu Electricity Regulatory Commission to pass a new tariff order for power procured from renewable sources.

@@ -17,6 +17,6 @@ sources:
 details:
 - name: Cabinet Decision (in Marathi)
   url: https://www.maharashtra.gov.in/Site/upload/CabinetDecision/Marathi/12-05-2021%20Cabinet%20Decision%20(Meeting%20No.66).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,7 +14,7 @@ sources:
 - url: http://energyinfrapost.com/chhattisgarh-cm-slashes-domestic-power-bills-half/
   name: Energy Infra Post
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Chief Minister Bhupesh Baghel announced that the government will reduce electricity bills by 50 percent for all domestic consumers for consumption up to 400 units.

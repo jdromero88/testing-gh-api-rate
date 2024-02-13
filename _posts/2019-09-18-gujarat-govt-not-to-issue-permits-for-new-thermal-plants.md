@@ -13,7 +13,7 @@ sources:
 - name: Indian Express
   url: https://indianexpress.com/article/india/gujarat-coal-thermal-power-plants-vijay-rupani-solar-carbon-emission-adani-clean-energy-5975547/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Gujarat government announced that it will not give fresh permissions for setting up new thermal power stations in the state.

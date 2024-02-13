@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft EV Policy
   url: https://ct.odisha.gov.in/sites/default/files/2021-02/1360_1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

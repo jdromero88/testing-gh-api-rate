@@ -16,6 +16,6 @@ sources:
 details:
 - name: Twitter Message
   url: https://twitter.com/drashwathcn/status/1296052738606817280
-is_analysis: false
+is_newsletter: false
 
 ---

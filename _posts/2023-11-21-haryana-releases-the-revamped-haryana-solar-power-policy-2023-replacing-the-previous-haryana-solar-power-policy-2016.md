@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana releases the revamped Haryana Solar Power Policy 2023 replacing
   the previous Haryana Solar Power Policy 2016
 date: 2023-11-15T16:17:22.140Z

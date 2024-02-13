@@ -18,6 +18,6 @@ sources:
 details:
 - name: Notification
   url: https://transport.wb.gov.in/wp-content/uploads/2022/05/1787-WT_DATE-25-06-2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -17,7 +17,7 @@ details:
   url: ''
 - name: ''
   url: ''
-is_analysis: false
+is_newsletter: false
 
 ---
 **West Bengal** allows “net metering” for household solar rooftops up to a maximum capacity limit of five kilowatt. Net metering will allow the households to sell excess solar energy to the electricity distribution company. **Source**: [Saur Energy](https://www.saurenergy.com/solar-energy-news/bengal-finally-opens-up-net-metering-for-homes-with-5-kw-limit)

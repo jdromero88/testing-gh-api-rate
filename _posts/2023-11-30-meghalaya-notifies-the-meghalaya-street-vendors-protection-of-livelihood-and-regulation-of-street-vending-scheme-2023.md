@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Meghalaya notifies the Meghalaya Street Vendors (Protection of Livelihood
   and Regulation of Street Vending) Scheme, 2023
 date: 2023-11-29T15:26:18.324Z

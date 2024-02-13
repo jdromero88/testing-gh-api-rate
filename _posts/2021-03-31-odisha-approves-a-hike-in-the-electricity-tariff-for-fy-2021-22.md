@@ -13,6 +13,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/bhubaneswar/power-tariff-hiked-by-30-paise-per-unit-in-odisha/articleshow/81725632.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

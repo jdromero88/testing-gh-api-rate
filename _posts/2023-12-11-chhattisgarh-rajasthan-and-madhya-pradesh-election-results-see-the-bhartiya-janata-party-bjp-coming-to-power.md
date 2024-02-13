@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Chhattisgarh, Rajasthan, and Madhya Pradesh election results see the
   Bhartiya Janata Party (BJP) coming to power
 date: 2023-12-06T21:46:26.284Z

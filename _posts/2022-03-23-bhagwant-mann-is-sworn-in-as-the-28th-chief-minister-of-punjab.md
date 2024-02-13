@@ -13,6 +13,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/bhagwant-mann-sworn-28th-chief-minister-punjab-khatkar-kalan-ancestral-village-shaheed-e
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://karunadu.karnataka.gov.in/kerc/Discussion%20papers%20%20Draft%20Discussion%20papers/Discussion%20Papers/Inviting%20Comments%20Discussion%20paper%20on%20Determination%20of%20Generic%20taiff%20for%20Wind%20Power%20Projects%20.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

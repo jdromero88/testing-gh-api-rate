@@ -15,6 +15,6 @@ details:
   url: https://mopng.gov.in/files/Whatsnew/Website.pdf
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1826265
-is_analysis: false
+is_newsletter: false
 
 ---

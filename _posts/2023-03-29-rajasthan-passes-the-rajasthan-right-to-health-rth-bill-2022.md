@@ -18,6 +18,6 @@ sources:
 details:
 - name: Rajasthan Right to Health Bill, 2022
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ba2dad2d-f6ec-4800-af5a-201d009a21bd
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana State Electricity Regulatory Commission (TSERC) increases the
   additional surcharge for open access consumers
 date: 2023-10-11T18:09:34.837Z

@@ -16,7 +16,7 @@ details:
 - name: 'Himachal Pradesh Electricity Regulatory Commission (Rooftop Solar PV Grid
     Interactive System based on Net Metering) Order, 2019 '
   url: http://new1.hperc.org/File1/dordersolarpv19.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Himachal Pradesh Electricity Regulatory Commission issued the draft “Himachal Pradesh Electricity Regulatory Commission (Rooftop Solar PV Grid Interactive System based on Net Metering) Order, 2019,” with regulations for installation of rooftop systems based on net metering in the state.

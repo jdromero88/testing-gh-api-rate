@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Schedule
   url: https://erckerala.org/orders/Tariff%20schedule.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

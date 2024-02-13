@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka announces the “Anaemia Mukt Poushtika Karnataka Action Plan”
 date: 2023-11-29T22:22:51.720Z
 states:

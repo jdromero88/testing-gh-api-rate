@@ -11,6 +11,6 @@ sources:
 - name: The News Mill
   url: https://thenewsmill.com/meghalaya-cabinet-approves-adoption-of-the-national-highways-act/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

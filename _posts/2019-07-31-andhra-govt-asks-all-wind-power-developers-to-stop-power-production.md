@@ -13,7 +13,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/andhra-govt-asks-all-wind-power-developers-to-stop-power-production-119072501698_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Andhra Pradesh has asked all wind power developers to stop power production, and has announced that they are curtailing wind power procurement by 100 percent.

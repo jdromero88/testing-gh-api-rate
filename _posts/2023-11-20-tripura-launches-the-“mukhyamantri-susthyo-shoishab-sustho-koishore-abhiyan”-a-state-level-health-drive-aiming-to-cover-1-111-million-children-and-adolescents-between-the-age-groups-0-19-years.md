@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tripura launches the “Mukhyamantri Susthyo Shoishab, Sustho Koishore
   Abhiyan”, a state-level health drive aiming to cover 1.111 million children
   and adolescents between the age groups 0-19 years

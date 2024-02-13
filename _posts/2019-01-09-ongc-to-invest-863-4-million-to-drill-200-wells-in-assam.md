@@ -13,7 +13,7 @@ sources:
 - name: Money Control
   url: https://www.moneycontrol.com/news/business/ongc-to-invest-rs-6000-crore-in-drilling-wells-in-assam-3359381.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 State-run oil company Oil and Natural Gas Corporation said it will pump in $863.4 million to drill 200 wells over the next seven years in Assam in order to increase oil output from the state.

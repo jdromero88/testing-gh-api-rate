@@ -16,7 +16,7 @@ sources:
 details:
 - name: Amendments
   url: http://rerc.rajasthan.gov.in/cnpl/PDFs/Forecasting_Reg_amend.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission has issued amended regulations for the Forecasting, Scheduling and Deviation Settlement of Solar and Wind Generation Sources Regulations, 2017.

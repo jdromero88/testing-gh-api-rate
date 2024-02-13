@@ -15,6 +15,6 @@ sources:
 details:
 - name: Bill
   url: https://drive.google.com/file/d/16Q1bdBupwbLSypwmVReWH-ZrI6LiMq4m/view
-is_analysis: false
+is_newsletter: false
 
 ---

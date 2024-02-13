@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://punjabgovtindia.wordpress.com/2020/10/11/incentive-refund-process-for-stamp-duty-amended/
-is_analysis: false
+is_newsletter: false
 
 ---

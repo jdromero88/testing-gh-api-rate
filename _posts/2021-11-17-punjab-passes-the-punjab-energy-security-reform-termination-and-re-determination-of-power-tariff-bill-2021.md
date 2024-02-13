@@ -17,6 +17,6 @@ details:
   url: http://cms.neva.gov.in/FileStructure_PB/Notices/40ca6323-8bcb-4d86-ac94-4d809aa62f6b.pdf
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/fifteen-bills-passed-during-16th-special-session-15th-vidhan-sabha
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Guidelines
   url: https://cdnbbsr.s3waas.gov.in/s3f80ff32e08a25270b5f252ce39522f72/uploads/2021/05/2021051367.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

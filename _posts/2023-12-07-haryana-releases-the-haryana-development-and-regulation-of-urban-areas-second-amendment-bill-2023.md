@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana releases the Haryana Development and Regulation of Urban Areas
   (Second Amendment) Bill, 2023
 date: 2023-09-06T15:44:46.107Z

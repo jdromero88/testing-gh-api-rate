@@ -13,6 +13,6 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/oil-and-gas/assam-government-approves-ethanol-production-promotion-policy/85088848
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

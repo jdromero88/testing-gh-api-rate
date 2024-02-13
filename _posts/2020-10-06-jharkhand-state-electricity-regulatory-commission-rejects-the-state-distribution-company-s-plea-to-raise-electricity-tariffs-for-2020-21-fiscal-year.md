@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://jserc.org/pdf/tariff_order/jbvnl2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

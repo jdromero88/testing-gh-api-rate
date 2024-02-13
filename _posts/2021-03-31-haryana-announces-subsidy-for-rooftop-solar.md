@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.prharyana.gov.in/en/to-promote-solar-energy-in-haryana-the-dakshin-haryana-bijli-vitaran-nigam-has-implemented-a-scheme
-is_analysis: false
+is_newsletter: false
 
 ---
 **Haryana** announces a subsidy scheme for the installation of rooftop solar. The scheme allows a 40 percent subsidy on the total equipment cost of a three-kilowatt solar rooftop plant.

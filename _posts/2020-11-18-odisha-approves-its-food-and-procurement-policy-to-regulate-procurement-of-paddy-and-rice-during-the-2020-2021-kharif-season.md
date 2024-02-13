@@ -15,6 +15,6 @@ sources:
 details:
 - name: Cabinet Decision
   url: https://cabinet.odisha.gov.in/UploadedDOC/11032_MEDIA_5.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

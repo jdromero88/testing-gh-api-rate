@@ -16,7 +16,7 @@ details:
 - name: RERC (Terms and Conditions for Determination of Tariff for Renewable Energy
     Sources-Wind and Solar Energy) (Second Amendment) Regulations, 2019
   url: http://rerc.rajasthan.gov.in/Orders/Order541.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission finalized new regulations to amend its terms and conditions for the determination of tariff for renewable energy sources, specifically wind and solar energy.

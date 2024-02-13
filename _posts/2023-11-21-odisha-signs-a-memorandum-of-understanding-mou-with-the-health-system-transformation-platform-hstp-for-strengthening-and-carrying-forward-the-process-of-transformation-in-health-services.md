@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha signs a memorandum of understanding (MoU) with the Health System
   Transformation Platform (HSTP) for strengthening and carrying forward the
   process of transformation in health services

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1686771#:\~:text=Telangana%20has%20become%20the%203,crore%20through%20Open%20Market%20Borrowings.
-is_analysis: false
+is_newsletter: false
 
 ---

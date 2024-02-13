@@ -14,6 +14,6 @@ sources:
 details:
 - name: State Government's Tweet
   url: https://twitter.com/MyGovNagaland
-is_analysis: false
+is_newsletter: false
 
 ---

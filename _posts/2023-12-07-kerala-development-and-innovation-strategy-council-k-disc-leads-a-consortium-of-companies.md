@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala Development and Innovation Strategy Council (K-DISC) leads a
   consortium of companies
 date: 2023-09-06T15:45:47.901Z

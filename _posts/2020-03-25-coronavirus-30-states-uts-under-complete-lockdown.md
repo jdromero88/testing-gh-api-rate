@@ -14,7 +14,7 @@ sources:
 details:
 - name: Press Information Bureau Tweet
   url: https://twitter.com/PIB_India/status/1242133894427787267?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3APIB_India%7Ctwcon%5Etimelinechrome&ref_url=https%3A%2F%2Fpib.gov.in%2Findexd.aspx
-is_analysis: false
+is_newsletter: false
 
 ---
 A total of 30 states and Union Territories have imposed complete lockdown, covering a total of 548 districts in the country, to contain the spread of coronavirus.

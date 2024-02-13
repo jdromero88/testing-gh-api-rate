@@ -14,7 +14,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/ntpc-seci-warn-andhra-of-legal-action-for-non-payment-of-power-bill/articleshow/70323234.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 National Thermal Power Corporation Limited and SECI have threatened Andhra Pradesh power distribution utilities with legal action and have denied renegotiation of tariffs from solar plants.

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Amended Goa State Solar Policy 2017
   url: https://www.goa.gov.in/wp-content/uploads/2018/11/Ammended-Goa-State-Solar-Policy-2017-for-comments-and-suggestions.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 To incentivize the production of solar power in the state, the Goa cabinet has approved amendments to the Goa State Solar Policy 2017, authorizing a 50 percent subsidy to consumers and producers instead of the earlier proposed interest-free loan.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Cabinet Decision
   url: https://www.maharashtra.gov.in/Site/upload/CabinetDecision/Marathi/01-09-2021%20Cabinet%20Decision%20(Meeting%20No.80).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

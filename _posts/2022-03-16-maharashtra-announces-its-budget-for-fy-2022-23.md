@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2022-23
   url: https://beams.mahakosh.gov.in/Beams5/BudgetMVC/MISRPT/HomePage2021.html
-is_analysis: false
+is_newsletter: false
 
 ---

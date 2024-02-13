@@ -16,6 +16,6 @@ sources:
 details:
 - name: PFC Rankings
   url: https://pfcindia.com/DocumentRepository/ckfinder/files/GoI_Initiatives/Annual_Integrated_Ratings_of_State_DISCOMs/9th%20Integrated%20Rating%20Booklet.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

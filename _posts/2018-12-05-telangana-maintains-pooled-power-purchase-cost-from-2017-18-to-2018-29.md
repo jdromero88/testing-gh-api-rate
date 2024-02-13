@@ -15,7 +15,7 @@ sources:
 details:
 - name: Cost Order
   url: http://www.tserc.gov.in/file_upload/uploads/Orders/Commission%20Orders/2018/OPNo.60of2018pooledcost.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Telangana State Electricity Regulatory Commission passed an order stating that the pooled cost of power purchase in FY 2017-18 would be maintained for the FY 2018-19 at $0.058/kWh.

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: http://www.cserc.gov.in/upload/upload_news/05-08-2021_16281633561.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

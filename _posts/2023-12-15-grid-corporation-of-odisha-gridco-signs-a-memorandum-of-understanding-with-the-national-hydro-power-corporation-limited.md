@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Grid Corporation of Odisha (GRIDCO) signs a Memorandum of Understanding
   with the National Hydro Power Corporation Limited
 date: 2023-06-28T14:10:34.650Z

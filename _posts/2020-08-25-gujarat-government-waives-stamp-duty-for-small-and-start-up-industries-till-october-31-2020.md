@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://gujaratinformation.net/article/?id=MTk5OTQ=
-is_analysis: false
+is_newsletter: false
 
 ---

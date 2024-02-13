@@ -15,7 +15,7 @@ sources:
 details:
 - name: UPERC Open access regulations, 2019
   url: http://www.uperc.org/App_File/OpenAccessRegDraft-rar6172019112725AM.rar
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh Electricity Regulatory Commission (UPERC) has issued draft open access regulations, 2019. These regulations will apply to consumers for open access connected to the intra-state transmission system and the electricity distribution companies in the state.

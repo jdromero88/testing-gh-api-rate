@@ -14,6 +14,6 @@ sources:
 details:
 - name: Cabinet Decisions
   url: https://www.mpinfo.org/Home/CabinetDetails?newsid=220426S17&fontname=Mangal&LocID=32&pubdate=04/26/2022
-is_analysis: false
+is_newsletter: false
 
 ---

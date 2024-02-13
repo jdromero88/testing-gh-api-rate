@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jharkhand launches the state government’s panchayat-level drugs shop
   scheme, aimed at making essential medicines available in remote areas
 date: 2023-06-28T14:39:17.759Z

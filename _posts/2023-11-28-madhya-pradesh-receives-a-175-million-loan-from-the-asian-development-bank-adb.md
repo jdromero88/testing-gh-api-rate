@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh receives a $175 million loan from the Asian Development
   Bank (ADB)
 date: 2023-11-01T14:09:20.453Z

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Amendment to MSME Development Policy
   url: https://msme.odisha.gov.in/sites/default/files/2023-02/1292_0_0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

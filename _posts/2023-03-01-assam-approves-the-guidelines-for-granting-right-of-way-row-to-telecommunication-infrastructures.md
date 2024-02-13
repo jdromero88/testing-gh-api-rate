@@ -20,6 +20,6 @@ details:
   url: https://twitter.com/himantabiswa/status/1628346580880461824
 - name: RoW Guidelines
   url: https://dot.gov.in/sites/default/files/Telecom%20at%20a%20Glance%202023%20as%20on%2018-01-2023.pdf?download=1
-is_analysis: false
+is_newsletter: false
 
 ---

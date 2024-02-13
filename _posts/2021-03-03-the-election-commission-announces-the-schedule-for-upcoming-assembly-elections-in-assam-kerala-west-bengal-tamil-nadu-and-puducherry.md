@@ -19,6 +19,6 @@ sources:
 details:
 - name: Election Commission Press Release
   url: https://eci.gov.in/files/file/12919-general-election-to-the-legislative-assemblies-of-assam-kerala-tamil-nadu-west-bengal-and-puducherry-2021/
-is_analysis: false
+is_newsletter: false
 
 ---

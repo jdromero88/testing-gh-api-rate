@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Power proposes draft provisions in the Electricity
   (Amendment) Rules, 2023
 date: 2023-04-26T19:25:50.629Z

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Gujarat APMC ordinance, 2020
   url: https://prsindia.org/files/bills_acts/bills_states/gujarat/2020/Gujarat%20APMC%20Ordinance%202020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

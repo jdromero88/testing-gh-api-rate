@@ -14,6 +14,6 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/kerala-govt-announces-tax-cut-on-petrol-by-rs-2-41-diesel-by-rs-1-36-122052200049_1.html/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

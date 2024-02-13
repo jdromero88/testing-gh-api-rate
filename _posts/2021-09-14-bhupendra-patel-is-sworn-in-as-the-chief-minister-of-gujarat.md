@@ -14,6 +14,6 @@ sources:
 details:
 - name: Governor's Tweet
   url: https://twitter.com/ADevvrat/status/1437069729072443395
-is_analysis: false
+is_newsletter: false
 
 ---

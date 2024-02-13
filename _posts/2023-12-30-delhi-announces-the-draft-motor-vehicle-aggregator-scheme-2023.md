@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi announces the Draft Motor Vehicle Aggregator Scheme 2023
 date: 2023-05-17T06:44:14.461Z
 states:

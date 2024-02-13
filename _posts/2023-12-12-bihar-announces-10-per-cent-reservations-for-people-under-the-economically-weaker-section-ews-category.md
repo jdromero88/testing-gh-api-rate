@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bihar announces 10 per cent reservations for people under the
   economically weaker section (EWS) category
 date: 2023-12-12T19:14:42.755Z

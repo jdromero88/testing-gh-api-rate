@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tender details
   url: http://www.guvnl.com/guvnl/TenderView.aspx?tid=50667
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat State Electricity Corporation Limited has issued a tender to set up 175 MW of solar power projects at Dhuvaran and another 100 MW at Raghanesda Ultra Mega Solar Park.

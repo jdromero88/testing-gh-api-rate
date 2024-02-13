@@ -12,6 +12,6 @@ sources: []
 details:
 - url: https://realty.economictimes.indiatimes.com/news/regulatory/tamil-nadu-new-bill-allows-registrars-to-cancel-a-forged-property-document/85893170
   name: Economic Times
-is_analysis: false
+is_newsletter: false
 
 ---

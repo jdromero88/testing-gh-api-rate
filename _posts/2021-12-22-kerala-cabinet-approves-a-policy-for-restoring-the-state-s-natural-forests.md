@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://forest.kerala.gov.in/images/press/December2021/Press_release_15-12.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

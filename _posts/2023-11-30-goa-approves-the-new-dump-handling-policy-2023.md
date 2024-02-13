@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa approves the new Dump Handling Policy 2023
 date: 2023-10-18T15:20:36.742Z
 states:

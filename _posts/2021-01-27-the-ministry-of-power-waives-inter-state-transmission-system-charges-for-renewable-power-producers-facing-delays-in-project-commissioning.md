@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://powermin.nic.in/sites/default/files/webform/notices/Order_dated_15th_Jan_2021_reg_waiver_of_ISTS_charges_and_losses.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

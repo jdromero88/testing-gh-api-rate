@@ -19,7 +19,7 @@ details:
   name: Tender Document
 - name: Rfp Document
   url: http://upneda.org.in/UploadedFiles/TenderDirectory/fRfP_for_500_MW_Solar_Power_final_4.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh New and Renewable Energy Development Agency has issued a request for proposal for the procurement of 500 MW of power from grid-connected solar photovoltaic projects and for the setting up of grid-connected rooftop solar projects worth 60 MW.

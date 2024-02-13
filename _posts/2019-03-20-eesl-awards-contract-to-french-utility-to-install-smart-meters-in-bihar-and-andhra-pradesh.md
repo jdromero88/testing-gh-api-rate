@@ -14,7 +14,7 @@ sources:
 - name: Livemint
   url: https://www.livemint.com/industry/energy/france-edf-to-roll-out-smart-meters-in-bihar-and-andhra-pradesh-1552877936536.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 State-owned Energy Efficiency Services Ltd (EESL) has awarded a contract to French government-owned power utility Électricité de France SA to install five million smart meters in Bihar and Andhra Pradesh.

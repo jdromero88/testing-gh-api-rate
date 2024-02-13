@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://twitter.com/MORTHIndia/status/1293562252813979651?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,7 +16,7 @@ details:
 - name: GERC (Forecasting, Scheduling, Deviation Settlement and Related Matters of
     Solar and Wind Generation Sources) Regulations, 2019
   url: http://www.gercin.org/news_item.aspx?news_cat=489
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat Electricity Regulatory Commission announced new regulations for the forecasting, scheduling, and deviation settlement of solar and wind generating sources in the state.

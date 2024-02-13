@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/goa/power-consumers-get-relief-as-fppca-revised-lower-than-last-quarter/articleshowprint/70707714.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Goa state government has revised and reduced the fuel and power purchase cost adjustments for July, August, and September.

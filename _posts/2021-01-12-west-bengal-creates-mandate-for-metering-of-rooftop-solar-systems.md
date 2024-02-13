@@ -13,7 +13,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/west-bengal-mandates-gross-metering/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 **West Bengal** amends its Cogeneration and Electricity Generation from Renewable Sources Regulations, 2013. Amendment includes the mandate for a gross metering facility for rooftop solar systems above five kilowatt in capacity.

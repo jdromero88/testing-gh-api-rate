@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka introduces the Karnataka Motor Vehicles Taxation (Second
   Amendment) Act, 2023
 date: 2023-12-20T16:16:19.248Z

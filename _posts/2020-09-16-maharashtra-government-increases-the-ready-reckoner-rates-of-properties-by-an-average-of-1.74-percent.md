@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order (In Marathi)
   url: http://igrmaharashtra.gov.in/pdf/newValCir/Mah_Guidelline_20-21.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

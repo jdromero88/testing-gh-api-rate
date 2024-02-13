@@ -15,6 +15,6 @@ sources:
 details:
 - name: Regulation
   url: https://tserc.gov.in/file_upload/uploads/Regulations/Final/tserc/2021/Smart%20Grid%20%20Regulation.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

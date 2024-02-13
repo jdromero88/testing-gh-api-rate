@@ -16,7 +16,7 @@ sources:
 details:
 - name: FPPPA Charges detail
   url: http://www.guvnl.com/guvnl/CMSContentDetail.aspx?cmsID=624
-is_analysis: false
+is_newsletter: false
 
 ---
 Citing higher power purchase costs, the Gujarat Urja Vikas Nigam Limited and Torrent Power increased fuel surcharge rates on electricity for the current quarter.

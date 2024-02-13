@@ -15,6 +15,6 @@ sources:
 details:
 - name: Draft Regulations
   url: http://pserc.gov.in/pages/Draft-SPV%20systems%20Regulations-Public%20Objection.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

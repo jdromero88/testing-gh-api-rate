@@ -14,7 +14,7 @@ sources:
 - name: The Hindu Business Line
   url: https://www.thehindubusinessline.com/economy/ap-discom-asks-solar-energy-corp-developers-to-slash-tariff-to-244unit/article28564051.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Andhra Pradesh Southern Power Distribution Company Ltd has served a notice to Solar Energy Corporation of India (SECI) to slash tariffs from $0.06 a unit to $0.035. The notice relates to the creation of 400 megawatts of (MW) solar power under the Viability Gap Fund scheme.

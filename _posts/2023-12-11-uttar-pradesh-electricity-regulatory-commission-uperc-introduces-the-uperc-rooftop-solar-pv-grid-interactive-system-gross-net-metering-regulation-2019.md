@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh Electricity Regulatory Commission (UPERC) introduces the
   UPERC (Rooftop Solar PV Grid Interactive System Gross/Net Metering)
   Regulation, 2019

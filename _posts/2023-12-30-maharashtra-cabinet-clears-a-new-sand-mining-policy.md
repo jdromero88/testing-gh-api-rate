@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra cabinet clears a new sand mining policy
 date: 2023-04-12T21:11:47.363Z
 states:

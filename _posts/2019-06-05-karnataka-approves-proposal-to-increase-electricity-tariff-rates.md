@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff Orders - 2019
   url: https://www.karnataka.gov.in/kerc/Pages/tariff-orders-2019.aspx
-is_analysis: false
+is_newsletter: false
 
 ---
 The Karnataka Electricity Regulatory Commission (KERC) has approved a request from the electricity supply companies to increase electricity bills by 0.5 cents (33 paisa) per unit, or kilowatt-hour.

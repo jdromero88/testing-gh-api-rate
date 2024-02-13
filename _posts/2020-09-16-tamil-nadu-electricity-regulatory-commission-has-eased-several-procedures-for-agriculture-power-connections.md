@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: http://www.tnerc.gov.in/press%20release/2020/Agriculture-English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

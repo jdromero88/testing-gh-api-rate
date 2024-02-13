@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: West Bengal sanctions $18.37 million to develop 400 new sub-health
   centres with the aim to improve healthcare access in the rural of the state
 date: 2023-05-17T15:01:19.103Z

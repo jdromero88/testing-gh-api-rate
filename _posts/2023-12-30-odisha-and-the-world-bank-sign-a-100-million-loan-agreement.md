@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha and the World Bank sign a $100 million loan agreement
 date: 2023-04-19T19:36:37.078Z
 states:

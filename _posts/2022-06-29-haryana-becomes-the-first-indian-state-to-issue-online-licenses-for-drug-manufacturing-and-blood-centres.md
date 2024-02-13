@@ -16,6 +16,6 @@ sources:
 details:
 - name: Portal
   url: https://www.statedrugs.gov.in/SFDA/Homepage
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: 'Press Release '
   url: https://haryanacmoffice.gov.in/06-november-2021-0
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 - name: The Tribune
   url: https://www.tribuneindia.com/news/haryana/hry-unveils-policy-to-check-illegal-nursing-colleges-356542
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

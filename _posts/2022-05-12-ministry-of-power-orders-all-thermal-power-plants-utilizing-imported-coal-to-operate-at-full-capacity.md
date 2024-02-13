@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://powermin.gov.in/sites/default/files/webform/notices/Directions%20to%20generating%20companies%20under%20Section%2011%20of%20the%20Electricity%20Act%2C%202003.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

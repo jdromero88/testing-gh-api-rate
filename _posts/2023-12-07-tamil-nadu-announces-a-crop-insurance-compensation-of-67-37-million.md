@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu announces a crop insurance compensation of $67.37 million
 date: 2023-09-28T03:41:24.404Z
 states:

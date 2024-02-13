@@ -14,6 +14,6 @@ sources:
 details:
 - name: Tripura Budget
   url: https://finance.tripura.gov.in/sites/default/files/Finance%20Minister%27s%20Speech%20in%20English%20on%20Budget%202022-23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

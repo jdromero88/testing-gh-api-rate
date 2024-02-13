@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://jercuts.gov.in/writereaddata/UploadFile/MYT%20ORDER_1094.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

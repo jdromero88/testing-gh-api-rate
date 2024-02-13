@@ -16,7 +16,7 @@ sources:
 details:
 - name: ''
   url: ''
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra government has hiked the tax levied on petrol and diesel. As a result, the two fuels have now become costlier by $0.02 each.

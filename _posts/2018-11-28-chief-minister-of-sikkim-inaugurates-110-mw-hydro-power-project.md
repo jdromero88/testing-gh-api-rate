@@ -13,7 +13,7 @@ sources:
 - name: United News of India
   url: http://www.uniindia.com/chief-minister-pawan-chamling-inaugurates-110-mw-hydro-electric-power-project/east/news/1410217.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Chief Minister Pawan Kumar Chamling inaugurated the 110 MW Chujachen (East) Hydro Power Project. The project has been installed by Gati Infrastructure and designed by Colenco Power Engineering Ltd of Switzerland. 

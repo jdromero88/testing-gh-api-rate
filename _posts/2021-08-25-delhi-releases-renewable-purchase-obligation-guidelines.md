@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: http://www.derc.gov.in/sites/default/files/DERC%20RPO%20and%20REC%20Framework%20implementation%202021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

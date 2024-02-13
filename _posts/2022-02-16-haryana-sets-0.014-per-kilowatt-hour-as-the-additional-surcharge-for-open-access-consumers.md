@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://herc.gov.in/WriteReadData/Orders/O20220202(1).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

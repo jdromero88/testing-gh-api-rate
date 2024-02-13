@@ -14,6 +14,6 @@ sources:
 details:
 - name: CMO Tweet
   url: https://twitter.com/CMOfficeUP/status/1295977175661699077
-is_analysis: false
+is_newsletter: false
 
 ---

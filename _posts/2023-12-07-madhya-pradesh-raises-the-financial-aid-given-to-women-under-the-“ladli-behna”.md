@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh raises the financial aid given to women under the “Ladli Behna”
 date: 2023-08-30T18:11:29.068Z
 states:

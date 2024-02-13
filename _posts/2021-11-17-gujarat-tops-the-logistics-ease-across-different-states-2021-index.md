@@ -14,6 +14,6 @@ sources:
 details:
 - name: LEADS 2021 Report
   url: https://commerce.gov.in/wp-content/uploads/2021/11/LEADS-2021-Report_Final.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Gujarat signs a Memorandum of Understanding (MoU) with Micron Technology Inc
 date: 2023-07-05T20:00:27.070Z
 states:

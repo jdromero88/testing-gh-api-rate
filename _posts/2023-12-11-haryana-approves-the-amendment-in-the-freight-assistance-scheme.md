@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana approves the amendment in the Freight Assistance Scheme
 date: 2023-07-12T19:49:14.140Z
 states:

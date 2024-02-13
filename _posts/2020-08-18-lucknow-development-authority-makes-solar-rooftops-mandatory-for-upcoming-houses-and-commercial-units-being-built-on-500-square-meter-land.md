@@ -15,6 +15,6 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/renewable/lucknow-solar-rooftops-must-for-upcoming-houses-on-500sqm/77496017
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

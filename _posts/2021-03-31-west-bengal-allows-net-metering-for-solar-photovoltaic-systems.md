@@ -16,7 +16,7 @@ sources:
 details:
 - name: Notification
   url: https://wberc.gov.in/sites/default/files/WBERC_A-82_1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The **West Bengal** Electricity Regulatory Commission allows net metering for consumers who install solar photovoltaic systems before June 30, 2021.

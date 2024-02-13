@@ -14,7 +14,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/auto/auto-news/rare-good-news-from-a-rare-metal-reserves-of-lithium-critical-for-ev-batteries-found-near-bengaluru/articleshow/74183975.cms?from=mdr
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Reserves of lithium, critical for the production of electric vehicle batteries, were found near Bengaluru. India’s Atomic Energy Commission estimates the reserves at 14,100 tons.

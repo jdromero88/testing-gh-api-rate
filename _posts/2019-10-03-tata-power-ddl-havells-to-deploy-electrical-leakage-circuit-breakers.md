@@ -13,7 +13,7 @@ sources:
 - name: The Hindu Business Line
   url: https://www.thehindubusinessline.com/news/national/tata-power-ddl-havells-to-deploy-electrical-leakage-circuit-breakers/article29507675.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Tata Power-Delhi Distribution Limited and Havells will jointly deploy Electrical Leakage Circuit Breakers (ELCB) devices across areas of Delhi. ELCBs have been mandated by guidelines issued by the Delhi Electricity Regulatory Commission.

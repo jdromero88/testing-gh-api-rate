@@ -15,7 +15,7 @@ sources:
 details:
 - name: CMO Andhra Pradesh Tweet
   url: https://twitter.com/AndhraPradeshCM/status/1268819144020905985
-is_analysis: false
+is_newsletter: false
 
 ---
 The Andhra Pradesh government has launched an online waste exchange platform that is expected to handle waste from its generation until disposal.

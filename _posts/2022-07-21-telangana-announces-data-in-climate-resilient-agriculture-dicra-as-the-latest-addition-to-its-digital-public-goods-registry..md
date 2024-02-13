@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.undp.org/news/announcing-dicra-digital-public-good-harnesses-open-source-tech-boost-climate-resilient-agriculture
-is_analysis: false
+is_newsletter: false
 
 ---

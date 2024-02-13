@@ -14,6 +14,6 @@ sources:
 details:
 - name: e-Gazette
   url: http://egazette.bih.nic.in/GazettePublished/976_2_2021.pdf#page=1
-is_analysis: false
+is_newsletter: false
 
 ---

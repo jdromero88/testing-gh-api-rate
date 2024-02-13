@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister Office's Tweet
   url: https://twitter.com/ChhattisgarhCMO/status/1462704749396967426
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Agar Policy
   url: https://tripura.gov.in/sites/default/files/Policy_Forest_01_06_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

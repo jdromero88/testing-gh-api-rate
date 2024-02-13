@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala drafts the Domestic Workers (Regulation and Welfare) Act
 date: 2023-05-31T15:16:36.521Z
 states:

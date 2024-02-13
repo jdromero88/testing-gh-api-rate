@@ -17,6 +17,6 @@ details:
   url: https://ms-my.facebook.com/GoaNewsGNN/videos/industries-minister-mauvin-goudinho-briefing-on-draft-goa-industrial-growth-and-/1064728861144802/
 - name: Minister's Tweet
   url: https://twitter.com/MauvinGodinho/status/1537355616754159616
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh expands the Ladli Lakshmi Scheme
 date: 2023-05-10T07:00:48.021Z
 states:

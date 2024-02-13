@@ -17,6 +17,6 @@ sources:
 details:
 - name: Order
   url: https://www.epca.org.in/epcadirection/Chief-Secretary-GNCTD-Oct08-2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

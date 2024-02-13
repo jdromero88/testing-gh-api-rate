@@ -14,6 +14,6 @@ sources:
 - name: Saur Energy
   url: https://www.saurenergy.com/solar-energy-news/bengal-finally-opens-up-net-metering-for-homes-with-5-kw-limit
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

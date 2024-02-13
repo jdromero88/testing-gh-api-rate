@@ -15,6 +15,6 @@ sources:
 details:
 - name: Excise Notification
   url: http://jkexcise.nic.in/DOCUMENTS/Ord%2083%20EC%20Annexure.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

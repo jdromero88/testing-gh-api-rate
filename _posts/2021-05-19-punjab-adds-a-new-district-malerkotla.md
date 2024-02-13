@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-cm-declares-malerkotla-state%E2%80%99s-23rd-district-announces-several-projects-development
-is_analysis: false
+is_newsletter: false
 
 ---

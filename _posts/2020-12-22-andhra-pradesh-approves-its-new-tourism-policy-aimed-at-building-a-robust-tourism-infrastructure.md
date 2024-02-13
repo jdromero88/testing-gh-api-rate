@@ -13,6 +13,6 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/travel/ap-government-comes-up-with-new-tourism-policy/story-MYPJXa0qhctgAeeML44ACO.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

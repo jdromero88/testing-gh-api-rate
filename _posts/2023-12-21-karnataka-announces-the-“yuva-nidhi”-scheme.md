@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka announces the “Yuva Nidhi” scheme
 date: 2023-12-20T16:19:11.718Z
 states:

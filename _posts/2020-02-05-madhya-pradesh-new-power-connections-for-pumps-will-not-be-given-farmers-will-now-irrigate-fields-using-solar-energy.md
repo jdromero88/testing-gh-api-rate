@@ -14,7 +14,7 @@ sources:
 - name: DB Post
   url: https://dbpost.com/madhya-pradesh-new-power-connections-will-not-be-given-farmers-will-now-have-to-irrigate-using-solar-energy/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Madhya Pradesh farmers will now be able to irrigate their fields with solar energy. Solar panels will be installed at places by giving subsidies to farmers.

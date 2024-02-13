@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release (in Hindi)
   url: https://cmo.rajasthan.gov.in/pressreleasedetail/5203
-is_analysis: false
+is_newsletter: false
 
 ---

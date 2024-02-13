@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/eight-key-bills-approved-house-during-budget-session-punjab-vidhan-sabha
-is_analysis: false
+is_newsletter: false
 
 ---

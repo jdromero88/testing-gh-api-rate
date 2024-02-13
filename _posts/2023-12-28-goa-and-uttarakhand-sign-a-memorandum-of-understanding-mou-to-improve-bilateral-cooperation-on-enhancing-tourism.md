@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Goa and Uttarakhand sign a Memorandum of Understanding (MoU) to improve
   bilateral cooperation on enhancing tourism "
 date: 2023-05-31T15:26:56.737Z

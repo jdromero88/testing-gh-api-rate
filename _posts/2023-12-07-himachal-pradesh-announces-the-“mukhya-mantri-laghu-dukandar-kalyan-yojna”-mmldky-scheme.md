@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh announces the “Mukhya Mantri Laghu Dukandar Kalyan
   Yojna” (MMLDKY) scheme
 date: 2023-09-20T13:52:01.912Z

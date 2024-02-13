@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notice
   url: https://powermin.gov.in/sites/default/files/webform/notices/Waiver_of_inter_state_transmission_charges_Order_dated_21_June_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

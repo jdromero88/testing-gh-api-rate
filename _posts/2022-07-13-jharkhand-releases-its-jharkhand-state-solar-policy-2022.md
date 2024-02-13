@@ -15,6 +15,6 @@ sources:
 details:
 - name: Jharkhand Solar Policy
   url: https://www.jreda.com/upload_files/Jharkhand-State-Solar-Policy-2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

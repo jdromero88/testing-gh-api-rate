@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala launches the Climate Resilience and Energy Efficiency in
   Agriculture (CREEA) program
 date: 2023-08-02T16:23:10.098Z

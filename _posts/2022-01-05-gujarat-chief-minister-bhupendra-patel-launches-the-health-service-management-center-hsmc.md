@@ -14,6 +14,6 @@ sources:
 - name: Indian Express
   url: https://indianexpress.com/article/cities/ahmedabad/gujarat-cm-launches-portal-monitor-benefits-health-schemes-7693840/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

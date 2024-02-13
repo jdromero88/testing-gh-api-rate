@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/cmohry/status/1372114157407891465?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

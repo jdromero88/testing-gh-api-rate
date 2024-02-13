@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Meghalaya launches the CM Elevate Programme with an outlay of $36 million
 date: 2023-10-18T15:02:22.852Z
 states:

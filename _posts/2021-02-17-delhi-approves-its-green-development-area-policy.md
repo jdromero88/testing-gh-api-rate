@@ -13,6 +13,6 @@ sources:
 - name: Economic Times
   url: https://realty.economictimes.indiatimes.com/news/industry/dda-approves-draft-green-development-area-policy-for-sustainable-development/80827270
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,7 +13,7 @@ sources:
 - name: The Hindu
   url: https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/article25553753.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 To pave the way for the growth of electric vehicles, the Telangana State Electricity Regulatory Commission created a new category of consumers for electric vehicle charging stations, and fixed the tariff for charging stations at $0.08 per unit.

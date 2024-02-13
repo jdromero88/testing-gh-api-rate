@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.prharyana.gov.in/en/aimed-at-recovering-the-outstanding-arrears-of-passenger-and-goods-tax-amounting-to-rs-2113-crore
-is_analysis: false
+is_newsletter: false
 
 ---

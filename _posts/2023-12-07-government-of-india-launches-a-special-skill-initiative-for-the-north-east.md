@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Government of India launches a special skill initiative for the north east
 date: 2023-08-16T18:44:09.591Z
 states:

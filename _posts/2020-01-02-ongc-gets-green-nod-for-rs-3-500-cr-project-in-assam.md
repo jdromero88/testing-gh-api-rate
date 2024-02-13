@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-gets-green-nod-for-rs-3500-cr-project-in-assam/72981386
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 State-run ONGC has received environment clearance for carrying out onshore exploration, development and production of oil and gas in 100 locations in non-forest area of Assam.

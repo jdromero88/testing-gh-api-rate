@@ -12,7 +12,7 @@ sources:
 - name: The Tribune
   url: https://www.tribuneindia.com/news/from-today-haryana-to-give-rs-100-quintal-incentive-to-farmers/857810.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 In compliance with the Supreme Court order on stubble burning, Haryana will pay small and marginal farmers who have not burned stubble in their fields.

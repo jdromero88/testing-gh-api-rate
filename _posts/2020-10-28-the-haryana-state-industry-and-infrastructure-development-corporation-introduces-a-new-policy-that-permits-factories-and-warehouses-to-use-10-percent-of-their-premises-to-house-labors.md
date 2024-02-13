@@ -17,6 +17,6 @@ sources:
 details:
 - name: Policy Draft
   url: https://hsiidc.org.in/sites/default/files/media/E%20Documents/Policy%20IPD.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

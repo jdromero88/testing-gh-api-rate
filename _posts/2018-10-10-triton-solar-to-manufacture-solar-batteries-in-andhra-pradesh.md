@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/triton-agrees-to-set-up-solar-battery-plant-in-andhra-pradesh/articleshow/65954856.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Triton Solar has agreed to set up a solar batteries manufacturing plant in Andhra Pradesh under public-private partnership model and has signed an MOU with the Andhra Pradesh Economic Development Board. The plant will help boost consumption for electrical vehicles and generate 200 megawatts of solar power storage supply to meet the state solar energy needs.    

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka introduces the draft Karnataka Electric Vehicles (EVs) 2023-28
   with the objective to attract an investment of $6 billion and generate job
   opportunities for 100,000 individuals

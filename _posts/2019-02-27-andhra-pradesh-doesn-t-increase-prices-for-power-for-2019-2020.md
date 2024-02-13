@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff Order
   url: http://aperc.gov.in/admin/upload/English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Andhra Pradesh Electricity Regulatory Commission announced no increases in power tariffs for any category of consumers in Andhra Pradesh for 2019-20, the fifth year in a row it has not raised tariffs.

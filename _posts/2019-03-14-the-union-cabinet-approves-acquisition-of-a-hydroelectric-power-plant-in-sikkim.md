@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://pib.nic.in/newsite/PrintRelease.aspx?relid=189246
-is_analysis: false
+is_newsletter: false
 
 ---
 The Union Cabinet approved the proposal for the National Hydro Power Corporation to invest and acquire the M/s Lanco Teesta Hydro Power Limited and execute the balance work for the Teesta Stage-Vl HE Project.

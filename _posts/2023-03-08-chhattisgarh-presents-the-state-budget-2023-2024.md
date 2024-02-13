@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2023-24
   url: https://finance.cg.gov.in/budget_doc/main_budget.asp?year1=2023
-is_analysis: false
+is_newsletter: false
 
 ---

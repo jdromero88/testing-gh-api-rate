@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press release
   url: https://lg.delhi.gov.in/content/lt-governor-launches-modified-unified-portal-licensing-eating-lodging-and-boarding
-is_analysis: false
+is_newsletter: false
 
 ---

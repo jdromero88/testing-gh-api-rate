@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Punjab issues a notification for constituting industrial advisory
   commissions for 26 sectors aimed at promoting holistic business development in
   the state

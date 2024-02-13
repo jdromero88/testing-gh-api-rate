@@ -17,6 +17,6 @@ sources:
 details:
 - name: Transport Authority's Tweet
   url: https://twitter.com/STAOdisha/status/1510122906210439171?s=20&t=QOO-wFF1e8oYFWdUp-Karw
-is_analysis: false
+is_newsletter: false
 
 ---

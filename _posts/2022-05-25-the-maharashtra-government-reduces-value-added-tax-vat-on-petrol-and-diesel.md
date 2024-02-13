@@ -13,6 +13,6 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/cities/mumbai-news/maharashtra-cuts-vat-on-petrol-and-diesel-prices-after-centre-slashes-excise-101653219987914.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

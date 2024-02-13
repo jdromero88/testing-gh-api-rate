@@ -16,6 +16,6 @@ sources:
 details:
 - name: CM’s Speech (Video)
   url: https://twitter.com/BSBommai/status/1555074923944546305
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: https://cercind.gov.in/regulations/REC-Regulations-2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

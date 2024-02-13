@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: West Bengal Electricity Regulatory Commission (WBERC) issues order
   stating that the Renewable Purchase Obligation (RPO) targets for 2022-23 will
   continue in 2023-24

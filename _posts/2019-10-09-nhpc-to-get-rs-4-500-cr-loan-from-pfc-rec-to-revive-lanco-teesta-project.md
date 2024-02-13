@@ -13,7 +13,7 @@ sources:
 - url: https://www.business-standard.com/article/companies/nhpc-to-get-rs-4-500-cr-loan-from-pfc-rec-to-revive-lanco-teesta-project-119100401353_1.html
   name: Business Standard
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 NHPC is taking a loan of $635.8 million from state-owned lenders, Power Finance Corporation and Rural Electricity Corporation, to revive the Lanco Teesta project in Sikkim. The Union government-owned hydropower major has become the first public sector unit to take over a stressed asset through a resolution process in the National Company Law Tribunal.

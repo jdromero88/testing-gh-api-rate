@@ -15,7 +15,7 @@ sources:
 details:
 - name: 'Press Release '
   url: http://diprpunjab.gov.in/?q=content/cabinet-approves-levy-special-id-fee-petrol-diesel-rs025-litre-and-rs025-hundred-rupees
-is_analysis: false
+is_newsletter: false
 
 ---
 **Punjab** approves levying a special infrastructure development fee on sale of petrol, diesel, and immovable property.

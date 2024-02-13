@@ -14,6 +14,6 @@ sources:
 - name: News18
   url: https://www.news18.com/news/business/petrol-diesel-prices-rajasthan-odisha-kerala-cut-vat-on-fuel-check-latest-rates-5223367.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

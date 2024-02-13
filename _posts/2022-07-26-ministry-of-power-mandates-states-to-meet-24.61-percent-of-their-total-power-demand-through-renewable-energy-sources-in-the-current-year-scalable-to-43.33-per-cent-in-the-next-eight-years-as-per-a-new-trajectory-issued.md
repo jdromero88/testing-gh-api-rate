@@ -17,6 +17,6 @@ sources:
 details:
 - name: Notification
   url: https://powermin.gov.in/sites/default/files/webform/notices/Renewable_Purchase_Obligation_and_Energy_Storage_Obligation_Trajectory_till_2029_30.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

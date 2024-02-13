@@ -17,7 +17,7 @@ sources:
 details:
 - name: Karnataka Solar policy 2014-2021
   url: https://kredlinfo.in/solargrid/Solar Policy 2014-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Karnataka State Solar Policy 2014-21 has been amended for the third time and addresses three important points – the size limitation of private solar parks, the performance guarantee for group captive projects, and the project completion time for captive, group captive and independent power producers for third-party sale.

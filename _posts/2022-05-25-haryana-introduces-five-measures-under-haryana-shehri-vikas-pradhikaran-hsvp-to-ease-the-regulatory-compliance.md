@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/haryana-chief-minister-sh-manohar-lal-today-launched-five-exclusive-services-of-haryana-shehri
-is_analysis: false
+is_newsletter: false
 
 ---

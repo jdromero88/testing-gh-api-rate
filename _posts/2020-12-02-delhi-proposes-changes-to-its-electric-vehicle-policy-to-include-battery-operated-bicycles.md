@@ -17,6 +17,6 @@ sources:
 details:
 - name: Draft Proposal
   url: https://transport.delhi.gov.in/sites/default/files/All-PDF/Proposal%20for%20introducing%20E-cycles%20as%20a%20sagment%20under%20DELHI%20ELECTRIC%20VEHICLE%20POLOCY%202020.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,6 +13,6 @@ sources:
 - name: Krishi Jagran
   url: https://krishijagran.com/agriculture-world/government-of-maharashtra-launches-its-own-agriculture-export-policy/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

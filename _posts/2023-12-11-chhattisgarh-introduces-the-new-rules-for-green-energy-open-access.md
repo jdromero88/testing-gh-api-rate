@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Chhattisgarh introduces the new Rules for Green Energy Open Access
 date: 2023-08-02T16:20:34.504Z
 states:

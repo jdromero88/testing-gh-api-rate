@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tariff Order (Order-77 of 2020)
   url: https://www.merc.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---
 In its Generic Renewable Energy Tariff order for FY 2020-21, the Maharashtra Electricity Regulatory Commission (MERC) has declared that energy tariffs for renewable projects will be determined only through a transparent process of competitive bidding.

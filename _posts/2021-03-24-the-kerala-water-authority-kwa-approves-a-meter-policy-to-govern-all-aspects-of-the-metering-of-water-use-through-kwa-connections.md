@@ -13,6 +13,6 @@ sources:
 - name: The Hindu
   url: https://www.thehindu.com/news/national/kerala/kwa-comes-out-with-meter-policy/article34124685.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

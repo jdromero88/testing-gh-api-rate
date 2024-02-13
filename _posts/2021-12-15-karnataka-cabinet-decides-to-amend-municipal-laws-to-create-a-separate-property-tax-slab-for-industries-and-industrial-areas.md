@@ -13,6 +13,6 @@ sources:
 - url: https://www.deccanherald.com/state/top-karnataka-stories/separate-property-tax-for-industries-in-karnataka-soon-1059214.html
   name: Deccan Herald
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

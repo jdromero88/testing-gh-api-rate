@@ -13,7 +13,7 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/chhattisgarh-to-shut-down-its-first-power-plant-over-viability-issues-119072300957_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Chhattisgarh has decided to close down the Korba East Thermal Power Station due to high production and maintenance costs, as well as environmental hazards.

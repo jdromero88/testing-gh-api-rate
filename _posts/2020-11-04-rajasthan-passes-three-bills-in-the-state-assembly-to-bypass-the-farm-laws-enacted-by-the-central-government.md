@@ -22,6 +22,6 @@ details:
   url: https://rajassembly.nic.in/LegislationGovernmentBills.aspx
 - name: Essential Commodities (Special Provisions and Rajasthan Amendment) Bill 2020
   url: https://rajassembly.nic.in/LegislationGovernmentBills.aspx
-is_analysis: false
+is_newsletter: false
 
 ---

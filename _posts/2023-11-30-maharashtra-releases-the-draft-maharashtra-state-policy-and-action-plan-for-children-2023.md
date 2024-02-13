@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra receives a $500 million loan from the Asian Development Bank (ADB)
 date: 2023-11-29T22:26:55.047Z
 states:

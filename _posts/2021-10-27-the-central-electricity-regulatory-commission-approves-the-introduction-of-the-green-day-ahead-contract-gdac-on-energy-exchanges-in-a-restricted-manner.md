@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://cercind.gov.in/2021/orders/Corri-146-MP-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

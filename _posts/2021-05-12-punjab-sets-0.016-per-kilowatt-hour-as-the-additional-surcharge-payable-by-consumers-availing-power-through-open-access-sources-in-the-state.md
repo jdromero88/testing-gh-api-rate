@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: http://pserc.gov.in/pages/final%20order%20in%20Pt.%20No.%2019%20of%202021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

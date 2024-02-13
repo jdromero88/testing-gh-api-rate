@@ -14,6 +14,6 @@ sources:
 details:
 - name: Ordinance
   url: https://erajyapatra.karnataka.gov.in/WriteReadData/2022/4143.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

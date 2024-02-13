@@ -15,6 +15,6 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/up-govt-rolls-back-decision-to-privatise-power-distribution-companies-120100601627_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Election Commission of India Results
   url: https://results.eci.gov.in/ResultAcGenMar2022/partywiseresult-S19.htm?st=S19
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,7 +15,7 @@ sources:
 details:
 - name: MSERC regulation document
   url: http://mserc.gov.in/regulations/MSERC_Deviation_Settlement_2018.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Meghalaya State Electricity Regulatory Commission has issued new regulations for the forecasting, scheduling, and deviation settlement for solar and wind energy generation in the state. According to the new regulations, MSERC would impose the deviation charges on project developers and procurers for under as well as over injection of power into the grid.  

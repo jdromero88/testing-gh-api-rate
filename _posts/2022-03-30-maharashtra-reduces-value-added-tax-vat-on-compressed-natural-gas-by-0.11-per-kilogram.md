@@ -16,6 +16,6 @@ sources:
 details:
 - name: Finance Minister's Tweet
   url: https://twitter.com/AjitPawarSpeaks/status/1507602567479840769
-is_analysis: false
+is_newsletter: false
 
 ---

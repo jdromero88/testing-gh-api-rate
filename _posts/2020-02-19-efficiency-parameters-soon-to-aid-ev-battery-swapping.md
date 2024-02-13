@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/auto/auto-news/efficiency-parameters-soon-to-aid-ev-battery-swapping/articleshow/74073313.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Government to frame efficiency parameters to aid electric vehicle (EV) battery swapping. A high-level panel has been set up under the Bureau of Energy Efficiency.

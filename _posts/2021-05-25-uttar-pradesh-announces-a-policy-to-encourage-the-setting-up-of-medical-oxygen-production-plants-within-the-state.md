@@ -17,6 +17,6 @@ sources:
 details:
 - name: Uttar Pradesh Oxygen Production Promotion Scheme 2021
   url: http://invest.up.gov.in/wp-content/uploads/2021/05/UP-O2-Policy_v7-english.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

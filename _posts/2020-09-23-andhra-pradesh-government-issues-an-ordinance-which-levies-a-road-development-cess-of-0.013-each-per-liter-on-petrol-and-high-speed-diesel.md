@@ -15,6 +15,6 @@ sources:
 - name: NDTV
   url: https://www.ndtv.com/andhra-pradesh-news/andhra-pradesh-levies-re-1-road-development-cess-on-petrol-diesel-2297758
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

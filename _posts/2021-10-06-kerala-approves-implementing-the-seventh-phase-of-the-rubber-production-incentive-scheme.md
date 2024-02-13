@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order (In Malayalam)
   url: http://ebt.kerala.gov.in/SoftDownloads/GO(P)No%20130-2021-Fin%20Dated%2028-09-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

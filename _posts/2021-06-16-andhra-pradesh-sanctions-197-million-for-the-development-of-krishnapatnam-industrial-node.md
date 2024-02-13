@@ -14,6 +14,6 @@ sources:
 details:
 - name: Tender Documents
   url: https://judicialpreview.ap.gov.in/project-documents?project=ea88e51f4d0d324ae89dcbd2fd49fc7665616662386661626365613432616536363165373066663034643239623030646566623363663938346561323161393636626238363361613535353332306335a4725e
-is_analysis: false
+is_newsletter: false
 
 ---

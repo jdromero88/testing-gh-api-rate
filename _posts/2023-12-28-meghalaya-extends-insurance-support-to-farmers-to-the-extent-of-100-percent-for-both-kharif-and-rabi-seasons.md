@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Meghalaya extends insurance support to farmers to the extent of 100
   percent for both Kharif and Rabi seasons
 date: 2023-06-14T14:53:44.213Z

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1632309
-is_analysis: false
+is_newsletter: false
 
 ---
 The government launches auction of 41 coal mines with total geological coal reserve of 17 billion tons for commercial mining.

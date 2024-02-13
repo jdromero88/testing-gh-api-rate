@@ -18,6 +18,6 @@ sources:
 details:
 - name: State’s Startup Ranking 2021
   url: https://www.startupindia.gov.in/srf/result-2021.html
-is_analysis: false
+is_newsletter: false
 
 ---

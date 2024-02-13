@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://cserc.gov.in/upload/upload_news/13-04-2022_16498460741.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

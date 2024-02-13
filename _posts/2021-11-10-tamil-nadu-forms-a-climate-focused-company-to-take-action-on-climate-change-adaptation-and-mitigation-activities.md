@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://twitter.com/supriyasahuias/status/1456191517211566084?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

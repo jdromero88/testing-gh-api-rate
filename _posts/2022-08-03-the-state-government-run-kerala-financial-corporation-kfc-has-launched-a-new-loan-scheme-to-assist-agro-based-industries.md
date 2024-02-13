@@ -16,6 +16,6 @@ sources:
 details:
 - name: Loan Scheme
   url: https://www.facebook.com/keralafinancialcorporation/photos/a.316481835067996/5228405147208949
-is_analysis: false
+is_newsletter: false
 
 ---

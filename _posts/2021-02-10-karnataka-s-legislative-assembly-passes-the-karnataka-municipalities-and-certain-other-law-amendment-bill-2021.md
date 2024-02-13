@@ -13,6 +13,6 @@ sources:
 - name: The Hindu
   url: https://www.thehindu.com/news/national/karnataka/assembly-clears-two-municipalities-bills/article33754622.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Order
   url: http://www.dsiidc.org/dsidc/14082020order-rl-amnestyscheme.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

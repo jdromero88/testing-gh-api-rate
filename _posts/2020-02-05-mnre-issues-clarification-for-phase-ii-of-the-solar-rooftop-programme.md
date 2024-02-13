@@ -15,7 +15,7 @@ sources:
 details:
 - name: MNRE Notice
   url: https://mnre.gov.in/sites/default/files/webform/notices/Scan.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ministry for New and Renewable Energy (MNRE) issued a clarification regarding the second phase of the solar rooftop program, for which it provides Central Financial Assistance.

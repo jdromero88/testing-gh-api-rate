@@ -14,6 +14,6 @@ sources:
 details:
 - name: Chief Minister Office's Tweet
   url: https://twitter.com/CMOPb/status/1405878033894969360?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

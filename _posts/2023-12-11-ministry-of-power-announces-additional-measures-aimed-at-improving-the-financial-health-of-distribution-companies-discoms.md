@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Power announces additional measures aimed at improving the
   financial health of distribution companies (discoms)
 date: 2023-08-02T16:28:40.319Z

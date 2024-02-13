@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.prnewswire.com/in/news-releases/tata-projects-secures-npcil-order-totalling-around-usd-321-million-843847569.html
-is_analysis: false
+is_newsletter: false
 
 ---
 Tata Projects announced it received an order worth $321 million (Rs 2,182 crore) from the Nuclear Power Corporation of India. This power plant will include two units of 700 MW each and will be the company’s third contract in the nuclear power sector.

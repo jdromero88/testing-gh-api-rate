@@ -16,7 +16,7 @@ sources:
 details:
 - name: Cabinet Decision
   url: http://cm.jharkhand.gov.in/sites/default/files/cabinet_decision_17_06_2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The state cabinet has approved a revision in the Value Added Tax (VAT) on petrol and diesel. The VAT has been raised per liter of diesel and petrol by $0.01 and $0.02, respectively.

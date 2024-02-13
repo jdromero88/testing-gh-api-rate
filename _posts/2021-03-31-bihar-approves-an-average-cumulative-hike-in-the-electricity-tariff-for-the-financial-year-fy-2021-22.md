@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://berc.co.in/orders/tariff/transmission/2328-press-release-of-tariff-order-of-bsptcl-and-sldc-fy-2021-22
-is_analysis: false
+is_newsletter: false
 
 ---

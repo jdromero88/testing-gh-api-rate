@@ -14,6 +14,6 @@ sources:
 - name: Indian Express
   url: https://indianexpress.com/article/cities/ahmedabad/bills-passed-to-amend-gujarat-gst-act-and-indian-partnership-act-7540502/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

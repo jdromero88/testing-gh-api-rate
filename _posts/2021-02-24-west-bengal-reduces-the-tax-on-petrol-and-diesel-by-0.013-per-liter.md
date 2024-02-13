@@ -15,6 +15,6 @@ sources:
 details:
 - name: Finance Minister’s Tweet
   url: https://twitter.com/DrAmitMitra/status/1363490533059031045?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

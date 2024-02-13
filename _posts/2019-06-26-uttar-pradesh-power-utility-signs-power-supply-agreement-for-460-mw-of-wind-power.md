@@ -16,7 +16,7 @@ sources:
 details:
 - name: Twitter Announcement
   url: https://twitter.com/SECI_Ltd/status/1140937111207645187
-is_analysis: false
+is_newsletter: false
 
 ---
 UPPCL has signed a PSA for procuring 460 MW of wind power with SECI.

@@ -14,6 +14,6 @@ sources:
 - name: India Today
   url: https://www.indiatoday.in/india/story/maharashtra-cabinet-approves-single-authority-for-procurement-of-medicines-for-state-run-hospitals-2334870-2023-02-15
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

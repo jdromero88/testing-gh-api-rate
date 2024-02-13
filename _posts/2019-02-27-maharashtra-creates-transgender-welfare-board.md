@@ -13,7 +13,7 @@ sources:
 - name: NDTV
   url: https://www.ndtv.com/india-news/maharashtra-government-sets-up-transgender-welfare-board-1998189
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra government created a Transgender Welfare Board to provide formal education, employment opportunities, conduct health programs, and give legal help to members of the transgender community.

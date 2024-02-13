@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu Department of Industries issues new guidelines for sanctioning
   standard incentives
 date: 2023-07-19T19:20:24.551Z

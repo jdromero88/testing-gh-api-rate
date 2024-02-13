@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1650384
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ministry of Power launches _green term ahead market_ (GTAM) for electricity trade. GTAM is an energy market product which facilitates bilateral transactions of renewable energy while ensuring competitive pricing, and transparent and flexible renewable energy procurement.

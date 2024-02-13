@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha approves the Mukhyamantri Sampoorna Pushti Yojana (MSPY) aimed at
   transforming nutrition outcomes of adolescent girls, pregnant women and
   lactating mothers and severely underweight children of under six years of age

@@ -15,6 +15,6 @@ sources:
 details:
 - name: 'Cabinet Decisions '
   url: https://state.bihar.gov.in/csd/cache/3/26-Dec-21/SHOW_DOCS/CamScanner%2012-21-2021%2015.56.03.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

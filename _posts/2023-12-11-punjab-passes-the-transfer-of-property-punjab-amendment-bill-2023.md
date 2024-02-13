@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Punjab passes the Transfer of Property (Punjab Amendment) Bill, 2023
 date: 2023-12-06T21:45:18.971Z
 states:

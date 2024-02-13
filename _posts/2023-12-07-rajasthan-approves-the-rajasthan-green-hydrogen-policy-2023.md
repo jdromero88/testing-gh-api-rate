@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan approves the Rajasthan Green Hydrogen Policy-2023
 date: 2023-09-28T03:32:41.876Z
 states:

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/newsite/PrintRelease.aspx?relid=196249
-is_analysis: false
+is_newsletter: false
 
 ---
 The government awarded the Oil and Natural Gas Corporation all seven oil and gas blocks offered in the fourth round of the Open Acreage Licensing Policy. Of the seven blocks, five are in Madhya Pradesh and one block each is located in Rajasthan and West Bengal.

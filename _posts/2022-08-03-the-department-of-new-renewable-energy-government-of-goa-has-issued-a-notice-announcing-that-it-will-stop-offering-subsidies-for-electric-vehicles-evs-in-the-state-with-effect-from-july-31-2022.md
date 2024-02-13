@@ -19,6 +19,6 @@ sources:
 details:
 - url: https://www.goa.gov.in/wp-content/uploads/2021/12/Goa-Electric-Mobility-Promotion-Policy-2021.pdf
   name: Goa Electric Mobility Promotion Policy 2021
-is_analysis: false
+is_newsletter: false
 
 ---

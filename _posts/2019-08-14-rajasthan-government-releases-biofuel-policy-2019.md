@@ -14,7 +14,7 @@ sources:
 - name: NDTV
   url: https://auto.ndtv.com/news/rajasthan-government-releases-biofuel-policy-2019-2083496
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Following an order by the central government, the state of Rajasthan became the first state in the country to introduce a 2019 biofuels policy.

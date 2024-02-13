@@ -13,6 +13,6 @@ sources:
 details:
 - name: Tamil Nadu Data Policy 2022
   url: https://cms.tn.gov.in/sites/default/files/go/it_e_16_2022_Ms.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

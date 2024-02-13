@@ -13,7 +13,7 @@ sources:
 - name: NDTV
   url: https://gadgets.ndtv.com/internet/news/delhi-government-electric-vehicles-freight-pilot-online-orders-2060161
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Delhi government announced that it has deployed the first electric vehicles under its freight pilot program to deliver online orders. Over the next year, it plans to deploy up to 1,000 such vehicles.

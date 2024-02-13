@@ -13,7 +13,7 @@ sources:
 - name: Live Mint
   url: https://www.livemint.com/news/india/uttar-pradesh-pay-your-electric-bill-in-installments-11573121393855.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh Power Corporation Ltd has decided to start a new scheme under which consumers can pay dues in installments.

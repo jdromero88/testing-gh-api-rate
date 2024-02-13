@@ -16,7 +16,7 @@ sources:
 details:
 - url: https://www.merc.gov.in/faces/merc/common/outputClient.xhtml
   name: Notification
-is_analysis: false
+is_newsletter: false
 
 ---
 The **Maharashtra** Electricity Regulatory Commission sets $0.039 per kilowatt hour (kWh) as the generic tariff for surplus power procured from rooftop solar projects. The tariff is applicable for the financial year (FY) 2021-22.

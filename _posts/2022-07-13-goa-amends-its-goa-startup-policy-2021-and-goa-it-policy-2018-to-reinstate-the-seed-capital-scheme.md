@@ -17,6 +17,6 @@ details:
   url: https://www.goa.gov.in/wp-content/uploads/2018/07/IT-Policy-2018.pdf
 - name: Startup Policy
   url: https://www.startup.goa.gov.in/Notification/Goa-Startup-Policy-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

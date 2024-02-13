@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra passes the Maharashtra Lokayukta Bill 2022
 date: 2023-12-27T07:21:02.275Z
 states:

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Rental Housing Policy
   url: https://tcpharyana.gov.in/public_notice/Public%20Notice-%20Affordable%20rental%20housing.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

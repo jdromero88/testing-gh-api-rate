@@ -16,6 +16,6 @@ sources:
 details:
 - name: Framework Document
   url: https://mnre.gov.in/img/documents/uploads/file_f-1644909209115.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

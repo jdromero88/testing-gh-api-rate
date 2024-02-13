@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tamil Nadu City Gas Distribution Policy 2023
   url: http://cms.tn.gov.in/sites/default/files/go/ind_e_72_2023.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

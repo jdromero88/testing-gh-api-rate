@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Joint Electricity Regulatory Commission (JERC) approves a 15 percent hike
   in power tariffs for non-metered consumers in Kashmir
 date: 2023-12-13T19:39:04.651Z

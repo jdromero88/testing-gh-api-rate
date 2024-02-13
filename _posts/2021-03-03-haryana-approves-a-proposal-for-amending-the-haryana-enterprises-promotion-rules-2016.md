@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.prharyana.gov.in/en/haryana-chief-minister-sh-manohar-lal-today-approved-a-proposal-for-the-amendment-of-haryana-0
-is_analysis: false
+is_newsletter: false
 
 ---

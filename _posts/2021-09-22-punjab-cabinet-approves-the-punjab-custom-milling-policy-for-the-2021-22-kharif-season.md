@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-cm-announces-free-health-insurance-cover-15-lakh-families-left-out-ayushmansarbat
-is_analysis: false
+is_newsletter: false
 
 ---

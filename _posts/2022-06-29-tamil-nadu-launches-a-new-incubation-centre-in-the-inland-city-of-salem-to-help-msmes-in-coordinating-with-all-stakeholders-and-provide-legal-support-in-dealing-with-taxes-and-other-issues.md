@@ -14,6 +14,6 @@ sources:
 - name: KNN
   url: https://knnindia.co.in/news/newsdetails/state/incubation-centre-for-msmes-opened-in-salem-tamil-nadu
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

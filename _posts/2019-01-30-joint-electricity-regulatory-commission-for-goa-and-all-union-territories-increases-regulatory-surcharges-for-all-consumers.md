@@ -16,7 +16,7 @@ sources:
 details:
 - name: Public Notice
   url: http://jercuts.gov.in/writereaddata/UploadFile/EDPPPCL.docx
-is_analysis: false
+is_newsletter: false
 
 ---
 The joint electricity regulatory commission for Goa and all the Union Territories, including Puducherry, has proposed to increase the regulatory surcharge from 4 percent to 10 percent for all consumer categories, except those falling under the “one house one bulb” program and the agriculture categories for the 2019-20 financial year.

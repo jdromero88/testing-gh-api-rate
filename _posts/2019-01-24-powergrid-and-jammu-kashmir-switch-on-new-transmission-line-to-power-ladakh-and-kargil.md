@@ -14,7 +14,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/jammu/leh-kargil-finally-plug-into-national-power-grid/articleshowprint/67550433.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 PowerGrid and the Jammu and Kashmir power department switched on the Alusteng-Alunday stretch of the 217 mile Srinagar-Kargil-Leh transmission line, powering inhospitable terrain such as the frontier districts of Ladakh and Kargil, which are separated from the Kashmir Valley by the Himalayas.

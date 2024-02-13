@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Gujarat Electricity Regulatory Commission (GERC) approves an additional
   power surcharge of ~$0.0092/ kWh
 date: 2023-04-12T21:19:04.361Z

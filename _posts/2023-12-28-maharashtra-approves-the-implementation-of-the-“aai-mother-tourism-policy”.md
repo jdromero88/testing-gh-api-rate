@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra approves the implementation of the “Aai (mother) Tourism Policy”
 date: 2023-06-07T15:11:38.592Z
 sources:

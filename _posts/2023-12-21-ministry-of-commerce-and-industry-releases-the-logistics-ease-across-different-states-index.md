@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Commerce and Industry releases the Logistics Ease Across
   Different States Index
 date: 2023-12-20T16:17:16.302Z

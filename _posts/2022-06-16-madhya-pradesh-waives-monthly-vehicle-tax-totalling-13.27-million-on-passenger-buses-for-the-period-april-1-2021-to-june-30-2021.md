@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.mpinfo.org/Home/CabinetDetails?newsid=220607S2&fontname=FontEnglish&LocID=32&pubdate=06/07/2022
-is_analysis: false
+is_newsletter: false
 
 ---

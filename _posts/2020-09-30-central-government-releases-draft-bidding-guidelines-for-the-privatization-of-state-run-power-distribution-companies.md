@@ -18,6 +18,6 @@ sources:
 details:
 - name: Draft guidelines
   url: https://powermin.nic.in/sites/default/files/webform/notices/20200922_Draft_SBD_for_privatisation_of_Distribution_Licensees.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

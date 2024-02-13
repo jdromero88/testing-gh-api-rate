@@ -15,6 +15,6 @@ sources:
 details:
 - name: Guidelines
   url: https://powermin.gov.in/sites/default/files/webform/notices/BESS.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

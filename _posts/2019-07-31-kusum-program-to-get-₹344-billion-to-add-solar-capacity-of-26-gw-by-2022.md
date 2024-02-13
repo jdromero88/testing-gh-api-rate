@@ -15,7 +15,7 @@ sources:
 details:
 - name: Guidelines for KUSUM program
   url: https://mnre.gov.in/sites/default/files/webform/notices/KUSUMguidelines.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 As per MNRE’s guidelines, the KUSUM program, which aims to provide support to farmers for the installation of solar power projects, has received $4.99 billion from the central government. The program aims to add solar capacity of 25,750 megawatts (MW) by 2022.

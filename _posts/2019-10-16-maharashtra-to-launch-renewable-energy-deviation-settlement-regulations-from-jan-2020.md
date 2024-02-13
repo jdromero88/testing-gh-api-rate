@@ -15,7 +15,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/maharashtra-renewable-deviation-settlement-regulations/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Electricity Regulatory Commission has directed the Maharashtra State Load Dispatch Center to amend its forecasting and scheduling procedure in line with the rules and principles of the commission within two weeks and submit the amended procedure after considering the stakeholders’ comments for approval within 45 days.

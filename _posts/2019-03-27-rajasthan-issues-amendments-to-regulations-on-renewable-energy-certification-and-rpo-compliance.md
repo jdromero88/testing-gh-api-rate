@@ -17,7 +17,7 @@ details:
 - name: RERC (Renewable Energy Certificate and Renewable Purchase Obligation Compliance
     Framework) (Third Amendment) Regulations, 2019
   url: http://rerc.rajasthan.gov.in/Orders/Order540.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission issued new amendments to its regulations on renewable energy certificate and renewable purchase obligation compliance. The new regulations will come into effect from April 1, 2019.

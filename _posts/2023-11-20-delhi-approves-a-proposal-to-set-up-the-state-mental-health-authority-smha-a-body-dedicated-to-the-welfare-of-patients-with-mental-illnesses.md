@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi approves a proposal to set up the State Mental Health Authority
   (SMHA), a body dedicated to the welfare of patients with mental illnesses
 date: 2023-09-20T20:18:11.964Z

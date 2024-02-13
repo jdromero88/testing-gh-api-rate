@@ -13,6 +13,6 @@ sources:
 - name: Deccan Herald
   url: https://www.deccanherald.com/state/top-karnataka-stories/karnataka-now-citizens-can-survey-land-on-their-own-1103209.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

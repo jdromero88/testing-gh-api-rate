@@ -12,6 +12,6 @@ sources:
 - name: Indian Express
   url: https://indianexpress.com/article/north-east-india/manipur/manipur-cabinet-plastic-tourism-policies-7925699/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

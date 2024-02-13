@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha amends the Odisha Government Rules of Business
 date: 2023-08-16T18:35:49.274Z
 states:

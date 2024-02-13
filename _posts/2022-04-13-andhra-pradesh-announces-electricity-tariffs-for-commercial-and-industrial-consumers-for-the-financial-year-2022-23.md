@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://aperc.gov.in/admin/upload/RSTOFY202223Vol1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

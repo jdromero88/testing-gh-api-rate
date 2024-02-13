@@ -16,7 +16,7 @@ sources:
 details:
 - name: The Lancet
   url: https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(19)30273-1/fulltext
-is_analysis: false
+is_newsletter: false
 
 ---
 A study, published by Lancet Child & Adolescent Health, stated that Rajasthan, Uttar Pradesh, Bihar, and Assam have the highest malnutrition levels in the country, while Kerala and Tamil Nadu have the lowest disease burden.

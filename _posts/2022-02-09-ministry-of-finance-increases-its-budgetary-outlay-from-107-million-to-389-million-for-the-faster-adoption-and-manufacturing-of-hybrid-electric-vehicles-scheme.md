@@ -18,6 +18,6 @@ sources:
 details:
 - name: Union Budget
   url: https://www.indiabudget.gov.in/doc/eb/allsbe.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Original Tender Details
   url: http://seci.co.in/web-data/docs/tenders/RfS_Dondaicha%20Solar%20Park_250MW_final%20upload.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Solar Energy Corporation of India (SECI) successfully auctioned 250 megawatts (MW) of grid-connected solar photovoltaic power projects in Dondaicha Solar Park (Phase – I), located in Dhule district of Maharashtra. Talettutayi Solar (Solar Arise) emerged as the lowest bidder, quoting a tariff rate $0.041 (Rs. 2.87) per kilowatt-hour (kWh) to develop 50 MW of solar power.

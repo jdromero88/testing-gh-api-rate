@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget
   url: https://financedepartment.gujarat.gov.in/Documents/Bud-Eng_1014_2021-3-3_638.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

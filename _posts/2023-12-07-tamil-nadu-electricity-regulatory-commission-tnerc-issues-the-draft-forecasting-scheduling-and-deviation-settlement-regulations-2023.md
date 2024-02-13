@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu Electricity Regulatory Commission (TNERC) issues the Draft
   Forecasting, Scheduling, And Deviation Settlement Regulations 2023
 date: 2023-09-21T03:48:10.117Z

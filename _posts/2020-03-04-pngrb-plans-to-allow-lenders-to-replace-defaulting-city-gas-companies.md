@@ -15,7 +15,7 @@ sources:
 details:
 - name: Draft Proposal
   url: https://www.pngrb.gov.in/OurRegulation/pdf/draft/CGD-Amendment-Regulations-26.02.2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Lenders will have a right to replace a defaulting city gas licensee with a new entity. The proposed amendment by the Petroleum and Natural Gas Regulatory Board will help expedite financial closure.

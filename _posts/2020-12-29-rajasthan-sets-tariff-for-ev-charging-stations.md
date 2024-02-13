@@ -15,7 +15,7 @@ sources:
 details:
 - name: Order
   url: https://rerc.rajasthan.gov.in/rerc-user-files/office-orders
-is_analysis: false
+is_newsletter: false
 
 ---
 **Rajasthan** Electricity Regulatory Commission sets the tariff for electric vehicle charging stations at $0.08 per unit.

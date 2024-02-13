@@ -15,6 +15,6 @@ sources:
 details:
 - name: Minister's Tweet
   url: https://twitter.com/RAshokaBJP/status/1517084776674381824
-is_analysis: false
+is_newsletter: false
 
 ---

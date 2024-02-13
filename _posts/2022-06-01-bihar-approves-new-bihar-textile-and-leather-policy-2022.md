@@ -16,6 +16,6 @@ details:
   url: https://state.bihar.gov.in/cache/10/Smart%20City/Old%20Cabinet%20Decisions/C26052022.pdf
 - name: Bihar Industries Minister's Twitter
   url: https://twitter.com/ShahnawazBJP/status/1529746524418084865
-is_analysis: false
+is_newsletter: false
 
 ---

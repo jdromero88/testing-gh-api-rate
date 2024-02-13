@@ -16,6 +16,6 @@ sources:
 details:
 - name: Minister for Industry and Commerce Tweet
   url: https://twitter.com/KTRTRS/status/1291088586196975617
-is_analysis: false
+is_newsletter: false
 
 ---

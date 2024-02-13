@@ -17,6 +17,6 @@ sources:
 details:
 - name: Notification
   url: https://powermin.gov.in/sites/default/files/webform/notices/Seeking_comments_on_draft_electricity_rights_of_consumers_amendment_rules_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

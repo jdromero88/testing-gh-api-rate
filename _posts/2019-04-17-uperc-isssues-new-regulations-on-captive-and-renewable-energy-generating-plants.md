@@ -15,7 +15,7 @@ sources:
 details:
 - name: Captive and Renewable Energy Generating Plants Regulations, 2019
   url: http://www.uperc.org/App_File/Draft_CRE_Regulations_2019-pdf452019102100AM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh Electricity Regulatory Commission issued new regulations titled “Captive and Renewable Energy Generating Plants Regulations, 2019,” which will be enforced from April 1, 2019, through March 31, 2024.

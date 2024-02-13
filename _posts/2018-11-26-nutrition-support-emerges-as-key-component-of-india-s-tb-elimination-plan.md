@@ -13,7 +13,7 @@ sources:
 - name: The Wire
   url: https://thewire.in/health/nutrition-support-emerges-as-key-component-of-indias-tb-elimination-plan
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 A recent report published by the Union government has explained in detail various state-led initiatives on TB elimination in India.

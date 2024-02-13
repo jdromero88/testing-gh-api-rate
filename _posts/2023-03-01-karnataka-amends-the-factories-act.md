@@ -14,6 +14,6 @@ sources:
 details:
 - name: Factories (Karnataka Amendment) Act, 2023
   url: https://www.kla.kar.nic.in/assembly/bills/bill15150_04.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

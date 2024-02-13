@@ -15,6 +15,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://www.aerc.gov.in/APGCL_Tariff_Order_2021_22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

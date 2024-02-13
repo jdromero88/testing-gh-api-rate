@@ -16,7 +16,7 @@ sources:
 details:
 - name: UPERC Order
   url: http://www.uperc.org/App_File/OrderSuoMotoRPOTarget-pdf5312019103035PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh Electricity Regulatory Commission has ordered its electricity distribution company to respond to its suo moto proceedings about meeting renewable purchase obligation targets as per regulations.

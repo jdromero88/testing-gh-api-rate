@@ -17,6 +17,6 @@ sources:
 details:
 - name: Budget details
   url: https://www.indiabudget.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

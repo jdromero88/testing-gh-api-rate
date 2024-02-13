@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/chennai/centre-sanctions-rs-1950-crore-for-6-new-tamil-nadu-medical-colleges/articleshowprint/71730766.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The center has sanctioned $275.7 million to Tamil Nadu for setting up six new medical colleges under a centrally-sponsored scheme, bringing the total number of government-owned medical colleges in the state to 29.

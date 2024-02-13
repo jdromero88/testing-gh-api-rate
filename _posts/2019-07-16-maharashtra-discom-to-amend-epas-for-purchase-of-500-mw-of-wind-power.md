@@ -16,7 +16,7 @@ sources:
 details:
 - name: Approval Order
   url: https://www.merc.gov.in/faces/merc/common/outputClient.xhtml
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra State Electricity Distribution Company Limited received approval from the Maharashtra Electricity Regulatory Commission for deviations in the standard bidding document for the long-term procurement of 500 MW of wind power.

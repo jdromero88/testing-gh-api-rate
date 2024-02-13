@@ -17,6 +17,6 @@ sources:
 details:
 - name: Notification
   url: https://cercind.gov.in/regulations/175-Notification.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

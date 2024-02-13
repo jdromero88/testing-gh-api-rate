@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi approves the Delhi Motor Vehicle Aggregator and Delivery Service
   Provider Scheme 2023, aiming to improve urban mobility, and enhance green
   energy transition in the state

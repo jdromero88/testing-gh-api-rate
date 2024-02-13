@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: http://www.bhel.com/index.php/linkpdf?pdf=http://www.bhel.com/dynamic_files//press_files/pdf/BHEL%20Commissions%20120%20MW%20Pulichintala%20HEP%20in%20Telangana.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Bharat Heavy Electricals Ltd has fully commissioned the 120 MW Pulichintala Hydro-Electric Project in Suryapet district of Telangana with the fourth and final 30 MW hydroelectric unit coming online. Bharat Heavy Electricals had earlier commissioned three units of the 4x30 MW project.  

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Odisha BPO Policy 2019
   url: https://www.odisha.gov.in/Application/uploadDocuments/document/DOC20190205_185046.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Odisha cabinet approved the ‘Khushi Yojana’ to provide 1.725 million school girls in the state with free sanitary pads, and allocated $65.58 million over 5 years.

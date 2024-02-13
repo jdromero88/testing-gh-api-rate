@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha amends the Odisha Electric Vehicle Policy, 2021
 date: 2023-05-03T19:07:42.348Z
 states:

@@ -16,7 +16,7 @@ details:
 - name: University of Chicago
   url: https://epic.uchicago.edu/sites/default/files/Electricity is not a right growth
     brief.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Power distribution companies in Bihar only collect 30 percent of the cost of supplying electricity in revenue, according to a study conducted by researchers from the London School of Economics & Political Science (LSE), University of Chicago, and Yale University.

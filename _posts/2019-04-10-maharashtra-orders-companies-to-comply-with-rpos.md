@@ -28,7 +28,7 @@ details:
 - name: Cases for verification of compliance of Renewable Purchase Obligations by
     Gigaplex Estate Pvt. Ltd
   url: http://www.mercindia.org.in/pdf/Order%2058%2042/Order-42%20of%202019-02042019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Electricity Regulatory Commission ordered five entities to comply with their solar and non-solar renewable purchase obligation requirement for Financial Year (FY) 2017-18 in FY 2018-19. The entities involved are Gigaplex Estate Pvt. Ltd., Mindspace Business Parks Pvt. Ltd., Indian Railways, Tata Power Co. Ltd. (Distribution), and Brihan Mumbai Electric Supply and Transport Undertaking.

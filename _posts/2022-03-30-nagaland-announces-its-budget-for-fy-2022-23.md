@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget Speech
   url: http://finance.nagaland.gov.in/subpageframe.aspx?val=971
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,7 +14,7 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/oil-and-gas/geecl-plans-to-exploit-shale-worth-2-78-billion-at-its-raniganj-south-block/66636544
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Great Eastern Energy Corporation announced a resource upgrade at its Raniganj (South) block in West Bengal, saying it has found prospective shale resources with a valuation of over $2.78 billion. 

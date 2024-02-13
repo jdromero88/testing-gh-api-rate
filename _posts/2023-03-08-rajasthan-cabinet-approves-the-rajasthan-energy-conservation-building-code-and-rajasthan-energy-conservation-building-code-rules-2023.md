@@ -18,6 +18,6 @@ sources:
 details:
 - name: CMO Press release
   url: https://cmo.rajasthan.gov.in/pressreleasedetail/82886
-is_analysis: false
+is_newsletter: false
 
 ---

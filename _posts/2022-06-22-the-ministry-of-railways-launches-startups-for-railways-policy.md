@@ -17,6 +17,6 @@ details:
   url: https://indianrailways.gov.in/railwayboard/uploads/directorate/eff_res/Policy_Letters/Innovation-Policy-2022.pdf
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1833561
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.mpinfo.org/Home/TodaysNews#State-Level-Empowered-Committee-formed-under-chairmanship-of-Chief-Secretary-20220803N170
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan releases the policy for providing drinking water connections to
   multistorey buildings
 date: 2023-04-19T19:37:35.335Z

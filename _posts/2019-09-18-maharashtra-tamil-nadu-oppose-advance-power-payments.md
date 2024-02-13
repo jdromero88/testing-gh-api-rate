@@ -13,7 +13,7 @@ sources:
 - name: Financial Express
   url: https://www.financialexpress.com/economy/maharashtra-tamil-nadu-oppose-advance-power-payments/1702524/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Discoms of Maharashtra and Tamil Nadu have opposed the central government panel’s recommendation to make advance payments to power producers.

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://www.bhel.com/assets/downloads/5c30499fe3724BHEL_sets_new_benchmark__Commissions_800_MW_supercritical_thermal_plant_in_record_time.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Bharat Heavy Electricals Limited (BHEL) has commissioned an 800 MW thermal power unit for the Kothagudem Thermal Power Station within a record time of 46 months.

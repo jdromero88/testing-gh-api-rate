@@ -15,6 +15,6 @@ sources:
 details:
 - name: Agriculture Pump Policy (In Marathi)
   url: https://www.mahadiscom.in/solar/AG_Policy/202012181511437310.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

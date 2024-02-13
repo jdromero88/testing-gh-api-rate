@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget documents
   url: http://www.finance.kerala.gov.in/bdgtDcs.jsp?dVw
-is_analysis: false
+is_newsletter: false
 
 ---

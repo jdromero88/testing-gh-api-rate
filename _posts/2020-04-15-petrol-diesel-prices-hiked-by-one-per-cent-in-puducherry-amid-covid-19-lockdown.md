@@ -13,7 +13,7 @@ sources:
 - name: New Indian Express
   url: https://www.newindianexpress.com/nation/2020/apr/08/petrol-diesel-prices-hiked-by-one-per-cent-in-puducherry-amid-covid-19-lockdown-2127543.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Puducherry government has increased VAT on petrol and diesel by one percent. **Source:** [New Indian Express](https://www.newindianexpress.com/nation/2020/apr/08/petrol-diesel-prices-hiked-by-one-per-cent-in-puducherry-amid-covid-19-lockdown-2127543.html)

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://hperc.org/File/tarifgen21.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

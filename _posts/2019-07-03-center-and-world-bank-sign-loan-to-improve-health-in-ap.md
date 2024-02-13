@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.worldbank.org/en/news/press-release/2019/06/27/andhra-pradesh-health-services-world-bank-loan
-is_analysis: false
+is_newsletter: false
 
 ---
 The center signed a loan agreement of $328 million with the World Bank for improved health services in Andhra Pradesh.

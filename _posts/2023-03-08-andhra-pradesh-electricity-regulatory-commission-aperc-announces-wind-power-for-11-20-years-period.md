@@ -18,6 +18,6 @@ sources:
 details:
 - name: Tariff order
   url: https://aperc.gov.in/admin/upload/Windtarifforder.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,7 +16,7 @@ sources:
 details:
 - name: RFS document
   url: https://www.apeasternpower.com/ShowProperty/EP_CM_REPO/Whats%20New/rfsandppa
-is_analysis: false
+is_newsletter: false
 
 ---
 The Southern Power Distribution Company of Andhra Pradesh Limited and Eastern Power Distribution Company of Andhra Pradesh Limited issued Request for Selection to procure 600 megawatts (MW) of power from wind-solar hybrid projects with energy storage technologies for a period of 25 years.

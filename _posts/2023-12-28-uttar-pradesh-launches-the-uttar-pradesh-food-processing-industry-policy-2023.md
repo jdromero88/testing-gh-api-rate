@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh launches the Uttar Pradesh Food Processing Industry Policy 2023
 date: 2023-06-07T15:00:45.140Z
 states:

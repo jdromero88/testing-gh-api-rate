@@ -15,7 +15,7 @@ sources:
 details:
 - name: " Order"
   url: http://www.tnerc.gov.in/orders/commn%20order/2020/TEDA-MPNo2of2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The **Tamil Nadu** Electricity Regulatory Commission (TNERC) sets a benchmark tariff of $0.031 per kilowatt hour (kWh) for agricultural solar pumps. TNERC also set a $0.013 per kWh incentive for farmers exporting surplus energy back into the grid.

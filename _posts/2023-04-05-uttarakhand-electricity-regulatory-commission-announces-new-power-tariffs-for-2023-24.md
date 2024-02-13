@@ -18,6 +18,6 @@ sources:
 details:
 - name: Tariff order
   url: https://uerc.gov.in/Tariff_Orders.html#2023-24
-is_analysis: false
+is_newsletter: false
 
 ---

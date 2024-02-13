@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Information Bureau
   url: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1619620
-is_analysis: false
+is_newsletter: false
 
 ---
 The center has announced the launch of a project monitoring unit to facilitate early operationalization of coal blocks.

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Regulation
   url: https://wberc.gov.in/sites/default/files/Draft_OA_Regu_1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

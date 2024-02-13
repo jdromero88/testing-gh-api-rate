@@ -14,6 +14,6 @@ sources:
 details:
 - name: Handbook
   url: http://www.niti.gov.in/sites/default/files/2021-08/HandbookforEVChargingInfrastructureImplementation081221.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,7 +16,7 @@ sources:
 details:
 - name: Draft Tariff Order
   url: http://demo.gercin.org/uploaded/document/a9fbbb2c-47f9-4d34-bb35-bf0d67e131ca.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat Electricity Regulatory Commission has issued a draft order to initiate the regulatory process for determining the tariff for procuring power from biomass and bagasse-based co-generation projects.

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Election Commission of India announces dates of elections for five
   states, namely Chhattisgarh, Madhya Pradesh, Rajasthan, Telangana and Mizoram
 date: 2023-10-11T18:19:11.215Z

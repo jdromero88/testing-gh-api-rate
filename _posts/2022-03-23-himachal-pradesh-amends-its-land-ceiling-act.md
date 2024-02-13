@@ -14,6 +14,6 @@ sources:
 details:
 - name: Assembly Proceedings
   url: https://secure.evidhan.nic.in/SecureFileStructure/Notices/b0ed418b-4f9e-46a4-a2f2-3ab8bc63a701.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

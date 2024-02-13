@@ -15,6 +15,6 @@ sources:
 details:
 - name: Draft Policy
   url: https://cms.tn.gov.in/sites/default/files/documents/TN_Policy_Senior_Citizens_2022_draft_0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

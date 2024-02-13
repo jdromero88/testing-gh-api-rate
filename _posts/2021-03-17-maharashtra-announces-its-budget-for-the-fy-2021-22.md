@@ -17,6 +17,6 @@ details:
   url: https://finance.maharashtra.gov.in/Sitemap/finance/pdf/Part-II%20(Highlight)%20(English)%208%20March%202021.pdf
 - name: Budget Highlights Part 1
   url: https://finance.maharashtra.gov.in/Sitemap/finance/pdf/Part-I%20(Highlight)%20(English)%20%208%20March%202021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

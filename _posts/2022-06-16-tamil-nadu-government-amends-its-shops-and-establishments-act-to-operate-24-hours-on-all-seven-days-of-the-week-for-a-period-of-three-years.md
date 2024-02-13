@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: http://www.stationeryprinting.tn.gov.in/extraordinary/2022/317_Ex_II_2.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

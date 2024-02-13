@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jharkhand launches 80 district-level Schools of Excellence
 date: 2023-05-10T07:02:35.895Z
 states:

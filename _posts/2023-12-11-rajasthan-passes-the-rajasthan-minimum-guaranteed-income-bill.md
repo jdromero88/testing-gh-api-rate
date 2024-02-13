@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan passes the Rajasthan Minimum Guaranteed Income Bill
 date: 2023-07-26T19:15:48.529Z
 states:

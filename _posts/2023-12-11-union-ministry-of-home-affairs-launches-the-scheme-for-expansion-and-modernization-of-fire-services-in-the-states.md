@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Union Ministry of Home Affairs launches the Scheme for Expansion and
   Modernization of Fire Services in the States
 date: 2023-07-12T19:58:28.160Z

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh Electricity Regulatory Commission (UPERC) keeps the power
   tariff for 2023-24 unchanged
 date: 2023-05-31T15:24:01.915Z

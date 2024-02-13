@@ -14,6 +14,6 @@ sources:
 details:
 - name: Foundational Literacy and Numeracy Report
   url: https://eacpm.gov.in/wp-content/uploads/2023/02/FLN-report-For-Web.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

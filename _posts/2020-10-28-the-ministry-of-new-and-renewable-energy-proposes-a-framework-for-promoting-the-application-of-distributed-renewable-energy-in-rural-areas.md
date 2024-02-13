@@ -16,6 +16,6 @@ sources:
 details:
 - name: Policy Framework
   url: https://mnre.gov.in/img/documents/uploads/file_f-1603098738291.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

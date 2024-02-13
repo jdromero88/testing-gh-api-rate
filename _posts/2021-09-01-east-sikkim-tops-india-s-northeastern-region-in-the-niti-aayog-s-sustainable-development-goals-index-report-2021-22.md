@@ -15,6 +15,6 @@ sources:
 details:
 - name: NER District SDG Index Report 2021-22
   url: https://www.niti.gov.in/sites/default/files/2021-08/NER_SDG_Index_NITI_26082021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

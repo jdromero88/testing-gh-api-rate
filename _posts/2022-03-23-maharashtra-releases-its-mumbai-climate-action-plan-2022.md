@@ -14,6 +14,6 @@ sources:
 details:
 - name: Mumbai Climate Action Plan 2022
   url: https://drive.google.com/file/d/1gU3Bnhk3UJ_wCFaMC1ognZBdsdDkQBY1/view
-is_analysis: false
+is_newsletter: false
 
 ---

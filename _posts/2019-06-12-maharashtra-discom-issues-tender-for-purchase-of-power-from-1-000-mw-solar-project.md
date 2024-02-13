@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tender details
   url: https://etender.mahadiscom.in/eatApp/latestTendersProcurement
-is_analysis: false
+is_newsletter: false
 
 ---
 The MSEDCL has issued a request for selection calling for the purchase of power on a long-term basis from 1,000 MW of grid-connected solar projects (phase III).

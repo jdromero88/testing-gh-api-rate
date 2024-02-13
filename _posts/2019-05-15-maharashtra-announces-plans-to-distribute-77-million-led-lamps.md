@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/power/maharashtra-to-distribute-77-million-led-lamps-by-end-2019/69278827
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 As part of its plan with the Energy Efficiency Services Limited to save electricity in the state, the Maharashtra government announced plans to distribute 77 million LED lamps in the state by the end of 2019. The plan is slated to help the state save 27,000 MW by 2020.

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://corpwebstorage.blob.core.windows.net/media/40118/2019-06-24-lt-wins-2x660-mw-power-project-mega-order-in-bihar.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Larsen & Tourbo won a $1 billion order from SJVN Thermal Pvt Ltd to set up an ultra-supercritical power plant in Bihar.

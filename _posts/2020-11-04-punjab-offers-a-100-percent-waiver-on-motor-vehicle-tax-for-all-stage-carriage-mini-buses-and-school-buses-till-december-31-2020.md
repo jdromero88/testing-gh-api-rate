@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-cm-extends-100-tax-waiver-bus-operators-till-dec-31-defers-payment-arrears-march-31
-is_analysis: false
+is_newsletter: false
 
 ---

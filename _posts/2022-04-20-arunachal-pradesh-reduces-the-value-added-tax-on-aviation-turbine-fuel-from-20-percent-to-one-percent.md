@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister's Tweet
   url: https://twitter.com/CNBCTV18Live/status/1513782243294031873?s=20&t=iNm8C_lfUZVhofe0dD9qcQ
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam approves the proposal to increase the reservation quota for Other
   Backward Class (OBC) communities in state Universities and Colleges
 date: 2023-07-19T19:25:00.936Z

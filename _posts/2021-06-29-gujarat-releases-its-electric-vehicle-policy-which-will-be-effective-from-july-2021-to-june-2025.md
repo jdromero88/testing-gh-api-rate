@@ -16,6 +16,6 @@ sources:
 details:
 - name: State EV Policy
   url: https://evreporter.com/wp-content/uploads/2021/06/Gujarat-EV-policy-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

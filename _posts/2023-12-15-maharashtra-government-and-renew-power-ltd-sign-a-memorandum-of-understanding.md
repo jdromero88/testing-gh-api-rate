@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra government and Renew Power Ltd sign a Memorandum of Understanding
 date: 2023-06-28T14:09:19.700Z
 states:

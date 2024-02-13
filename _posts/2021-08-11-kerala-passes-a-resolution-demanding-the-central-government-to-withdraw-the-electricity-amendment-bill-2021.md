@@ -13,6 +13,6 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/power/kerala-assembly-passes-resolution-demanding-centre-to-withdraw-electricity-amendment-bill/85088624
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

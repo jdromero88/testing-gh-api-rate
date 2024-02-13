@@ -17,6 +17,6 @@ sources:
 details:
 - name: Minister’s Tweet
   url: https://twitter.com/KTRTRS/status/1352534711558524929?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

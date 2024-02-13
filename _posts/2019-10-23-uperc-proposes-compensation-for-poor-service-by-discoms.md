@@ -15,7 +15,7 @@ sources:
 details:
 - name: Draft UPERC standards of performance regulations
   url: http://www.uperc.org/App_File/OpenAccessDraft-rar1011201915150PM.rar
-is_analysis: false
+is_newsletter: false
 
 ---
 The UP Electricity Regulatory Commission has proposed new standards of performance for distribution companies, making them liable to pay fines for poor or disrupted service.

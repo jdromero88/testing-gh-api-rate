@@ -15,7 +15,7 @@ sources:
 details:
 - name: Draft amendments in Net Metering Regulations
   url: http://rerc.rajasthan.gov.in/cnpl/PDFs/netamend.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission has issued new regulations for connectivity and net metering of rooftop and small solar grid interactive systems in the state.

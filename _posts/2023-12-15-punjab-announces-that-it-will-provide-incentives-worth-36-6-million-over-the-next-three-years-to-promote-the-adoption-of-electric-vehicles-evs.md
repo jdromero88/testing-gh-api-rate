@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Punjab announces that it will provide incentives worth $36.6 million over
   the next three years, to promote the adoption of electric vehicles (EVs)
 date: 2023-06-28T14:12:16.117Z

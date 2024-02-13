@@ -15,6 +15,6 @@ sources:
 details:
 - name: Draft Plan
   url: http://ncrpb.nic.in/pdf_files/DraftRegionalPlan-2041_English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

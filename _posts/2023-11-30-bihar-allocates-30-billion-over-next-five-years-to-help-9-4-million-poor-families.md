@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana announces free education for girls from families with an annual
   income of $2,160
 date: 2023-11-29T15:17:28.036Z

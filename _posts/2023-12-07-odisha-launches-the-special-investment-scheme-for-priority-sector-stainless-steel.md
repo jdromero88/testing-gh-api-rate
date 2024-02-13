@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Odisha launches the Special Investment Scheme for Priority Sector -
   Stainless Steel "
 date: 2023-09-20T13:54:33.902Z

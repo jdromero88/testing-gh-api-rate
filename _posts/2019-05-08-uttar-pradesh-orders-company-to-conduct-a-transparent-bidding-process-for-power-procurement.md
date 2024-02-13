@@ -14,7 +14,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/uttar-pradesh-bid-cogeneration-projects/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 In its latest ruling, the Uttar Pradesh Electricity Regulatory Commission has instructed the Uttar Pradesh Power Corporation Limited to conduct a transparent competitive bidding process for the procurement of power from co-generators who are producing power from mixed fuel using bagasse (sugar cane fiber) and spent wash.

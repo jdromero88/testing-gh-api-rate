@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.azurepower.com/wp-content/uploads/2019/05/Azure-Power-Commissions-150-MW-SECI-Solar-Power-Project_final.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Azure Power, a leading solar power producer in India, announced that it has commissioned a 150 MW solar power plant in Bhadla solar park in Rajasthan, and that it will supply power to SECI at a tariff of $0.036 (Rs. 2.48) per kWh for 25 years.

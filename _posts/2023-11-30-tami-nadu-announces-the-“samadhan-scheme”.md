@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tami Nadu announces the “Samadhan Scheme”
 date: 2023-10-18T14:52:13.377Z
 states:

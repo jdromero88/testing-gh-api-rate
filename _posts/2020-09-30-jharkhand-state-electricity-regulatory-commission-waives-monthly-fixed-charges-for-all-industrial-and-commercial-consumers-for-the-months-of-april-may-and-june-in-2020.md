@@ -18,6 +18,6 @@ sources:
 details:
 - name: JSERC order
   url: http://jserc.org/pdf/orders/2020_15_suo.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -17,6 +17,6 @@ sources:
 details:
 - name: Order
   url: https://gercin.org/wp-content/uploads/2021/08/Order.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

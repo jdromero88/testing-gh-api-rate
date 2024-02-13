@@ -19,6 +19,6 @@ details:
   url: https://ipr.ap.nic.in/images/press-releases/statue%20inaugaration.pdf
 - name: CM's Twitter
   url: https://twitter.com/AndhraPradeshCM/status/1562373100796346368
-is_analysis: false
+is_newsletter: false
 
 ---

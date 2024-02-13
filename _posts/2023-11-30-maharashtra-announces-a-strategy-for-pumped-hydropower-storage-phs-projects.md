@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra announces a strategy for pumped hydropower storage (PHS) projects
 date: 2023-10-18T14:34:16.308Z
 states:

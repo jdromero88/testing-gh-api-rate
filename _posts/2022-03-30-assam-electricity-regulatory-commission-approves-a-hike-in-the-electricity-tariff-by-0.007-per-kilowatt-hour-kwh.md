@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://www.aerc.nic.in/Orderforutility.htm#recOrd
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://dipr.assam.gov.in/sites/default/files/swf_utility_folder/departments/dipr_webcomindia_org_oid_4/menu/document/assam-arunachal_cms_talk.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

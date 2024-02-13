@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/power/delhi-announces-free-200-units-of-electricity-for-tenants/71292080
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Delhi chief minister Arvind Kejriwal extended the benefit of subsidized power connections to tenants in the national capital to 200 units, or kilowatt-hours, of free electricity. Tenants will be issued a pre-paid meter under the scheme.

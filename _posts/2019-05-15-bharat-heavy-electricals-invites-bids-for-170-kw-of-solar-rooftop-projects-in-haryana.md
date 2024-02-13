@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tender details
   url: http://www.bhel.com/index.php/linkpdf?pdf=http://www.bhel.com//assets/downloads/BHEL_Commissions_two_units_of_Kaleshwaram_Lift_Irrigation_Scheme_in_Telangana.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 State-owned Bharat Heavy Electricals Limited invited bids for the supply, installation, and commissioning of grid-connected solar rooftop projects of a cumulative capacity of 170 kilowatts in Haryana.

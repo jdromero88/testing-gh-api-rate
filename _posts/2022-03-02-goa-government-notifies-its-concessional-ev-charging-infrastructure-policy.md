@@ -14,6 +14,6 @@ sources:
 details:
 - name: Goa EV Concessional Charging Policy
   url: https://www.goa.gov.in/wp-content/uploads/2021/12/Goa-EV-Charging-Infrastructure-Policy.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

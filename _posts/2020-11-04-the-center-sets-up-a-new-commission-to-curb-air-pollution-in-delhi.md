@@ -16,6 +16,6 @@ sources:
 details:
 - name: Ordinance
   url: http://www.egazette.nic.in/WriteReadData/2020/222804.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

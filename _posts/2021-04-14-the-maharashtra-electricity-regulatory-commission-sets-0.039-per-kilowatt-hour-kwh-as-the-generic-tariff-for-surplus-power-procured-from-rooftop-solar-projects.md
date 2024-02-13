@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://www.merc.gov.in/faces/merc/common/outputClient.xhtml
-is_analysis: false
+is_newsletter: false
 
 ---

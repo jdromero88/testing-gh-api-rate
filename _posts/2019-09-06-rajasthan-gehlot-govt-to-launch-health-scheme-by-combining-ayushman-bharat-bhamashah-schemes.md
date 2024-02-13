@@ -14,7 +14,7 @@ sources:
 - name: India Today
   url: https://www.indiatoday.in/india/story/rajasthan-gehlot-govt-launch-health-scheme-ayushman-bharat-bhamashah-1592838-2019-08-29
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ashok Gehlot-led Congress government in Rajasthan has decided to launch a new Health Insurance Scheme in the state by combining the Ayushman Bharat scheme of the Modi dispensation and the Bhamashah scheme brought during former chief minister Vasundhara Raje’s term.

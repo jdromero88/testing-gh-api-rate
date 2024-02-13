@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi releases the Right of Way (ROW) Policy 2023, to expedite the
   deployment of underground infrastructure and over ground telecom
   infrastructure in the state

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget 2021-22
   url: http://finance.rajasthan.gov.in/docs/budget/statebudget/2021-2022/budgetataglance.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

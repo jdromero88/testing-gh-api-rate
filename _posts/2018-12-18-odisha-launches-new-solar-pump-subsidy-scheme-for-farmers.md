@@ -15,7 +15,7 @@ sources:
 details:
 - name: Odisha Solar Pump Web Portal
   url: https://odishasolarpump.nic.in/enghome
-is_analysis: false
+is_newsletter: false
 
 ---
 Odisha chief minister Naveen Patnaik launched the Soura Jalanidhi scheme that aims to increase use of solar energy for helping farmers in irrigating their land. Under the scheme, 5,000 solar pumps will be given to Odisha farmers at a subsidy of 90 percent to irrigate 2,500 acres of land.  

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Gujarat introduces the Gujarat IT/ITeS Policy 2022-27
 date: 2023-12-13T19:41:09.741Z
 states:

@@ -17,6 +17,6 @@ details:
   url: https://eodb.dipp.gov.in/
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1651598
-is_analysis: false
+is_newsletter: false
 
 ---

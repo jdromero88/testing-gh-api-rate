@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft Regulations
   url: https://herc.gov.in/WriteReadData/Pdf/D20210324.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

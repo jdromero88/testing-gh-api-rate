@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan announces opening new sub-health centres in 441 villages in the state
 date: 2023-06-21T14:41:48.846Z
 states:

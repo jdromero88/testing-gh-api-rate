@@ -13,7 +13,7 @@ sources:
 - name: NDTV
   url: https://www.ndtv.com/india-news/jammu-and-kashmir-50-bed-ayush-hospitals-to-be-setup-in-every-district-of-j-k-centre-2168784
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The government will set up 50-bedded hospitals in every district of the newly created union territory at a cost of $1.6 million each, Union Minister Shripad Nayak said.

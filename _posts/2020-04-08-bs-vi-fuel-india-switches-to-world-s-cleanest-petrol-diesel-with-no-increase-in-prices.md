@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1609869
-is_analysis: false
+is_newsletter: false
 
 ---
 India switches to Bharat Stage-VI emission norms. With this implementation, India joins a select group of countries that retail the world’s cleanest petrol and diesel.
