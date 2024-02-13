@@ -1,7 +1,7 @@
 ---
-title: Analysis
-permalink: '/analysis/'
-layout: analysis-landing
+title: Newsletter
+permalink: '/newsletter/'
+layout: newsletter-landing
 extendedBreadcrumbs: true
 excerpt: '.'
 ---
