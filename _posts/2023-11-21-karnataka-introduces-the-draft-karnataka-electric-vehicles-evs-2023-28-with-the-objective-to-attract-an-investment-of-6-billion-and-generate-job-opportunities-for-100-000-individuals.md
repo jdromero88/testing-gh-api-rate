@@ -15,7 +15,6 @@ subsectors:
   - Power & Renewable Energy
   - Renewables
   - Energy-related Transportation
-  - Financing and Payment
 sources:
   - name: Swarajya
     url: https://swarajyamag.com/infrastructure/karnatakas-ev-roadmap-revised-policy-2023-28-aims-for-model-ev-cities-incentives-and-one-lakh-job-opportunities
