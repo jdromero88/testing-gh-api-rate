@@ -9,7 +9,6 @@ sectors:
 - Climate Change and Energy
 subsectors:
 - Energy Efficiency
-- Delivery Systems
 sources:
 - name: Mercom
   url: https://mercomindia.com/telangana-amends-rooftop-solar/
