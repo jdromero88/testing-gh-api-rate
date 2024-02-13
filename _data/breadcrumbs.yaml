@@ -7,9 +7,9 @@ sectors:
 goals:
   title: "National Goals"
   href: "/national-goals/"
-analysis:
-  title: "Analysis"
-  href: "/analysis/"
+newsletter:
+  title: "Newsletter"
+  href: "/newsletter/"
 articles:
   title: "Articles"
   href: "/articles/"
