@@ -14,10 +14,10 @@ display_url: 'https://indianstates.csis.org'
 logo_url: 'https://raw.githubusercontent.com/CSIS-iLab/energy-database/main/public/android-chrome-192x192.png'
 search: false
 collections:
-  - name: 'analysis'
-    label: 'Analyses'
-    label_singular: 'Analysis'
-    folder: '_analysis/'
+  - name: 'newsletter'
+    label: 'Newsletters'
+    label_singular: 'Newsletter'
+    folder: '_newsletter/'
     create: true
     editor:
       preview: false
@@ -26,9 +26,9 @@ collections:
     sortable_fields: []
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'analysis' }
-      - { label: 'Is analysis', name: 'is_analysis', widget: 'hidden', default: true }
-      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'analysis' }
+      - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'newsletter' }
+      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: true }
+      - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'newsletter' }
       # - { label: 'Post Type', name: 'post_type', widget: 'relation', collection: 'post_types',
       #     display_fields: [title],
       #     search_fields: [title],
@@ -84,7 +84,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'articles' }
       - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'articles' }
-      - { label: 'Is analysis', name: 'is_analysis', widget: 'hidden', default: false }
+      - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: false }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false,
