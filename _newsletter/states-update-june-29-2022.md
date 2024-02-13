@@ -1,6 +1,6 @@
 ---
 categories: []
-breadcrumbs: analysis
+breadcrumbs: newsletter
 is_newsletter: true
 content_type: analysis
 title: 'States Update: June 29, 2022'

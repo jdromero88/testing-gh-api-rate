@@ -1,6 +1,6 @@
 ---
 post_type: _post-types/india-states-weekly.md
-breadcrumbs: analysis
+breadcrumbs: newsletter
 is_newsletter: true
 content_type: analysis
 title: 'States Update: October 12, 2022'

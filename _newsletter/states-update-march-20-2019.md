@@ -1,5 +1,5 @@
 ---
-breadcrumbs: analysis
+breadcrumbs: newsletter
 is_newsletter: true
 content_type: analysis
 title: 'States Update: March 20, 2019'

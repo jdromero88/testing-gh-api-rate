@@ -1,6 +1,6 @@
 ---
 title: 'States Update: October 24, 2018'
-breadcrumbs: analysis
+breadcrumbs: newsletter
 is_newsletter: true
 content_type: analysis
 date: 2018-10-24 00:00:00 +0000

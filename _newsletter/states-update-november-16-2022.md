@@ -1,6 +1,6 @@
 ---
 post_type: []
-breadcrumbs: analysis
+breadcrumbs: newsletter
 is_newsletter: true
 content_type: analysis
 title: 'States Update: November 16, 2022'

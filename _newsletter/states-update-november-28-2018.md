@@ -1,6 +1,6 @@
 ---
 title: 'States Update: November 28, 2018'
-breadcrumbs: analysis
+breadcrumbs: newsletter
 is_newsletter: true
 content_type: analysis
 date: 2018-11-28 17:19:07 +0000

@@ -1,6 +1,6 @@
 ---
 title: 'States Update: November 7, 2018 '
-breadcrumbs: analysis
+breadcrumbs: newsletter
 is_newsletter: true
 content_type: analysis
 date: 2018-11-07 16:45

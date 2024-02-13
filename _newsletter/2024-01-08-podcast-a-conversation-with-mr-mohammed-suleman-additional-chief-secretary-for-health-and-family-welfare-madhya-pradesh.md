@@ -1,6 +1,6 @@
 ---
 layout: post
-breadcrumbs: analysis
+breadcrumbs: newsletter
 is_newsletter: true
 content_type: analysis
 title: "Podcast: A Conversation with Mr. Mohammed Suleman, Additional Chief

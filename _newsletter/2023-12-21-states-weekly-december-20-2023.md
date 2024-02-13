@@ -1,6 +1,6 @@
 ---
 layout: post
-breadcrumbs: analysis
+breadcrumbs: newsletter
 is_newsletter: true
 content_type: analysis
 title: "States Weekly: December 20, 2023"
