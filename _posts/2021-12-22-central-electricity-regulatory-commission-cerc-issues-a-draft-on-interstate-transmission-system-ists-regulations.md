@@ -9,7 +9,6 @@ states:
 sectors:
 - Climate Change and Energy
 subsectors:
-- Delivery Systems
 sources:
 - name: Mercom
   url: https://mercomindia.com/open-access-renewable-energy-generators/
