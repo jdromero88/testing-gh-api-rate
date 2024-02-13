@@ -8,7 +8,6 @@ states:
 sectors:
 - Climate Change and Energy
 subsectors:
-- " Financing and Payment "
 - Renewables
 sources:
 - name: Mercom

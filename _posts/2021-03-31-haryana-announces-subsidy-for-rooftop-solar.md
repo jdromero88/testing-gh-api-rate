@@ -9,7 +9,6 @@ sectors:
 - Climate Change and Energy
 subsectors:
 - Renewables
-- " Financing and Payment "
 sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/renewable/haryana-announces-subsidy-on-rooftop-solar-power-plants/81698922

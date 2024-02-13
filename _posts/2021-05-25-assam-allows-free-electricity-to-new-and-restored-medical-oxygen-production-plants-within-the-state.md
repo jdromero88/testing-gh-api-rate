@@ -10,7 +10,7 @@ sectors:
 - Climate Change and Energy
 - Health
 subsectors:
-- " Healthcare Workforce"
+- Healthcare Workforce
 - Power and Renewable Energy
 sources:
 - name: Times of India

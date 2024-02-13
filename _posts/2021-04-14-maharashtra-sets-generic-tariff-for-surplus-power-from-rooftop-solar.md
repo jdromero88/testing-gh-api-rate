@@ -9,7 +9,6 @@ sectors:
 - Climate Change and Energy
 subsectors:
 - Renewables
-- " Financing and Payment "
 sources:
 - url: https://mercomindia.com/maharashtra-generic-tariff-rooftop-solar-projects/
   name: Mercom

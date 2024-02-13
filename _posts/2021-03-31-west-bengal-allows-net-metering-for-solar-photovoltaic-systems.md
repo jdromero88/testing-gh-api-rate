@@ -9,7 +9,6 @@ sectors:
 - Climate Change and Energy
 subsectors:
 - Renewables
-- " Financing and Payment "
 sources:
 - name: Mercom
   url: https://mercomindia.com/west-bengal-allows-net-metering-for-rooftop/
