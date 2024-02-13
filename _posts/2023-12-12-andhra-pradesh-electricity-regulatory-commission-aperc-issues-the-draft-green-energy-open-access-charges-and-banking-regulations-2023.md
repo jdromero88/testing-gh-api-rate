@@ -12,7 +12,6 @@ sectors:
   - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
-  - Financing and Payment
   - Renewables
 sources:
   - name: Mercom
