@@ -13,7 +13,6 @@ subsectors:
   - Power & Renewable Energy
   - Power
   - Renewables
-  - Financing and Payment
 sources:
   - name: Economic Times
     url: https://energy.economictimes.indiatimes.com/news/renewable/maha-govt-renew-power-sign-mou-for-rs-20k-cr-project-in-nagpur/101229984
