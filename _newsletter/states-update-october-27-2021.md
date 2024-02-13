@@ -8,7 +8,7 @@ tags:
 - 'States weekly '
 - NITI
 - Electric mobility
-- Climate change
+- Climate change and Energy
 - Electricity
 - States Weekly
 excerpt: 'Big News: NITI Aayog develops a geographic information system-based energy

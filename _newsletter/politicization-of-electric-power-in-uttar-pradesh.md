@@ -8,7 +8,7 @@ author:
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 feature_image: "/uploads/newsletter/politicization-electric-power-uttar-pradesh.jpg"

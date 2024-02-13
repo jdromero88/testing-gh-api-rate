@@ -9,7 +9,7 @@ author:
 - Sarah Watson
 states:
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 feature_image: "/uploads/newsletter/breakthrough-index-solar-policy-ranking.jpg"

@@ -7,7 +7,7 @@ author:
 - Richard M. Rossow
 states:
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 feature_image: "/uploads/newsletter/a-lot-rides-on-uday.jpg"

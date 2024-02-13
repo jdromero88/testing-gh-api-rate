@@ -5,7 +5,7 @@ date: 2017-02-10 00:00:00 Z
 tags:
 - Solar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 feature_image: "/uploads/newsletter/payment-security-mechanism-solar-power-india.jpg"

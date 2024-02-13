@@ -8,7 +8,7 @@ author:
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 feature_image: "/uploads/newsletter/government-capture-electric-power-punjab.jpg"

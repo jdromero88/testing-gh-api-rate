@@ -9,7 +9,7 @@ author:
 - Sharmila Bellur
 - Sarah Ladislaw
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 feature_image: "/uploads/newsletter/payment-security-mechanism-solar-power-india.jpg"

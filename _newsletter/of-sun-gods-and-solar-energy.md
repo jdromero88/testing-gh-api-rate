@@ -11,7 +11,7 @@ states:
 - Karnataka
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 feature_image: "/uploads/newsletter/of-sun-gods-and-solar-energy.jpg"
