@@ -9,6 +9,8 @@ main:
     class: "ss-nav"
     dropdown: true
     dropdownContent: sectors-list.html
+  - title: "Articles"
+    href: "/articles/"
   - title: "Newsletter"
     href: "/newsletter/"
   - title: "Resources"
