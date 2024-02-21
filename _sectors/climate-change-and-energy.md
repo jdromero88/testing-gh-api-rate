@@ -3,4 +3,4 @@ title: Climate Change and Energy
 feature_image: /uploads/sectors/energy-suzlon-wind-turbine.jpg
 ---
 
-India faces a complex energy challenge: it needs cheap and abundant energy to power high economic growth and lift its citizens into the middle class. But it also hopes to keep its commitments to the U.N. Climate Change Convention and achieve energy independence. India’s states have the resources to generate the energy India needs, but they take different approaches to fostering the growth of the industry. This section allows you to explore energy news from India’s states and offers the Wadhwani Chair’s analysis of India’s energy sector.
+India faces a complex trilemma: it needs cheap energy for economic growth, it hopes to keep its climate change commitments, and achieve energy independence. The onus of tackling the complex energy challenge lies on Indian states. This section covers energy and climate change related updates from the Indian state governments.

@@ -2,8 +2,8 @@
 content_type: sector
 breadcrumbs: sectors
 title: Finance
-feature_image: /uploads/sectors/energy-suzlon-wind-turbine.jpg
+feature_image: /uploads/sectors/finance-india-election-stocks.jpg
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non laoreet mi. Vestibulum tempor ante ac justo dictum, non sollicitudin dolor gravida. Cras sed odio odio. Vivamus augue tortor, ultrices vel mattis vel, tincidunt et nibh. Nam quis leo neque. Sed lacus sapien, ultricies quis mi sit amet, luctus iaculis lectus. Vivamus vitae imperdiet tortor, sed scelerisque ante.
+While over 30 percent of states’ budgets are funded by union government transfers, Indian states have a great deal of independence when plotting their fiscal pathways. States build their own budgets and determine priority areas for spending—which can have a meaningful impact on the state’s development trajectory.  This section covers finance related updates from Indian state governments. 
