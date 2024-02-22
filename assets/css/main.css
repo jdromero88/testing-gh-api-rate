@@ -3138,6 +3138,9 @@ footer.site-footer.home-footer .footer-mainContainer .content-wrapper-homepage {
   position: relative;
   transition: text-underline-offset 400ms, text-decoration-color 400ms;
 }
+.card:active {
+  color: #fff;
+}
 .card:hover {
   color: #fff;
 }
@@ -3160,6 +3163,12 @@ footer.site-footer.home-footer .footer-mainContainer .content-wrapper-homepage {
   transition: text-decoration-color 300ms, text-underline-offset 300ms;
 }
 .card > .sector-card-label:hover {
+  line-height: 1.5;
+  color: #fff;
+  text-decoration-color: #fff;
+  text-underline-offset: 8px;
+}
+.card > .sector-card-label:active {
   line-height: 1.5;
   color: #fff;
   text-decoration-color: #fff;
@@ -3206,7 +3215,7 @@ footer.site-footer.home-footer .footer-mainContainer .content-wrapper-homepage {
 #finance-card {
   background-size: cover;
   background-position: center;
-  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1708623406/indian-states/finance-india-election-stocks.jpg");
 }
 
 #health-card {
@@ -3218,25 +3227,25 @@ footer.site-footer.home-footer .footer-mainContainer .content-wrapper-homepage {
 #business-card {
   background-size: cover;
   background-position: center;
-  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1708623446/indian-states/industrial-twin-towers.jpg");
 }
 
 #infrastructure-card {
   background-size: cover;
   background-position: center;
-  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1708623470/indian-states/infrastructure-construction.jpg");
 }
 
 #labor-card {
   background-size: cover;
   background-position: center;
-  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1708623510/indian-states/land-labor-workers.jpg");
 }
 
 #water-card {
   background-size: cover;
   background-position: center;
-  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg");
+  background-image: url("https://res.cloudinary.com/csisideaslab/image/upload/v1708623540/indian-states/water-sanitation.jpg");
 }
 
 /*=====================================
