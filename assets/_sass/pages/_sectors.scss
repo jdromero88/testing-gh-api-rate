@@ -88,8 +88,8 @@
   }
 
   .card:nth-child(7) {
-    grid-column-start: 2; /* Starts at the second column line */
-    grid-column-end: 3; /* Ends at the third column line */
+    grid-column-start: 1; /* Starts at the second column line */
+    grid-column-end: 2; /* Ends at the third column line */
   }
 }
 
@@ -130,6 +130,12 @@
 }
 
 #water-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1708623540/indian-states/water-sanitation.jpg');
+}
+
+#center-state-card {
   background-size: cover;
   background-position: center;
   background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1708623540/indian-states/water-sanitation.jpg');
