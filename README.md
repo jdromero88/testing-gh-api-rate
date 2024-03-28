@@ -3,6 +3,9 @@ The Wadhwani Chair in U.S. India Policy Studies has commissioned a new website t
 
 Users will be able to access data via two avenues of focus: by State or by sector/subsector. In addition to being a compact source of comparative data, the site offers users access to a curated collection of new articles and reports that support and extend their understanding of the State/sector relationship.
 
+# Important
+Make sure to branch out of `dev`  for any changes you want to make. Thank you!
+
 ## Setup
 This website use node v `20.5.0` and ruby v `3.2.2`
 1. Clone the repo with `git clone git@github.com:CSIS-iLab/india-states-v2.git` and go to the directory `cd india-states-v2`
