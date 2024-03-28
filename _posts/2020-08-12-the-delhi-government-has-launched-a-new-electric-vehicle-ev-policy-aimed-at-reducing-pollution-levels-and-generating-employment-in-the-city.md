@@ -7,7 +7,7 @@ date: 2020-08-12 04:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors:
 - Energy-related Transportation
@@ -18,6 +18,6 @@ sources:
 details:
 - name: Electric Vehicle Policy 2020
   url: https://transport.delhi.gov.in/sites/default/files/All-PDF/Delhi_Electric_Vehicles_Policy_2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -6,7 +6,7 @@ date: 2021-01-05 05:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Solar Power Policy 2021
   url: https://guj-epd.gujarat.gov.in/uploads/Solar_Power_Policy_2021_B1.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

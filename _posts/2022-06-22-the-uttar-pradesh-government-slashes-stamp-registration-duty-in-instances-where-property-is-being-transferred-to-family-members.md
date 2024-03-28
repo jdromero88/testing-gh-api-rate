@@ -15,6 +15,6 @@ sources:
 details:
 - name: Minister's Twitter
   url: https://twitter.com/RavindraMoS_IC/status/1537109597726441472?s=20&t=GfggvDvxeqjzlFeoN0wHYA
-is_analysis: false
+is_newsletter: false
 
 ---

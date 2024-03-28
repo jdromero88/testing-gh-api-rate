@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala Financial Corporation (KFC) launches the Kerala MSME Bill
   Discounting Platform aiming to ensure liquidity to MSMEs by discounting their
   outstanding bills

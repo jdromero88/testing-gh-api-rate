@@ -6,7 +6,7 @@ date: 2019-06-26 04:00:00 +0000
 states:
 - Kerala
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Order Details
   url: http://erckerala.org/orders/Orde-%20GJ%20Eco%20power-%20Approval%20of%20PPA%2028.5.2019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Providing impetus to the government’s ambitious project to establish Waste-to-Energy plants across the state, KSEB signed a PPA with Kochi-based GJ Eco Power Pvt. Ltd., the agency implementing the project at the Brahmapuram solid waste treatment plant.

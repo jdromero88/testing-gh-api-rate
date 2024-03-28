@@ -6,7 +6,7 @@ date: 2021-05-12 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Draft Policy
   url: https://cdnbbsr.s3waas.gov.in/s3f80ff32e08a25270b5f252ce39522f72/uploads/2021/04/2021042434.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

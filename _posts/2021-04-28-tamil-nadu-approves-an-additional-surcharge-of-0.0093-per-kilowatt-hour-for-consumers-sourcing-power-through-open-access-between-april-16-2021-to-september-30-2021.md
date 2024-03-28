@@ -8,7 +8,7 @@ date: 2021-04-28 04:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Case Order
   url: http://www.tnerc.gov.in/orders/commn%20order/2021/TANGEDCO-MP18of2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

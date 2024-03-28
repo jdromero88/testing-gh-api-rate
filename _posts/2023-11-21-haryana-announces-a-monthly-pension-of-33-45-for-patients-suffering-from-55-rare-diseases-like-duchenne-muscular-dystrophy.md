@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana announces a monthly pension of $33.45 for patients suffering from
   55 rare diseases like Duchenne Muscular Dystrophy
 date: 2023-05-17T14:59:57.143Z
 states:
   - Haryana
 sectors:
-  - Climate Change
+  - Health
 subsectors:
   - Social Determinants of Health
   - Financing and Payment

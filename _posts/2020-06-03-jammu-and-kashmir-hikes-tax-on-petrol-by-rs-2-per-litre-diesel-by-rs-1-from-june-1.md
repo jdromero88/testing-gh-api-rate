@@ -7,7 +7,7 @@ date: 2020-06-03 04:00:00 +0000
 states:
 - Jammu and Kashmir
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 - Oil and Gas
@@ -19,7 +19,7 @@ sources:
 details:
 - name: ''
   url: ''
-is_analysis: false
+is_newsletter: false
 
 ---
 The Jammu & Kashmir government increased the tax on petrol and diesel by $0.02 per liter and $0.01 per liter, respectively.

@@ -8,7 +8,7 @@ date: 2022-08-10 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - url: https://www.herc.gov.in/WriteReadData/Orders/O20220718a.pdf
   name: Final Order
-is_analysis: false
+is_newsletter: false
 
 ---

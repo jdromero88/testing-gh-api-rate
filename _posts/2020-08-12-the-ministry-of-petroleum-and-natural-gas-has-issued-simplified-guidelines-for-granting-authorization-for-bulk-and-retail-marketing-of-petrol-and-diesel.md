@@ -8,7 +8,7 @@ states:
 - Center-State Relations
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -19,6 +19,6 @@ details:
   url: http://petroleum.nic.in/sites/default/files/Control%20Order.pdf
 - name: Press Release
   url: https://pib.nic.in/PressReleasePage.aspx?PRID=1643283
-is_analysis: false
+is_newsletter: false
 
 ---

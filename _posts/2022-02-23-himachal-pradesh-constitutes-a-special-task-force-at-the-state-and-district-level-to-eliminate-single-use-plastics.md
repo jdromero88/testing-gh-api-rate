@@ -7,12 +7,12 @@ date: 2022-02-23 05:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/shimla/hp-forms-stf-against-single-use-plastics/articleshow/89627669.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

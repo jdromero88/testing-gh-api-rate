@@ -6,7 +6,7 @@ date: 2018-10-11 14:33:08 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Notice Details
   url: http://www.gseb.com/guvnl/CMSContentDetail.aspx?cmsID=601
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat Urja Vikas Nigam Limited has released a tender for 700 megawatts (MW) of grid-connected solar photovoltaic power projects to be established under Phase III of Raghanesda Solar Park located in the state. 

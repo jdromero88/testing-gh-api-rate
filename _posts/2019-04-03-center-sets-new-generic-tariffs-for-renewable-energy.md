@@ -6,7 +6,7 @@ date: 2019-04-03 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Terms and Conditions for Tariff determination from Renewable Energy Sources
   url: http://cercind.gov.in/2019/orders/Draft%20RE%20Tariff%20Order%20for%20FY%202019-20.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Central Electricity Regulatory Commission set new generic tariffs for the purchase of electricity from various renewable energy generation sources for the financial year (FY) 2019-20.

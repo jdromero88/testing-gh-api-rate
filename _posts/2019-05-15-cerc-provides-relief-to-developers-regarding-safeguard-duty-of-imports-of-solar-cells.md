@@ -7,7 +7,7 @@ date: 2019-05-15 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: CERC Order
   url: http://www.cercind.gov.in/2019/orders/342&343-MP-2018.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 In a landmark judgment, power sector regulator CERC held that the imposition of safeguard duty on imports of solar cells and modules amounts to a “change in law” event for the developers who must be compensated for the increased expenditure.

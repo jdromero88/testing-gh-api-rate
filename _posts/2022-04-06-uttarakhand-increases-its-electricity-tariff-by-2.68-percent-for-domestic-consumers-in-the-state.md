@@ -7,7 +7,7 @@ date: 2022-04-06 07:00:00 +0000
 states:
 - Uttarakhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://uerc.gov.in/Tariff%20Orders%20for%20FY%202022-23/press%20relase%202022-33/UPCL/2%20Press_Note-UPCL__31-03-2022%20English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

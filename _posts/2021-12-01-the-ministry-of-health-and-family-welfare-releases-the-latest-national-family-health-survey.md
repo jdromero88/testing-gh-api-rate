@@ -17,6 +17,6 @@ details:
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1774533
 - name: National Family Health Survey 2019-21
   url: http://rchiips.org/nfhs/factsheet_NFHS-5.shtml
-is_analysis: false
+is_newsletter: false
 
 ---

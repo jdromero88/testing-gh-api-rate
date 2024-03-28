@@ -14,6 +14,6 @@ sources:
 details:
 - name: Goa Budget
   url: http://goabudget.gov.in/assets/documents/2022-23/BAG/budget_glance.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh Sukhasharya (Care, Protection and Self- Reliance of
   Children of State) Bill 2023
 date: 2023-04-12T21:21:55.977Z

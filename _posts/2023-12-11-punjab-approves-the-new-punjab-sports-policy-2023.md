@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Punjab approves the new Punjab Sports Policy, 2023
 date: 2023-08-02T16:31:30.983Z
 states:

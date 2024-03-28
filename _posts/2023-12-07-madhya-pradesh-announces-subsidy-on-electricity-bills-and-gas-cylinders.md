@@ -2,17 +2,16 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh announces subsidy on electricity bills and gas cylinders
 date: 2023-09-13T15:25:28.184Z
 states:
   - Madhya Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Oil and Gas
   - Power
-  - Financing and Payment
 sources:
   - name: India TV News
     url: https://www.indiatvnews.com/madhya-pradesh/ahead-of-elections-shivraj-singh-chouhan-announces-subsidy-in-electricity-gas-cylinders-2023-08-31-889962

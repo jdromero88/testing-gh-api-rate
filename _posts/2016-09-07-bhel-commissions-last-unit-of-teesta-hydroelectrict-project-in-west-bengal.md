@@ -9,7 +9,7 @@ states:
 - West Bengal
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

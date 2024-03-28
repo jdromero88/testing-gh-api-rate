@@ -19,6 +19,6 @@ details:
   url: https://www.indianemployees.com/cabinet-decision/details/cabinet-decisions-chhattisgarh-cg-14-07-2022
 - url: https://dprcg.gov.in/post/1657760542/Raipur_:_Cabinet_Meeting_
   name: Cabinet Decisions
-is_analysis: false
+is_newsletter: false
 
 ---

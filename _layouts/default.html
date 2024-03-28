@@ -28,6 +28,60 @@
           }
         });
       }
+
+      console.log('need to send this to the table')
+      document.addEventListener("DOMContentLoaded", function () {
+        var iframe = document.getElementById('newtable'); // Replace with your iframe's ID
+        var url = window.location.href; // Current URL of the Jekyll website
+
+        // Check if iframe is loaded
+        iframe.onload = function () {
+          // iframe.contentWindow.postMessage(url, 'http://localhost:8080'); // Sends the URL to the iframe
+          iframe.contentWindow.postMessage(url, 'https://indian-states-table.netlify.app/'); // Sends the URL to the iframe
+        };
+      });
+
+      document.addEventListener("DOMContentLoaded", function() {
+          if(window.location.hash === '#print') {
+            window.print();
+          }
+
+
+        document
+        .getElementById("share-link")
+        .addEventListener("click", function () {
+          console.log("CLICK")
+          // Your share audio functionality, e.g., using the Web Share API
+          if (navigator.share) {
+            navigator
+              .share({
+                title: "{{page.title | default: site.title | escape}}",
+                url: window.location.href,
+              })
+              .then(() => {
+                console.log("Thanks for sharing!");
+              })
+              .catch(console.error);
+          } else {
+            // Fallback sharing method, e.g., copying the URL to the clipboard
+            if (navigator.clipboard) {
+              navigator.clipboard
+                .writeText(window.location.href)
+                .then(function () {
+                  alert("URL copied to clipboard!");
+                })
+                .catch(function (err) {
+                  console.error("Unable to copy URL to clipboard: ", err);
+                });
+            } else {
+              // Clipboard API not supported, you can use an alternative method here
+              console.log(
+                "Clipboard API not supported. Implement another sharing method."
+              );
+            }
+          }
+      });
+    });
     </script>
   </body>
 

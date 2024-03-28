@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tamil Nadu Health System Reform Programme
   url: https://tnhsp.org/tnhsrp/
-is_analysis: false
+is_newsletter: false
 
 ---
 Tamil Nadu launched the Tamil Nadu Health System Reform Programme with $287 million in funding support from the World Bank. The program aims to improve quality of care, management of non-communicable diseases, and reduce equity gaps in child health.

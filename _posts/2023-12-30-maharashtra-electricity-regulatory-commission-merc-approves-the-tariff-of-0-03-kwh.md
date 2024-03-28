@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra Electricity Regulatory Commission (MERC) approves the tariff
   of $0.03/kWh
 date: 2023-05-24T06:41:00.511Z
 states:
   - Maharashtra
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

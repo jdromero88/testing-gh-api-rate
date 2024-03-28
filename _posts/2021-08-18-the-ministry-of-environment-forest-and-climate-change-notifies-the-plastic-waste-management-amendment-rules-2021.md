@@ -7,7 +7,7 @@ date: 2021-08-18 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Mint
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/aug/doc202181311.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ date: 2020-12-02 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://www.pngrb.gov.in/OurRegulation/PNGRB%20Regulations/B.%20Natural%20Gas%20Pipeline/B.4.%20NGPL%20Tariff%20Regulations/NGPL%20Tariff-Post%20Amendment-27.03.2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

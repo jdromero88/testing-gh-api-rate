@@ -18,6 +18,6 @@ details:
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1843560
 - name: Scheme Guidelines
   url: https://pharmaceuticals.gov.in/sites/default/files/Approved%20Guidelines%20of%20scheme%20Strengthening%20of%20Pharmaceutical%20Industries%20%28SPI%29%2011032022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

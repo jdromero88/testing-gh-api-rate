@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: http://ceojammukashmir.nic.in/pdf/DDC_delimi/kishtwar.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

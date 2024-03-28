@@ -6,7 +6,7 @@ date: 2019-03-14 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release (in Marathi)
   url: https://www.maharashtra.gov.in/Site/upload/CabinetDecision/Marathi/08-03-2019%20Cabinet%20Decision%20(Meeting%20No.216).pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra cabinet granted in-principle approval for the establishment of two more 660 MW coal-based supercritical plants at the Koradi Thermal Power Station.

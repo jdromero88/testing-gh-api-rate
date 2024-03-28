@@ -7,7 +7,7 @@ date: 2019-07-03 04:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: HPERC Order
   url: http://hperc.org/File1/pressnote19-20.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Himachal Pradesh Electricity Regulatory Commission revised power tariffs for all domestic consumers, except below poverty line consumers. The commission increased power tariffs for these consumers by $0.007, and also increased fixed charges for all consumers not covered under demand-based fixed charges by $0.14 per month.

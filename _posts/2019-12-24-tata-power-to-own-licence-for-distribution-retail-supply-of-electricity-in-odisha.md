@@ -7,14 +7,14 @@ date: 2019-12-24 05:00:00 +0000
 states:
 - Odisha
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
 - name: Live Mint
   url: https://www.livemint.com/companies/news/tata-power-to-own-licence-for-distribution-retail-supply-of-electricity-in-odisha-11577084270891.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Tata Power claimed to have emerged as the successful bidder to own the licence for distribution and retail supply of electricity in Odisha’s five circles.

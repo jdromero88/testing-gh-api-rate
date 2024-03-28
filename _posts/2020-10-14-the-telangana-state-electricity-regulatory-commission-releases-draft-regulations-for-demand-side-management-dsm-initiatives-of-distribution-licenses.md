@@ -7,7 +7,7 @@ date: 2020-10-14 04:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft Regulation
   url: http://www.tserc.gov.in/file_upload/uploads/Regulations/Draft/2020/Draft%20TSERC%20(DSM)%20Regulations%202020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

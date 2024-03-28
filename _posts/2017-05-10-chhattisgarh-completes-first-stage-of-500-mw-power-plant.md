@@ -8,7 +8,7 @@ tags:
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

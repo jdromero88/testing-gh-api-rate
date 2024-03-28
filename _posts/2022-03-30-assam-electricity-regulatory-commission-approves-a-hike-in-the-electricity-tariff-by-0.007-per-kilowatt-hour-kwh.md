@@ -7,7 +7,7 @@ date: 2022-03-30 07:00:00 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://www.aerc.nic.in/Orderforutility.htm#recOrd
-is_analysis: false
+is_newsletter: false
 
 ---

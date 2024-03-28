@@ -4,7 +4,7 @@ date: 2018-01-10 17:40:00 Z
 states:
 - Meghalaya
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

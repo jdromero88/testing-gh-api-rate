@@ -6,8 +6,7 @@ date: 2022-02-23 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -18,6 +17,6 @@ details:
   url: https://powermin.gov.in/sites/default/files/webform/notices/Green_Hydrogen_Policy.pdf
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1799067
-is_analysis: false
+is_newsletter: false
 
 ---

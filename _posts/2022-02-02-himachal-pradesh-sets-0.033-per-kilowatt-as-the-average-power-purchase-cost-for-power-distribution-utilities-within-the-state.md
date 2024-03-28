@@ -7,7 +7,7 @@ date: 2022-02-02 05:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: http://hperc.org/File/appc21-22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -6,13 +6,13 @@ date: 2021-08-11 04:00:00 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/oil-and-gas/assam-government-approves-ethanol-production-promotion-policy/85088848
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

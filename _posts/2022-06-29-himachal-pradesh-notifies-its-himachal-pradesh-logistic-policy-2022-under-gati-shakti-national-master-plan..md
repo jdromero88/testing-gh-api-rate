@@ -15,6 +15,6 @@ sources:
 details:
 - name: Policy
   url: https://emerginghimachal.hp.gov.in/themes/backend/uploads/indus/HP%20Logistics%20Policy%20%202022_Final.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

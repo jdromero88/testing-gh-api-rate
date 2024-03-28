@@ -7,7 +7,7 @@ states:
 - Rajasthan
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

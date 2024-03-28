@@ -6,7 +6,7 @@ date: 2022-04-06 07:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ details:
   url: https://aperc.gov.in/admin/upload/RSTOFY202223VolII.pdf
 - name: Tariff Order Vol 1
   url: https://aperc.gov.in/admin/upload/RSTOFY202223Vol1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

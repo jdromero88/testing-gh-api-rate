@@ -6,7 +6,7 @@ date: 2019-12-18 05:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Rajasthan Solar Energy Policy 2019
   url: http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Home%20Page/Rajasthan%20Solar%20Energy%20Policy%202019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 In its latest draft Solar Energy Policy, the state has proposed a five-fold increase in registration fees and the creation of the Rajasthan Renewable Energy Development Fund by implementing a new tax on solar power projects.

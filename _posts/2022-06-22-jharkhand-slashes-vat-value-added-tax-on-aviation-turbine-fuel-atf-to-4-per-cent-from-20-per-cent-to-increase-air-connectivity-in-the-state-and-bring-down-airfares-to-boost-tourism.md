@@ -8,7 +8,7 @@ date: 2022-06-22 04:00:00 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: http://prdjharkhand.in/iprd/view_press_release_photo.php?prid=31060
-is_analysis: false
+is_newsletter: false
 
 ---

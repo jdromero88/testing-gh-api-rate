@@ -7,7 +7,7 @@ date: 2019-12-04 05:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 - Renewables
@@ -17,7 +17,7 @@ sources:
 details:
 - name: HERC Net Metering Regulations
   url: https://herc.gov.in/writereaddata/pdf/r20191025.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana Electricity Regulatory Commission has issued an updated version of its regulations for rooftop solar grid-interactive systems in response to a petition filed by the Haryana Renewable Energy Development Agency. The changes include provisions for net metering facilities.

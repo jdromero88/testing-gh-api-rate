@@ -7,7 +7,7 @@ date: 2019-05-29 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: RERC Order
   url: http://rerc.rajasthan.gov.in/Orders/Order555.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission (RERC) dismissed petitions filed by captive solar project developers seeking relief from applicable wheeling and banking charges. The developers had filed separate petitions regarding the methodology adopted by distribution companies for the levy of wheeling charges.

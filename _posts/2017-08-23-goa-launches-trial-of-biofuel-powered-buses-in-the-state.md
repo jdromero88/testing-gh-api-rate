@@ -4,7 +4,7 @@ date: 2017-08-23 00:00:00 Z
 states:
 - Goa
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 - Energy-related Transportation

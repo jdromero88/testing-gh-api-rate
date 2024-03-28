@@ -6,7 +6,7 @@ tags:
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:

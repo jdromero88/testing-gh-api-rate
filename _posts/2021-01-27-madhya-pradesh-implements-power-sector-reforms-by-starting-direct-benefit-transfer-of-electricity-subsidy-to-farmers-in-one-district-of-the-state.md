@@ -7,7 +7,7 @@ date: 2021-01-27 05:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors:
 - Power and Renewable Energy
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1691806
-is_analysis: false
+is_newsletter: false
 
 ---

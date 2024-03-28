@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh and Chhattisgarh conduct elections for their respective
   state legislative assemblies
 date: 2023-11-22T14:20:45.935Z

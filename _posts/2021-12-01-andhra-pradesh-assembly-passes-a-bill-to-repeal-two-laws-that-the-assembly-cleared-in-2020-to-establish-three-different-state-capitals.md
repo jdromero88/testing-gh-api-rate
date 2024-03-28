@@ -15,6 +15,6 @@ sources:
 details:
 - name: Assembly Agenda
   url: https://sessions.aplegislature.org/preview.do?filePath=basePath&fileName=Business/22112021/Assembly/A_A_22_11_2021_4.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

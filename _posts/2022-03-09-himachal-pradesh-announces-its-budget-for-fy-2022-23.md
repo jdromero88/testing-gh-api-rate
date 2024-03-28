@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget Speech
   url: https://ebudget.hp.nic.in/Aspx/Anonymous/pdf/FS_Eng_2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

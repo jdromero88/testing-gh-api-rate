@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu releases the Tamil Nadu Digital Transformation Strategy
   (DiTN), aiming to enhance administrative efficiency, improving digital
   governance and government services, and guide government departments for

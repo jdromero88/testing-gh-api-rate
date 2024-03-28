@@ -8,7 +8,7 @@ states:
 - Center-State Relations
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Electricity (Rights of Consumers) Rules, 2020
   url: https://static.pib.gov.in/WriteReadData/userfiles/final%20-%20Copy%202.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

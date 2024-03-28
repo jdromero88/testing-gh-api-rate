@@ -7,7 +7,7 @@ date: 2021-12-22 05:00:00 +0000
 states:
 - Telangana
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: New Indian Express
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Government Order
   url: https://goir.telangana.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

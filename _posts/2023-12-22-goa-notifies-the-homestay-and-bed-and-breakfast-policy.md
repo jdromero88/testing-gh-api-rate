@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa notifies the Homestay and Bed and Breakfast Policy
 date: 2023-12-20T17:38:28.769Z
 states:

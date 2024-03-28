@@ -6,7 +6,7 @@ date: 2021-02-03 05:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Agriculture Pump Policy (In Marathi)
   url: https://www.mahadiscom.in/solar/AG_Policy/202012181511437310.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

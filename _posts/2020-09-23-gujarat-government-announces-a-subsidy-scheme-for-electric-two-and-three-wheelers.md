@@ -6,7 +6,7 @@ date: 2020-09-23 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Energy-related Transportation
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://gujaratinformation.net/article/?id=MjEwMzM=
-is_analysis: false
+is_newsletter: false
 
 ---

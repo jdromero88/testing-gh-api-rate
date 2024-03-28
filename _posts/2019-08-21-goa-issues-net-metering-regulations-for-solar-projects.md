@@ -6,7 +6,7 @@ date: 2019-08-21 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Net Metering Regulations
   url: http://jercuts.gov.in/writereaddata/UploadFile/solar%20pv%20grid%20regulation.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Joint Electricity Regulatory Commission (JERC) for the state of Goa and union territories has finalized the net metering regulations.

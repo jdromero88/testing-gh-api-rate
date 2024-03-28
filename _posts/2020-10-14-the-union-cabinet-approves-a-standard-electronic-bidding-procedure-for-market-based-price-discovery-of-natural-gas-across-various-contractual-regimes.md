@@ -8,7 +8,7 @@ states:
 - Center-State Relations
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1662325
-is_analysis: false
+is_newsletter: false
 
 ---

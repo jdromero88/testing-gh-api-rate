@@ -13,7 +13,7 @@ sources:
 - name: Financial Express
   url: https://www.financialexpress.com/economy/delhi-budget-2019-20-arvind-kejriwals-favourite-mohalla-clinic-scheme-gets-little-attention/1499889/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Chief Minister Arvind Kejriwal presented the Delhi government’s $8.4 billion budget for 2019-20 in the Delhi assembly. The government allocated $1 billion, or 14 percent of the total budget, towards healthcare despite cutting funding for the much touted “Aam Admi Mohalla Clinics” by 6.9 percent.

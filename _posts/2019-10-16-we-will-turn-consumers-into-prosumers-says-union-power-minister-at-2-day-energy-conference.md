@@ -7,7 +7,7 @@ date: 2019-10-16 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power
@@ -17,7 +17,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/newsite/PrintRelease.aspx?relid=193733
-is_analysis: false
+is_newsletter: false
 
 ---
 The central government is holding a two day conference for Energy Ministers and top officials of state energy departments to celebrate achieving near universal household electrification under the Saubhagya scheme and focus on the importance of renewable energy.

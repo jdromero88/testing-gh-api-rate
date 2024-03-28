@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa Industrial Development Corporation (Goa-IDC) announces the extension
   of its “COVID-19 Amnesty Scheme”
 date: 2023-08-02T16:25:56.812Z

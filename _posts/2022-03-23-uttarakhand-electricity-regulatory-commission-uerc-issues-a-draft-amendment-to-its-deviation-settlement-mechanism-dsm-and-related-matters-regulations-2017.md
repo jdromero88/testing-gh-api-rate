@@ -7,7 +7,7 @@ date: 2022-03-23 07:00:00 +0000
 states:
 - Uttarakhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft First Amendment
   url: http://www.uerc.gov.in/Draft%20documents/2022/Amendment%20final_Grid%20Code%20and%20DSM/Draft%20First%20Amendment%20UERC%20DSM%20Regulation%202022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

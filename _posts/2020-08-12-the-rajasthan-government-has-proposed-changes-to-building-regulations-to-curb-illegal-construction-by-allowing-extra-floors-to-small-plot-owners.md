@@ -15,6 +15,6 @@ sources:
 details:
 - name: Draft Regulations (In Hindi)
   url: https://urban.rajasthan.gov.in/content/dam/raj/udh/udh%20department/pdf/News/PROPOSED%20RAJASTHAN%20URBAN%20AREAS%20BUILDING%20BYELAWS-2020%20%20Draft-VIII_28-07-2020_.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

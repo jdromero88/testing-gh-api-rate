@@ -6,7 +6,7 @@ date: 2019-03-20 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Amendment - Haryana Solar Power Policy-2016
   url: http://hareda.gov.in/writereaddata/news/hareda433526419.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana Renewable Energy Development Agency amended its guidelines for megawatt-scale ground-mounted and rooftop solar photovoltaic (PV) projects meant for captive consumption or third-party sale. These guidelines fall under the Haryana Solar Power Policy, 2016.

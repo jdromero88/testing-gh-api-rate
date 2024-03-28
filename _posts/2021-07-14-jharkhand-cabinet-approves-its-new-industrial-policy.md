@@ -14,6 +14,6 @@ sources:
 details:
 - name: Policy
   url: http://www.prdjharkhand.in/iprd/press_release_details.php?prid=28371
-is_analysis: false
+is_newsletter: false
 
 ---

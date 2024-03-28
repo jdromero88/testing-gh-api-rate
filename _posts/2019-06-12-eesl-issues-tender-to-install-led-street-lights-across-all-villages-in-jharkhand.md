@@ -6,7 +6,7 @@ date: 2019-06-12 04:00:00 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Street Lighting National Programme
   url: https://eeslindia.org/content/raj/eesl/en/Programmes/SLNP/about-slnp.html
-is_analysis: false
+is_newsletter: false
 
 ---
 As a part of their Street Light National Programme, EESL has issued a tender inviting bid for 24 watt LED Street Lights contract for all Gram Panchayats in the state of Jharkhand. KFW Development Bank will help fund part of the payment under this contract.

@@ -15,6 +15,6 @@ sources:
 details:
 - name: CM Twitter
   url: https://twitter.com/himantabiswa/status/1552691028225798146
-is_analysis: false
+is_newsletter: false
 
 ---

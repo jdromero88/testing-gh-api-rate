@@ -14,6 +14,6 @@ sources:
 details:
 - name: Excise Policy
   url: https://www.dailyexcelsior.com/wp-content/uploads/2021/03/SO-114-dated-31.03.2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

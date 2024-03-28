@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttarakhand Electricity Regulatory Commission (UERC) introduces Green
   Energy Open Access Regulations 2023
 date: 2023-11-29T14:46:14.692Z
 states:
   - Uttarakhand
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
   - Power

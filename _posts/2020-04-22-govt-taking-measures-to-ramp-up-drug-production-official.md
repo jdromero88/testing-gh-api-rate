@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/newsite/PrintRelease.aspx?relid=202284
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ministry of Environment, Forest and Climate Change has amended the Environmental Impact Assessment Notification 2006 to offer exemptions under the B2 category to drug manufacturers to ramp up production.

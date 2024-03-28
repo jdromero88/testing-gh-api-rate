@@ -15,6 +15,6 @@ sources:
 details:
 - name: CM’s Tweet
   url: https://twitter.com/ysjagan/status/1310496375495254016?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

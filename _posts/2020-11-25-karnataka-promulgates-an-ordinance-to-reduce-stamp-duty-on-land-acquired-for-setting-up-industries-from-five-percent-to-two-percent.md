@@ -16,6 +16,6 @@ sources:
 details:
 - name: Invest Karnataka’s Tweet
   url: https://twitter.com/investkarnataka/status/1329688447901196289?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

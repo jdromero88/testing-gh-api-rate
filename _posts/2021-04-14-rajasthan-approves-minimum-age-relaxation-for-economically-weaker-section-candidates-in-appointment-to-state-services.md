@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press release (in Hindi)
   url: https://dipr.rajasthan.gov.in/content/dipr/en/news-detail.226032.html
-is_analysis: false
+is_newsletter: false
 
 ---

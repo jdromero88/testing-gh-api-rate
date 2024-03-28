@@ -6,8 +6,7 @@ date: 2021-12-08 05:00:00 +0000
 states:
 - Goa
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -16,6 +15,6 @@ sources:
 details:
 - name: Policy
   url: https://www.goa.gov.in/wp-content/uploads/2021/07/draft-of-Goa-Eletric-mobility-promotion-policy-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

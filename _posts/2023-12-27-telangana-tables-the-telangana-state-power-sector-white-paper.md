@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana tables the Telangana State Power Sector - White paper
 date: 2023-12-27T07:22:52.771Z
 states:

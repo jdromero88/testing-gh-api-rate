@@ -6,7 +6,7 @@ date: 2019-03-20 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.genewsroom.com/press-releases/ge-modernize-rajasthan%E2%80%99s-transmission-grid-first-its-kind-advanced-grid-management
-is_analysis: false
+is_newsletter: false
 
 ---
 GE Renewable Energy announced it has won a project to modernize the Rajasthan Rajya Vidyut Prasaran Nigam Limited’s grid as part of the utility’s roadmap to augment renewable energy in the state.

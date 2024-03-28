@@ -7,13 +7,13 @@ date: 2021-10-06 04:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
 - name: Mercom
   url: https://mercomindia.com/biomass-qualifies-non-solar-rpo/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

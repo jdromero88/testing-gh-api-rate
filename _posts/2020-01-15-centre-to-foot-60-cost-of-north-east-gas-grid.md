@@ -6,7 +6,7 @@ date: 2020-01-15 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/Pressreleaseshare.aspx?PRID=1598709
-is_analysis: false
+is_newsletter: false
 
 ---
 The central government will provide $782.6 million towards the construction of the North East Gas Grid project across the states of Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, and Tripura.

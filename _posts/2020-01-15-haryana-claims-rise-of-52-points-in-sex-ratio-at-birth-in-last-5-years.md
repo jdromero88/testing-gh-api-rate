@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/haryana-has-set-a-new-benchmark-in-male-female-sex-ratio-as-the-state-has-witnessed-a-remarkable
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana government has reported that the sex ratio in the state has increased from 871 girls for every 1,000 boys, in 2014 to 923 girls in 2019.

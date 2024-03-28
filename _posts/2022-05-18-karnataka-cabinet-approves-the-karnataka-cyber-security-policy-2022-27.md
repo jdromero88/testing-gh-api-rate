@@ -12,6 +12,6 @@ sources:
 - name: New Indian Express
   url: https://www.newindianexpress.com/states/karnataka/2022/may/13/green-signal-for-karnataka-cyber-security-policy-2452919.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

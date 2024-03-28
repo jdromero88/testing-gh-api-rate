@@ -15,6 +15,6 @@ sources:
 details:
 - name: Draft Policy
   url: http://www.dcmsme.gov.in/Draft08022022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

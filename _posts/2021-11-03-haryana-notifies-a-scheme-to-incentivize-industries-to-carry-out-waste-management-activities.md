@@ -7,7 +7,7 @@ date: 2021-11-03 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: The Statesman
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.prharyana.gov.in/en/haryana-government-has-notified-the-assistance-for-waste-management-scheme-for-industrial-sector
-is_analysis: false
+is_newsletter: false
 
 ---

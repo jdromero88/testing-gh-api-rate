@@ -14,6 +14,6 @@ sources:
 details:
 - name: Bill
   url: https://www.goavidhansabha.gov.in/uploads/bills/1268_field_Bill-No-36.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

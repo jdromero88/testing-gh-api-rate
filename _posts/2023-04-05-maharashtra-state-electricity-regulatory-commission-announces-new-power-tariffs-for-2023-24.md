@@ -8,7 +8,7 @@ states:
 - Maharashtra
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 - Power and Renewable Energy
@@ -18,6 +18,6 @@ sources:
 details:
 - name: Press release
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:3dd69bf0-5694-4075-aca6-ea834c1f5f03
-is_analysis: false
+is_newsletter: false
 
 ---

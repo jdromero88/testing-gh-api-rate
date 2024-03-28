@@ -6,7 +6,7 @@ date: 2019-07-31 04:00:00 +0000
 states:
 - Uttarakhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender Details
   url: http://www.ureda.uk.gov.in/files/E-tender_notice_52MW.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttarakhand Renewable Energy Development Agency has issued a request for proposal to develop 52 MW of solar projects for the procurement of solar power on a long-term basis. The deadline for the submission of bids is August 22, 2019.

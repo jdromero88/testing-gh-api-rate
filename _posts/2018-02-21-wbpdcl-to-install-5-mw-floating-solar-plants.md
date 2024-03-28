@@ -4,7 +4,7 @@ date: 2018-02-21 19:33:00 Z
 states:
 - West Bengal
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

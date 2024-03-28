@@ -6,7 +6,7 @@ date: 2020-11-04 05:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Power and Renewable Energy
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Ordinance
   url: http://www.egazette.nic.in/WriteReadData/2020/222804.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

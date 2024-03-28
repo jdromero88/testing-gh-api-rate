@@ -15,6 +15,6 @@ sources:
 details:
 - name: Telangana CMO Tweet (In Telugu)
   url: https://twitter.com/TelanganaCMO/status/1291059509700382720?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

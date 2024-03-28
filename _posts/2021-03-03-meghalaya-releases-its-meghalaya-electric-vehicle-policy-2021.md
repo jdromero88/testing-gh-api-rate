@@ -6,7 +6,7 @@ date: 2021-03-03 05:00:00 +0000
 states:
 - Meghalaya
 sectors:
-- Energy
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors:
 - Energy-related Transportation
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Meghalaya Electric Vehicle Policy 2021
   url: https://www.meghalaya.gov.in/sites/default/files/documents/Meghalaya_Electric_vehicle_policy_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

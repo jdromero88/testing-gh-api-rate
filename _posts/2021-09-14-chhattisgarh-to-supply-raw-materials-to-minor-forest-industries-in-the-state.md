@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: http://dprcg.gov.in/post/1631114315/Cabinet_Meeting
-is_analysis: false
+is_newsletter: false
 
 ---

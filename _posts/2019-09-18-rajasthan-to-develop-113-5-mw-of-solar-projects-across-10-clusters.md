@@ -6,7 +6,7 @@ date: 2019-09-18 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ details:
 - name: Rfs Document
   url: http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Home Page/Solar
     Tender 113 MW.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Renewable Energy Corporation Limited has floated tenders inviting interested bidders to develop 113.5 MW of decentralized solar projects spread across various clusters of the state. The projects would include the installation of solar systems between 0.5 MW and 2 MW and would be developed on a ‘build-own-operate’ basis.

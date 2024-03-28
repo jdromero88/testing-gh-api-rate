@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2023-24 (in Assamese)
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8de8baab-5326-4df8-9272-81b38aee9064
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Government Order
   url: https://goir.telangana.gov.in/pdfshow.aspx
-is_analysis: false
+is_newsletter: false
 
 ---

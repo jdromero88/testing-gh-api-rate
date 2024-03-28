@@ -7,7 +7,7 @@ date: 2021-07-21 04:00:00 +0000
 states:
 - Union Territory of Chandigarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://jercuts.gov.in/writereaddata/UploadFile/MYT%20ORDER_1094.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -6,7 +6,7 @@ date: 2021-03-24 04:00:00 +0000
 states:
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Policy (In Hindi)
   url: https://state.bihar.gov.in/industries/cache/26/24-Mar-21/SHOW_DOCS/circular-gov-757-dtd-17-03-21.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

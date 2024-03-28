@@ -6,7 +6,7 @@ date: 2021-02-03 05:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: http://www.finance.rajasthan.gov.in/PDFDOCS/TAX/CCT/F-CCT-9250-28012021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

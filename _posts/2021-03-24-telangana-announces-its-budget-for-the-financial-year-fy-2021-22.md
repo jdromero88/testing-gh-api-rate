@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget Speech (In Telugu & English)
   url: https://finance.telangana.gov.in/FM-Budget-Speech.jsp
-is_analysis: false
+is_newsletter: false
 
 ---

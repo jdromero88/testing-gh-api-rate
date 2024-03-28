@@ -8,7 +8,7 @@ date: 2022-06-01 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 - Energy Efficiency
@@ -18,6 +18,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleseDetail.aspx?PRID=1828243
-is_analysis: false
+is_newsletter: false
 
 ---

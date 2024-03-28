@@ -6,7 +6,7 @@ date: 2019-12-24 05:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -19,7 +19,7 @@ details:
   url: http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Home%20Page/Rajasthan%20Solar%20Energy%20Policy2019.pdf
 - name: Press Release (Hindi)
   url: http://dipr.rajasthan.gov.in/content/dipr/en/news-detail.182960.html
-is_analysis: false
+is_newsletter: false
 
 ---
 Chief Minister Ashok Gehlot launched the new Industrial Development Policy-2019, Solar Energy Policy-2019, Wind and Hybrid Energy Policy-2019, Rajasthan Investment Promotion Scheme-2019 and Chief Minister’s Small-Scale Industries Promotion Scheme-2019.

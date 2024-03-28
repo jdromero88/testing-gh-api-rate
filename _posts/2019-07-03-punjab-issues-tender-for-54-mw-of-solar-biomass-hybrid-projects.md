@@ -6,7 +6,7 @@ date: 2019-07-03 04:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Request for Proposals
   url: http://peda.gov.in/main/pdf/dnithybrid04.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Punjab Energy Development Agency issued a tender for 54 MW of solar-biomass hybrid projects to be developed in the state. The project requires the bundling of biomass and solar PV power in the ratio of 1:2. The bid submission deadline is July 23, 2019.

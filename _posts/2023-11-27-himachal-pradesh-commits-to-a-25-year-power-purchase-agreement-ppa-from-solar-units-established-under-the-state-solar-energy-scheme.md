@@ -2,15 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh commits to a 25-year power purchase agreement (PPA) from
   solar units established under the state solar energy scheme
 date: 2023-11-22T16:09:25.690Z
 states:
   - Himachal Pradesh
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Renewables

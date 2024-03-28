@@ -7,7 +7,7 @@ date: 2021-06-23 04:00:00 +0000
 states:
 - Union Territory of the Andaman and Nicobar Islands
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: JERC Order
   url: http://jercuts.gov.in/writereaddata/UploadFile/tariff%20order%20andaman_1857.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

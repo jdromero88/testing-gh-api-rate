@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh Electricity Regulatory Commission (APERC) issues the Draft
   Grid Interactive Solar Rooftop Photovoltaic Systems Under Net/Gross Metering
   Regulations, 2023
@@ -10,7 +10,7 @@ date: 2023-07-12T19:55:26.536Z
 states:
   - Andhra Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Renewables

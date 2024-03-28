@@ -7,7 +7,7 @@ date: 2018-12-18 16:57:52 +0000
 states:
 - Meghalaya
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.jica.go.jp/english/news/press/2018/181030_01.html
-is_analysis: false
+is_newsletter: false
 
 ---
 JICA announced it will provide $44 million for the renovation and modernization of the Umiam-Umtru Stage III hydroelectric power station in Meghalaya. The objective of the renovation is to reduce power shortage in the state.   

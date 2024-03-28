@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister's Bill
   url: https://twitter.com/mlkhattar/status/1324772625587920896?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

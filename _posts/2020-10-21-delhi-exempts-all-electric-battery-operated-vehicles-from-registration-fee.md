@@ -6,7 +6,7 @@ date: 2020-10-21 04:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: " Transport Minister’s Tweet"
   url: https://twitter.com/hashtag/SwitchDelhi?src=hashtag_click
-is_analysis: false
+is_newsletter: false
 
 ---
 **Delhi** exempts all electric, battery-operated vehicles from registration fee in the national capital.

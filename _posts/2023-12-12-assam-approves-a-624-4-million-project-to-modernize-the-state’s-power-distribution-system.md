@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam approves a $624.4 million project to modernize the state’s power
   distribution system
 date: 2023-10-04T18:22:49.107Z
 states:
   - Assam
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
   - Power & Renewable Energy

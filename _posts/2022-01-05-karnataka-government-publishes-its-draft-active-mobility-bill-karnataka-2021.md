@@ -15,6 +15,6 @@ sources:
 details:
 - name: Draft Bill
   url: https://dult.karnataka.gov.in/uploads/media_to_upload1640773786.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

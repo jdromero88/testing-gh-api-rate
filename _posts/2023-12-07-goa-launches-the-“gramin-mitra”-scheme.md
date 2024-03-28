@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa launches the “Gramin Mitra” scheme
 date: 2023-08-23T18:25:08.559Z
 states:

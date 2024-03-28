@@ -8,8 +8,7 @@ date: 2022-06-22 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -18,6 +17,6 @@ sources:
 details:
 - name: Regulation
   url: https://gercin.org/wp-content/uploads/2022/05/Notification-No.-02-of-2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

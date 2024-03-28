@@ -7,7 +7,7 @@ date: 2020-09-02 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Energy Minister's Tweet
   url: https://twitter.com/NitinRaut_INC/status/1300369460721639424?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ date: 2021-04-21 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1711204
-is_analysis: false
+is_newsletter: false
 
 ---

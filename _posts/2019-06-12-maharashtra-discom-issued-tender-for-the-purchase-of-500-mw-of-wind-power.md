@@ -6,7 +6,7 @@ date: 2019-06-12 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender details
   url: https://etender.mahadiscom.in/eatApp/latestTendersProcurement
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra State Electricity Distribution Company Limited (MSEDCL) has issued a request for selection, inviting bids from eligible parties for the purchase of 500 MW of wind power on a long-term contract from wind energy projects.

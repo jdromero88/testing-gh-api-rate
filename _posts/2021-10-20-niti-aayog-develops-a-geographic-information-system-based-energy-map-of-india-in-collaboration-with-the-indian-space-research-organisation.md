@@ -7,7 +7,7 @@ date: 2021-10-20 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Economic Times
@@ -15,6 +15,6 @@ sources:
 details:
 - url: https://www.niti.gov.in/energy-swaraj-geospatial-energy-map-india-presents-immense-potential-and-opportunities
   name: Geospatial Energy Map of India
-is_analysis: false
+is_newsletter: false
 
 ---

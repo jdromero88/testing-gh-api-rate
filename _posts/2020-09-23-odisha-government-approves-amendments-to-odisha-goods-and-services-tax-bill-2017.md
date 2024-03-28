@@ -15,6 +15,6 @@ sources:
 details:
 - name: Information & Public Relations Tweet, Government of Odisha
   url: https://twitter.com/IPR_Odisha/status/1305841800230305794
-is_analysis: false
+is_newsletter: false
 
 ---

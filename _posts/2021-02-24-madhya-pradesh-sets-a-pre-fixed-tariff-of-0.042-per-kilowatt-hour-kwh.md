@@ -6,7 +6,7 @@ date: 2021-02-24 05:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: http://www.mperc.in/16022021-P-50%20of%202020-Order.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -6,14 +6,14 @@ date: 2019-10-23 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
 - name: Mercom
   url: https://mercomindia.com/rajasthan-regulator-issue-non-compliance-rpo/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission will issue nine companies notices for the non-compliance with the renewable purchase obligation (RPO) order.

@@ -1,5 +1,5 @@
 ---
 content_type: subsector
 title: Power & Renewable Energy
-sector: Energy
+sector: Climate Change and Energy
 ---

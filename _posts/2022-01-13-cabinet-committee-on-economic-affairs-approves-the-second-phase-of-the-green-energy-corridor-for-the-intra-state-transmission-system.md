@@ -7,8 +7,8 @@ date: 2022-01-13 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Press Release
@@ -16,6 +16,6 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/cabinet-approves-rs-12-000-cr-for-2nd-phase-of-green-energy-corridor-122010601069_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -6,7 +6,7 @@ date: 2019-10-23 04:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Draft Madhya Pradesh Electric Vehicle Policy
   url: http://www.mpurban.gov.in/pdf/MPEVDPolicy2019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The state cabinet approved Electric Vehicle Policy 2019, making plans to introduce 2,200 electric buses into the public transport system in the next four years.

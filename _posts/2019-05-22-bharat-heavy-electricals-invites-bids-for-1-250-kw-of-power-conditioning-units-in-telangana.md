@@ -7,7 +7,7 @@ date: 2019-05-22 04:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tender Details
   url: http://www.bhel.com/index.php/tender?tenid=46209
-is_analysis: false
+is_newsletter: false
 
 ---
 State-owned Bharat Heavy Electricals Ltd has invited bids to supply, install and commission 1,250 kilowatt, three-phase, grid-connected power-conditioning units for 129 MW of solar photovoltaic in Telangana.

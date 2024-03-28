@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra Electricity Regulatory Commission (MERC) unveils the Draft
   Green Energy Open Access (GEOA) Regulations
 date: 2023-08-16T18:30:03.286Z
 states:
   - Maharashtra
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

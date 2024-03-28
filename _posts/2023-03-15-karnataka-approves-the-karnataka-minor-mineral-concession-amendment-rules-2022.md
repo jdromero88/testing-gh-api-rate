@@ -16,6 +16,6 @@ sources:
 details:
 - name: Karnataka Minor Mineral Concession (Amendment) Rules, 2022
   url: https://dpal.karnataka.gov.in/storage/pdf-files/67%20of%201957%20Minor%20Mineral%20Concession%20(Amendment)%20Rules,%202022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

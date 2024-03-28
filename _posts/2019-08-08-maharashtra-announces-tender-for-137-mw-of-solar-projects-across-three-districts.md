@@ -6,7 +6,7 @@ date: 2019-08-08 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 - Renewables
@@ -14,7 +14,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/maharashtra-tender-solar-three-districts/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra State Power Generation Corporation has issued a notice inviting bids for the development of 137 MW (AC) of solar projects in three districts. The scope of work for this tender includes the design, engineering, manufacturing, supply, testing, and commissioning of the following projects:

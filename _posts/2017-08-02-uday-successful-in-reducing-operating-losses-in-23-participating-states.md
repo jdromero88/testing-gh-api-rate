@@ -11,7 +11,7 @@ states:
 - Assam
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

@@ -8,13 +8,13 @@ states:
 - Himachal Pradesh
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
 - name: Mercom
   url: https://mercomindia.com/himachal-pradesh-reduces-subsidies/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

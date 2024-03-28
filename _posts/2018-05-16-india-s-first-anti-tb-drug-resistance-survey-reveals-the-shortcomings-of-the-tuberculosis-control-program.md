@@ -16,7 +16,7 @@ sources:
 details:
 - name: First National Anti-Tuberculosis Drug Resistance Survey
   url: https://tbcindia.gov.in/showfile.php?lid=3315
-is_analysis: false
+is_newsletter: false
 
 ---
 The results of the first anti-tuberculosis drug resistance survey indicate that India's national program fails to address drug-resistant TB in urban cities. In addition, a failure to test for resistance leads to misdiagnosis issues in states.

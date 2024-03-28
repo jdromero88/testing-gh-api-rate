@@ -7,7 +7,7 @@ date: 2021-03-31 04:00:00 +0000
 states:
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://berc.co.in/orders/tariff/transmission/2328-press-release-of-tariff-order-of-bsptcl-and-sldc-fy-2021-22
-is_analysis: false
+is_newsletter: false
 
 ---

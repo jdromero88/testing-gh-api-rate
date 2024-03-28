@@ -14,6 +14,6 @@ sources:
 details:
 - name: CM's Twitter
   url: https://twitter.com/CMMadhyaPradesh/status/1638891082288099331
-is_analysis: false
+is_newsletter: false
 
 ---

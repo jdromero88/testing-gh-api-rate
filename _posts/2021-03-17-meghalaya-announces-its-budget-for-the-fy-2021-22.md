@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget Speech
   url: http://megfinance.gov.in/budget_documents/2021-2022/others/budget_speech.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

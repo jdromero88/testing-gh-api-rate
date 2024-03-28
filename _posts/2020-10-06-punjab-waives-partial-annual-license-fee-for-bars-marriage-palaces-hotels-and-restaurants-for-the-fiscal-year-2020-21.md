@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-cm-gives-nod-waiving-annual-licence-fee-quarterly-assessed-fee-bars-marriage-palaces
-is_analysis: false
+is_newsletter: false
 
 ---

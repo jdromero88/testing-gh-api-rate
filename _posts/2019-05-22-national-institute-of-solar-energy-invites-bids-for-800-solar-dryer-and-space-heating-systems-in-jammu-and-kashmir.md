@@ -7,7 +7,7 @@ date: 2019-05-22 04:00:00 +0000
 states:
 - Jammu and Kashmir
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tender Details
   url: https://nise.res.in/wp-content/uploads/2019/05/Corrigendum1-of-Solar-Dryer-Tender.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The National Institute of Solar Energy, an autonomous R&D institution under the Ministry of New and Renewable Energy (MNRE), has invited bids to fabricate, supply, install, and commission 800 solar dryer and space heating systems in Jammu and Kashmir.

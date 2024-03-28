@@ -13,7 +13,7 @@ sources:
 - name: All India Radio
   url: http://www.newsonair.com/News?title=J%26K%3A-Govt-unveils-Healthcare-Investment-Policy-2019&id=364120
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Jammu and Kashmir government unveiled Healthcare Investment Policy-2019 to promote and encourage private parties and entrepreneurs to set up healthcare infrastructure in the state by providing subsidies and incentives. 

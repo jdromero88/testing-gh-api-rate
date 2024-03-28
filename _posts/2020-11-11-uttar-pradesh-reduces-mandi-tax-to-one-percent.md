@@ -15,6 +15,6 @@ sources:
 details:
 - name: Tweet
   url: https://twitter.com/UPGovt/status/1325007248465170438?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

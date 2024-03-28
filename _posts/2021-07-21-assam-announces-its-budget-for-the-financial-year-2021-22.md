@@ -6,7 +6,7 @@ date: 2021-07-21 04:00:00 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors:
 - Energy-related Transportation
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Budget Speech
   url: https://finance.assam.gov.in/portlets/assam-budget-2021-22
-is_analysis: false
+is_newsletter: false
 
 ---

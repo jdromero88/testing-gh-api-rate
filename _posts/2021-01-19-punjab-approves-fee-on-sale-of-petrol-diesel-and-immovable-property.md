@@ -6,7 +6,7 @@ date: 2021-01-19 05:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: 'Press Release '
   url: http://diprpunjab.gov.in/?q=content/cabinet-approves-levy-special-id-fee-petrol-diesel-rs025-litre-and-rs025-hundred-rupees
-is_analysis: false
+is_newsletter: false
 
 ---
 **Punjab** approves levying a special infrastructure development fee on sale of petrol, diesel, and immovable property.

@@ -14,6 +14,6 @@ sources:
 - name: Swarajya
   url: https://swarajyamag.com/insta/mp-govt-approves-development-of-new-investment-region-economic-corridor-and-multi-modal-logistic-park-in-state
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

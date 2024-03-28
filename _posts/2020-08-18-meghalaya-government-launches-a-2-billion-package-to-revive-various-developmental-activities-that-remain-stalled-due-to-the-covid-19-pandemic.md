@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://meghalaya.gov.in/sites/default/files/press_release/Independence_Day_2020_CM_Speech.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

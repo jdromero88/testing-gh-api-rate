@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Home Affairs facilitates a boundary agreement between Assam
   and Arunachal Pradesh
 date: 2023-04-26T19:27:47.962Z

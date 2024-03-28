@@ -7,7 +7,7 @@ date: 2023-04-05 04:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Energy Efficiency
@@ -19,6 +19,6 @@ sources:
 details:
 - name: Press note (Invest UP)
   url: https://invest.up.gov.in/wp-content/uploads/2023/03/Government_300323.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

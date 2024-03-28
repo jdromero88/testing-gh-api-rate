@@ -6,7 +6,7 @@ date: 2021-01-19 05:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://docs.pspcl.in/docs/cecommercial2120210108133148784.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

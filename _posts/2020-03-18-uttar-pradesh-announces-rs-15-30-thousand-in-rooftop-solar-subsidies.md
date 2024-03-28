@@ -6,7 +6,7 @@ date: 2020-03-18 04:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Notice (In Hindi)
   url: https://upnedasolarrooftopportal.com/ROOFTOP-NOTICE.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh New and Renewable Energy Development Agency has announced a state subsidy of $202.50 per kilowatt for rooftop solar projects that will be set up under Phase II of the grid-connected rooftop solar program.

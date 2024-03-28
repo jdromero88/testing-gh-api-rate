@@ -7,7 +7,7 @@ date: 2019-09-25 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Gujarat Solar Power Policy 2015
   url: https://gseb.com/DownloadFiles/File/GUVNL/Gujarat Solar Power Policy 2015.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Gujarat chief minister Vijay Rupani and deputy chief minister Nitin Patel announced changes in the Gujarat Solar Power Policy, 2015 to ensure that the medium and small scale Industries (MSME) sector is able to reap benefits of solar energy. Energy Minister Saurabh Patel said MSME in Gujarat can now set up solar installations with a capacity of more than 100 percent compared to the previous limit of 50 percent.

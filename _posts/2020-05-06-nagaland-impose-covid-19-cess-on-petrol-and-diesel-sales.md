@@ -6,7 +6,7 @@ date: 2020-05-06 04:00:00 +0000
 states:
 - Nagaland
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Government of Nagaland Finance Department
   url: http://nagalandtax.nic.in/docs/Notification/Act/Issued%20by%20Finance%20Department/Petroleum/2020/Petroleum_Cess_Covid19.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Nagaland has imposed a Covid-19 cess of $0.066 per liter on diesel and $0.079 per liter on petrol and other motor spirits.

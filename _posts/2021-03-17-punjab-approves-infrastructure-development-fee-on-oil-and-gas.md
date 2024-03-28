@@ -6,7 +6,7 @@ date: 2021-03-17 04:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Bill
   url: http://www.punjabassembly.nic.in/images/docs/Bill%20No.12-PLA-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Punjab** approves a special infrastructure development fee of $0.0034 per liter on petrol and diesel in the state.

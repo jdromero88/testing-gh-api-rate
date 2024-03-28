@@ -8,7 +8,7 @@ states:
 - Jharkhand
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://jserc.org/pdf/tariff_order/jbvnl2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

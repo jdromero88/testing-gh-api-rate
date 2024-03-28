@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Maharashtra establishes an Anti-Narcotics Task Force (ANTF) "
 date: 2023-09-06T17:56:17.022Z
 states:

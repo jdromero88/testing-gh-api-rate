@@ -6,7 +6,7 @@ date: 2021-02-10 05:00:00 +0000
 states:
 - Goa
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Government Notice
   url: https://www.goa.gov.in/wp-content/uploads/2021/02/Notifciation-FinRC-dt-4-2-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Goa announces an increase in the value added tax on petrol and diesel. As a result, petrol and diesel prices will rise by $0.017 and $0.008 respectively .

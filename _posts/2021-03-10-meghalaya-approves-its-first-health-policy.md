@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/SangmaConrad/status/1367865604401553413?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

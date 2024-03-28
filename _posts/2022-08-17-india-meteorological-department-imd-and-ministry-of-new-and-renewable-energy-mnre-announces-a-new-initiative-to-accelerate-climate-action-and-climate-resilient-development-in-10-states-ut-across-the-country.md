@@ -8,8 +8,7 @@ date: 2022-08-17 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -18,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.undp.org/india/press-releases/imd-government-japan-and-undp-launch-project-accelerate-climate-action-india
-is_analysis: false
+is_newsletter: false
 
 ---

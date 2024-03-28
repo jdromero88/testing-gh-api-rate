@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana Electricity Regulatory Commission (HERC) approves the state’s
   Green Energy Open Access Regulations, 2023
 date: 2023-05-03T19:06:05.725Z
 states:
   - Haryana
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
 sources:

@@ -8,7 +8,7 @@ states:
 - Meghalaya
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1785248
-is_analysis: false
+is_newsletter: false
 
 ---

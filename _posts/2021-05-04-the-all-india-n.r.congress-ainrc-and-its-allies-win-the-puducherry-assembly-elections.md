@@ -15,6 +15,6 @@ sources:
 details:
 - name: Election Commission of India - Results
   url: https://results.eci.gov.in/Result2021/partywiseresult-U07.htm?st=U07
-is_analysis: false
+is_newsletter: false
 
 ---

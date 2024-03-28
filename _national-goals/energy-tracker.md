@@ -1,6 +1,6 @@
 ---
 title: U.S.–India Energy Cooperation Project  Tracker
-sectors: Energy
+sectors: Climate Change and Energy
 subsectors: ''
 show_map: false
 show_progressbars: false

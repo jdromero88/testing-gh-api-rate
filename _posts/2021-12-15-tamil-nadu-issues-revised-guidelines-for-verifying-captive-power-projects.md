@@ -6,7 +6,7 @@ date: 2021-12-15 05:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: http://www.tnerc.gov.in/PressRelease/files/PR-021220211536Eng.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

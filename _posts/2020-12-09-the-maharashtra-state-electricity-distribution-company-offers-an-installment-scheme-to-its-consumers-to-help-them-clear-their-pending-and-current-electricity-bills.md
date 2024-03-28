@@ -8,13 +8,13 @@ date: 2020-12-09 05:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/power/msedcl-floats-instalment-scheme-for-consumers-to-clear-power-dues/79566054
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

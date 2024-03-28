@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra allows women property buyers who get 1% rebate on stamp duty
   on their purchase to sell their residential units to male buyers
 date: 2023-06-07T15:01:52.478Z

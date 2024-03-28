@@ -7,7 +7,7 @@ date: 2021-01-27 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Climate Change
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors: []
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1692228
-is_analysis: false
+is_newsletter: false
 
 ---

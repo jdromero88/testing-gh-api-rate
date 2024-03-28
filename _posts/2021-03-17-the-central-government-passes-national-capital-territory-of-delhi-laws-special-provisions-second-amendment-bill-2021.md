@@ -16,6 +16,6 @@ sources:
 details:
 - name: The Bill (As passed by the upper house)
   url: http://164.100.47.4/BillsTexts/RSBillTexts/PassedRajyaSabha/Nct%20Delhi%20passed%20by%20RS%2009022021%20-%20E.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

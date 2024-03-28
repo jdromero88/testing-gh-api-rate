@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa launches the integrated AYUSH Health Services Scheme
 date: 2023-07-19T20:57:11.347Z
 tags: []

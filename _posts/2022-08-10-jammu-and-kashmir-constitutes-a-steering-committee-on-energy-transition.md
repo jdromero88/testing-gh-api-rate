@@ -6,7 +6,7 @@ date: 2022-08-10 04:00:00 +0000
 states:
 - Union Territory of Jammu and Kashmir
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Government Order
   url: http://jkgad.nic.in/common/showOrder.aspx?actCode=O41853
-is_analysis: false
+is_newsletter: false
 
 ---

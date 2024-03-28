@@ -15,6 +15,6 @@ sources:
 details:
 - name: Cabinet Decision (in Hindi)
   url: https://cm.jharkhand.gov.in/sites/default/files/cabinet_decision_15_07_2022%28Hindi%29.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

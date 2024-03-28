@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://tcpharyana.gov.in/Policy/TDR%20Policy%20dated%2016112021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

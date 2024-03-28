@@ -15,6 +15,6 @@ sources:
 details:
 - name: Karnataka Land Reforms (Amendment) Act, 2020
   url: https://dpal.karnataka.gov.in/storage/pdf-files/ao2020/09%20of%202020%20(E).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

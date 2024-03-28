@@ -7,14 +7,14 @@ states:
 - Karnataka
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
 - name: Sau Energy
   url: https://www.saurenergy.com/solar-energy-news/solar-projects-worth-47-mw-commissioned-in-gujarat-and-karnataka
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 SolarArise India and Gujarat Alkalies and Chemicals have recently announced the successful commissioning of their solar power projects with a combined 47 megawatt (MW) capacity in Karnataka and Gujarat.

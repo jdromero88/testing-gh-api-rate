@@ -6,7 +6,7 @@ date: 2019-09-18 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Generic Tariff Order
   url: http://jercuts.gov.in/writereaddata/UploadFile/finalgenricorder637031248973941416.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Joint Electricity Regulatory Commission for the state of Goa and the Union Territories has issued the generic tariff applicable for renewable energy projects for the financial year 2019-20.

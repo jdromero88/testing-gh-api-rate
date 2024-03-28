@@ -15,6 +15,6 @@ sources:
 details:
 - name: CMO Tweet
   url: https://twitter.com/AndhraPradeshCM/status/1293435743914692610?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

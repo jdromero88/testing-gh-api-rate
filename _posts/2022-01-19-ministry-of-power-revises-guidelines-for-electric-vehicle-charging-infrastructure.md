@@ -6,8 +6,8 @@ date: 2022-01-19 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://powermin.gov.in/sites/default/files/webform/notices/Final_Consolidated_EVCI_Guidelines_January_2022_with_ANNEXURES.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

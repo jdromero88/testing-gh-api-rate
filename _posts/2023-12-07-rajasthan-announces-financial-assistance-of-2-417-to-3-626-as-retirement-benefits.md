@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan announces financial assistance of $2,417 to $3,626 as
   retirement benefits
 date: 2023-09-06T15:49:11.733Z

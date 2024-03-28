@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh amends the Andhra Pradesh Assigned Lands (Prohibition of
   Transfers) Act, 1977
 date: 2023-07-19T19:23:18.576Z

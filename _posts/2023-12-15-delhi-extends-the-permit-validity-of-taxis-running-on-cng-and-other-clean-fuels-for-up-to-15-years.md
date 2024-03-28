@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi extends the permit validity of taxis running on CNG and other clean
   fuels for up to 15 years
 date: 2023-06-28T14:08:02.427Z
 states:
   - Delhi
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
 sources:

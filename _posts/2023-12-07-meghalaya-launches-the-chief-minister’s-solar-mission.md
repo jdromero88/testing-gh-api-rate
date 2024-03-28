@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Meghalaya launches the Chief Minister’s Solar Mission
 date: 2023-08-16T18:34:51.628Z
 states:
   - Meghalaya
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Renewables
   - Power & Renewable Energy

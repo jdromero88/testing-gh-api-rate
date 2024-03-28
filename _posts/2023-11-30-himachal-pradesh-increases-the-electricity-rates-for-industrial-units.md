@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh increases the electricity rates for industrial units
 date: 2023-11-29T14:48:53.255Z
 states:
   - Himachal Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

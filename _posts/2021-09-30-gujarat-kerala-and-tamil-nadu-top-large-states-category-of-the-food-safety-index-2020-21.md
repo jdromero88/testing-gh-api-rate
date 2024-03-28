@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.fssai.gov.in/upload/press_release/2021/09/614992d7107dePress_Release_HM_Visit_21_09_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

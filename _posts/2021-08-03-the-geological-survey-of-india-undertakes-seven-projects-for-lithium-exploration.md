@@ -6,7 +6,7 @@ date: 2021-08-03 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Mercom
@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1739885
-is_analysis: false
+is_newsletter: false
 
 ---

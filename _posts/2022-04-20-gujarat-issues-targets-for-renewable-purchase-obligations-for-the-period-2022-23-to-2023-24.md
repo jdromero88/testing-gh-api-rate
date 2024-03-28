@@ -7,7 +7,7 @@ date: 2022-04-20 07:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://gercin.org/wp-content/uploads/2022/04/Final-RPO-Regulatios-Third-Amendment-08.04.2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

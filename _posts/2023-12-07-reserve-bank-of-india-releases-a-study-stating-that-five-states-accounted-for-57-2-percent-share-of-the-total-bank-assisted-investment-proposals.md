@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Reserve Bank of India releases a study stating that five states accounted
   for 57.2 percent share of the total bank-assisted investment proposals
 date: 2023-08-23T18:26:49.877Z

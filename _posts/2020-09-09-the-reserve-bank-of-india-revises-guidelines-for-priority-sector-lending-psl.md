@@ -6,7 +6,7 @@ date: 2020-09-09 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: RBI Notifications
   url: https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11959&Mode=0
-is_analysis: false
+is_newsletter: false
 
 ---

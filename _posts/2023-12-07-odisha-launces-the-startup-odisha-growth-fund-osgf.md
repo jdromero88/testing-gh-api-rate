@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha launces the Startup Odisha Growth Fund (OSGF)
 date: 2023-09-20T13:53:22.147Z
 states:

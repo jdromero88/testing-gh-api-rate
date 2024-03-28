@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: https://cdma.telangana.gov.in/pdfs/Merged%20Endt%20&%20GO%20135%20LRS.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -8,7 +8,7 @@ states:
 - Center-State Relations
 sectors:
 - Industrial Policy and Business Regulations
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Economic Times
@@ -16,6 +16,6 @@ sources:
 details:
 - url: https://moef.gov.in/wp-content/uploads/2022/01/Fly-ash-notification-2021.pdf
   name: Notification
-is_analysis: false
+is_newsletter: false
 
 ---

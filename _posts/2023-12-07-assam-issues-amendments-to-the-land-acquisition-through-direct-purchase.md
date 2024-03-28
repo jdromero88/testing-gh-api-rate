@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam issues amendments to the Land Acquisition through Direct Purchase
 date: 2023-08-30T18:08:30.600Z
 states:

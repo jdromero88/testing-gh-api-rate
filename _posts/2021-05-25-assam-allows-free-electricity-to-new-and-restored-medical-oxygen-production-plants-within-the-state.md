@@ -7,10 +7,10 @@ date: 2021-05-25 04:00:00 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 - Health
 subsectors:
-- " Healthcare Workforce"
+- Healthcare Workforce
 - Power and Renewable Energy
 sources:
 - name: Times of India
@@ -18,6 +18,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/himantabiswa/status/1394929195109654528
-is_analysis: false
+is_newsletter: false
 
 ---

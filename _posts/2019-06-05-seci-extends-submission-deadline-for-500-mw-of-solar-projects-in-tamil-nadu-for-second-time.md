@@ -7,7 +7,7 @@ date: 2019-06-05 04:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: ''
   url: ''
-is_analysis: false
+is_newsletter: false
 
 ---
 For the second time, SECI has extended the bid submission deadline for the tender to set up 500 MW (Phase I) of grid-connected solar PV projects in Tamil Nadu on a Build Own Operate basis by a month.

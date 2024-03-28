@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan announces its decision to cut power from non-essential industries
 date: 2023-08-30T18:06:48.085Z
 states:
   - Rajasthan
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

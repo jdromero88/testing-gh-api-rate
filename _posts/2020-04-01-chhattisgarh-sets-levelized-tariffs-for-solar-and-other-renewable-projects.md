@@ -6,7 +6,7 @@ date: 2020-04-01 04:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff Order
   url: http://www.cserc.gov.in/pdf/Order%20in%202020/01%20of%202020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Chhattisgarh State Electricity Commission has issued the final generic levelized tariff regulations for clean energy projects in the state for the current fiscal year.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: JK IT and ITES Policy
   url: http://jkit.nic.in/ORDERS/2020-08-21%20J&K%20IT-ITeS%20Policy%202020..pdf
-is_analysis: false
+is_newsletter: false
 
 ---

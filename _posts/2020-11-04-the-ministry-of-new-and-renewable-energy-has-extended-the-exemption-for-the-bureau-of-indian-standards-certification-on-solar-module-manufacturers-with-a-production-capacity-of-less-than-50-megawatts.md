@@ -9,7 +9,7 @@ states:
 - Center-State Relations
 sectors:
 - Infrastructure and Governance
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -18,6 +18,6 @@ sources:
 details:
 - name: Notification
   url: https://mnre.gov.in/img/documents/uploads/file_f-1603702874221.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

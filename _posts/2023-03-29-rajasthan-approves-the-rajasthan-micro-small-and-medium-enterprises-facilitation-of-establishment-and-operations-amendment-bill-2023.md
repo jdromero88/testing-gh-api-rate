@@ -16,6 +16,6 @@ details:
 - name: Rajasthan Micro, Small and Medium Enterprises (Facilitation of Establishment
     and Operation) (Amendment) Bill, 2023
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e4e8295e-f286-4948-ad87-9161cdaf5f62
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ date: 2022-04-20 07:00:00 +0000
 states:
 - Arunachal Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister's Tweet
   url: https://twitter.com/CNBCTV18Live/status/1513782243294031873?s=20&t=iNm8C_lfUZVhofe0dD9qcQ
-is_analysis: false
+is_newsletter: false
 
 ---

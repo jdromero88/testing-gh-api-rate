@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra cabinet approves the Integrated and Sustainable Textile
   Policy for 2023–2028
 date: 2023-06-07T14:59:34.311Z

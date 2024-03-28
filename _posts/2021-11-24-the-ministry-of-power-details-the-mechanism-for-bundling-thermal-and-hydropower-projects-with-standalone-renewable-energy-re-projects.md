@@ -7,7 +7,7 @@ date: 2021-11-24 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Financial Express
@@ -17,6 +17,6 @@ details:
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1772347
 - name: Order
   url: https://powermin.gov.in/sites/default/files/webform/notices/Scheme_for_Flexibility_in_Generation_and_Scheduling_of_Thermal_Hydro_Power_Stations_through_bundling_with_Renewable_Energy_and_Storage_Power.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

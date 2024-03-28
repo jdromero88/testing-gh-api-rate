@@ -6,7 +6,7 @@ date: 2020-06-17 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - url: https://herc.gov.in/WriteReadData/Orders/O20200601.pdf
   name: Order
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana Electricity Regulatory Commission waives off renewable purchase obligation backlogs up to 2019 for distribution utilities.

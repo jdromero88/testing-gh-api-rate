@@ -7,7 +7,7 @@ date: 2021-10-27 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Hindustan Times
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Tweet from State Minister
   url: https://twitter.com/BansodeSpeaks/status/1451622986260250627?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

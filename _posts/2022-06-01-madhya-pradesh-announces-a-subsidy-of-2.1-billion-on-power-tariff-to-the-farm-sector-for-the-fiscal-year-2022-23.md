@@ -7,7 +7,7 @@ date: 2022-06-01 04:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Cabinet Decisions
   url: https://www.mpinfo.org/Home/CabinetDetails?newsid=220524S20&fontname=FontEnglish&LocID=32&pubdate=05/24/2022
-is_analysis: false
+is_newsletter: false
 
 ---

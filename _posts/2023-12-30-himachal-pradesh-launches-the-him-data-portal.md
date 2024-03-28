@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh launches the Him Data Portal
 date: 2023-05-17T06:49:00.746Z
 states:

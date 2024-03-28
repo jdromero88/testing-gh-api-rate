@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi Women and Child Development Department approves various measures
   for transgender people
 date: 2023-10-18T15:00:00.072Z

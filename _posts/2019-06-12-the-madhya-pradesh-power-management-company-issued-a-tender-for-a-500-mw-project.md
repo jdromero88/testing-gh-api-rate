@@ -6,7 +6,7 @@ date: 2019-06-12 04:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Expression of Interest
   url: https://mppmcl.com/MPPMCLIABS/DisplayPDF?FileName=Tenders/Enq_EnergyStorage_771_03062019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Madhya Pradesh Power Management Company Limited has issued an expression of interest inviting energy storage companies to set up a 500 MW project in Madhya Pradesh.

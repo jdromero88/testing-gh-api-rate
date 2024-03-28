@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan tables the Rajasthan Platform Based GIG Workers (registration
   and welfare) Bill, 2023
 date: 2023-07-26T19:16:46.022Z

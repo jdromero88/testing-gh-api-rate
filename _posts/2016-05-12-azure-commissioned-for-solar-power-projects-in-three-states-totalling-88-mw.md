@@ -9,7 +9,7 @@ states:
 - Punjab
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

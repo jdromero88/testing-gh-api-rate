@@ -6,7 +6,7 @@ date: 2019-05-22 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: CERC Order
   url: http://www.cercind.gov.in/2019/orders/8&284-MP-2018.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Central Electricity Regulatory Commission (CERC) issued an order allowing GMR Group to run its power plant on imported coal in the event of coal shortage, and to seek compensation for the extra costs. The order will apply to all power plants in India, which will be a significant development for India’s power generation industry, which continues to grapple with stressed assets.

@@ -7,7 +7,7 @@ date: 2022-03-02 08:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Mercom
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Amendments
   url: https://powermin.gov.in/sites/default/files/webform/notices/Amendments%20to%20the%20Guidelines.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

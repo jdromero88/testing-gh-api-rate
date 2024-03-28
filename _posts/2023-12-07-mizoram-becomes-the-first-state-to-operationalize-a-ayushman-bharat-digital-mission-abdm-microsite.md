@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Mizoram becomes the first state to operationalize a Ayushman Bharat
   Digital Mission (ABDM) microsite
 date: 2023-08-30T18:13:23.408Z

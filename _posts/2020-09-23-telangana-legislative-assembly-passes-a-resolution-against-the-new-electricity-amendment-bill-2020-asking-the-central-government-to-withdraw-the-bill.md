@@ -7,7 +7,7 @@ date: 2020-09-23 04:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Power and Renewable Energy
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Telangana State Government Resolution
   url: https://legislation.telanganalegislature.org.in/PreviewPage.tsl?filePath=basePath&fileName=ResolutionOrdinance/Files/Eng_ResolutionE15_85.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

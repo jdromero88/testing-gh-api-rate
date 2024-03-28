@@ -4,7 +4,7 @@ date: 2017-07-19 00:00:00 Z
 states:
 - Goa
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

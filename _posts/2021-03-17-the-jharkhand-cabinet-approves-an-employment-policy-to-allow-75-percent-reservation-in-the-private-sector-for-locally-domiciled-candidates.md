@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet (In Hindi)
   url: https://twitter.com/HemantSorenJMM/status/1371429859939950593?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

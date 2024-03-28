@@ -7,7 +7,7 @@ tags:
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

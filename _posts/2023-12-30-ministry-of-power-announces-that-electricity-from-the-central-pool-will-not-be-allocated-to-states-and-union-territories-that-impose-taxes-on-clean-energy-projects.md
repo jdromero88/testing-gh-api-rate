@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Power announces that electricity from the central pool will
   not be allocated to states and Union Territories that impose taxes on clean
   energy projects
@@ -10,7 +10,7 @@ date: 2023-04-19T19:42:12.114Z
 states:
   - Center-State Relations
 sectors:
-  - Energy
+  - Climate Change and Energy
 sources:
   - name: Economic Times
     url: https://economictimes.indiatimes.com/industry/energy/power/govt-sets-criteria-for-allocation-of-power-from-central-pool-to-states-uts/articleshow/99297037.cms?from=mdr

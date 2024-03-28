@@ -6,7 +6,7 @@ date: 2020-11-11 05:00:00 +0000
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff Order
   url: https://karunadu.karnataka.gov.in/kerc/Tariff%20Order%202020/Orders/Press%20Note/English_Press_Note_2020_Ver_5.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The **Karnataka** Electricity Regulatory Commission announces a 5.4 percent increase in power tariff. The hike is effective from November 1, 2020.

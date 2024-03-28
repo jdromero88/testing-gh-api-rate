@@ -7,7 +7,7 @@ date: 2022-05-18 07:00:00 +0000
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: http://www.ksge.in/2022/05/decision-to-increase-amount-of-free.html
-is_analysis: false
+is_newsletter: false
 
 ---

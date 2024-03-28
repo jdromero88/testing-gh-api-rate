@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget Speech
   url: https://finance.karnataka.gov.in/storage/pdf-files/01-Budget%20Speech%20(English)%20Final.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

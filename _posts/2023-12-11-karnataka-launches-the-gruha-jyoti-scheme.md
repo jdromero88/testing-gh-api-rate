@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka launches the Gruha Jyoti scheme
 date: 2023-08-08T15:00:25.872Z
 states:
   - Karnataka
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

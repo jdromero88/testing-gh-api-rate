@@ -17,6 +17,6 @@ sources:
 details:
 - name: ANI Twitter
   url: https://twitter.com/ANI/status/1559155941723238400?ref_src=twsrc%5Etfw
-is_analysis: false
+is_newsletter: false
 
 ---

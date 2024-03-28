@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tripura releases the Tripura Energy Vision 2030 Road Map
 date: 2023-08-02T16:24:16.344Z
 states:
   - Tripura
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power
   - Renewables

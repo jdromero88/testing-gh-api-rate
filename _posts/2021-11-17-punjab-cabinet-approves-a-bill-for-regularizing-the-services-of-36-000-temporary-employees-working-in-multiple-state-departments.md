@@ -17,6 +17,6 @@ details:
   url: http://www.punjabassembly.nic.in/images/docs/BillNo.%2038-PLA-2021.PDF.pdf
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-cabinet-okays-punjab-protection-and-regularization-contractual-employees-bill-2021
-is_analysis: false
+is_newsletter: false
 
 ---

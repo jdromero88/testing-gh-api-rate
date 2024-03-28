@@ -7,7 +7,7 @@ date: 2020-11-04 05:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Energy-related Transportation
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Industries and IT Minister Tweet
   url: https://twitter.com/KTRTRS/status/1322126641590665218
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -6,7 +6,7 @@ date: 2022-03-30 07:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: The Hindu
@@ -14,6 +14,6 @@ sources:
 details:
 - name: Government Order
   url: https://cms.tn.gov.in/sites/default/files/go/spi_e_3_2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ date: 2022-08-03 04:00:00 +0000
 states:
 - Punjab
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: DT Next
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-signs-mou-international-organization-fight-climate-change
-is_analysis: false
+is_newsletter: false
 
 ---

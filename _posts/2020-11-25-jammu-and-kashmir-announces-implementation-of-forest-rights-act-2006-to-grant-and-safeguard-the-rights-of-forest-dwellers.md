@@ -15,6 +15,6 @@ sources:
 details:
 - name: DIPR-J&K’s Tweet
   url: https://twitter.com/diprjk/status/1329024544032522240?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

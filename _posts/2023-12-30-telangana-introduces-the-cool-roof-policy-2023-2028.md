@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana introduces the Cool Roof Policy 2023-2028
 date: 2023-04-12T21:20:09.084Z
 states:
   - Telangana
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
 sources:

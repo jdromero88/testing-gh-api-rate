@@ -6,7 +6,7 @@ date: 2021-06-10 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Ministry of Power
   url: https://powermin.gov.in/sites/default/files/webform/notices/revised_discussion_paper_on_REC_mechanism_07_June_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

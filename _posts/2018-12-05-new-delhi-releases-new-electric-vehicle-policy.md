@@ -6,7 +6,7 @@ date: 2018-12-05 05:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Draft Delhi Electric Vehicle Policy 2018
   url: http://transport.delhi.gov.in/sites/default/files/All-PDF/Electric%20Policy%202018.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 In a bid to combat air pollution, the New Delhi government has proposed that 25 percent of all vehicles should be electric by 2023, and released the draft of the Delhi Electric Vehicle Policy 2018 for public comments and feedback. 

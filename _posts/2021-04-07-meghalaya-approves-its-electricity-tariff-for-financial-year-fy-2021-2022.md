@@ -7,7 +7,7 @@ states:
 - Meghalaya
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff order
   url: http://www.mserc.gov.in/orders/Orders_2021/TariffOrder_ARR_2021-22_MePDCL.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

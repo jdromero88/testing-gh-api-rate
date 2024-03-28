@@ -8,7 +8,7 @@ date: 2020-06-17 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Energy-related Transportation
@@ -18,7 +18,7 @@ sources:
 details:
 - name: Ministry of Power
   url: https://powermin.nic.in/sites/default/files/webform/notices/Amendment%20in%20Revised%20Guidelines.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ministry of Power issues revised guidelines for electric vehicle charging infrastructure. Further, the amendment caps the per unit cost of electricity used for a public charging station.

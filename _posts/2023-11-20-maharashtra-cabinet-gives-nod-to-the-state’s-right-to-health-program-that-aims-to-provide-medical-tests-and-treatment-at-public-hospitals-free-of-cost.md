@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra cabinet gives nod to the state’s Right to Health program that
   aims to provide medical tests and treatment at public hospitals free of cost
 date: 2023-08-08T20:45:18.546Z

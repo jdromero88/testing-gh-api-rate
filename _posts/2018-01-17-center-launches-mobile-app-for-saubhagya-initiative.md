@@ -4,7 +4,7 @@ date: 2018-01-17 16:55:00 Z
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha amends the Odisha MSME Development Policy, 2022
 date: 2023-12-13T19:42:08.039Z
 states:

@@ -13,6 +13,6 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/news/economy/policy/government-extends-benefits-of-tax-refund-scheme-to-all-export-goods/articleshow/80050267.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

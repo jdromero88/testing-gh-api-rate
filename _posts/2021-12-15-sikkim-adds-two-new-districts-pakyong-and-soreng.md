@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://sikkim.gov.in/uploads/SikkimHerald/English_8Dec_0_20211208.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

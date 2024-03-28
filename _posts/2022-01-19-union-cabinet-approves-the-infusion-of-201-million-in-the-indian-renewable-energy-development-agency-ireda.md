@@ -7,8 +7,7 @@ date: 2022-01-19 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -19,6 +18,6 @@ details:
   url: https://www.ireda.in/images/pressrelease/Press-Release_equity-infusion_19.01.2022.pdf
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1790941
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,7 +13,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/news/politics-and-nation/west-bengal-told-to-return-rs-193-crore-received-under-ayushman-bharat/articleshow/68089072.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The center has asked the West Bengal government to return the $27.16 million it had received for the central government’s Ayushman Bharat health insurance program, along with any interest earned, following the state’s withdrawal from the program.

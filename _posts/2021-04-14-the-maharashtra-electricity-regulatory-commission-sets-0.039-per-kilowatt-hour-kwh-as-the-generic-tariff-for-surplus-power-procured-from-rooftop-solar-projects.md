@@ -7,7 +7,7 @@ date: 2021-04-14 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://www.merc.gov.in/faces/merc/common/outputClient.xhtml
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ date: 2021-06-16 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Mercom
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notice
   url: https://powermin.gov.in/sites/default/files/webform/notices/Seeking_comments_on_Discussion_Paper_on_Market_Based_Economic_Dispatch_MBED.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

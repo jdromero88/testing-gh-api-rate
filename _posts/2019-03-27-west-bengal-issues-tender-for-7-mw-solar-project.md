@@ -6,7 +6,7 @@ date: 2019-03-27 04:00:00 +0000
 states:
 - West Bengal
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender Details
   url: http://www.wbreda.org/wp-content/uploads/2019/03/NIT.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The West Bengal Renewable Energy Development Agency issued a tender for the development of a 7 MW grid-connected solar PV power plant on turnkey basis at Durgapur, West Bengal. The last date for bid submission is April 10, 2019, and bids will be announced on April 17, 2019.

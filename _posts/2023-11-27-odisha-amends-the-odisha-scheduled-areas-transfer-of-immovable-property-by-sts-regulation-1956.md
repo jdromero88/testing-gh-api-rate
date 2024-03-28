@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha amends the Odisha Scheduled Areas Transfer of Immovable Property
   (by STs) Regulation, 1956
 date: 2023-11-22T16:29:24.988Z

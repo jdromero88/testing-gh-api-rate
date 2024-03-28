@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka revises the transaction value of properties in Bengaluru
 date: 2023-09-28T03:40:01.807Z
 states:

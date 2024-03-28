@@ -7,7 +7,7 @@ date: 2020-11-18 05:00:00 +0000
 states:
 - Nagaland
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: http://nagalandtax.nic.in/docs/Notification/Act/Issued%20by%20Finance%20Department/Petroleum/2020/Petro%20rate.jpg
-is_analysis: false
+is_newsletter: false
 
 ---

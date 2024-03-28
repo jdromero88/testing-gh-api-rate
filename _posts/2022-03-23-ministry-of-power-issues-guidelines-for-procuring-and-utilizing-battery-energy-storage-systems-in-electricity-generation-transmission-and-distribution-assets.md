@@ -7,7 +7,7 @@ date: 2022-03-23 07:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Livemint
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Guidelines
   url: https://powermin.gov.in/sites/default/files/webform/notices/BESS.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://www.greaternoidaauthority.in/oo_emp_15321
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,7 +16,7 @@ sources:
 details:
 - name: World Economic Forum India Brochure
   url: https://weforum.ent.box.com/v/C4IR-India
-is_analysis: false
+is_newsletter: false
 
 ---
 The World Economic Forum’s Centre for the Fourth Industrial Revolution Network and the Telangana government announced they are set to launch an innovative project, Medicine from the Sky, to deliver emergency medical supplies such as blood and vaccines via drones.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Tamil Nadu Budget
   url: https://tnbudget.tn.gov.in/tnweb_files/demands/61%20Annual_Financial_statements.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

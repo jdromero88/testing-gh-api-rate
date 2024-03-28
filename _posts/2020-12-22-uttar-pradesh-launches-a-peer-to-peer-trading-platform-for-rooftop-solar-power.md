@@ -6,13 +6,13 @@ date: 2020-12-22 05:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
 - name: Mercom
   url: https://mercomindia.com/uttar-pradesh-blockchain-rooftop-solar-trading/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

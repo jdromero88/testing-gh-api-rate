@@ -7,8 +7,8 @@ date: 2022-01-05 05:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Car and Bike
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Maharashtra Minister of Tourism and Environment’s Twitter
   url: https://twitter.com/AUThackeray/status/1476897849262493698
-is_analysis: false
+is_newsletter: false
 
 ---

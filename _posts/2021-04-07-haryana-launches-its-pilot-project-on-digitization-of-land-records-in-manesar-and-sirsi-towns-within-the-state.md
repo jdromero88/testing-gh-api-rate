@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.prharyana.gov.in/en/manesar-tehsil-of-gurugram-and-sirsi-village-of-karnal-have-been-selected-for-implementation-of-the
-is_analysis: false
+is_newsletter: false
 
 ---

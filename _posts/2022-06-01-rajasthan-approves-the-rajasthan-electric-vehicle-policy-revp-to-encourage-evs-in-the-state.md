@@ -7,8 +7,7 @@ date: 2022-06-01 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 - Power and Renewable Energy
@@ -20,6 +19,6 @@ details:
   name: CMO Twitter (in Hindi)
 - url: https://evreporter.com/wp-content/uploads/2021/07/RJ-EV-Policy.pdf
   name: Policy (in Hindi)
-is_analysis: false
+is_newsletter: false
 
 ---

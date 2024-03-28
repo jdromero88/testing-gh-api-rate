@@ -7,7 +7,7 @@ date: 2019-01-30 05:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Petition Details
   url: https://herc.gov.in/writereaddata/orders/o20190110.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana Electricity Regulatory Commission issued an order approving the power purchase agreements of solar projects totaling 23 MW.

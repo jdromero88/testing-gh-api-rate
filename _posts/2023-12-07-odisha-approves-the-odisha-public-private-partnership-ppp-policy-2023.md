@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha approves the Odisha Public Private Partnership (PPP) Policy 2023
 date: 2023-08-16T18:41:18.495Z
 states:

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://cabinet.odisha.gov.in/UploadedDOC/21236_MEDIA_1.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

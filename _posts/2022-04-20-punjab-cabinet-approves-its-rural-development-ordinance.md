@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/cabinet-approves-punjab-rural-development-amendment-ordinance-2022
-is_analysis: false
+is_newsletter: false
 
 ---

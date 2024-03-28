@@ -6,7 +6,7 @@ date: 2019-12-04T05:00:00.000+00:00
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -17,7 +17,7 @@ sources:
 details:
 - name: BSES & OLA Electric Press Release
   url: https://www.bsesdelhi.com/documents/73527/1190198003/Press_Release_Ola_Nov_25.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Two memorandums of understanding (MOUs) were signed in an effort to set up new public electric vehicle battery swapping and charging stations in an effort to hasten the adoption of e-mobility in Delhi.

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Civil Aviation launches UDAN 5.0
 date: 2023-04-26T19:24:45.546Z
 states:

@@ -6,7 +6,7 @@ date: 2018-11-28 05:00:00 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://www.worldbank.org/en/news/press-release/2018/11/20/agreement-signed-new-power-support-24x7-power-for-all-jharkhand
-is_analysis: false
+is_newsletter: false
 
 ---
 The center and the Jharkhand government signed an agreement with the World Bank for a  $310 million loan to boost the state’s power system, mainly transmission infrastructure. 

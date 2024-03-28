@@ -10,7 +10,7 @@ states:
 - Jharkhand
 - West Bengal
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 - Oil and Gas

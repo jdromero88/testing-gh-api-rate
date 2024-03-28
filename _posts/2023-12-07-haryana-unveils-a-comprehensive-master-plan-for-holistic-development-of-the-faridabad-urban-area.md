@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana unveils a comprehensive master plan for holistic development of
   the Faridabad urban area
 date: 2023-09-06T17:51:14.442Z

@@ -13,6 +13,6 @@ sources:
 - name: Deccan Chronicle
   url: https://www.deccanchronicle.com/nation/current-affairs/270820/telangana-gets-tough-on-illegal-layouts-bans-registration-of-unapprov.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

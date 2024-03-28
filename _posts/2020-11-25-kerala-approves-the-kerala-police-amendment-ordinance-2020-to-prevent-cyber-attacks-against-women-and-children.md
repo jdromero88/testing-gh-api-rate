@@ -15,6 +15,6 @@ sources:
 details:
 - name: The Kerala Police (Amendment) Ordinance, 2020
   url: https://www.barandbench.com/news/kerala-police-act-amendment-section-118a-online-communication-ordinance-governor
-is_analysis: false
+is_newsletter: false
 
 ---

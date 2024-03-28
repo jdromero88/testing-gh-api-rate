@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Union Ministry of Chemicals and Fertilizers approves the PM-PRANAM scheme
 date: 2023-07-05T20:11:39.181Z
 states:

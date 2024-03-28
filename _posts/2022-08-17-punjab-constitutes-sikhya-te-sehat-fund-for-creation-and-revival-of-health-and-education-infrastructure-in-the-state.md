@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/cabinet-led-cm-gives-approval-constituting-sikhya-te-sehat-fund
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -5,7 +5,7 @@ states:
 - Chhattisgarh
 - Center-state Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

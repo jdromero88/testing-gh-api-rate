@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa announces a hike in the state-levied infrastructure tax
 date: 2023-04-12T21:16:34.209Z
 states:

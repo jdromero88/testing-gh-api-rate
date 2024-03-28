@@ -4,9 +4,8 @@ date: 2017-01-26 00:00:00 Z
 states:
 - West Bengal
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
-- 
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/bhel-commissions-500-mw-thermal-unit-in-west-bengal/articleshow/56597486.cms

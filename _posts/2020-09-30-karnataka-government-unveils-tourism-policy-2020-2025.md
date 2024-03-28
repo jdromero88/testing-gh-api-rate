@@ -14,6 +14,6 @@ sources:
 details:
 - name: CM’s Tweet
   url: https://twitter.com/BSYBJP/status/1310152467313696773?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,6 +13,6 @@ sources:
 - name: New Indian Express
   url: https://www.newindianexpress.com/states/odisha/2020/nov/25/odisha-assembly-passes-threebills-to-boost-industrial-growth-2227846.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

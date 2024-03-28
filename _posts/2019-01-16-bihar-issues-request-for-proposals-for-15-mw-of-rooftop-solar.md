@@ -6,14 +6,14 @@ date: 2019-01-16 05:00:00 +0000
 states:
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
 - name: Mercom
   url: https://mercomindia.com/breda-rooftop-solar-rfs-15-mw/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Bihar Renewable Energy Development Agency has issued a request for proposal for the installation of 15 megawatts (MW) of grid connected rooftop solar PV systems.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/himantabiswa/status/1391669671527550976?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

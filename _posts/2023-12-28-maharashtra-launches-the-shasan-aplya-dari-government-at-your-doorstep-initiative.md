@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra launches the Shasan Aplya Dari (government at your doorstep)
   initiative
 date: 2023-05-31T15:20:16.593Z

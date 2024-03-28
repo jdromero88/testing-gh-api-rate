@@ -7,8 +7,7 @@ date: 2022-02-09 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -17,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1797674
-is_analysis: false
+is_newsletter: false
 
 ---

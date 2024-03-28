@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh releases the Scheme for Implementation of Pumped Hydro
   Storage (PHS) Projects
 date: 2023-05-17T06:49:51.618Z
 states:
   - Madhya Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

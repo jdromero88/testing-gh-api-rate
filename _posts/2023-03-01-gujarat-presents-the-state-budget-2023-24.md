@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2023-24 (in Gujarati)
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:368eb58c-77f6-4738-8fe0-ce7ed46070c3
-is_analysis: false
+is_newsletter: false
 
 ---

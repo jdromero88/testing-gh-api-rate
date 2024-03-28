@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi proposes the Industrial and Economic Development Policy 2023–33
 date: 2023-10-25T14:29:42.788Z
 states:

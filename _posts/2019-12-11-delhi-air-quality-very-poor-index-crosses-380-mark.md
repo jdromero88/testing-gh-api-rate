@@ -13,7 +13,7 @@ sources:
 - name: NDTV
   url: https://www.ndtv.com/delhi-news/delhi-pollution-air-quality-very-poor-aqi-crosses-380-mark-2144823
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The air quality of the national capital reached and remained at the “very poor” level for multiple days with some areas dipping into the “severe” category on the air quality index.

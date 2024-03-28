@@ -15,6 +15,6 @@ sources:
 details:
 - name: India Innovation Index
   url: https://niti.gov.in/sites/default/files/2021-01/IndiaInnovationReport2020Book.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

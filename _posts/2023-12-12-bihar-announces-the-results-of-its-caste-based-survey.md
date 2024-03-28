@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bihar announces the results of its caste-based survey
 date: 2023-10-04T18:33:15.143Z
 states:

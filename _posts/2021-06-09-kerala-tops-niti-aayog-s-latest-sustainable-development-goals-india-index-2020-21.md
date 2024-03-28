@@ -14,6 +14,6 @@ sources:
 details:
 - name: SDG Index
   url: https://sdgindiaindex.niti.gov.in/#/ranking
-is_analysis: false
+is_newsletter: false
 
 ---

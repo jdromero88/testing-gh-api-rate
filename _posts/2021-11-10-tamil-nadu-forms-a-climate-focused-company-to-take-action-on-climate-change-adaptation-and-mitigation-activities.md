@@ -7,7 +7,7 @@ date: 2021-11-10 05:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: The Federal
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://twitter.com/supriyasahuias/status/1456191517211566084?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

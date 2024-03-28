@@ -14,6 +14,6 @@ sources:
 - url: https://www.freepressjournal.in/mumbai/maharashtra-government-cuts-stamp-duty-on-lease-agreements-of-immovable-property
   name: Free Press Journal
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

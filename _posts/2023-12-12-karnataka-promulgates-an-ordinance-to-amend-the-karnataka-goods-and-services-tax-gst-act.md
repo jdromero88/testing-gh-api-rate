@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka promulgates an ordinance to amend the Karnataka Goods and
   Services Tax (GST) Act
 date: 2023-10-04T18:24:18.702Z

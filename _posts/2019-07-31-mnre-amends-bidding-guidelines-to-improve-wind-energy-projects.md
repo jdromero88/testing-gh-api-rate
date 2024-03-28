@@ -6,7 +6,7 @@ date: 2019-07-31 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Amendment to the Guidelines
   url: https://mnre.gov.in/sites/default/files/schemes/WBG%20Amendments%20gazette.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ministry of New and Renewable Energy (MNRE) has amended the standard bidding guidelines for wind projects to overcome delays in land acquisition, to reduce investment risks, and to incentivize early part commissioning of projects**.**

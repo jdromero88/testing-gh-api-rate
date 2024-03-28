@@ -16,6 +16,6 @@ sources:
 details:
 - name: Scheme Details
   url: https://egazette.nic.in/WriteReadData/2019/209476.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha passes the Right to Fair Compensation and Transparency in Land
   Acquisition, Rehabilitation and Resettlement (Odisha amendment) Bill–2023
 date: 2023-10-04T18:27:24.637Z

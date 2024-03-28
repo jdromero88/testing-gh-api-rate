@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Election Commission of India releases its draft proposal for the
   delimitation in Assam
 date: 2023-06-28T14:16:00.010Z

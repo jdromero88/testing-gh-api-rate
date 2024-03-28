@@ -15,6 +15,6 @@ sources:
 details:
 - name: Election Commission of India - Results
   url: https://results.eci.gov.in/Result2021/partywiseresult-S11.htm?st=S11
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,7 +15,7 @@ sources:
 details:
 - name: Haryana Government Press Release
   url: https://prharyana.gov.in/hi/node/22851
-is_analysis: false
+is_newsletter: false
 
 ---
 The state government has decided to provide special benefits, including nutritional support, to tuberculosis patients in an effort to eliminate the infectious disease by 2025.

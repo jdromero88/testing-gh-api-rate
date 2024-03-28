@@ -7,7 +7,7 @@ date: 2021-12-29 05:00:00 +0000
 states:
 - Odisha
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister's Office
   url: https://twitter.com/CMO_Odisha/status/1474405013183242244/
-is_analysis: false
+is_newsletter: false
 
 ---

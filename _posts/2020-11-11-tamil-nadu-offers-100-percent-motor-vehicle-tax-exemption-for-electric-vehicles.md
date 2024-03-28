@@ -6,7 +6,7 @@ date: 2020-11-11 05:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Energy-related Transportation
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Guidance Tamil Nadu's Tweet
   url: https://twitter.com/Guidance_TN/status/1323249301456187392?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ date: 2021-02-03 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Power and Renewable Energy
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Budget details
   url: https://www.indiabudget.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

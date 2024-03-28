@@ -6,7 +6,7 @@ date: 2018-12-19 05:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -16,7 +16,7 @@ details:
 - name: Addendum/Amendment to Uttar Pradesh Electricity Regulatory Commission (Fees
     and Fines) Regulations, 2010
   url: http://www.uperc.org/App_File/FirstAddendum-AmendmenttoUttarPradeshElectricityRegulatoryCommission(FEESANDFINES)Regulations2010-pdf1211201855115PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh electricity regularity commission decided to provide five percent rebate to rural consumers who pay their bill on time. The commission had earlier decided on a one percent rebate.

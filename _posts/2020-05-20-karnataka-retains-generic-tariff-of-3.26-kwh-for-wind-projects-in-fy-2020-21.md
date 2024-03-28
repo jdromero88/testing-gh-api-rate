@@ -6,7 +6,7 @@ date: 2020-05-20 04:00:00 +0000
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff Order
   url: https://karunadu.karnataka.gov.in/kerc/Documents/Determination%20of%20Generic%20Tariff%20for%20wind%20Power%20Project%20for%20FY%202020-21.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Karnataka Electricity Regulatory Commission has issued an order stating that the generic tariff for wind power projects will continue to remain the same at \~$0.04 per kilowatt-hour as determined in February 2019.

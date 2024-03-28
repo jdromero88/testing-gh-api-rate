@@ -6,7 +6,7 @@ date: 2020-06-24 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1632309
-is_analysis: false
+is_newsletter: false
 
 ---
 The government launches auction of 41 coal mines with total geological coal reserve of 17 billion tons for commercial mining.

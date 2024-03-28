@@ -8,7 +8,7 @@ date: 2021-08-18 04:00:00 +0000
 states:
 - Uttarakhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Order
   url: http://www.uerc.gov.in/Draft%20documents/2021/July/Draft%20Order%20dt.%2030.07.21%20on%20benchmark%20capital%20cost/Draft%20Order%20dt.%2030.07.21%20on%20benchmark%20capital%20cost.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ date: 2021-03-31 04:00:00 +0000
 states:
 - West Bengal
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://wberc.gov.in/sites/default/files/WBERC_A-82_1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

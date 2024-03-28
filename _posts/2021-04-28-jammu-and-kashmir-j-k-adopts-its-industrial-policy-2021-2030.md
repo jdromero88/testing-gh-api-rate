@@ -14,6 +14,6 @@ sources:
 details:
 - name: The Policy
   url: http://jkindustriescommerce.nic.in/Orders%202021/117%20IND%20OF%202021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

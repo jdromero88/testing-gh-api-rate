@@ -6,7 +6,7 @@ date: 2022-04-20 07:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1816315
-is_analysis: false
+is_newsletter: false
 
 ---

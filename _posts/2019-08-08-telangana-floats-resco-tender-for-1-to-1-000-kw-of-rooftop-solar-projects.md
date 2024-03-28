@@ -6,7 +6,7 @@ date: 2019-08-08 04:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tender Details
   url: https://tsredco.telangana.gov.in/PDFs/Tender_ID_135807.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Telangana State Renewable Energy Development Corporation Limited has floated a tender for 1-1,000 kilowatt of grid-connected rooftop solar power projects. The bid submission deadline is August 13, 2019, and the technical bids will be opened on the same date. The price bids will be opened on August 16, 2019.

@@ -9,7 +9,7 @@ tags:
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 - Power

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://prdlive.kerala.gov.in/news/201801
-is_analysis: false
+is_newsletter: false
 
 ---

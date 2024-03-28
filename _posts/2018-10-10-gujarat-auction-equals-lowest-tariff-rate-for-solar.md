@@ -1,13 +1,13 @@
 ---
 title: Gujarat auction equals lowest tariff rate for solar
 content_type: articles
-is_analysis: true
+is_newsletter: true
 breadcrumbs: articles
 date: 2018-10-10 13:50:01 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

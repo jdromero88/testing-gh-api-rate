@@ -7,7 +7,7 @@ date: 2022-04-06 07:00:00 +0000
 states:
 - Mizoram
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://jerc.mizoram.gov.in/uploads/attachments/2022/03/8c238f8da55f48d87d8cef813f919a5f/ped-tariff-order-for-fy2022-23-converted.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

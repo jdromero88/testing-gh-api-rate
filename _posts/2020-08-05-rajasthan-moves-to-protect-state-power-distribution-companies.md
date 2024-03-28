@@ -6,7 +6,7 @@ date: 2020-08-05 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Draft RERC
   url: https://rerc.rajasthan.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---
 Rajasthan joins Maharashtra, Andhra Pradesh, Karnataka and Telangana, in restricting large consumers from buying power from the open market to protect state power distribution companies.

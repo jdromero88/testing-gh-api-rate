@@ -13,6 +13,6 @@ sources:
 - name: Economic Times
   url: https://realty.economictimes.indiatimes.com/news/residential/karnataka-cuts-stamp-duty-to-3-on-apartments-below-rs-45-lakh/84667089
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

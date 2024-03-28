@@ -15,6 +15,6 @@ sources:
 details:
 - name: Government of UP's Twitter
   url: https://twitter.com/UPGovt/status/1477506064669020162
-is_analysis: false
+is_newsletter: false
 
 ---

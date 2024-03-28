@@ -7,7 +7,7 @@ states:
 - Rajasthan
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 - Power and Renewable Energy
@@ -17,6 +17,6 @@ sources:
 details:
 - name: CMO Press release
   url: https://cmo.rajasthan.gov.in/pressreleasedetail/82886
-is_analysis: false
+is_newsletter: false
 
 ---

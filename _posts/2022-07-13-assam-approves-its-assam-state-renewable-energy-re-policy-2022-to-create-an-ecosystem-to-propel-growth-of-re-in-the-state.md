@@ -7,8 +7,7 @@ date: 2022-07-13 04:00:00 +0000
 states:
 - Assam
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +16,6 @@ sources:
 details:
 - name: Cabinet Decisions
   url: https://cm.assam.gov.in/asm/cabinet-decisions-details?articleId=250355
-is_analysis: false
+is_newsletter: false
 
 ---

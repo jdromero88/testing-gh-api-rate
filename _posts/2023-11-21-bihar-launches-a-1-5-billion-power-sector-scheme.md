@@ -2,14 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bihar launches a $1.5 billion power sector scheme
 date: 2023-11-08T22:39:18.214Z
 states:
   - Bihar
 sectors:
-  - Energy
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

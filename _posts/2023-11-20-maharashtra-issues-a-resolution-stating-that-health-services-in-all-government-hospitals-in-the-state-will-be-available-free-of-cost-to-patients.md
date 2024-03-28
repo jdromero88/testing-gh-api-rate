@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra issues a resolution stating that health services, in all
   government hospitals in the state will be available free of cost to patients
 date: 2023-08-30T20:42:09.403Z

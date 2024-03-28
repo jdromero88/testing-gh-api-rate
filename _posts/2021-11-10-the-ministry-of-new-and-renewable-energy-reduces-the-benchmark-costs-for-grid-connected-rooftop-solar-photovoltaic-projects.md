@@ -7,7 +7,7 @@ date: 2021-11-10 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Mercom
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://mnre.gov.in/img/documents/uploads/file_f-1635476034313.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

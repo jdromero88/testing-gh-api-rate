@@ -7,7 +7,7 @@ date: 2020-09-02 04:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: DERC Press Release
   url: http://www.derc.gov.in/Press%20Release/Press%20Release%20-%2028.08.2020/Press%20Release%20-%20english.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

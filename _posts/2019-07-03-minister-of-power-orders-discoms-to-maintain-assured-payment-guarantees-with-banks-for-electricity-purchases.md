@@ -7,7 +7,7 @@ date: 2019-07-03 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1576243
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ministry of Power issued an order aimed at taming defaulting power distribution companies (discoms), asking them to maintain assured payment guarantees with banks for electricity purchases. Experts said the move is a bold measure by the central government and can address almost four-decade old issue of indiscipline by discoms.

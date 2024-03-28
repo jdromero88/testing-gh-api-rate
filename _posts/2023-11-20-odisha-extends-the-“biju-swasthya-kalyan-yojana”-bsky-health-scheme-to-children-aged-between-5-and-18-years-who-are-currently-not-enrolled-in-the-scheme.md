@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha extends the “Biju Swasthya Kalyan Yojana” (BSKY) health scheme to
   children aged between 5 and 18 years who are currently not enrolled in the
   scheme

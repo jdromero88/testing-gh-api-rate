@@ -18,6 +18,6 @@ details:
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1830484
 - name: Guidelines
   url: http://www.dcmsme.gov.in/schemes/Guidlines.07.8.19.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

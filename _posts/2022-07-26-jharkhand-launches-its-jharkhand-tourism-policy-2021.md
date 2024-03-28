@@ -13,6 +13,6 @@ sources:
 details:
 - name: Policy
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:86abce75-6c8a-4560-b3ab-c5cdafd47e35
-is_analysis: false
+is_newsletter: false
 
 ---

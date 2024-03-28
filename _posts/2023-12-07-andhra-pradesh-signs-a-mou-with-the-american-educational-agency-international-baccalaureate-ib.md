@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh signs a MoU with the American educational agency
   International Baccalaureate (IB)
 date: 2023-09-28T03:43:42.137Z

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: http://www.diprpunjab.gov.in/?q=content/punjab-cm-orders-shutdown-industrial-operations-iron-steel-plants-divert-o2-medical-use
-is_analysis: false
+is_newsletter: false
 
 ---

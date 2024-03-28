@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh cabinet approves the construction of two thermal power
   projects in Sonbhadra
 date: 2023-07-19T19:41:40.595Z
 states:
   - Uttar Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Renewables

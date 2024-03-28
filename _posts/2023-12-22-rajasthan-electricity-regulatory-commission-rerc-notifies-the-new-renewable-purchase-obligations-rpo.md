@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan Electricity Regulatory Commission (RERC) notifies the new
   renewable purchase obligations (RPO)
 date: 2023-06-21T17:28:02.414Z
 states:
   - Rajasthan
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

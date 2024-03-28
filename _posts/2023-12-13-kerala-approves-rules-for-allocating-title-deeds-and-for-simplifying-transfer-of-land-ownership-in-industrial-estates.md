@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala approves rules for allocating title deeds and for simplifying
   transfer of land ownership in industrial estates
 date: 2023-12-13T19:43:31.215Z

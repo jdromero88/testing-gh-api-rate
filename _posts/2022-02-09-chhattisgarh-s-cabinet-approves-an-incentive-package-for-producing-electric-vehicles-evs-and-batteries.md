@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chhattisgarh Press Release
   url: https://dprcg.gov.in/post/1643714168/Cabinet_Meeting_:_Date-_01_February_2022
-is_analysis: false
+is_newsletter: false
 
 ---

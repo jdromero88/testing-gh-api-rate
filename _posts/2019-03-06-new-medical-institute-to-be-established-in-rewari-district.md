@@ -13,7 +13,7 @@ sources:
 - name: NDTV
   url: https://www.ndtv.com/india-news/union-cabinet-approves-setting-up-of-aiims-in-haryana-2000920
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Union Cabinet approved the establishment of a new All India Institute for Medical Sciences at Manethi in Rewari District, Haryana at a cost of $182.7 million.

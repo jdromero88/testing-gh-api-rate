@@ -12,6 +12,6 @@ sources:
 - name: New Indian Express
   url: https://www.newindianexpress.com/states/andhra-pradesh/2020/aug/11/andhra-pradesh-government-enhances-land-value-in-urban-areas-eyes-additional-revenue-2181851.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

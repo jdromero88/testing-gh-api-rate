@@ -7,7 +7,7 @@ date: 2020-11-04 05:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Energy-related Transportation
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-cm-extends-100-tax-waiver-bus-operators-till-dec-31-defers-payment-arrears-march-31
-is_analysis: false
+is_newsletter: false
 
 ---

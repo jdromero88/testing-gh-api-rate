@@ -12,7 +12,7 @@ sources:
 - name: The Hindu
   url: https://www.thehindu.com/news/national/tamil-nadu/govt-signs-pact-with-gates-foundation/article29462969.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Tamil Nadu government inked a memorandum of understanding (MOU) with the Bill and Melinda Gates Foundation over fecal sludge treatment plants in corporations, municipalities, and town panchayats across the state with financial assistance of $3.61 million during the next two years.

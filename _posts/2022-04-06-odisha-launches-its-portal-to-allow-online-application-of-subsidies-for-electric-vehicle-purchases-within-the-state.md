@@ -7,8 +7,7 @@ date: 2022-04-06 07:00:00 +0000
 states:
 - Odisha
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -17,6 +16,6 @@ sources:
 details:
 - name: Transport Authority's Tweet
   url: https://twitter.com/STAOdisha/status/1510122906210439171?s=20&t=QOO-wFF1e8oYFWdUp-Karw
-is_analysis: false
+is_newsletter: false
 
 ---

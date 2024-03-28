@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jharkhand launches air ambulance services from seven centres, including Ranchi
 date: 2023-05-03T15:08:43.798Z
 states:

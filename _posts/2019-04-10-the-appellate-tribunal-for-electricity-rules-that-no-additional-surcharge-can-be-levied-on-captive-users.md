@@ -7,7 +7,7 @@ date: 2019-04-10 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Appellate Tribunal for Electricity ruling
   url: http://aptel.gov.in/judgements/Judg2019/IA.No.%20354%20of%202019%20in%20A.No.%2078%20of%202019_03.04.19.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Appellate Tribunal for Electricity decided that no additional surcharge can be levied on captive users, overruling another order passed by Maharashtra Electricity Regulatory Commission in September 2018.

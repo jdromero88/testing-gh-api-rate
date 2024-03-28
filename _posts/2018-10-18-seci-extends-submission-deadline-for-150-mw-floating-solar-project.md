@@ -6,7 +6,7 @@ date: 2018-10-18 14:45:43 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Notice of Extension
   url: http://seci.co.in/show_whats_new.php?id=759
-is_analysis: false
+is_newsletter: false
 
 ---
 Solar Energy Corporation of India has extended the deadline for submissions for its tender for 150 MW of floating solar to be developed over the Rihand Dam in the Sonbhadra district of Uttar Pradesh.     

@@ -12,6 +12,6 @@ sources:
 - name: The Hindu
   url: https://www.thehindu.com/incoming/jk-govt-approves-first-ever-fdi-policy-for-ut/article65077990.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

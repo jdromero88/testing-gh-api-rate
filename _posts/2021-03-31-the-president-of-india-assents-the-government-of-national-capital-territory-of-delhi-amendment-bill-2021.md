@@ -16,6 +16,6 @@ sources:
 details:
 - name: The Bill
   url: https://prsindia.org/files/bill_track/2021-03-15/The%20Government%20of%20National%20Capital%20Territory%20of%20Delhi%20(Amendment)%20Bill,%202021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

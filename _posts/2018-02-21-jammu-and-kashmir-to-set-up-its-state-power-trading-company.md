@@ -4,7 +4,7 @@ date: 2018-02-21 19:34:00 Z
 states:
 - Jammu and Kashmir
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

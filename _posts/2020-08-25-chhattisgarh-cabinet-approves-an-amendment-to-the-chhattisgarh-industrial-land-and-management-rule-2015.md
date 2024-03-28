@@ -15,6 +15,6 @@ sources:
 details:
 - name: Unedited Assembly Proceedings (In Hindi)
   url: http://www.cgvidhansabha.gov.in/hindi_new/satra/fifth_assembly/seventh/proc25082020/proc25082020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

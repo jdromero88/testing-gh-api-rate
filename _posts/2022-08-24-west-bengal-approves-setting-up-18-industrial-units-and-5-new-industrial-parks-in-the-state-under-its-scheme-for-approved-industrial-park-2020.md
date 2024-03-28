@@ -15,6 +15,6 @@ sources:
 details:
 - name: Scheme Notification
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d22b3e87-6e95-42a1-b118-eb6201f9d598
-is_analysis: false
+is_newsletter: false
 
 ---

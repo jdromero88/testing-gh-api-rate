@@ -7,7 +7,7 @@ date: 2020-11-18 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors:
 - Power and Renewable Energy
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1671912
-is_analysis: false
+is_newsletter: false
 
 ---

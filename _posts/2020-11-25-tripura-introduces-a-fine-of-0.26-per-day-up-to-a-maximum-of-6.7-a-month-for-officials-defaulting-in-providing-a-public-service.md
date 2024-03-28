@@ -13,6 +13,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/agartala/tripura-scheme-to-speed-up-public-services/articleshow/79337584.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

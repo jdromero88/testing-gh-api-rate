@@ -6,7 +6,7 @@ date: 2021-08-03 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/haryana-government-has-notified-the-power-tariff-subsidy-scheme-under-haryana-enterprises-and
-is_analysis: false
+is_newsletter: false
 
 ---

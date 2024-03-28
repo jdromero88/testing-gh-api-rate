@@ -7,7 +7,7 @@ date: 2020-03-11 04:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power
@@ -17,7 +17,7 @@ sources:
 details:
 - name: Budget 2020-21
   url: http://finance.cg.gov.in/budget_doc/main_budget.asp?year1=2020
-is_analysis: false
+is_newsletter: false
 
 ---
 Chhattisgarh budget introduces a $688 million scheme for farmers, with a provision of $310 million for free power supply to agricultural pumps. The budget also allocates $60 million for building 1,176 biogas plants.

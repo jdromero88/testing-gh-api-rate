@@ -6,7 +6,7 @@ date: 2019-12-18 05:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: CEA Report
   url: http://www.cea.nic.in/reports/monthly/renewable/2019/renewable-10.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Tamil Nadu has overtaken Karnataka to become India’s top renewable power generating state in FY20. Of the total renewable power generation in the country, nearly 17.2 percent came from Tamil Nadu.

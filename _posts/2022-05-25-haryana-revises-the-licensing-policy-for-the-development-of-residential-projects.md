@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://tcpharyana.gov.in/Policy/FINAL%20NILP%20POLICY_11_05_2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

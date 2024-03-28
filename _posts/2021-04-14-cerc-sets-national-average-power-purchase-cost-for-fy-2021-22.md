@@ -6,9 +6,8 @@ date: 2021-04-14 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
-- " Financing and Payment "
 - Power
 sources:
 - name: Mercom
@@ -16,7 +15,7 @@ sources:
 details:
 - name: Order
   url: http://www.cercind.gov.in/2021/orders/01-SM-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Central Electricity Regulatory Commission sets $0.052 per kWh as the national average power purchase cost for open access. The tariff will be applicable for FY 2021-22.

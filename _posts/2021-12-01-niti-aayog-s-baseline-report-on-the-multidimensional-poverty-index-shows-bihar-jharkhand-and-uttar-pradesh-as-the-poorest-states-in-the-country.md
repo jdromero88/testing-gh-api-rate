@@ -17,6 +17,6 @@ sources:
 details:
 - name: National Multidimensional Poverty Index
   url: https://www.niti.gov.in/sites/default/files/2021-11/National_MPI_India-11242021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

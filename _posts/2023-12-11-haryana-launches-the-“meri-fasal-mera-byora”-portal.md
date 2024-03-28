@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana launches the “Meri Fasal Mera Byora” portal
 date: 2023-07-19T19:27:35.432Z
 states:

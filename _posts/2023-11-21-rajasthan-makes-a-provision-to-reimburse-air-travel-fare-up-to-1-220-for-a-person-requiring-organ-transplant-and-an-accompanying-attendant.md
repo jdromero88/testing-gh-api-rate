@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan makes a provision to reimburse air travel fare up to $1,220 for
   a person requiring organ transplant and an accompanying attendant
 date: 2023-06-28T14:37:05.019Z

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tripura receives a $100 million loan from the Asian Development Bank
   (ADB) to improve urban services and tourism
 date: 2023-11-22T14:24:15.409Z

@@ -13,7 +13,7 @@ sources:
 - name: NDTV
   url: https://www.ndtv.com/delhi-news/delhis-overall-air-quality-improves-to-moderate-category-2119721
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The air quality in Delhi has worsened from an air quality index of 161 to 258, now reaching the “poor” air quality distinction.

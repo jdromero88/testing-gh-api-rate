@@ -6,7 +6,7 @@ date: 2020-06-30 04:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Cabinet Decision
   url: https://blog.mygov.in/himachal-pradesh-cabinet-decisions-3/
-is_analysis: false
+is_newsletter: false
 
 ---
 The state government has decided to rationalize the subsidy provided to the electricity consumers in the state and withdraw $14.5 million out of the earlier announced subsidy of $63.5 million for the electricity board.

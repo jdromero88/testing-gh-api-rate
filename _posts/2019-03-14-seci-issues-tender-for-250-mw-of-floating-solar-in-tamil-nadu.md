@@ -6,7 +6,7 @@ date: 2019-03-14 04:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender Details
   url: http://seci.co.in/show_whats_new.php?id=829
-is_analysis: false
+is_newsletter: false
 
 ---
 The Solar Energy Corporation of India issued a tender for utilization of water bodies in Tamil Nadu for development of 250 MW floating solar PV capacity.

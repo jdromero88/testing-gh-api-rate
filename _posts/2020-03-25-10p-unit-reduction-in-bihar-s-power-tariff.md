@@ -6,7 +6,7 @@ date: 2020-03-25 04:00:00 +0000
 states:
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - url: https://berc.co.in/orders/tariff/distribution/nbpdcl/2223-press-release-of-tariff-order-fy-2019-22
   name: Tariff Order
-is_analysis: false
+is_newsletter: false
 
 ---
 The Bihar Electricity Regulatory Commission reduced power tariff by $0.0013 per kilowatt-hour across all the categories of consumers. The new tariff rates will be applicable across the state from April 1, 2020.

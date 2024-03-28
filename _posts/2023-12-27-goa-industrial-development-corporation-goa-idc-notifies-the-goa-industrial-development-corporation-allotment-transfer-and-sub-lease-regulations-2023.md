@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa Industrial Development Corporation (Goa-IDC) notifies the Goa
   Industrial Development Corporation (Allotment, Transfer, and Sub-Lease
   Regulations), 2023

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Amendment
   url: https://mnre.gov.in/img/documents/uploads/file_f-1646962664044.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

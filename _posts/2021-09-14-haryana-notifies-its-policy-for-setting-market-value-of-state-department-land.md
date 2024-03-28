@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://www.dailyexcelsior.com/wp-content/uploads/2021/09/2021091180.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

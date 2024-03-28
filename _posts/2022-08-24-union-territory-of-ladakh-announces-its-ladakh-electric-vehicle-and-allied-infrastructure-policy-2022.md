@@ -7,8 +7,7 @@ date: 2022-08-24 04:00:00 +0000
 states:
 - Union Territory of Ladakh
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 - Energy-related Transportation
@@ -18,6 +17,6 @@ sources:
 details:
 - name: Ladakh Electric Vehicle and Allied Infrastructure Policy, 2022
   url: https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2022/08/2022081947.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

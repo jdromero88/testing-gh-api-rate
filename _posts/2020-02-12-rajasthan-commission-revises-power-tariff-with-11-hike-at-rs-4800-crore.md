@@ -6,7 +6,7 @@ date: 2020-02-12 05:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - url: https://rerc.rajasthan.gov.in/rerc-user-files/tariff-orders
   name: Tariff Order
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission has increased power tariffs by 11 percent overall. This will generate $110.5 million revenue in the last two months (February and March) of the current fiscal year.

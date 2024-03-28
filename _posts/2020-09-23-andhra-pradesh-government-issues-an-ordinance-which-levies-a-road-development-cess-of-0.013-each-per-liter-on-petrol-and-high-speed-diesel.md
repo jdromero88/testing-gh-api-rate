@@ -7,7 +7,7 @@ date: 2020-09-23 04:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Oil and Gas
@@ -15,6 +15,6 @@ sources:
 - name: NDTV
   url: https://www.ndtv.com/andhra-pradesh-news/andhra-pradesh-levies-re-1-road-development-cess-on-petrol-diesel-2297758
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

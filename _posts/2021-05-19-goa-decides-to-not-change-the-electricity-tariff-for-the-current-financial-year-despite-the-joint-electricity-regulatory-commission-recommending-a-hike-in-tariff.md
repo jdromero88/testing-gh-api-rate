@@ -8,7 +8,7 @@ date: 2021-05-19 04:00:00 +0000
 states:
 - Goa
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://jercuts.gov.in/writereaddata/UploadFile/ED%20Goa%20Order%202021-22_1760.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

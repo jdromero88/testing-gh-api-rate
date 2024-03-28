@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://content.dgft.gov.in/Website/dgftprod/575732e8-1449-4a32-80e1-d0cbba8137a0/notification%20no.49%20dated%2022.12.2020%20scanned%20english.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

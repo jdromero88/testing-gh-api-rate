@@ -14,6 +14,6 @@ sources:
 details:
 - name: 'Chhattisgarh Budget '
   url: https://finance.cg.gov.in/budget_doc/2022-2023/Budget%20at%20Glance/1-Summary.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

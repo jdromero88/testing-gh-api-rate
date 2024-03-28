@@ -15,7 +15,7 @@ sources:
 details:
 - name: Circular
   url: http://www.mca.gov.in/Ministry/pdf/Covid_23032020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Ministry of Corporate Affairs makes spending of Corporate Social Responsibility (CSR) funds for COVID-19 eligible under the CSR activity.

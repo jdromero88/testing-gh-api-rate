@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Union Cabinet approves new terms of references for the Krishna Water
   Disputes Tribunal-II
 date: 2023-10-11T18:20:41.653Z

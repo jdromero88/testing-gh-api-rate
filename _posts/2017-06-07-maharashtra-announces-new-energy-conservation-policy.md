@@ -2,13 +2,13 @@
 title: Maharashtra announces new energy conservation policy
 date: 2017-06-07 13:36:00 Z
 tags:
-- Energy Conservation
+- Climate Change and Energy Conservation
 - Municipal Corporations
 - LED
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:

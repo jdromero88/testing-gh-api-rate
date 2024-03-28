@@ -6,7 +6,7 @@ date: 2018-12-18 16:48:34 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Admittance order State Discoms
   url: http://www.uperc.org/App_File/AdmittanceOrderStateDISCOMs&UPPTCL-pdf1113201810317PM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Power consumers in Uttar Pradesh have been spared a tariff hike according to the Uttar Pradesh Power Corporation Ltd’s annual revenue requirement petition, which was approved by the state’s power regulator.   

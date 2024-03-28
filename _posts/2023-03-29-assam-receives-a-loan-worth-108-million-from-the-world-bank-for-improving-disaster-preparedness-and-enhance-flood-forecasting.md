@@ -7,7 +7,7 @@ date: 2023-03-29 04:00:00 +0000
 states:
 - Assam
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press release
   url: https://www.worldbank.org/en/news/press-release/2023/03/24/world-bank-approves-108-million-to-improve-disaster-preparedness-for-flood-prone-districts-of-assam
-is_analysis: false
+is_newsletter: false
 
 ---

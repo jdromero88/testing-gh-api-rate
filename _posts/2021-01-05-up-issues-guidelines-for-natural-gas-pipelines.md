@@ -6,7 +6,7 @@ date: 2021-01-05 05:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tweet
   url: https://twitter.com/_InvestUP/status/1343416040424841217
-is_analysis: false
+is_newsletter: false
 
 ---
 **Uttar Pradesh** issues guidelines for the supply of piped natural gas to industrial areas within the state.

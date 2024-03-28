@@ -6,7 +6,7 @@ date: 2019-06-05 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender details
   url: https://eesl.eproc.in/ProductEESL/publicDash
-is_analysis: false
+is_newsletter: false
 
 ---
 Energy Efficiency Services Limited (EESL), has issued a tender to set up 100 megawatts (MW) of solar photovoltaic (PV) projects across Maharashtra, Andhra Pradesh, and Jharkhand. The bid submission deadline is July 8, 2019. This is EESL’s third tender in response to an advisory from the Ministry of New and Renewable Energy to address the utilization of empty land near pooling substations.

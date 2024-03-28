@@ -4,7 +4,7 @@ date: 2017-08-30 20:15:00 Z
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

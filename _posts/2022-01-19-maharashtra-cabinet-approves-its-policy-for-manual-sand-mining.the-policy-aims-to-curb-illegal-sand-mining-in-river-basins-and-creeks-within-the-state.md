@@ -6,7 +6,7 @@ date: 2022-01-19 05:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Free Press Journal
@@ -14,6 +14,6 @@ sources:
 details:
 - name: Cabinet Decision (in Marathi)
   url: https://www.maharashtra.gov.in/Site/upload/CabinetDecision/English/20-01-2022%20Cabinet%20Decision%20(Meeting%20No.97).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

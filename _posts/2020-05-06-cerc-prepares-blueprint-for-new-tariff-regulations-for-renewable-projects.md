@@ -6,7 +6,7 @@ date: 2020-05-06 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: CERC Order
   url: http://www.cercind.gov.in/2020/draft_reg/DR-29.04.2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Central Electricity Regulatory Commission (CERC) has proposed draft regulations for determination of tariff from renewable energy sources.

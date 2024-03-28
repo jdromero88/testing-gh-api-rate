@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala adopts a Water Budget with an aim to resolve the water scarcity
 date: 2023-04-26T19:20:22.179Z
 states:

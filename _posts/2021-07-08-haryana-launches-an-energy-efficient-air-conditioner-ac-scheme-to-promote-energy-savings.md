@@ -7,7 +7,7 @@ date: 2021-07-08 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://acreplacementscheme.uhbvn.org.in/HERC%20Order%20DSM%20Scheme.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

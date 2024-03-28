@@ -6,7 +6,7 @@ date: 2019-10-30 04:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power
@@ -14,7 +14,7 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/madhya-pradesh-solar-wind-generators-qca/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Madhya Pradesh Electricity Regulatory Commission has published the first amendment of its 2018 regulations for forecasting, scheduling, and deviation settlement mechanism for wind and solar projects, extending the time allowed for wind and solar generators to appoint a common qualified coordinating agency.

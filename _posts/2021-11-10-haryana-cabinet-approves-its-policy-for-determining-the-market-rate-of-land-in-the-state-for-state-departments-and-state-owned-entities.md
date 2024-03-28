@@ -17,6 +17,6 @@ details:
   url: https://cdnbbsr.s3waas.gov.in/s3d79c6256b9bdac53a55801a066b70da3/uploads/2021/09/2021091435.pdf
 - name: Press Release
   url: https://haryanacmoffice.gov.in/02-november-2021-0
-is_analysis: false
+is_newsletter: false
 
 ---

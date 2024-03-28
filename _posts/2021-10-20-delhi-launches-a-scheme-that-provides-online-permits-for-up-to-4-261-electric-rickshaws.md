@@ -15,6 +15,6 @@ sources:
 details:
 - name: Transport Minister's Tweet
   url: https://twitter.com/kgahlot/status/1449944278579310592?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

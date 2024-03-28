@@ -7,7 +7,7 @@ date: 2019-06-05 04:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Andhra Pradesh Solar Rooftop Policy 2018
   url: http://nredcap.in/PDFs/Pages/AP_Solar_Power_Policy_2018.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Andhra Pradesh Electricity Regulatory Commission has approved the Eastern Power Distribution Company of Andhra Pradesh Limited’s guidelines for the state’s Solar Rooftop Policy 2018 to promote the widespread use of solar power targeting a minimum total solar power capacity addition of 5,000 MW in the next five years.

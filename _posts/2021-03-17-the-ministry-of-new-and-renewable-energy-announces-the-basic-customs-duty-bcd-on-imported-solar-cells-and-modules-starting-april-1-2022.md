@@ -7,7 +7,7 @@ date: 2021-03-17 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://mnre.gov.in/img/documents/uploads/file_f-1615355045648.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

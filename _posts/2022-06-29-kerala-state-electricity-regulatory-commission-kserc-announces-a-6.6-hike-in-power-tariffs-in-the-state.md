@@ -7,7 +7,7 @@ date: 2022-06-29 04:00:00 +0000
 states:
 - Kerala
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Schedule
   url: https://erckerala.org/orders/Tariff%20schedule.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

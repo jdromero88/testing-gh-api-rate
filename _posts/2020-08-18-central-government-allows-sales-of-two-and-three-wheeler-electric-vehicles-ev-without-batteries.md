@@ -7,7 +7,7 @@ date: 2020-08-18 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://twitter.com/MORTHIndia/status/1293562252813979651?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

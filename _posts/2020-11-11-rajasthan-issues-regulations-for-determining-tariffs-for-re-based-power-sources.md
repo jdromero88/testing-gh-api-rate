@@ -6,7 +6,7 @@ date: 2020-11-11 05:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: ''
   url: ''
-is_analysis: false
+is_newsletter: false
 
 ---
 The **Rajasthan** Electricity Regulatory Commission issues regulations for determining tariffs for renewable energy-based power sources for 2020.

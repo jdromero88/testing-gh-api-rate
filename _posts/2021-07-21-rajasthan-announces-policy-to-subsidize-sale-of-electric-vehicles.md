@@ -6,7 +6,7 @@ date: 2021-07-21 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: http://dipr.rajasthan.gov.in/content/dipr/en/news-detail.229435.html
-is_analysis: false
+is_newsletter: false
 
 ---

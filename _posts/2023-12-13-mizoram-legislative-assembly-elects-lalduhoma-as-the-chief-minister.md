@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Mizoram legislative assembly elects Lalduhoma as the chief minister
 date: 2023-12-13T19:45:44.259Z
 states:

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra Electricity Regulatory Commission (MERC) introduces the
   Maharashtra Electricity Regulatory Commission (Distribution Open Access)
   (Second Amendment) Regulations, 2023
@@ -10,8 +10,7 @@ date: 2023-11-22T16:11:55.069Z
 states:
   - Maharashtra
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
   - Renewables

@@ -7,7 +7,7 @@ date: 2021-03-24 04:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: http://www.cserc.gov.in/upload/upload_news/12-03-2021_16155430961.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,8 +7,7 @@ date: 2022-08-03 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +16,6 @@ sources:
 details:
 - name: Cabinet Decisions (in Marathi)
   url: https://www.maharashtra.gov.in/Site/upload/CabinetDecision/English/27-07-2022%20Cabinet%20Decision%20(Meeting%20No.4).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

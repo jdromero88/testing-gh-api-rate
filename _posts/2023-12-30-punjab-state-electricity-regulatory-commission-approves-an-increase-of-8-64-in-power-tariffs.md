@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Punjab State Electricity Regulatory Commission approves an increase of
   8.64% in power tariffs
 date: 2023-05-24T06:42:04.486Z
 states:
   - Punjab
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

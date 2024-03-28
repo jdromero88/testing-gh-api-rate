@@ -6,7 +6,7 @@ date: 2021-03-03 05:00:00 +0000
 states:
 - Meghalaya
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Policy
   url: https://www.meghalaya.gov.in/sites/default/files/documents/Meghalaya_Electric_vehicle_policy_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Meghalaya** releases its Meghalaya Electric Vehicle Policy, 2021. The policy aims to add 20,000 electric vehicles in the state by 2025.

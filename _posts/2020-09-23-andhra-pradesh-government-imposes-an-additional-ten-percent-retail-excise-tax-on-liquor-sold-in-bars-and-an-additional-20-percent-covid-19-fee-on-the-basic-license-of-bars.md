@@ -18,6 +18,6 @@ details:
   url: https://apegazette.cgg.gov.in/preview.do?fileName=gazettes/1600486671613.pdf&filePath=basePath
 - name: Gazette Notification - Retail excise tax on liquor sold
   url: https://apegazette.cgg.gov.in/preview.do?fileName=gazettes/1600486671613.pdf&filePath=basePath
-is_analysis: false
+is_newsletter: false
 
 ---

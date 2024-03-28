@@ -6,7 +6,7 @@ date: 2022-07-21 04:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Climate Change
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors: []
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - url: https://ipr.ap.nic.in/images/press-releases/agriculture%20review%20with%20central%20minister.pdf
   name: Press Release
-is_analysis: false
+is_newsletter: false
 
 ---

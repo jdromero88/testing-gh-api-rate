@@ -6,7 +6,7 @@ date: 2021-10-13 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Policy Draft
   url: https://haryanatransport.gov.in/sites/default/files/Electric%20Vehicle%20Policy_2.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

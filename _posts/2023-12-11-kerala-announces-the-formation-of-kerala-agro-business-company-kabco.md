@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala announces the formation of Kerala Agro Business Company (KABCO)
 date: 2023-12-11T16:03:11.456Z
 states:

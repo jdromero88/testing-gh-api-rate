@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Government of India and the Asian Development Bank (ADB) sign a
   $141.12-million loan to support the development of high-quality infrastructure
   in Andhra Pradesh

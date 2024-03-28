@@ -8,7 +8,7 @@ states:
 - Gujarat
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Discussion Paper
   url: https://www.gercin.org/wp-content/uploads/2020/08/GERC-Wind-Solar-Hybrid-Discussion-Paper_28082020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

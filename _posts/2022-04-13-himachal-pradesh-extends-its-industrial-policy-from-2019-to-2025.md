@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: http://himachalpr.gov.in/PressReleaseByYear.aspx?Language=1&ID=25671&Type=2&Date=07/04/2022
-is_analysis: false
+is_newsletter: false
 
 ---

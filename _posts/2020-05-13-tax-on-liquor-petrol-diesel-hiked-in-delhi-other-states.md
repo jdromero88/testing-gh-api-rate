@@ -6,7 +6,7 @@ date: 2020-05-13 04:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 - Oil and Gas
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Notification
   url: http://it.delhigovt.nic.in/writereaddata/egaz202055602.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Delhi government has raised value added tax (VAT) on petrol and diesel. As a result, petrol and diesel price in the national capital has increased by $0.02 a liter and $0.09 per liter respectively.

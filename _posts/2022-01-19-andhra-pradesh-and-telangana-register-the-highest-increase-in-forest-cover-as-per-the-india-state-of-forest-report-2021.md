@@ -8,7 +8,7 @@ states:
 - Telangana
 - Andhra Pradesh
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Times of India
@@ -16,6 +16,6 @@ sources:
 details:
 - name: State of Forest Report 2021
   url: https://fsi.nic.in/forest-report-2021-details
-is_analysis: false
+is_newsletter: false
 
 ---

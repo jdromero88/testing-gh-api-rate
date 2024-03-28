@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jharkhand approves the Jharkhand Data Privacy Policy, 2023
 date: 2023-10-11T18:18:32.753Z
 states:

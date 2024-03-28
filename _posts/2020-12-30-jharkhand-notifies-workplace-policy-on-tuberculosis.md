@@ -15,7 +15,7 @@ sources:
 details:
 - name: Cabinet Decision (Hindi)
   url: http://cm.jharkhand.gov.in/sites/default/files/cabinet_decision_23_12_2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Jharkhand** notifies a workplace policy on Tuberculosis (TB). Per the policy, all employers in the state are required to arrange for the treatment of employees for TB and its related comorbidities, including occupational lung diseases.

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa Governor gives assent to the Goa Restriction on Transfer of
   Agricultural Land Bill, 2023
 date: 2023-04-26T19:18:20.072Z

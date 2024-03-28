@@ -6,7 +6,7 @@ date: 2020-04-01 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/haryana-power-and-jail-minister-mr-ranjit-singh-said-that-due-to-the-corona-virus-epidemic-allcash
-is_analysis: false
+is_newsletter: false
 
 ---
 Haryana government has announced that consumers paying their electricity bills digitally will be given a special discount of 2 percent on their electricity bill.

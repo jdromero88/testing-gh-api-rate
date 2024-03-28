@@ -6,7 +6,7 @@ date: 2021-12-22 05:00:00 +0000
 states:
 - Kerala
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Kerala Kaumudi
@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://forest.kerala.gov.in/images/press/December2021/Press_release_15-12.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

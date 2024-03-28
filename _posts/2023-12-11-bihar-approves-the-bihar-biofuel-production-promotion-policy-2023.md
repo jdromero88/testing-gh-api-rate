@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Bihar approves the Bihar Biofuel Production Promotion Policy 2023
 date: 2023-07-12T19:54:15.857Z
 states:
   - Bihar
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Oil and Gas
   - Power & Renewable Energy

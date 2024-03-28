@@ -6,7 +6,7 @@ date: 2019-12-11 05:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Policy Details
   url: https://guj-epd.gujarat.gov.in/uploads/Policy_for_Devlopment_of_Small_Scale_Distributed_Solar_Projects-2019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The state government’s Policy for Development of Small-scale Distributed Solar Projects 2019 now allows any individual or company to set up solar plants in capacities ranging from 0.5 megawatts (MW) to 4 MW for sale of electricity to power distribution companies (discoms).

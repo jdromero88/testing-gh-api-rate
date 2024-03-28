@@ -6,7 +6,7 @@ date: 2021-03-31 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://www.prharyana.gov.in/en/to-promote-solar-energy-in-haryana-the-dakshin-haryana-bijli-vitaran-nigam-has-implemented-a-scheme
-is_analysis: false
+is_newsletter: false
 
 ---

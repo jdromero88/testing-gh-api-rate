@@ -7,7 +7,7 @@ date: 2020-09-02 04:00:00 +0000
 states:
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: BERC Regulation
   url: https://berc.co.in/orders/daily-orders/2275-suo-motu-proceeding-inviting-comments-suggestion-objections-on-berc-terms-and-conditions-for-tariff-determination-from-renewable-energy-sources-regulations-2020
-is_analysis: false
+is_newsletter: false
 
 ---

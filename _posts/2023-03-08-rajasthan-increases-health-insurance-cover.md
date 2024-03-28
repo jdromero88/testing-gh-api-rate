@@ -15,6 +15,6 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/health-insurance-cover-increased-to-rs-25-00-000-per-family-in-rajasthan-123030201224_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

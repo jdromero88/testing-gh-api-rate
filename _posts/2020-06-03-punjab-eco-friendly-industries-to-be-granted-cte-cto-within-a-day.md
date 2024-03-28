@@ -6,7 +6,7 @@ date: 2020-06-03 04:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-government-decides-grant-nocctecto-green-category-industries-one-day-self
-is_analysis: false
+is_newsletter: false
 
 ---
 The Punjab government has decided to grant Consent to Establish/Consent to Operate to “green category” industries within a single day of applying for the same.

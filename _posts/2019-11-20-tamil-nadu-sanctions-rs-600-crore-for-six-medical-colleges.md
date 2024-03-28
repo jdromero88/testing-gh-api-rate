@@ -14,7 +14,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-sanctions-600-crore-for-six-medical-colleges/articleshow/72031255.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The state government has identified locations for setting up six new medical colleges and released $83.7 million for kickstarting the construction work.

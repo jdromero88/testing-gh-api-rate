@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://meghalaya.gov.in/sites/default/files/press_release/CMO_91.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

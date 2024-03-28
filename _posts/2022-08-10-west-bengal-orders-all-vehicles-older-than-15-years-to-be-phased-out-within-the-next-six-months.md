@@ -7,8 +7,7 @@ date: 2022-08-10 04:00:00 +0000
 states:
 - West Bengal
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -17,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://greentribunal.gov.in/gen_pdf_test.php?filepath=L25ndF9kb2N1bWVudHMvbmd0L2Nhc2Vkb2MvanVkZ2VtZW50cy9LT0xLQVRBLzIwMjItMDctMjYvMTY1ODgyOTg4MzEyMjQwMjU3OTA2MmRmYmMzYjNmZDA2LnBkZg==
-is_analysis: false
+is_newsletter: false
 
 ---

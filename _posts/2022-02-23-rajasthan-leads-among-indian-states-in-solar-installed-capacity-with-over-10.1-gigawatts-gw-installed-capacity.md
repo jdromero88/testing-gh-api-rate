@@ -7,8 +7,7 @@ date: 2022-02-23 05:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +16,6 @@ sources:
 details:
 - name: State Wise Installed Capacity
   url: https://mnre.gov.in/the-ministry/physical-progress
-is_analysis: false
+is_newsletter: false
 
 ---

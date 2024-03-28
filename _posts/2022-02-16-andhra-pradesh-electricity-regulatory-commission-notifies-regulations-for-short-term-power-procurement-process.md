@@ -7,7 +7,7 @@ date: 2022-02-16 05:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Regulation
   url: https://aperc.gov.in/admin/upload/Regno1of2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

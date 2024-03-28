@@ -7,13 +7,13 @@ date: 2021-03-17 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
 - name: Mercom
   url: https://mercomindia.com/government-approves-ethanol-gasoline-automotive-fuel/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

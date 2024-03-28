@@ -4,7 +4,7 @@ date: 2018-01-04 23:54:00 Z
 states:
 - Puducherry
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

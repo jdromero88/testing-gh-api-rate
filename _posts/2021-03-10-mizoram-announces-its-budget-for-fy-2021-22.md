@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget Speech
   url: https://finance.mizoram.gov.in/uploads/attachments/65a5dad296d5180579b5e1e1ec894c5a/budget-speech-2021-22-english-version.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

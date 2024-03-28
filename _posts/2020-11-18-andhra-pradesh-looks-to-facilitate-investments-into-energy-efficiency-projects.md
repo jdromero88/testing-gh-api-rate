@@ -6,7 +6,7 @@ date: 2020-11-18 05:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: BEE’s Scheme
   url: https://beeindia.gov.in/sites/default/files/PRGFEE_0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Andhra Pradesh** sets up a committee of eight banks to facilitate investments in energy efficiency activities within the state. The state will leverage Bureau of Energy Efficiency’s scheme of securitizing loans for energy efficiency projects.

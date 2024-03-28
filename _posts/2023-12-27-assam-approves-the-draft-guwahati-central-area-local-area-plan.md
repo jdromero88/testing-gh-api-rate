@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam approves the Draft Guwahati Central Area Local Area Plan,
 date: 2023-12-27T07:19:56.153Z
 states:

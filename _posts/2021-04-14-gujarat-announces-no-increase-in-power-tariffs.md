@@ -6,9 +6,8 @@ date: 2021-04-14 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
-- " Financing and Payment "
 - Power
 sources:
 - name: Business Standard
@@ -16,7 +15,7 @@ sources:
 details:
 - name: Notification
   url: https://gercin.org/wp-content/uploads/2021/04/Tariff-Press-Note-April-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Gujarat** Electricity Regulatory Commission announces no increase in power tariffs for the electricity consumers in the state. While Gujarat is one of the few states to balance out power supply costs with revenue from power sales, the tariff for some consumers continues to be lower than the average cost of supply.

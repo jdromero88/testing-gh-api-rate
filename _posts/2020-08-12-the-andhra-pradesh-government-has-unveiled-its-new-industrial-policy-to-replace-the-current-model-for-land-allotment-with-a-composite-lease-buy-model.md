@@ -16,6 +16,6 @@ sources:
 details:
 - name: Andhra Pradesh Industrial Development Policy 2020-23
   url: https://www.sakshi.com/sites/default/files/article_images/2020/08/10/ap_industrial_policy_brochure_01_final.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister's Tweet
   url: https://twitter.com/vijayrupanibjp/status/1317423818420350977?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

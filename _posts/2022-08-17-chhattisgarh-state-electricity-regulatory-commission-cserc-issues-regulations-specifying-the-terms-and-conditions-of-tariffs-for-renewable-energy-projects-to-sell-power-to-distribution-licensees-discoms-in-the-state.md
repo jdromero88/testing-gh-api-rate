@@ -8,7 +8,7 @@ date: 2022-08-17 04:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - url: https://cserc.gov.in/upload/upload_news/10-08-2022_16601265391.pdf
   name: Regulations
-is_analysis: false
+is_newsletter: false
 
 ---

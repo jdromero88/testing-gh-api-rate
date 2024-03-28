@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Meghalaya launches the Meghalaya Cancer Care or “Meg Can Care” project
   for screening and early detection of cancer
 date: 2023-06-07T14:55:10.861Z

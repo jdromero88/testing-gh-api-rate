@@ -14,6 +14,6 @@ sources:
 details:
 - name: Chief Minister's Tweet
   url: https://twitter.com/vijayanpinarayi/status/1435571967352967170
-is_analysis: false
+is_newsletter: false
 
 ---

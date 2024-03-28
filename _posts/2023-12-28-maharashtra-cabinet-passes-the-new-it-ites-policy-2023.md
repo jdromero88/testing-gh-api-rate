@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra cabinet passes the new IT-ITES Policy 2023
 date: 2023-06-07T14:57:45.592Z
 states:

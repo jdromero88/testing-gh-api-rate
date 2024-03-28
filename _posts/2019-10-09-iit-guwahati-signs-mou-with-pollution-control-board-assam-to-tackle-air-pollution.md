@@ -13,7 +13,7 @@ sources:
 - name: India Today
   url: https://www.indiatoday.in/education-today/news/story/iit-guwahati-signs-mou-with-pollution-control-board-assam-to-tackle-air-pollution-1606238-2019-10-04
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The Indian Institute of Technology, Guwahati, has signed an MOU with the Pollution Control Board Assam to tackle air pollution problems in Assam, where particle levels exceed the annual average ambient air quality standards.

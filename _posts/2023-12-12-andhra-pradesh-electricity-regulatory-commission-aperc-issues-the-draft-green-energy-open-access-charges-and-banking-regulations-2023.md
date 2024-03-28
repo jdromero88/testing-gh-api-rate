@@ -2,17 +2,16 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh Electricity Regulatory Commission (APERC) issues the Draft
   Green Energy Open Access, Charges, and Banking Regulations, 2023
 date: 2023-10-11T18:06:35.258Z
 states:
   - Andhra Pradesh
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
-  - Financing and Payment
   - Renewables
 sources:
   - name: Mercom

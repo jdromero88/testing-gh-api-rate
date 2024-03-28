@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister's Tweet
   url: https://twitter.com/pushkardhami/status/1461298369545003011?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

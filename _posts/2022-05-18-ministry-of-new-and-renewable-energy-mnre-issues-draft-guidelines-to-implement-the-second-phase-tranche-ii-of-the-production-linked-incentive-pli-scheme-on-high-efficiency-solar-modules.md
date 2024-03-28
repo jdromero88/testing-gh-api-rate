@@ -8,12 +8,12 @@ date: 2022-05-18 07:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Mercom
   url: https://mercomindia.com/production-linked-incentive-program-solar-module-manufacturing/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

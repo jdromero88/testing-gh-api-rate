@@ -6,7 +6,7 @@ date: 2021-06-16 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Hindustan Times
@@ -14,6 +14,6 @@ sources:
 details:
 - name: Cabinet Decisions
   url: https://www.maharashtra.gov.in/Site/upload/CabinetDecision/English/10-06-2021%20Cabinet%20Decision%20(Meeting%20No.70).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

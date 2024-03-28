@@ -7,7 +7,7 @@ date: 2021-06-02 04:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Note
   url: http://pserc.gov.in/pages/Press%20Note%20FY%202021-22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

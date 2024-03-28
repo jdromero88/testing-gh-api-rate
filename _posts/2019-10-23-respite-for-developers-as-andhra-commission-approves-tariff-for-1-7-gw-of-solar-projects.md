@@ -7,14 +7,14 @@ date: 2019-10-23 04:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
 - name: Mercom
   url: https://mercomindia.com/respite-developers-andhra-approves-solar-projects/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 In a respite for renewable developers in the state, the Andhra Pradesh Electricity Regulatory Authority has approved tariffs for three solar park projects.

@@ -7,7 +7,7 @@ date: 2022-03-30 07:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Finance Minister's Tweet
   url: https://twitter.com/AjitPawarSpeaks/status/1507602567479840769
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ date: 2020-05-27 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Information Bureau
   url: https://coal.nic.in/sites/upload_files/coal/files/curentnotices/PIB-Coal-20052020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Cabinet Committee on Economic Affairs has approved a methodology for auction of coal blocks for commercial mining on revenue sharing basis.

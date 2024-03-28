@@ -16,7 +16,7 @@ sources:
 details:
 - url: http://diprpunjab.gov.in/?q=content/punjab-achieves-1st-rank-operationalisation-hwcs-balbir-singh-sidhu
   name: Press Release
-is_analysis: false
+is_newsletter: false
 
 ---
 **Punjab** achieves first rank in operationalization of health and wellness centers, per the latest ranking of states released by the Government of India.

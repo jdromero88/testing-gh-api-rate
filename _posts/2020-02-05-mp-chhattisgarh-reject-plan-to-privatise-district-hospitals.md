@@ -13,7 +13,7 @@ sources:
 - name: News Click
   url: https://www.newsclick.in/MP-Chhattisgarh-Reject-Proposal-Privatise-District-Hospitals
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The states of Madhya Pradesh and Chhattisgarh have rejected NITI Aayog’s proposal to handover the district hospitals to private players and earn on a public-private partnership model.

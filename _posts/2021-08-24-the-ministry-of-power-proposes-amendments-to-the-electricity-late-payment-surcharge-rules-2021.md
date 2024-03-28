@@ -14,6 +14,6 @@ sources:
 details:
 - name: Draft Rules
   url: https://powermin.gov.in/sites/default/files/webform/notices/Seeking_comments_on_Draft_Electricity_Late_Payment_Surcharge_Amendment_Rules_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

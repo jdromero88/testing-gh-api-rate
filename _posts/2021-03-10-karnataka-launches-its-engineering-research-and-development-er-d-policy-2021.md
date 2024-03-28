@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tweet
   url: https://twitter.com/ITBTGoK/status/1366623600267067395?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

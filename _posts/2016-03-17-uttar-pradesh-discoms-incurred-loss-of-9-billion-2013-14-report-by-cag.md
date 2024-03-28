@@ -7,7 +7,7 @@ states:
 - Uttar Pradesh
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

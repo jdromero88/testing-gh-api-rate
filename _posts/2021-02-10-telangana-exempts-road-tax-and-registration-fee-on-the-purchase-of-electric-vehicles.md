@@ -7,7 +7,7 @@ date: 2021-02-10 05:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Energy-related Transportation
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Government Order
   url: https://www.transport.telangana.gov.in/pdf_uploads/GO%20MS%20No%20121612273174.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

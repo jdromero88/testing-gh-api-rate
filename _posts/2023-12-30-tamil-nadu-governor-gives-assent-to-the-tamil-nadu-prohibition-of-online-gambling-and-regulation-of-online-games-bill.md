@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu governor gives assent to the Tamil Nadu Prohibition of Online
   Gambling and Regulation of Online Games Bill
 date: 2023-04-19T19:28:53.431Z

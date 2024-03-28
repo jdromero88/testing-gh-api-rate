@@ -13,6 +13,6 @@ sources:
 - name: The Hindu
   url: https://www.thehindu.com/news/national/tamil-nadu/industrial-units-can-now-buy-land-irrespective-of-violation-by-seller/article32999666.ece
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

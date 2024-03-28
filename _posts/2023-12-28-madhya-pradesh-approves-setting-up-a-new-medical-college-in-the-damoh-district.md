@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh approves setting up a new medical college in the Damoh district
 date: 2023-06-07T15:04:04.537Z
 states:

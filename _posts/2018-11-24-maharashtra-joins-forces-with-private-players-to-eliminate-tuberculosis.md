@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: http://timesofindia.indiatimes.com/articleshow/66778350.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 The fight against TB is set to intensify in Maharashtra with the involvement of NGOs, who will work closely with private practitioners to find the 'missing' TB patients and put them on treatment while ensuring their confidentiality.

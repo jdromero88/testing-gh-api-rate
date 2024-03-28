@@ -6,7 +6,7 @@ date: 2018-12-19 05:00:00 +0000
 states:
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:
@@ -14,7 +14,7 @@ sources:
   url: https://energy.economictimes.indiatimes.com/news/power/ntpc-acquires-720-mw-barauni-thermal-power-plant-in-bihar/67115504
 details:
 - {}
-is_analysis: false
+is_newsletter: false
 
 ---
 The state-run National Thermal Power Corporation acquired the 720-megawatt (MW) Barauni thermal power plant in Bihar from the Bihar State Power Generation Company Ltd. The plant has 220 MW capacity and is building another 500 MW of capacity.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2023-24
   url: https://finance.wb.gov.in/writereaddata/Budget_Speech/2023_English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

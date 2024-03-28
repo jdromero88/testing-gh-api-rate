@@ -7,7 +7,7 @@ date: 2021-04-14 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: http://www.cercind.gov.in/2021/orders/01-SM-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

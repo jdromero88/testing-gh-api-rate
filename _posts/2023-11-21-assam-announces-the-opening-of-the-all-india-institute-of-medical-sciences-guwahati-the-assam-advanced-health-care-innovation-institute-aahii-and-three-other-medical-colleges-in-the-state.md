@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam announces the opening of the All-India Institute of Medical
   Sciences, Guwahati, the Assam Advanced Health Care Innovation Institute
   (AAHII), and three other medical colleges in the state

@@ -6,7 +6,7 @@ date: 2019-07-16 04:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.eeslindia.org/content/raj/eesl/en/MEDIA-CORNER/in-focus.html?id=923
-is_analysis: false
+is_newsletter: false
 
 ---
 Energy Efficiency Services Ltd (EESL) plans to set up 200 more charging stations in the Delhi and National Capital Region area in the next three months to cater to shared mobility services.

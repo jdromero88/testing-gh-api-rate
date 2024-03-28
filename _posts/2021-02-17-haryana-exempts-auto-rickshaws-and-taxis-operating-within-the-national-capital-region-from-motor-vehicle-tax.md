@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/haryana-government-has-decided-to-grant-exemption-in-motor-vehicle-tax-to-auto-rickshawstaxis
-is_analysis: false
+is_newsletter: false
 
 ---

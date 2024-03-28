@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka launches the registration for the Gruha Lakshmi Scheme
 date: 2023-07-26T19:15:05.957Z
 states:

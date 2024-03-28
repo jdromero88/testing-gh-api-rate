@@ -6,7 +6,7 @@ date: 2021-02-24 05:00:00 +0000
 states:
 - Meghalaya
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/SangmaConrad/status/1361964510949507072?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

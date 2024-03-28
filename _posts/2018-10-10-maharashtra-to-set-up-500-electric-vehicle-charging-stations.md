@@ -1,13 +1,13 @@
 ---
 title: Maharashtra to set up 500 electric vehicle charging stations
 content_type: articles
-is_analysis: true
+is_newsletter: true
 breadcrumbs: articles
 date: 2018-10-10 13:54:33 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

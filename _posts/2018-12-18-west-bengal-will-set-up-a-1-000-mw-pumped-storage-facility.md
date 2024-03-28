@@ -6,7 +6,7 @@ date: 2018-12-18 16:51:52 +0000
 states:
 - West Bengal
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.jica.go.jp/english/news/press/2018/181102_01.html
-is_analysis: false
+is_newsletter: false
 
 ---
 The West Bengal State Electricity Development Corporation Ltd announced it will set up a 1000-MW pumped storage facility at Ayodha Hills in the Purulia district of the state at an estimated cost of $965 million. The Japan International Cooperative Agency (JICA) will provide a loan assistance of $697 million for the project.   

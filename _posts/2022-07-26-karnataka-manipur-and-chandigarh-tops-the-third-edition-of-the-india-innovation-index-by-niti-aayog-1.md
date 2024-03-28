@@ -17,6 +17,6 @@ sources:
 details:
 - name: Innovation Index
   url: https://www.niti.gov.in/sites/default/files/2022-07/India-Innovation-Index-2021-Web-Version_21_7_22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

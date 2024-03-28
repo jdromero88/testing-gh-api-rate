@@ -6,7 +6,7 @@ date: 2019-03-14 04:00:00 +0000
 states:
 - Kerala
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Kerala Electric Vehicle Policy
   url: https://icfoss.in/doc/Draft-EV-policy.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Kerala state cabinet amended and approved a finalized Electric Vehicle policy for the state.

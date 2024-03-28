@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget Speech
   url: http://wbfin.nic.in/writereaddata/Budget_Speech/2021_English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

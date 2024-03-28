@@ -13,7 +13,7 @@ sources:
 - name: Live Mint
   url: https://www.livemint.com/politics/policy/telangana-goes-for-drone-driven-healthcare-ties-up-with-apollo-hospitals-unit-11570167539303.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Telangana will embark on a large scale project to transfer blood and medical samples via drones. The initiative is co-designed with the World Economic Forum and Healthnet Global Limited, an Apollo Hospitals Group company.

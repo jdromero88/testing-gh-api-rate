@@ -10,7 +10,7 @@ states:
 - Telangana
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

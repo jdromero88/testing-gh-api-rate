@@ -6,7 +6,7 @@ date: 2019-06-12 04:00:00 +0000
 states:
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press release (Hindi)
   url: http://210.212.23.61/AdminPanel/Files/PressRelease/376.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Bihar chief minister Nitish Kumar has announced an August 15, 2020 deadline for installing prepaid meters in the state to save energy and reduce power related complaints.

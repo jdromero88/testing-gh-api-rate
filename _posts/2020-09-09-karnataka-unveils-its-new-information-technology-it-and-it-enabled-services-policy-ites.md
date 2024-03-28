@@ -15,6 +15,6 @@ sources:
 details:
 - name: Tweet on IT Policy
   url: https://twitter.com/drashwathcn/status/1301538156152463361?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

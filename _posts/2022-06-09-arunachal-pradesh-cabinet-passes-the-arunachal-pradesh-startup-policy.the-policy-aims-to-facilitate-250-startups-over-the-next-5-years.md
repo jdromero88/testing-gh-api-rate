@@ -15,6 +15,6 @@ sources:
 details:
 - name: Arunachal Pradesh Government Twitter
   url: https://twitter.com/MyGovArunachal/status/1531523763740606464/photo/1
-is_analysis: false
+is_newsletter: false
 
 ---

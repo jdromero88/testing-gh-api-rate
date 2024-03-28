@@ -8,7 +8,7 @@ states:
 - Center-State Relations
 sectors:
 - Land & Labor Laws
-- Climate Change
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors: []
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Guidelines
   url: http://gasab.gov.in/gasab/pdf/Guidelines_June2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

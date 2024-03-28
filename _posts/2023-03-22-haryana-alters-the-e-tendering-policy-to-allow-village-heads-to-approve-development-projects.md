@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:639243da-26ba-47bf-a9bc-2c0d3f884d6b
-is_analysis: false
+is_newsletter: false
 
 ---

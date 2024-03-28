@@ -10,7 +10,7 @@ tags:
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 - Renewables

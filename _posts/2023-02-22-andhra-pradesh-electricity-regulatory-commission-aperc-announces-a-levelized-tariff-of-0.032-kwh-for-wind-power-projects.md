@@ -7,7 +7,7 @@ date: 2023-02-22 05:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 - Renewables
@@ -18,6 +18,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://aperc.gov.in/admin/upload/Commontarifforderwindprojects11thto20thyear06.02.23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

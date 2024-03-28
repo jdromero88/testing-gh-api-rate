@@ -12,9 +12,9 @@ details:
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 content_type: ''
-is_analysis: false
+is_newsletter: false
 breadcrumbs: ''
 
 ---

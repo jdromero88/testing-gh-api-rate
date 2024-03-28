@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Gujarat passes the Gujarat Goods and Service Tax Amendment Bill
 date: 2023-09-21T03:49:13.384Z
 states:

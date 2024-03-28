@@ -15,6 +15,6 @@ sources:
 details:
 - name: Launch Event (video)
   url: https://twitter.com/trsharish/status/1558404684750016513
-is_analysis: false
+is_newsletter: false
 
 ---

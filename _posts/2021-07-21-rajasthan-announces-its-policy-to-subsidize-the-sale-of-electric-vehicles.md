@@ -7,7 +7,7 @@ states:
 - Rajasthan
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: http://dipr.rajasthan.gov.in/content/dipr/en/news-detail.229435.html
-is_analysis: false
+is_newsletter: false
 
 ---

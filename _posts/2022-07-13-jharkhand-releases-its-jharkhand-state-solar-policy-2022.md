@@ -6,7 +6,7 @@ date: 2022-07-13 04:00:00 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Jharkhand Solar Policy
   url: https://www.jreda.com/upload_files/Jharkhand-State-Solar-Policy-2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

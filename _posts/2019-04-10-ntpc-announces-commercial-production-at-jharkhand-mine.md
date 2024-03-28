@@ -6,7 +6,7 @@ date: 2019-04-10 04:00:00 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Twitter Announcement
   url: https://twitter.com/ntpclimited/status/1112598535139000321
-is_analysis: false
+is_newsletter: false
 
 ---
 India’s largest electricity producer, the National Thermal Power Corporation, announced it has begun commercial production of coal from PakriBarwadih mine in Jharkhand.

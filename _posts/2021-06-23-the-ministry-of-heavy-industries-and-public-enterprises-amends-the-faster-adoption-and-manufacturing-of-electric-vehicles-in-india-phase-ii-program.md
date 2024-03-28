@@ -7,7 +7,7 @@ date: 2021-06-23 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notice
   url: https://www.dhi.nic.in/writereaddata/UploadFile/FAME%20II%20-%20Polict%20modfications.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

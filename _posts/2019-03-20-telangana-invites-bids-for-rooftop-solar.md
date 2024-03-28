@@ -6,7 +6,7 @@ date: 2019-03-20 04:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: RFS Document
   url: http://tsredco.telangana.gov.in/PDFs/TSREDCO_GCRT_HMWSSB_31_12MWp_RfS.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Telangana has invited global competitive bids to set up rooftop solar projects on roofs of pump houses, sewage and water treatment plants, and office buildings of the Hyderabad Metropolitan Water Supply and Sewerage Board totaling 31.12 MW.

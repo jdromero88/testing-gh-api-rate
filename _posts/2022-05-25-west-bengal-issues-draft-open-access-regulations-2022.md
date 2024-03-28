@@ -6,7 +6,7 @@ date: 2022-05-25 07:00:00 +0000
 states:
 - West Bengal
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Regulation
   url: https://wberc.gov.in/sites/default/files/Draft_OA_Regu_1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

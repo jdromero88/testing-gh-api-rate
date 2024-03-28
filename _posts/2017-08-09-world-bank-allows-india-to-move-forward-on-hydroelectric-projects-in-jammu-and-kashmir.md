@@ -12,7 +12,7 @@ tags:
 states:
 - Jammu and Kashmir
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

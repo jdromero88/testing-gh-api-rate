@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://ipr.nagaland.gov.in/notification-creation-shamator-district
-is_analysis: false
+is_newsletter: false
 
 ---

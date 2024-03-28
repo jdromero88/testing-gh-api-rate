@@ -7,7 +7,7 @@ date: 2021-04-14 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://gercin.org/wp-content/uploads/2021/04/Tariff-Press-Note-April-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

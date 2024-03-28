@@ -6,7 +6,7 @@ date: 2021-06-30 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: 'EV Policy '
   url: https://evreporter.com/wp-content/uploads/2021/06/Gujarat-EV-policy-2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

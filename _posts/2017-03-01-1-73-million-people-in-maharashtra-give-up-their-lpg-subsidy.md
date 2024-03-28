@@ -9,7 +9,7 @@ states:
 - Uttar Pradesh
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:

@@ -8,8 +8,7 @@ date: 2022-01-19 05:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -18,6 +17,6 @@ sources:
 - name: Mercom
   url: https://mercomindia.com/no-transmission-wheeling-charges-distributed-solar/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

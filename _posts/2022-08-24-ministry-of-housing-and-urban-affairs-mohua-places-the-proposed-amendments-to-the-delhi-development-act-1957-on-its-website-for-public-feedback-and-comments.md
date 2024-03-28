@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notification
   url: https://mohua.gov.in/upload/whatsnew/62fe068ebd8a8DDA-Act-English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

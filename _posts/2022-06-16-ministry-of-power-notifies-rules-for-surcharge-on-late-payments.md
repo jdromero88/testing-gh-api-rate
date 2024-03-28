@@ -6,7 +6,7 @@ date: 2022-06-16 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Mercom
@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://egazette.nic.in/WriteReadData/2022/236266.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

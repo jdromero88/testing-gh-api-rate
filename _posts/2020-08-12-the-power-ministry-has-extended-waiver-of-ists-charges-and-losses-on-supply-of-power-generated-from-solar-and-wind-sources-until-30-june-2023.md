@@ -7,7 +7,7 @@ date: 2020-08-12 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Waiver Order
   url: https://powermin.nic.in/sites/default/files/webform/notices/Letter_dtd_5Aug_2020_reg_Waiver_of_ISTS_charges_and_losses.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -16,6 +16,6 @@ sources:
 details:
 - name: Guidelines
   url: https://dipp.gov.in/sites/default/files/Scheme_Registration_Guidelines_01April2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

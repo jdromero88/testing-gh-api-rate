@@ -6,7 +6,7 @@ date: 2021-06-10 04:00:00 +0000
 states:
 - Kerala
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Niti Aayog
   url: https://sdgindiaindex.niti.gov.in/#/ranking
-is_analysis: false
+is_newsletter: false
 
 ---

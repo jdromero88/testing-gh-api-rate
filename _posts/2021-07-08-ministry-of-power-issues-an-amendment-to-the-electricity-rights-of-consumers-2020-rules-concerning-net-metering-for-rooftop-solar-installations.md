@@ -7,7 +7,7 @@ date: 2021-07-08 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Mercom
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Notice
   url: https://powermin.gov.in/sites/default/files/webform/notices/Electricity_Rights_of_Consumers_Amendment_Rule_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

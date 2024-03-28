@@ -7,7 +7,7 @@ date: 2020-08-25 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Notification
   url: https://mnre.gov.in/img/documents/uploads/file_f-1597899633568.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,14 +7,14 @@ date: 2019-08-08 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/news-cm/power-grid-corporation-of-india-declared-successful-bidder-for-two-transmission-projects-119080101482_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Power Grid Corporation of India is the successful bidder under tariff based competitive bidding to establish transmission system for the following projects:

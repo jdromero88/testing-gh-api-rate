@@ -7,7 +7,7 @@ date: 2022-01-05 05:00:00 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - url: https://twitter.com/JharkhandCMO/status/1476149070238404608
   name: Chief Minister's Office Twitter
-is_analysis: false
+is_newsletter: false
 
 ---

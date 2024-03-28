@@ -5,7 +5,7 @@ title: 22 states and union territories reduce the value added tax on petrol and 
 date: 2021-11-10 05:00:00 +0000
 states: []
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1769621
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Tripura Data Center Policy, 2021
   url: https://ica.tripura.gov.in/sites/default/files/6319_21.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

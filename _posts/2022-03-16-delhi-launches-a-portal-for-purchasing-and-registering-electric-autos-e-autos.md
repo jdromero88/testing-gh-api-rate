@@ -6,8 +6,7 @@ date: 2022-03-16 07:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -16,6 +15,6 @@ sources:
 details:
 - name: Delhi Transport Department Twitter
   url: https://twitter.com/TransportDelhi/status/1502891074662006786?s=20&t=mKp-RUeomcpLtsc_wdi8xg
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -6,7 +6,7 @@ date: 2020-05-06 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.adb.org/news/adb-provides-346-million-loan-rural-electricity-maharashtra-india
-is_analysis: false
+is_newsletter: false
 
 ---
 The Asian Development Bank has approved a $346 million loan to the state of Maharashtra to provide reliable power connection in rural areas of the state.

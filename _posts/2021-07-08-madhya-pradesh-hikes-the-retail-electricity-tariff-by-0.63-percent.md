@@ -14,6 +14,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://mperc.in/Final%20Tariff%20Order%20for%20FY%202021-22_30_06_21.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

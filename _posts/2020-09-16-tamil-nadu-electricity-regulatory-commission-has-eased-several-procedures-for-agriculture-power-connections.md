@@ -7,7 +7,7 @@ date: 2020-09-16 04:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: http://www.tnerc.gov.in/press%20release/2020/Agriculture-English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

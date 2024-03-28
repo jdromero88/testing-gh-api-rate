@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/cabinet-okays-punjab-state-data-policy-aimed-optimal-use-data-governance
-is_analysis: false
+is_newsletter: false
 
 ---

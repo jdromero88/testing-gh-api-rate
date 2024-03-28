@@ -7,7 +7,7 @@ date: 2019-02-13 05:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -17,7 +17,7 @@ details:
 - name: Draft RERC (Renewable Energy Certificate and Renewable Purchase Obligation
     Compliance Framework ) (Third Amendment) Regulations, 2019
   url: http://rerc.rajasthan.gov.in/cnpl/PDFs/Draft_REC_Reg_III_Amend.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission has issued a notice inviting suggestions from interested parties before finalizing the third amendment to its Renewable Energy Certificate and Renewable Purchase Obligation Compliance Framework Regulations, 2019.

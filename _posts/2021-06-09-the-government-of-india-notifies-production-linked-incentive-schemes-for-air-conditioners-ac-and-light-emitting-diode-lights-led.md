@@ -18,6 +18,6 @@ details:
   url: https://pib.gov.in/PressReleseDetailm.aspx?PRID=1724121
 - name: Press Release (ACs & LEDs)
   url: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1724514
-is_analysis: false
+is_newsletter: false
 
 ---

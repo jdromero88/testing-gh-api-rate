@@ -5,7 +5,7 @@ states:
 - Jammu and Kashmir
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

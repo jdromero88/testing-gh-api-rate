@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Asian Development Bank (ADB) approves a loan of $40.5 million to support
   integrated early childhood development and maternal mental health in Meghalaya
 date: 2023-08-23T20:43:48.797Z

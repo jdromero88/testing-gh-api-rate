@@ -7,7 +7,7 @@ date: 2020-10-28 04:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tariff order
   url: http://www.tnerc.gov.in/orders/Tariff%20Order%202009/2020/Solar-Order-16-10-2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The **Tamil Nadu** Electricity Regulatory Commission issues a tariff order for solar power procurement by distribution licensees. The order proposes distribution licensees to procure power through a competitive bidding process prescribed by the central government.

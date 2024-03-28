@@ -14,6 +14,6 @@ sources:
 details:
 - name: State Budget 2023-24
   url: http://delhiplanning.nic.in/content/budget-delhi-2023-24
-is_analysis: false
+is_newsletter: false
 
 ---

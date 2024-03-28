@@ -1,13 +1,13 @@
 ---
 title: BSES Delhi to Provide 2,000 Solar Connections by the end of 2018
 content_type: articles
-is_analysis: false
+is_newsletter: false
 breadcrumbs: articles
 date: 2018-10-05 15:57:03 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:

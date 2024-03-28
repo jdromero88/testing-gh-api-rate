@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa amends the Goa Non-Biodegradable Garbage (Control) Act, 1996
 date: 2023-08-16T18:32:58.737Z
 states:
   - Goa
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Hindustan Times
     url: https://www.hindustantimes.com/cities/others/goa-assembly-passes-amendment-to-encourage-return-of-plastic-packaging-for-refund-as-recycling-efforts-fail-101691594235904.html

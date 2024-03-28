@@ -8,7 +8,7 @@ date: 2022-06-16 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Notification
   url: https://cercind.gov.in/regulations/175-Notification.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

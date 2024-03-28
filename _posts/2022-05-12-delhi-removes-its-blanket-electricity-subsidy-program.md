@@ -6,7 +6,7 @@ date: 2022-05-12 07:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: CMO Twitter
   url: https://twitter.com/CMODelhi/status/1522161662597361665
-is_analysis: false
+is_newsletter: false
 
 ---

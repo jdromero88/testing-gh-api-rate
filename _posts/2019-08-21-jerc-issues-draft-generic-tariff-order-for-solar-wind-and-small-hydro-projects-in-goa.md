@@ -7,7 +7,7 @@ date: 2019-08-21 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Tariff Details
   url: http://jercuts.gov.in/writereaddata/UploadFile/draftgenericorder637003641834862278.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Joint Electricity Regulatory Commission (JERC) has issued draft regulations for determining tariffs from renewable energy sources including solar, wind and small hydro for the state of Goa and union territories.

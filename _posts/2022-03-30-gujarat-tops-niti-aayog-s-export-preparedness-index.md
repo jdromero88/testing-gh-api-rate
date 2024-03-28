@@ -14,6 +14,6 @@ sources:
 details:
 - name: Export Preparedness Index 2021
   url: https://www.niti.gov.in/sites/default/files/2022-03/Final_EPI_Report_25032022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

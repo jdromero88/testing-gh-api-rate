@@ -6,7 +6,7 @@ date: 2019-09-18 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Draft Order
   url: http://www.rerc.rajasthan.gov.in/cnpl/PDFs/KUSUM_order.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission has issued a draft order inviting suggestions and comments to determine pre-fixed levelized tariff and the rate of purchase of excess electricity by the discoms under the government’s KUSUM program that aims to solarize India’s agriculture.

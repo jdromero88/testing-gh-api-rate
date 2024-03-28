@@ -6,14 +6,14 @@ date: 2018-12-12 05:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
 - name: The News Minute
   url: https://www.thenewsminute.com/article/kia-motors-signs-mou-andhra-govt-future-eco-mobility-92927
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 South Korean automobiles company Kia Motors signed an MOU with the Andhra Pradesh government to collaborate on promoting electric vehicles (EVs) in the state and to develop local EV infrastructure. 

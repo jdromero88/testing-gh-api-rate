@@ -6,7 +6,7 @@ date: 2020-03-18 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: The Mineral Laws (Amendment) Act
   url: https://coal.nic.in/sites/upload_files/coal/files/curentnotices/gazette%20biil17032020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Parliament passed The Mineral Laws (Amendment) Bill, 2020 that will open the coal sector fully for commercial mining by domestic and global companies.

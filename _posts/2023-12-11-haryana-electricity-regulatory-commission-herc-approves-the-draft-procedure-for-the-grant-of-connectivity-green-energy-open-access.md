@@ -2,15 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana Electricity Regulatory Commission (HERC) approves the Draft
   Procedure for the Grant of Connectivity & Green Energy Open Access
 date: 2023-12-06T21:13:55.264Z
 states:
   - Haryana
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Renewables
   - Power & Renewable Energy

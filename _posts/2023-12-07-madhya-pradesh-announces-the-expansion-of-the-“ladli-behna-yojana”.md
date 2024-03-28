@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh announces the expansion of the “Ladli Behna Yojana”
 date: 2023-09-20T15:12:03.987Z
 states:

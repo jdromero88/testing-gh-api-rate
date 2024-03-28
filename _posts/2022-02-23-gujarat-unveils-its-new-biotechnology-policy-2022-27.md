@@ -14,6 +14,6 @@ sources:
 details:
 - name: Biotechnology Policy
   url: https://btm.gujarat.gov.in/Portal/Document/1_88_1_2022-02-11-BT-Policy-2022-27.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

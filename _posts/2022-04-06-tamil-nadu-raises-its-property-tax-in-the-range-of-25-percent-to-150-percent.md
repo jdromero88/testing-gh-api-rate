@@ -14,6 +14,6 @@ sources:
 details:
 - name: Minister's Twitter
   url: https://twitter.com/KN_NEHRU/status/1510483876367724546
-is_analysis: false
+is_newsletter: false
 
 ---

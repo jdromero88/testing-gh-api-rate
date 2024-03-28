@@ -4,7 +4,7 @@ date: 2017-12-06 00:00:00 Z
 states:
 - Manipur
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:

@@ -13,6 +13,6 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/automobile/delhi-govt-to-begin-single-window-facility-for-ev-charging-scheme-121061500685_1.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

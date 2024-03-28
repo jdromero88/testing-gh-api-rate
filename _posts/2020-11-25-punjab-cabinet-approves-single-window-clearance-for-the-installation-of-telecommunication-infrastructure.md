@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-cabinet-okays-new-single-window-policy-boost-telecom-infrastructure-promoting-it-e
-is_analysis: false
+is_newsletter: false
 
 ---

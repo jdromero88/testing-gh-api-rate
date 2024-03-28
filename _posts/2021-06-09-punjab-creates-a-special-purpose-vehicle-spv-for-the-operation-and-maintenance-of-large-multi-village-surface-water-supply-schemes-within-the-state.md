@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: http://diprpunjab.gov.in/?q=content/punjab-cabinet-okays-spv-ensure-potable-water-supply-long-term-sustainable-basis-rural-areas
-is_analysis: false
+is_newsletter: false
 
 ---

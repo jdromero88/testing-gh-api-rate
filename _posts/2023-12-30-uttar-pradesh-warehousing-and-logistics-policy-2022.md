@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh Warehousing and Logistics Policy, 2022
 date: 2023-04-26T19:13:51.828Z
 states:

@@ -6,7 +6,7 @@ date: 2020-05-13 04:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 - Oil and Gas
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: http://information.up.nic.in/attachments/CabinetDecisionfile/7c223b50d3fdc5a2c4a53863012ed0b0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh government raised petrol and diesel prices by increasing VAT on petrol and diesel by $0.03 per liter and $0.01 per liter, respectively.

@@ -6,14 +6,14 @@ date: 2019-08-21 04:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/renewable/sjvnl-bags-two-hydro-power-projects-from-himachal-pradesh-govt/70685146
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 State-owned SJVNL won contracts from the Himachal Pradesh government for two hydro power units, the 138 MW Bardang and 210 MW Purthi projects.

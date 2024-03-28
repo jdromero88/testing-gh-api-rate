@@ -7,7 +7,7 @@ date: 2022-03-30 07:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://tserc.gov.in/file_upload/uploads/Tariff%20Orders/Current%20Year%20Orders/2022/RST%20Schedule%20for%20FY%202022-23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

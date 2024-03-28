@@ -6,7 +6,7 @@ date: 2021-06-09 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Chief Minister's Tweet
   url: https://twitter.com/CMOGuj/status/1401129743047565313
-is_analysis: false
+is_newsletter: false
 
 ---

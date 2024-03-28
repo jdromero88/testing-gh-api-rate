@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister’s Tweet
   url: https://twitter.com/CMOKerala/status/1393200090911625218
-is_analysis: false
+is_newsletter: false
 
 ---

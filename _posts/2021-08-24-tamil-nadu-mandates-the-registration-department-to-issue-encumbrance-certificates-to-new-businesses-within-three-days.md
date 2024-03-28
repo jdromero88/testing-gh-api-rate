@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://cms.tn.gov.in/sites/default/files/go/ind_e_197_2021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

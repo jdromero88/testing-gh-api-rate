@@ -17,6 +17,6 @@ details:
   url: https://www.thehindu.com/news/resources/66656735-TAMIL-NADU-STATE-DISASTER-Policy-Inner.pdf
 - name: " Tamil Nadu State Disaster Management Plan 2023"
   url: https://www.thehindu.com/news/resources/66656729-Disaster-Management-Plan-Book.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

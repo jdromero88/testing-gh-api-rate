@@ -14,6 +14,6 @@ sources:
 details:
 - name: In Detail
   url: https://cms.tn.gov.in/sites/default/files/go/it_e_4_2022_Ms.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

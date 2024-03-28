@@ -6,7 +6,7 @@ date: 2019-06-26 04:00:00 +0000
 states:
 - Kerala
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Twitter Announcement
   url: https://twitter.com/SECI_Ltd/status/1139512208277291010
-is_analysis: false
+is_newsletter: false
 
 ---
 The Kerala State Electricity Board (KSEB) has signed a PSA with SECI for procuring 200 MW of wind power.

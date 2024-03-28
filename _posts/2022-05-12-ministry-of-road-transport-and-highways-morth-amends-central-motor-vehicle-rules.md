@@ -14,6 +14,6 @@ sources:
 details:
 - name: Notification
   url: https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/may/doc20225753601.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

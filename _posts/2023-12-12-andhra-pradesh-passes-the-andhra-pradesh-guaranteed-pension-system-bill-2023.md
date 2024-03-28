@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh passes the Andhra Pradesh Guaranteed Pension System Bill-2023
 date: 2023-10-04T18:26:35.036Z
 states:

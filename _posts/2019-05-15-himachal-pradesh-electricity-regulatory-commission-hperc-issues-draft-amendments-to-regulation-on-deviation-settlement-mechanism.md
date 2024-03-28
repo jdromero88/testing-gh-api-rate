@@ -7,7 +7,7 @@ date: 2019-05-15 04:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Draft HPERC amendments to deviation settlement mechanism regulations
   url: http://new1.hperc.org/File1/ddeviation19.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Himachal Pradesh Electricity Regulatory Commission (HPERC) issued draft amendments to its regulation on deviation settlement mechanism. The amendments have been proposed in line with the Central Electricity Regulatory Commission’s fifth draft amendment to the deviation settlement regulations.

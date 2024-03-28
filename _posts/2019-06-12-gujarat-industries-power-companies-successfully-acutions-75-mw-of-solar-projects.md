@@ -6,7 +6,7 @@ date: 2019-06-12 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Regulatory Filing
   url: https://www.bseindia.com/xml-data/corpfiling/AttachLive/14821871-dbdd-4e6c-a86f-11e3b80281d9.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Gujarat Industries Power Company Ltd has successfully bid for the 75 megawatts (MW) solar power project in the e-reverse auction conducted by the Gujarat Urja Vikas Nigam Ltd.

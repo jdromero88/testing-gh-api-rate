@@ -6,7 +6,7 @@ date: 2021-02-10 05:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors:
 - Energy-related Transportation
@@ -16,6 +16,6 @@ sources:
 details:
 - name: CM Tweet
   url: https://twitter.com/ArvindKejriwal/status/1357215145949159425
-is_analysis: false
+is_newsletter: false
 
 ---

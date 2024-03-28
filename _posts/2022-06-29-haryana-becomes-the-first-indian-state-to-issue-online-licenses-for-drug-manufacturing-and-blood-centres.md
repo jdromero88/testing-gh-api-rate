@@ -7,7 +7,7 @@ date: 2022-06-29 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Portal
   url: https://www.statedrugs.gov.in/SFDA/Homepage
-is_analysis: false
+is_newsletter: false
 
 ---

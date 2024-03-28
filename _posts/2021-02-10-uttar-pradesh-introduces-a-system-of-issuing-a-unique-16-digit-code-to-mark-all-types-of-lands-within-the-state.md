@@ -13,6 +13,6 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/india-news/up-govt-announces-16-digit-unicode-to-identify-landholdings-101612709100446.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

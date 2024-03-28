@@ -4,7 +4,7 @@ date: 2017-09-06 20:29:00 Z
 states:
 - Kerala
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:

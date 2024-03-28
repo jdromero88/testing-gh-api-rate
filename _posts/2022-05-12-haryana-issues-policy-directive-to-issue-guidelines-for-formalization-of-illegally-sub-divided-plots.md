@@ -13,6 +13,6 @@ sources:
 - name: Millennium Post
   url: http://www.millenniumpost.in/nation/haryana-cabinet-approves-policy-to-regularise-illegally-divided-plots-476965
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,6 +13,6 @@ sources:
 - name: Deccan Herald
   url: https://www.deccanherald.com/state/top-karnataka-stories/karnataka-caps-size-of-agricultural-lands-for-sale-1063848.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

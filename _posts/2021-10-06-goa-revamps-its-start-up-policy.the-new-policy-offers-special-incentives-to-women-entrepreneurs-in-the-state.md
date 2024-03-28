@@ -13,6 +13,6 @@ sources:
 details:
 - name: ''
   url: ''
-is_analysis: false
+is_newsletter: false
 
 ---

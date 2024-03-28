@@ -6,7 +6,7 @@ date: 2020-06-17 04:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 - Energy-related Transportation
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.mpinfo.org/News/TodaysNews.aspx?newsid=20200612N23&LocID=1&PDt=6/12/2020
-is_analysis: false
+is_newsletter: false
 
 ---
 The Madhya Pradesh government has raised the cess levied on petrol and diesel. As a result, the two fuels have now become costlier by $0.01.

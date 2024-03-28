@@ -8,7 +8,7 @@ date: 2020-08-25 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - url: https://www.financialexpress.com/economy/cabinet-nod-energy-infra-msmes-are-key-gainers/2060201/
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1646947
-is_analysis: false
+is_newsletter: false
 
 ---

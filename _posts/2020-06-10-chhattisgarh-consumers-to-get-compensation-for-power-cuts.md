@@ -6,7 +6,7 @@ date: 2020-06-10 04:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Regulation
   url: http://www.cserc.gov.in/upload/upload_regulation/15914320391.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Per the state electricity regulator, customers will be entitled to compensation if they are made to face prolonged power cuts in Chhattisgarh.

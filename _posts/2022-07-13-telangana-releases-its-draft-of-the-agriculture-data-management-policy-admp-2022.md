@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft Policy
   url: https://invest.telangana.gov.in/wp-content/uploads/2022/07/Draft-Telangana-Agriculture-Data-Management-Policy-2022-vEnglish.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

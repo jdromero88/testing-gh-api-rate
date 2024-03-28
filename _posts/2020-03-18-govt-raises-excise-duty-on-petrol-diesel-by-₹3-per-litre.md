@@ -6,7 +6,7 @@ date: 2020-03-18 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -17,7 +17,7 @@ details:
   name: Notification SAED
 - name: Notification RIC
   url: http://www.cbic.gov.in/resources/htdocs-cbec/excise/cx-act/notifications/notfns-2020/cx-tarr2020/ce04-2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The government raises excise duty on petrol, diesel by $0.04 per liter. This is the steepest hike in 8 years

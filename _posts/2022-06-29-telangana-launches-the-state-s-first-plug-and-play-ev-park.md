@@ -6,7 +6,7 @@ date: 2022-06-29 04:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Inaugural Address
   url: https://twitter.com/MinisterKTR/status/1539540520778670080
-is_analysis: false
+is_newsletter: false
 
 ---

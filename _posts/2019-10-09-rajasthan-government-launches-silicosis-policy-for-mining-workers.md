@@ -13,7 +13,7 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/jaipur/raj-govt-launches-silicosis-policy-for-mining-workers/articleshow/71431702.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Chief Minister Ashok Gehlot launched a scheme under which those suffering from silicosis, a lung disease common among mine workers, will be treated at par with differently abled persons and will get a monthly pension of up to Rs 1,250.

@@ -4,7 +4,7 @@ date: 2018-01-17 16:56:00 Z
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 sources:

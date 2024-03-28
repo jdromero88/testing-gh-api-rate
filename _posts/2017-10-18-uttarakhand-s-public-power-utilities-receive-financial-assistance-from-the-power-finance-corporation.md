@@ -5,7 +5,7 @@ date: 2017-10-18 00:00:00 Z
 states:
 - Uttarakhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:

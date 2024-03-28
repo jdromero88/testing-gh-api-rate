@@ -17,6 +17,6 @@ details:
   url: https://sdgindiaindex.niti.gov.in/urban/#/ranking
 - name: Press Release
   url: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1774225
-is_analysis: false
+is_newsletter: false
 
 ---

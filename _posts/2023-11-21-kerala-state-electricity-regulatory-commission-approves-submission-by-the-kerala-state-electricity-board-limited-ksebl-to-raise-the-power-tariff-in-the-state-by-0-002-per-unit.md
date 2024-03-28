@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala State Electricity Regulatory Commission approves submission by the
   Kerala State Electricity Board Limited (KSEBL) to raise the power tariff in
   the state by $0.002 per unit
@@ -10,8 +10,7 @@ date: 2023-11-08T22:41:34.167Z
 states:
   - Kerala
 sectors:
-  - Energy
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

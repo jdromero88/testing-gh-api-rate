@@ -6,7 +6,7 @@ date: 2020-08-12 04:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 - Industrial Policy and Business Regulations
 subsectors:
 - Power and Renewable Energy
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Telangana CMO Tweet (In Telugu)
   url: https://twitter.com/TelanganaCMO/status/1291065945075494914?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Chief Minister's Office Twitter
   url: https://twitter.com/DrPramodPSawant/status/1476080870398185472
-is_analysis: false
+is_newsletter: false
 
 ---

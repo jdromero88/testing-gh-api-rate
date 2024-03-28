@@ -6,7 +6,7 @@ date: 2020-05-27 04:00:00 +0000
 states:
 - Puducherry
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tariff order
   url: http://jercuts.gov.in/writereaddata/UploadFile/Tariff%20Order%20PPCL%202020-21.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Puducherry government has increased power tariff for all categories of consumers by 3.12 percent based on the recommendations of the Joint Electricity Regulatory Commission.

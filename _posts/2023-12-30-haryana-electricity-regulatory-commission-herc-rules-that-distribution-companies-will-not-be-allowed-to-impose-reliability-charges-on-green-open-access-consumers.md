@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana Electricity Regulatory Commission (HERC) rules that distribution
   companies will not be allowed to impose reliability charges on green open
   access consumers
@@ -10,7 +10,7 @@ date: 2023-05-10T06:58:16.299Z
 states:
   - Haryana
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

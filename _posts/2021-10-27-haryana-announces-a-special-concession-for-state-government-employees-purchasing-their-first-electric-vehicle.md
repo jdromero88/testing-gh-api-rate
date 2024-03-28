@@ -7,7 +7,7 @@ date: 2021-10-27 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Tribune India
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/haryana-deputy-chief-minister-sh-dushyant-chautala-said-that-a-special-concession-will-be-given-0
-is_analysis: false
+is_newsletter: false
 
 ---

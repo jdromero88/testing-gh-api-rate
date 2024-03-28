@@ -6,7 +6,7 @@ date: 2019-01-09 05:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.vikramsolar.com/press-releases/vikram-solar-signs-agreement-with-ntpc-for-140-mw-solar-project/
-is_analysis: false
+is_newsletter: false
 
 ---
 Vikram Solar, a Kolkata-based solar photovoltaic module manufacturer and rooftop solar provider, won a contract from the National Thermal Power Corporation Limited to install a 140 MW solar plant in Kanpur. The contract is the first step towards a planned 225 MW installation in the state.

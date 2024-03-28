@@ -13,6 +13,6 @@ sources:
 - name: New Indian Express
   url: https://www.newindianexpress.com/states/telangana/2022/feb/15/telangana-governmentnotifies-two-new-urban-development-bodies-2419531.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

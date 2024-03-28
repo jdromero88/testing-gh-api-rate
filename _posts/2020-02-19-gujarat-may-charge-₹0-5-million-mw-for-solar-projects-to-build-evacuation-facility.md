@@ -6,7 +6,7 @@ date: 2020-02-19 05:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 - Power
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Discussion Paper
   url: https://www.gercin.org/wp-content/uploads/2020/02/Final-Solar-tariff-Discussion-Paper_04022020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Gujarat Electricity Regulatory Commission has invited public opinion on a draft paper discussing issues in establishing tariff for solar power procurement by distribution licensees.

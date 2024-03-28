@@ -15,6 +15,6 @@ sources:
 details:
 - name: State Department’s Tweet
   url: https://twitter.com/KTRTRS/status/1328190989891031040?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ date: 2022-04-06 07:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Economic Times
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://cercind.gov.in/2022/orders/4-SM-2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

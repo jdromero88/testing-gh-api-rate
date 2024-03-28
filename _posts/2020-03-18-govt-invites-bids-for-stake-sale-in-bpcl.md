@@ -6,7 +6,7 @@ date: 2020-03-18 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Bid Document
   url: https://dipam.gov.in/sites/default/files/Project%20Fuel%20PIM_vf.pdf?download=1
-is_analysis: false
+is_newsletter: false
 
 ---
 The government has invited ‘Expression of Interest’ for selling its stake of 52.98 percent in India’s second biggest oil refiner Bharat Petroleum Corporation Limited (BPCL).

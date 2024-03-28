@@ -8,7 +8,7 @@ states:
 - Center-State Relations
 sectors:
 - Infrastructure and Governance
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1688826
-is_analysis: false
+is_newsletter: false
 
 ---

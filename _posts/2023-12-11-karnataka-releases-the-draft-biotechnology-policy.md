@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka releases the Draft Biotechnology Policy
 date: 2023-12-06T21:18:38.129Z
 states:

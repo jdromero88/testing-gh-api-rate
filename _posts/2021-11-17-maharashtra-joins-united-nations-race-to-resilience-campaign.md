@@ -6,7 +6,7 @@ date: 2021-11-17 05:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Economic Times
@@ -14,6 +14,6 @@ sources:
 details:
 - name: Environment Minister's Tweet
   url: https://twitter.com/AUThackeray/status/1457818534361321473?s=20
-is_analysis: false
+is_newsletter: false
 
 ---

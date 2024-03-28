@@ -8,7 +8,7 @@ date: 2022-07-26 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Notification
   url: https://powermin.gov.in/sites/default/files/webform/notices/Renewable_Purchase_Obligation_and_Energy_Storage_Obligation_Trajectory_till_2029_30.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

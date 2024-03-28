@@ -9,10 +9,12 @@ main:
     class: "ss-nav"
     dropdown: true
     dropdownContent: sectors-list.html
-  - title: "Analysis"
-    href: "/analysis/"
-  - title: "Resources"
-    href: "/resources/"
+  - title: "Articles"
+    href: "/articles/"
+  - title: "Newsletter"
+    href: "/newsletter/"
+  # - title: "Resources"
+  #   href: "/resources/"
   # - title: "Goals"
   #   href: "/national-goals/"
   - title: "About"

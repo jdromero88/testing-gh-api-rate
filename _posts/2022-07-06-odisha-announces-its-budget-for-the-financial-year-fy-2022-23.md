@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget
   url: https://finance.odisha.gov.in/sites/default/files/2022-03/Budget%20at%20a%20Glance%20VOA%202022-23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

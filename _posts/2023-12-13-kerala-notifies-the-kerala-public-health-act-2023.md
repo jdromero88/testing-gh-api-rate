@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala notifies the Kerala Public Health Act 2023
 date: 2023-12-13T19:35:34.126Z
 states:

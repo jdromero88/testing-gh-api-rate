@@ -7,8 +7,8 @@ date: 2021-11-17 05:00:00 +0000
 states:
 - Delhi
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Transport Department Tweet
   url: https://twitter.com/TransportDelhi/status/1457939208622858244?s=20\\
-is_analysis: false
+is_newsletter: false
 
 ---

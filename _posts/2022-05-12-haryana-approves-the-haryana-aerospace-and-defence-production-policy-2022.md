@@ -12,6 +12,6 @@ sources:
 - name: The Print
   url: https://theprint.in/india/khattar-cabinet-approves-haryana-aerospace-and-defence-production-policy-2022/945670/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ tags:
 states:
 - West Bengal
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:

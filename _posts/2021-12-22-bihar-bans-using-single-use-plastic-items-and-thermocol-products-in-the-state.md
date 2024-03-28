@@ -6,7 +6,7 @@ date: 2021-12-22 05:00:00 +0000
 states:
 - Bihar
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Hindustan Times
@@ -14,6 +14,6 @@ sources:
 details:
 - name: Official Gazette
   url: https://state.bihar.gov.in/forest/cache/36/21-Dec-21/SHOW_DOCS/single%20use%20plasticguide%20line.PDF
-is_analysis: false
+is_newsletter: false
 
 ---

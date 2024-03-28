@@ -13,6 +13,6 @@ sources:
 - name: Indian Express
   url: https://indianexpress.com/article/cities/bangalore/karnataka-govt-announces-scheme-to-incentivise-medical-oxygen-plants-7406374/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

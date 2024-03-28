@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Union Finance Ministry earmarks $17.4 billion to states for additional
   borrowings in FY24
 date: 2023-07-05T20:08:50.584Z

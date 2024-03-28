@@ -6,7 +6,7 @@ date: 2018-10-10 14:04:28 +0000
 states:
 - Odisha
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1547004
-is_analysis: false
+is_newsletter: false
 
 ---
 Prime Minister Modi said the $1.8 billion project to revive the Talcher fertilizer plant will, for the first time, convert coal into gas for use as feedstock and for producing neem-coated urea. He also stated that the project, which will start production in 36 months, will help cut import of natural gas and fertilizer and make India self-reliant.     

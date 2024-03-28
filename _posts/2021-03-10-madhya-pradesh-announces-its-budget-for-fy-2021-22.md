@@ -15,6 +15,6 @@ sources:
 details:
 - name: Budget (In Hindi)
   url: https://finance.mp.gov.in/uploads/budget/Budget_Presentation_2021-22_Press_conf__2_3_2021_Final.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

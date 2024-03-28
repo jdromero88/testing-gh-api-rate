@@ -6,7 +6,7 @@ date: 2021-02-24 05:00:00 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://www.aerc.gov.in/APGCL_Tariff_Order_2021_22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

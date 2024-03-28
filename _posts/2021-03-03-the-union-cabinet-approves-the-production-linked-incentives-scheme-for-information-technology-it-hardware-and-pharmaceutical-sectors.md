@@ -19,6 +19,6 @@ details:
   url: https://pib.gov.in/PressReleseDetail.aspx?PRID=1700431
 - name: Press Release (Pharmaceuticals)
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1700433
-is_analysis: false
+is_newsletter: false
 
 ---

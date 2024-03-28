@@ -8,7 +8,7 @@ date: 2020-10-14 04:00:00 +0000
 states: []
 sectors:
 - Infrastructure and Governance
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Order
   url: https://www.epca.org.in/epcadirection/Chief-Secretary-GNCTD-Oct08-2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

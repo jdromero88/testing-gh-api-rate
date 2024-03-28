@@ -15,6 +15,6 @@ sources:
 details:
 - url: https://haryanaassembly.gov.in/wp-content/uploads/2021/12/LOB-22.12.2021.pdf
   name: Haryana Assembly
-is_analysis: false
+is_newsletter: false
 
 ---

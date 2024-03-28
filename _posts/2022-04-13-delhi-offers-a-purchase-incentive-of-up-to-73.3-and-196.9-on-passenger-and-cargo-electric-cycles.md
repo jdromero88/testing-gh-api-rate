@@ -7,8 +7,7 @@ date: 2022-04-13 07:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -17,6 +16,6 @@ sources:
 details:
 - name: Transport Minister's Tweet
   url: https://twitter.com/kgahlot/status/1512055420038238208
-is_analysis: false
+is_newsletter: false
 
 ---

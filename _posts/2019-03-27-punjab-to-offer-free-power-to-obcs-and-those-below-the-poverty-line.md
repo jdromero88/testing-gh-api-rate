@@ -6,7 +6,7 @@ date: 2019-03-27 04:00:00 +0000
 states:
 - Punjab
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.pspcl.in/2019/02/power-tariff-in-punjab-is-less-than-that-most-of-other-states-gurpreet-singh-kangar/
-is_analysis: false
+is_newsletter: false
 
 ---
 The Punjab State Power Corporation Limited issued guidelines to implement a benefit program that will give 200 free power units per month to those belonging to scheduled castes backward classes, and families below the poverty line families whose annual consumption exceeded 3,000 units.

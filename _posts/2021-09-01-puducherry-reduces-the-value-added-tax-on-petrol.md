@@ -6,7 +6,7 @@ date: 2021-09-01 04:00:00 +0000
 states:
 - Puducherry
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Government Order
   url: https://gst.py.gov.in/sites/default/files/goms26dt26082021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

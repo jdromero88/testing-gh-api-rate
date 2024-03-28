@@ -17,6 +17,6 @@ sources:
 details:
 - name: Notification
   url: https://www.mha.gov.in/sites/default/files/MHAOrder_Unlock4_29082020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

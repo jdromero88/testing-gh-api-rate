@@ -6,7 +6,7 @@ date: 2019-12-18 05:00:00 +0000
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: KERC Order
   url: https://www.karnataka.gov.in/kerc/Documents/Decision%20on%20various%20models%20and%20Guidelines%20for%20SRTPV%20allowed%20to%20be%20installed%20on%20rooftops%20of%20consumer%20buildings.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Karnataka Electricity Regulatory Commission (KERC) issued an order recognizing third-party investments in setting up solar roof top photo voltaic units. Under this model, a developer may operate solar plants and sell the energy generated to the consumer at retail supply tariffs fixed by KERC, before the energy is injected into the grid.

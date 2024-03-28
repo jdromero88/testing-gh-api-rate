@@ -7,7 +7,7 @@ date: 2020-12-30 05:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Order
   url: https://rerc.rajasthan.gov.in/rerc-user-files/office-orders
-is_analysis: false
+is_newsletter: false
 
 ---

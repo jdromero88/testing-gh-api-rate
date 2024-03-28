@@ -6,7 +6,7 @@ date: 2019-03-27 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -17,7 +17,7 @@ details:
     Amendment) Regulations, 2019,  Draft Notification ((Distribution Open Access)
     (First Amendment) Regulations, 2019
   url: http://www.mercindia.org.in/pdf/Order%2058%2042/Draft_DOA_First%20Amendment_Regulations_2019-Marathi.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra Electricity Regulatory Commission (MERC) issued a draft of the first amendments to its open access regulations relating to eligibility, banking, treatment of transmission and wheeling charges among others. The draft is up for comments and suggestions up to April 1, 2019.

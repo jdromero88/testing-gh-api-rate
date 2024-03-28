@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Punjab launches the "Bhagwant Mann Sarkar Tuhade Dwar" scheme
 date: 2023-12-13T19:49:01.865Z
 states:

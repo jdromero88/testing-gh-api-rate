@@ -6,7 +6,7 @@ date: 2021-02-17 05:00:00 +0000
 states:
 - Meghalaya
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Oil and Gas
@@ -16,6 +16,6 @@ sources:
 details:
 - name: CM tweet
   url: https://twitter.com/SangmaConrad/status/1358413075347480578
-is_analysis: false
+is_newsletter: false
 
 ---

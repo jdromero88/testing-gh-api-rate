@@ -6,7 +6,7 @@ date: 2019-03-06 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Twitter Announcement
   url: https://twitter.com/dpradhanbjp/status/1101713251165974528
-is_analysis: false
+is_newsletter: false
 
 ---
 The center approved a $1.26 billion gas-grid project to transport natural gas among India’s seven northeastern states and West Bengal.

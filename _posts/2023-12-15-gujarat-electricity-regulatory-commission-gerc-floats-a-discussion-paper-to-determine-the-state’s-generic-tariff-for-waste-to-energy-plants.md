@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Gujarat Electricity Regulatory Commission (GERC) floats a discussion
   paper to determine the state’s generic tariff for waste-to-energy plants
 date: 2023-06-28T14:06:34.445Z
 states:
   - Gujarat
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
 sources:

@@ -6,7 +6,7 @@ date: 2021-03-31 04:00:00 +0000
 states:
 - Bihar
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Press Release
   url: https://berc.co.in/orders/tariff/transmission/2328-press-release-of-tariff-order-of-bsptcl-and-sldc-fy-2021-22
-is_analysis: false
+is_newsletter: false
 
 ---
 **Bihar** approves an average cumulative hike in the electricity tariff for the financial year (FY) 2021-22. The tariff is revised from $0.0007 per kilowatt hour (kWh) to $0.0048 per kWh for domestic urban consumers.

@@ -12,6 +12,6 @@ sources:
 - name: 'Mint '
   url: https://www.livemint.com/news/india/haryana-govt-approves-new-excise-policy-details-here-11651851342338.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

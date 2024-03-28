@@ -6,7 +6,7 @@ date: 2020-08-12 04:00:00 +0000
 states:
 - Telangana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Telangana CMO Tweet (In Telugu)
   url: https://twitter.com/TelanganaCMO/status/1291065945075494914?s=20
-is_analysis: false
+is_newsletter: false
 
 ---
 The **Telangana** cabinet has approved a policy to promote the usage of EVs. The policy provides for 100 percent exemption from road tax and registration fee to EV buyers. For manufacturers, it includes tax subsidies, power tariff discounts and stamp duty exemption.

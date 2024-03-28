@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/taking-a-step-forward-towards-complete-digitization-of-villages-by-uploading-the-entire-records-of
-is_analysis: false
+is_newsletter: false
 
 ---

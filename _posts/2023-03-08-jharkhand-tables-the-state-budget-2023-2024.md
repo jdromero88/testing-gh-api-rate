@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2023-24
   url: https://finance.jharkhand.gov.in/budget2023.aspx
-is_analysis: false
+is_newsletter: false
 
 ---

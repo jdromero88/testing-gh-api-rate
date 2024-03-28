@@ -17,6 +17,6 @@ details:
   url: https://static.pib.gov.in/WriteReadData/userfiles/224088.pdf
 - name: Notification (Service sector)
   url: https://static.pib.gov.in/WriteReadData/userfiles/224080.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

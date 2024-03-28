@@ -6,7 +6,7 @@ date: 2020-06-24 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 - Energy-related Transportation
@@ -16,7 +16,7 @@ sources:
 details:
 - url: https://www.commercialtax.gujarat.gov.in/vatwebsite/circular.do?strType=NOTI&strActionType=LIST
   name: 'Notification (No: N-GHN-52-2020-VAT)'
-is_analysis: false
+is_newsletter: false
 
 ---
   

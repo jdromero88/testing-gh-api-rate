@@ -14,6 +14,6 @@ sources:
 details:
 - name: Goa Budget 2023-24
   url: http://goabudget.gov.in/
-is_analysis: false
+is_newsletter: false
 
 ---

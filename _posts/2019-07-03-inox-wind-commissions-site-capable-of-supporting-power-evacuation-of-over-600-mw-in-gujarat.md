@@ -7,7 +7,7 @@ date: 2019-07-03 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: https://www.inoxwind.com/inox-wind-commissions-common-power-evacuation-systems-with-ists-network-at-dayapar/
-is_analysis: false
+is_newsletter: false
 
 ---
 Wind turbine maker Inox Wind announced it has commissioned the common power evacuation facilities at Dayapar site in Bhuj in Gujarat, which is capable of supporting power evacuation of over 600 megawatts (MW).

@@ -7,7 +7,7 @@ date: 2022-02-23 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Framework Document
   url: https://mnre.gov.in/img/documents/uploads/file_f-1644909209115.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

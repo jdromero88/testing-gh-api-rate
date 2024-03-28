@@ -6,7 +6,7 @@ date: 2022-05-04 07:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Daily Pioneer
@@ -14,6 +14,6 @@ sources:
 details:
 - name: Cabinet Decisions
   url: https://www.mpinfo.org/Home/CabinetDetails?newsid=220426S17&fontname=Mangal&LocID=32&pubdate=04/26/2022
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -7,7 +7,7 @@ date: 2022-05-12 07:00:00 +0000
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Draft Regulation
   url: https://karunadu.karnataka.gov.in/kerc/Documents/KERC%20(Procurement%20of%20Energy%20from%20Renewable%20Sources)%20(Eighth%20Amendment)%20Regulations%2C%202022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

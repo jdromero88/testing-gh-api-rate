@@ -7,7 +7,7 @@ date: 2019-04-17 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Order
   url: https://herc.gov.in/WriteReadData/Orders/O20190403.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Haryana Electricity Regulatory Commission issued an order approving the power purchase agreements for 3 MW of biomass procurement by Haryana Power Purchase Center.

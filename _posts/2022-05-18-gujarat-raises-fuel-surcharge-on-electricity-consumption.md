@@ -6,7 +6,7 @@ date: 2022-05-18 07:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://www.guvnl.com/fpppa_documents/q421-22/Approval%20for%20additional%20FPPPA%20recovery%20of%20Rs.%200.20%20per%20unit%20towards%20Q2%20of%20FY%202021-22.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

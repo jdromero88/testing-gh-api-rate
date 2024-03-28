@@ -6,7 +6,7 @@ date: 2021-08-25 04:00:00 +0000
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Order
   url: https://karunadu.karnataka.gov.in/kerc/Tariff%20Order%202021/Determination%20of%20Tariff%20in%20respect%20of%20Solar%20Power%20Projects%20including%20SRTPV%20for%20FY%2022%20to%20FY23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -9,7 +9,7 @@ states:
 - Center-State Relations
 sectors:
 - Industrial Policy and Business Regulations
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -18,6 +18,6 @@ sources:
 details:
 - name: Order
   url: https://www.ppac.gov.in/WriteReadData/userfiles/file/Domestic%20Natural%20Gas%20Price%20Oct%20%202020%20to%20March%202021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

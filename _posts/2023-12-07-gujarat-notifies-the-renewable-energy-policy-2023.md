@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Gujarat notifies the Renewable Energy Policy-2023
 date: 2023-09-28T03:30:35.998Z
 states:
   - Gujarat
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Renewables
   - Power & Renewable Energy

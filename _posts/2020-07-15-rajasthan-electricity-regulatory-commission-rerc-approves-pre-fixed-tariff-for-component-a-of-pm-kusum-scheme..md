@@ -7,7 +7,7 @@ date: 2020-07-15 04:00:00 +0000
 states:
 - Rajasthan
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - url: https://rerc.rajasthan.gov.in/rerc-user-files/tariff-orders
   name: Tariff Order
-is_analysis: false
+is_newsletter: false
 
 ---
 The Rajasthan Electricity Regulatory Commission (RERC) approved $0.04 per kilowatt as the pre-fixed levelized tariff for component A of the KUSUM program for capacities of up to 725 MW.

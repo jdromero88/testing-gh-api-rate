@@ -7,7 +7,7 @@ date: 2021-12-01 05:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Chief Minister Office's Tweet
   url: https://twitter.com/ChhattisgarhCMO/status/1462704749396967426
-is_analysis: false
+is_newsletter: false
 
 ---

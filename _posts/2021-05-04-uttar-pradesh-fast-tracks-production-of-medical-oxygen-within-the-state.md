@@ -18,6 +18,6 @@ details:
   url: https://niveshmitra.up.nic.in/
 - name: Order
   url: http://www.uppcb.com/pdf/Office_020521.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

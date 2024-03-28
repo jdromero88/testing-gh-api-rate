@@ -7,7 +7,7 @@ date: 2022-04-06 07:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Approved Rates
   url: http://hperc.org/File/fsolartr22-23.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

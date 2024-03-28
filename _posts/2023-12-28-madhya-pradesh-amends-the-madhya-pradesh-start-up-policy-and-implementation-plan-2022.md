@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Madhya Pradesh amends the Madhya Pradesh Start-up Policy and
   Implementation Plan-2022 "
 date: 2023-06-07T14:54:34.666Z

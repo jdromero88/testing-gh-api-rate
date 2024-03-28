@@ -14,6 +14,6 @@ sources:
 details:
 - name: Policy
   url: https://gil.gujarat.gov.in/Media/DocumentUpload/IT%20POLICY-FInal-2022.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

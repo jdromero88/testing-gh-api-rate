@@ -7,7 +7,7 @@ date: 2021-09-01 04:00:00 +0000
 states:
 - Sikkim
 sectors:
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Business Standard
@@ -15,6 +15,6 @@ sources:
 details:
 - name: NER District SDG Index Report 2021-22
   url: https://www.niti.gov.in/sites/default/files/2021-08/NER_SDG_Index_NITI_26082021.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

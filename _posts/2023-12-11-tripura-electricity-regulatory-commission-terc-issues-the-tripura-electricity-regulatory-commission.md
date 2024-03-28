@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tripura Electricity Regulatory Commission (TERC) issues the Tripura
   Electricity Regulatory Commission
 date: 2023-07-19T19:46:04.117Z
 states:
   - Tripura
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

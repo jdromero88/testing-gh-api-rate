@@ -6,7 +6,7 @@ date: 2019-03-14 04:00:00 +0000
 states:
 - Gujarat
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -17,7 +17,7 @@ details:
   name: Notice of Postponement of Auction
 - url: http://guvnl.com/DownloadFiles/File/Solar%20RFS%20(Phase%20V)%20Dholera%20dtd%2016_01_2019.pdf
   name: 'Original Request for Selection for 1,000 MW '
-is_analysis: false
+is_newsletter: false
 
 ---
 In a setback for Gujarat’s renewable energy drive, its latest solar auction of 1,000 MW got no bids at all, because developers reportedly felt the ceiling tariff of $0.039 (Rs. 2.75) was too low. The auction has now been postponed to March 19.

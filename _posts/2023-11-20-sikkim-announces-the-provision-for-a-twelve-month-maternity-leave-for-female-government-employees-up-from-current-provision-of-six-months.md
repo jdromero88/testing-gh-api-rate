@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Sikkim announces the provision for a twelve month maternity leave for
   female government employees, up from current provision of six months
 date: 2023-08-02T20:50:06.048Z

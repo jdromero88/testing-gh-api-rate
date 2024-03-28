@@ -4,7 +4,7 @@ date: 2018-01-10 16:45:00 Z
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Oil and Gas
 sources:

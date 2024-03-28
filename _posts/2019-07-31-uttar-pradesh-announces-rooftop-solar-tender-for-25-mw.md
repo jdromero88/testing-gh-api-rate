@@ -6,7 +6,7 @@ date: 2019-07-31 04:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender Details
   url: http://upneda.org.in/UploadedFiles/TenderDirectory/TDOCURESCO.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Uttar Pradesh New and Renewable Energy Development Agency (UPNEDA) has announced a tender to install 25 MW of grid-connected rooftop solar photovoltaic projects atop government and semi-government buildings in the state. The submission deadline for bids is August 12, 2019.

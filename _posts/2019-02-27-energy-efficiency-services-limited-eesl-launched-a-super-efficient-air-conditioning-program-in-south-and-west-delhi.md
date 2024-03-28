@@ -7,13 +7,13 @@ date: 2019-02-27 05:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Siasat
   url: https://www.siasat.com/news/eesl-partners-bses-launch-super-efficient-ac-programme-1470485/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---
 Energy Efficiency Services Limited (EESL) launched its super-efficient air conditioning program for residential and institutional consumers south and west Delhi. Under the program, EESL will distribute air conditioners that are 40 percent more efficient but are priced comparably to units currently available in the market.

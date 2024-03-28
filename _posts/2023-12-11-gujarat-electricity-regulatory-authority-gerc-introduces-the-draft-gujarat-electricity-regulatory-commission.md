@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Gujarat Electricity Regulatory Authority (GERC) introduces the Draft
   Gujarat Electricity Regulatory Commission
 date: 2023-07-05T20:03:16.571Z
 states:
   - Gujarat
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

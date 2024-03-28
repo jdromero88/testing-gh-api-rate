@@ -7,7 +7,7 @@ date: 2022-03-02 08:00:00 +0000
 states:
 - Center-State Relations
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Economic Times
@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press Release
   url: https://pib.gov.in/PressReleseDetail.aspx?PRID=1801324
-is_analysis: false
+is_newsletter: false
 
 ---

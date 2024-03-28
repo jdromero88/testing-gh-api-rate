@@ -13,6 +13,6 @@ sources:
 - name: NDTV
   url: https://www.ndtv.com/india-news/telangana-issues-order-for-10-per-cent-quota-for-economically-weaker-sections-2366152
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

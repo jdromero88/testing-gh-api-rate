@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Punjab Water Regulation and Development Authority (PWRDA) launches an
   online portal "
 date: 2023-09-13T15:31:56.219Z

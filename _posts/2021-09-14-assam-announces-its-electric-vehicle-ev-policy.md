@@ -6,7 +6,7 @@ date: 2021-09-14 04:00:00 +0000
 states:
 - Assam
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,6 +15,6 @@ sources:
 details:
 - name: EV Policy
   url: https://industries.assam.gov.in/sites/default/files/swf_utility_folder/departments/industries_com_oid_4/portlet/level_2/ilovepdf_merged.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

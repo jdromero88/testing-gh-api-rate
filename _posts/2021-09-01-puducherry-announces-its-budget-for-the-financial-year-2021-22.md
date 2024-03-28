@@ -14,6 +14,6 @@ sources:
 details:
 - name: Chief Minister's Budget Speech
   url: https://www.py.gov.in/sites/default/files/cm-budget-2021-speech-english-final.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

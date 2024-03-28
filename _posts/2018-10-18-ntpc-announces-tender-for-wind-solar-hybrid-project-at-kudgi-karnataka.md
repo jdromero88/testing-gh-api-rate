@@ -6,7 +6,7 @@ date: 2018-10-18 14:38:43 +0000
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tender Details
   url: http://www.ntpctender.com/uploads/job_25764.html
-is_analysis: false
+is_newsletter: false
 
 ---
 The National Thermal Power Corporation has invited bids for the development of a wind-solar hybrid power project at Kudgi, Karnataka. The tender is for a mix of at least 60 MW of wind energy and at least 130 MW of solar energy.     

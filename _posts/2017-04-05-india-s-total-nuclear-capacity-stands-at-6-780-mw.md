@@ -6,7 +6,7 @@ tags:
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Nuclear
 sources:

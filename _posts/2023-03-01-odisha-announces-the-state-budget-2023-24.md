@@ -14,6 +14,6 @@ sources:
 details:
 - name: State Budget 2023-24
   url: https://budget.odisha.gov.in/previous-yearly-budget/2023
-is_analysis: false
+is_newsletter: false
 
 ---

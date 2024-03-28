@@ -7,7 +7,7 @@ date: 2019-07-31 04:00:00 +0000
 states:
 - Chhattisgarh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Coal
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Release
   url: http://www.bhel.com/index.php/linkpdf?pdf=http://www.bhel.com//assets/downloads/5d3838b5965aaBHEL_signs_MoU_with_NTPC_to_set_up_world%E2%80%99s_most_efficient_environmental_friendly_coal-fired_power_plant.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 Bharat Heavy Electricals (BHEL) and National Thermal Power Corporation Limited (NTPC) signed an MOU to form a joint venture company that will establish an 800 MW technology demonstration plant.

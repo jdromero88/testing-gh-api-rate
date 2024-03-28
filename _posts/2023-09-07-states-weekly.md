@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: States Weekly
 date: 2023-09-07T19:16:23.537Z
 ---

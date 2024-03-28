@@ -16,6 +16,6 @@ details:
   url: https://twitter.com/UPGovt/status/1628641086242721794
 - name: Uttar Pradesh Film Policy
   url: https://filmbandhuup.gov.in/pdf/FilmBandhuBooklet-English.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

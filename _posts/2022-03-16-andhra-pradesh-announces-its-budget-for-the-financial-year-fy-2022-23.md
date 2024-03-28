@@ -14,6 +14,6 @@ sources:
 details:
 - name: Andhra Pradesh Budget
   url: xhttps://www.apfinance.gov.in/Budget2223/
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -13,6 +13,6 @@ sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/amaravati/apiic-relaxes-norms-to-set-up-industries/articleshow/92292939.cms
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

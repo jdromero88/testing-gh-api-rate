@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa approves the Mhaji Bus (My bus) scheme
 date: 2023-05-31T15:14:26.737Z
 states:

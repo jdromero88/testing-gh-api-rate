@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh cabinet approves the Chief Minister Handloom and Powerloom
   Industry Development Scheme (General)
 date: 2023-04-12T19:49:16.016Z

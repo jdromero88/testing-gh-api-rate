@@ -15,6 +15,6 @@ sources:
 details:
 - name: Odisha CMO Tweet
   url: https://twitter.com/CMO_Odisha/status/1427465639518605316
-is_analysis: false
+is_newsletter: false
 
 ---

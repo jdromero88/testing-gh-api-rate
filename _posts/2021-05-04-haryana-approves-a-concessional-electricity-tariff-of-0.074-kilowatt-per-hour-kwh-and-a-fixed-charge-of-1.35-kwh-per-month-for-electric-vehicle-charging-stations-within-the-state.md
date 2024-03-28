@@ -8,7 +8,7 @@ date: 2021-05-04 04:00:00 +0000
 states:
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://herc.gov.in/WriteReadData/Orders/O20210330a.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

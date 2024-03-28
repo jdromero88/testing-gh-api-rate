@@ -4,7 +4,7 @@ date: 2018-01-10 16:40:00 Z
 states:
 - Karnataka
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

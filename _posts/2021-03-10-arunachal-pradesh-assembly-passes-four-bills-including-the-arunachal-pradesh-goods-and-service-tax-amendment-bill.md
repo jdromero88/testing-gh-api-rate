@@ -14,6 +14,6 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/india-news/arunachal-assembly-passes-key-bills-on-gst-regulatory-reforms-for-investors-101614868335908.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

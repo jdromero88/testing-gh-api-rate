@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana announces the Haryana Ex-Situ Management of Paddy Straw Policy-2023
 date: 2023-10-18T14:51:10.618Z
 states:
   - Haryana
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
 sources:

@@ -6,7 +6,7 @@ date: 2019-02-13 05:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Tamil Nadu Solar Energy Policy 2019
   url: http://teda.in/wp-content/uploads/2019/02/SOLARPOLICY2019.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 The Tamil Nadu government unveiled a new Solar Energy Policy, 2019. The policy set a target of generating 9,000 MW of solar power for the state by 2022.

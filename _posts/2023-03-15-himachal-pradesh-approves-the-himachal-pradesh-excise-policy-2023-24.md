@@ -15,6 +15,6 @@ sources:
 details:
 - name: Cabinet Decision
   url: http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=27015
-is_analysis: false
+is_newsletter: false
 
 ---

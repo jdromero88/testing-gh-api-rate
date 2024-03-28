@@ -6,7 +6,7 @@ date: 2020-03-04 05:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: 'GO No: RT-17'
   url: https://goir.ap.gov.in/Reports.aspx
-is_analysis: false
+is_newsletter: false
 
 ---
 The Andhra Pradesh government released a sum of $415.67 million to clear long- pending power dues.

@@ -6,8 +6,7 @@ date: 2022-04-13 07:00:00 +0000
 states:
 - Karnataka
 sectors:
-- Energy
-- Climate Change
+- Climate Change and Energy
 subsectors: []
 sources:
 - name: Deccan Herald
@@ -15,6 +14,6 @@ sources:
 details:
 - name: Tariff Order
   url: https://karunadu.karnataka.gov.in/kerc/TariffOrders2022/Order/BESCOM.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

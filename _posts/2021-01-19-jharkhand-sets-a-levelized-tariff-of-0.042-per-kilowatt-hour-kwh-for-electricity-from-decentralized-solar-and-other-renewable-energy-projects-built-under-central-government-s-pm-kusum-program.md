@@ -8,7 +8,7 @@ date: 2021-01-19 05:00:00 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Tariff Order
   url: http://jserc.org/pdf/tariff_order/2020_03_kusum.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

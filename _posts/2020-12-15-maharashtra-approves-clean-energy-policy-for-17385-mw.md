@@ -6,7 +6,7 @@ date: 2020-12-15 05:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Renewables
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: CM's Tweet
   url: https://twitter.com/CMOMaharashtra/status/1336669977680650241?s=20
-is_analysis: false
+is_newsletter: false
 
 ---
 **Maharashtra** approves its non-conventional energy policy which aims to develop a clean energy generation capacity of 17,385 megawatt.

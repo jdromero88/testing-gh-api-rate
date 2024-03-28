@@ -14,6 +14,6 @@ sources:
 details:
 - name: West Bengal Budget
   url: https://finance.wb.gov.in/writereaddata/Budget_Publication/2022_bp9-1.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

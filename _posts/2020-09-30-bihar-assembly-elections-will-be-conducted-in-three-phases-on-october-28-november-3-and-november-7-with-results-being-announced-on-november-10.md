@@ -15,6 +15,6 @@ sources:
 details:
 - name: Election Schedule
   url: https://eci.gov.in/files/file/12253-schedule-for-general-election-to-the-legislative-assembly-of-bihar-2020/
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -18,6 +18,6 @@ sources:
 details:
 - name: Portal
   url: https://nehealthservices.com/
-is_analysis: false
+is_newsletter: false
 
 ---

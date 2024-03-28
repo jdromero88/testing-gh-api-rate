@@ -7,7 +7,7 @@ tags:
 states:
 - Madhya Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy Efficiency
 - Renewables

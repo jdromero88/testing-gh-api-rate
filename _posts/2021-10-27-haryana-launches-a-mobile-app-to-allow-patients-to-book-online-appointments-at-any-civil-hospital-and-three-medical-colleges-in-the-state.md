@@ -16,6 +16,6 @@ sources:
 details:
 - name: Press Release
   url: https://prharyana.gov.in/en/haryana-health-minister-sh-anil-vij-while-affirming-that-the-swasth-haryana-mobile-app-has-been
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Press Release
   url: https://cmogujarat.gov.in/en/cm-approves-states-first-integrated-logistics-and-logistics-parks-policy-2021/
-is_analysis: false
+is_newsletter: false
 
 ---

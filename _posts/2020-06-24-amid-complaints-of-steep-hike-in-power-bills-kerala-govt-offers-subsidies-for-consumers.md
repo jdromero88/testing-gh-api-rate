@@ -7,7 +7,7 @@ date: 2020-06-24 04:00:00 +0000
 states:
 - Kerala
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: Press Note
   url: https://www.prd.kerala.gov.in/ml/node/85999
-is_analysis: false
+is_newsletter: false
 
 ---
 The Kerala government has offered up to 50 percent subsidy on electricity bills generated during the lockdown period. Free electricity has been announced for those with a connected load of less than 500 watts, regardless of the amount of electricity used.

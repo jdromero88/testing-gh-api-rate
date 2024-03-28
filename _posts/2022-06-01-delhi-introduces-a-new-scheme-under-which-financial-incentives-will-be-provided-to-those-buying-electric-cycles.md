@@ -7,7 +7,7 @@ date: 2022-06-01 04:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 - Power and Renewable Energy
@@ -17,6 +17,6 @@ sources:
 details:
 - name: Operational Guidelines
   url: https://ev.delhi.gov.in/files/Operational%20Guideline%20for%20e-cycles.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

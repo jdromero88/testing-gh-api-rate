@@ -11,7 +11,7 @@ states:
 - Uttar Pradesh
 - Haryana
 sectors:
-- Energy
+- Climate Change and Energy
 - Infrastructure and Governance
 subsectors:
 - Oil and Gas
@@ -21,6 +21,6 @@ sources:
 details:
 - name: Order
   url: https://cpcb.nic.in/openpdffile-direction.php?id=UHVibGljYXRpb25GaWxlLzM5MzRfMTYwNjkwMzEzMl9tZWRpYXBob3RvMzE5MzgucGRm
-is_analysis: false
+is_newsletter: false
 
 ---

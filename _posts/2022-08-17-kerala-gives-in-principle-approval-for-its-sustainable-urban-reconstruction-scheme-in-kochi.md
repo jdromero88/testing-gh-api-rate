@@ -15,6 +15,6 @@ sources:
 details:
 - name: Cabinet Decisions
   url: https://keralacm.gov.in/2022/08/10/cabinet-decisions-10-08-2022/
-is_analysis: false
+is_newsletter: false
 
 ---

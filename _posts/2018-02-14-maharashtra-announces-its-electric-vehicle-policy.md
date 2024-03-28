@@ -4,7 +4,7 @@ date: 2018-02-14 19:50:00 Z
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:

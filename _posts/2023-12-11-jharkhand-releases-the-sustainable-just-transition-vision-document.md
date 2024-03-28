@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jharkhand releases the Sustainable Just Transition Vision Document
 date: 2023-07-26T19:06:08.590Z
 states:
   - Jharkhand
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Renewables

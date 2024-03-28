@@ -6,7 +6,7 @@ date: 2020-06-03 04:00:00 +0000
 states:
 - Maharashtra
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 - Oil and Gas
@@ -16,7 +16,7 @@ sources:
 details:
 - name: ''
   url: ''
-is_analysis: false
+is_newsletter: false
 
 ---
 The Maharashtra government has hiked the tax levied on petrol and diesel. As a result, the two fuels have now become costlier by $0.02 each.

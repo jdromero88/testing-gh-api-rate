@@ -7,7 +7,7 @@ date: 2021-02-03 05:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -16,6 +16,6 @@ sources:
 details:
 - name: Tariff order
   url: http://hperc.org/File/SM79-2020.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

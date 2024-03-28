@@ -8,8 +8,7 @@ date: 2022-08-24 04:00:00 +0000
 states:
 - Uttar Pradesh
 sectors:
-- Climate Change
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 sources:
@@ -18,6 +17,6 @@ sources:
 details:
 - name: Solar Energy Policy 2022
   url: http://upneda.org.in/MediaGallery/Uttar_Pradesh_Solar_Energy_Policy2022_English_draft_one-07-08-22-final.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

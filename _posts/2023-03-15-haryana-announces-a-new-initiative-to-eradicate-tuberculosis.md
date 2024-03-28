@@ -18,6 +18,6 @@ sources:
 details:
 - url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2f9efd67-e113-4807-9653-4790d68191c4
   name: Press Release
-is_analysis: false
+is_newsletter: false
 
 ---
