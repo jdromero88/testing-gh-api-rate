@@ -14,6 +14,6 @@ sources:
 details:
 - name: CMO Twitter
   url: https://twitter.com/himantabiswa/status/1628346580880461824
-is_analysis: false
+is_newsletter: false
 
 ---

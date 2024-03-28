@@ -17,6 +17,6 @@ sources:
 details:
 - name: Cabinet decisions
   url: https://www.mpinfo.org/Home/CabinetDetails?newsid=230321S18&fontname=FontEnglish&LocID=32&pubdate=03/21/2023
-is_analysis: false
+is_newsletter: false
 
 ---

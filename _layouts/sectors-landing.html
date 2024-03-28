@@ -2,22 +2,80 @@
 layout: default
 ---
 
-<div class="row">
-
-  <!-- Table of Contents -->
-  {% include table-of-contents.html viewAll="false" stickyMenu="true" mobileHide="false" %}
-
-  <!-- Sector Listing -->
-  <section class="sectorsArticlesContainer col-xs-12 col-md-9">
-    <div class="content-wrapper">
-
-      {% for sector in site.sectors %}
-        {% capture viewAllLink %}{{ page.url | relative_url }}{{ sector.title | slugify }}{% endcapture %}
-        {% include sector-recent-articles.html viewAllLink = viewAllLink useStatePosts="false" %}
-      {% endfor %}
-
-    </div>
-      
-  </section>
+<div class="cards">
+  <a
+    href="https://dev--indian-states-v2.netlify.app/sectors/climate-change-and-energy/"
+    rel="noopener noreferrer"
+    class="card"
+    id="energy-card"
+  >
+    <span class="sector-card-label">Climate Change & Energy</span>
+  </a>
+  <a
+    href="https://dev--indian-states-v2.netlify.app/sectors/finance/"
+    rel="noopener noreferrer"
+    class="card"
+    id="finance-card"
+  >
+    <span class="sector-card-label">Finance</span>
+  </a>
+  <a
+    href="https://dev--indian-states-v2.netlify.app/sectors/health/"
+    rel="noopener noreferrer"
+    class="card"
+    id="health-card"
+  >
+    <span class="sector-card-label">Health</span>
+  </a>
+  <a
+    href="https://dev--indian-states-v2.netlify.app/sectors/industrial-policy-and-business-regulations/"
+    rel="noopener noreferrer"
+    class="card"
+    id="business-card"
+  >
+    <span class="sector-card-label"
+      >Industrial Policy & Business Regulations</span
+    >
+  </a>
+  <a
+    href="https://dev--indian-states-v2.netlify.app/sectors/infrastructure-and-governance/"
+    rel="noopener noreferrer"
+    class="card"
+    id="infrastructure-card"
+  >
+    <span class="sector-card-label">Infrastructure & Governance</span>
+  </a>
+  <a
+    href="https://dev--indian-states-v2.netlify.app/sectors/land-labor-laws/"
+    rel="noopener noreferrer"
+    class="card"
+    id="labor-card"
+  >
+    <span class="sector-card-label">Land & Labor Laws</span>
+  </a>
+  <a
+    href="https://dev--indian-states-v2.netlify.app/sectors/water-sanitation/"
+    rel="noopener noreferrer"
+    class="card"
+    id="water-card"
+  >
+    <span class="sector-card-label">Water & Sanitation</span>
+  </a>
+  <a
+    href="https://dev--indian-states-v2.netlify.app/sectors/center-state-relations/"
+    rel="noopener noreferrer"
+    class="card"
+    id="center-state-card"
+  >
+    <span class="sector-card-label">Center-State Relations</span>
+  </a>
 </div>
 
+<iframe
+  class="table-iframe"
+  id="newtable"
+  src="https://indian-states-table.netlify.app"
+  frameborder="0"
+  style="width: 100%; height: 100vh"
+  allow="web-share"
+></iframe>

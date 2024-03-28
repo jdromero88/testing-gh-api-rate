@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Infrastructure & Governance   Madhya Pradesh issues the updated Madhya
   Pradesh Naxalite Surrender, Rehabilitation cum Relief Policy
 date: 2023-08-30T18:09:22.188Z

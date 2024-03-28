@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh New & Renewable Energy Development Agency (UPNEDA) signs a
   Memorandum of Understanding (MoU) with The Nature Conservancy
 date: 2023-10-18T14:49:45.834Z
 states:
   - Uttar Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
   - Power & Renewable Energy

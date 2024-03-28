@@ -14,6 +14,6 @@ sources:
 details:
 - name: Gazette Notification
   url: http://texmin.gov.in/sites/default/files/PM_MITRA_Notification_0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

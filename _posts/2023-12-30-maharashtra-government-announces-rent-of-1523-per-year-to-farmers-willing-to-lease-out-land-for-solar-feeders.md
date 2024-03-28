@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra government announces rent of $1523 per year to farmers
   willing to lease out land for solar feeders
 date: 2023-12-30T20:23:11.762Z
 states:
   - Maharashtra
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
 sources:

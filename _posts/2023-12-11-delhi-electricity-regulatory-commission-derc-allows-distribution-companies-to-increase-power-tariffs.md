@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi Electricity Regulatory Commission (DERC) allows distribution
   companies to increase power tariffs
 date: 2023-07-05T20:02:23.407Z
 states:
   - Delhi
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
   - Power & Renewable Energy

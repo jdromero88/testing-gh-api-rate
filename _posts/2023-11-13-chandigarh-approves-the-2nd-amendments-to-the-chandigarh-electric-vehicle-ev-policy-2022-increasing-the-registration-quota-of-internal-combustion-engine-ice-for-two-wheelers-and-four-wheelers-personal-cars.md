@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Chandigarh approves the 2nd Amendments to the Chandigarh Electric Vehicle
   (EV) Policy 2022, increasing the registration quota of internal combustion
   engine (ICE) for two-wheelers and four-wheelers (personal cars)
@@ -10,8 +10,7 @@ date: 2023-10-25T17:20:56.071Z
 states:
   - Union Territory of Chandigarh
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
   - Energy-related Transportation

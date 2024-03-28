@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh receives a $175 million loan from the Asian Development
   Bank (ADB) to enhance road connectivity and climate resilience in the state
 date: 2023-11-01T17:13:09.563Z

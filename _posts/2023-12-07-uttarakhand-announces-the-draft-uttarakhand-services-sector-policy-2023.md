@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttarakhand announces the Draft Uttarakhand Services Sector Policy, 2023
 date: 2023-09-20T13:55:38.351Z
 states:

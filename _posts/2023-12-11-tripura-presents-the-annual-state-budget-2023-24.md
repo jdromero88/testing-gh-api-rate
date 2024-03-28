@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tripura presents the annual State Budget 2023-24
 date: 2023-07-12T19:52:35.716Z
 states:

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa cabinet approves the Goa State Logistics and Warehouse Policy, 2023
 date: 2023-05-31T15:12:30.802Z
 states:

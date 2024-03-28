@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh launches the Nand Baba Milk Mission Scheme
 date: 2023-06-14T06:42:35.389Z
 states:

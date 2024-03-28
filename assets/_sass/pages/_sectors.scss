@@ -1,104 +1,142 @@
 /*===============================
 =            Sectors            =
 ===============================*/
+.card {
+  font-family: 'newnord';
+  font-weight: bold;
+  font-size: 24px;
+  background-color: #0077cc; /* Replace with the actual color you want */
+  color: white; /* Replace with the actual text color you want */
+  width: 401px;
+  height: 240px;
+  margin: auto;
+  display: flex;
+  align-items: center; /* This vertically centers the text */
+  justify-content: center; /* This horizontally centers the text */
+  text-align: center; /* Ensures text itself is centered if it wraps */
+  position: relative;
+  transition: text-underline-offset 400ms, text-decoration-color 400ms;
 
-.sectorsArticlesContainer {
-	padding-bottom: 1rem;
-	margin-bottom: 4rem;
+  &:active {
+    color: #fff;
+  }
 
-	.subsectorDot {
-		color: $medium-gray;
-	}
+  &:hover {
+    color: #fff;
+  }
+}
 
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 65, 101, 0.7); 
+  z-index: 1; /* Situates overlay above background image but below content */
+}
 
-	.sectorSection {
-		margin: 5rem 0;
+.card > .sector-card-label {
+  z-index: 2; /* Higher z-index value than the ::before pseudo-element */
+  text-decoration: underline 2px transparent;
+  text-underline-offset: 0.2em;
+  transition: text-decoration-color 300ms, text-underline-offset 300ms;
 
-		// Clear the Image Captions
-		&:first-of-type {
-			@include clearfix-after();
-		}
+  &:hover {
+    line-height: 1.5;
+    color: #fff;
+    text-decoration-color: #fff;
+    text-underline-offset: 8px;
+  }
 
-		/*----------  Sector Title & Icon  ----------*/
-		.subtitle {
-			text-align: center;
-			margin: 0.3rem 0 2rem 0;
+  &:active {
+    line-height: 1.5;
+    color: #fff;
+    text-decoration-color: #fff;
+    text-underline-offset: 8px;
+  }
+}
 
-				@include breakpoint("medium") {
-    			margin: 0.3rem 0 4rem 0;
-  	}	
+.cards {
+  max-width: 1267px;
+  margin: auto;
+  display: grid;
+  grid-gap: 2rem;
+  box-sizing: border-box; /* Ensures padding is included in total width and height */
+  align-items: center;
+  justify-content: center;
+  padding: 96px 20px;
+}
 
-		}
+/* Screen larger than 600px? 2 column */
+@media (min-width: 900px) {
+  .cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
 
-		.sectorSection-iconContainer {
-			text-align: center;
+  .card:nth-child(7) {
+    grid-column-start: 1; /* Starts at the second column line */
+    grid-column-end: 3; /* Ends at the third column line */
+  }
+}
 
-			img {
-				max-width: 50px;
-				height: auto;
-			}
-		}
+/* Screen larger than 900px? 3 columns */
+@media (min-width: 1200px) {
+  .cards {
+    grid-template-columns: repeat(3, 1fr);
+  }
 
-		/*----------  Sector Information  ----------*/
-		.sectorSection-sectorInfoContainer {
-			margin-bottom: 2rem;
-		}
+  .card:nth-child(7) {
+    grid-column-start: 1; /* Starts at the second column line */
+    grid-column-end: 2; /* Ends at the third column line */
+  }
+}
 
-		@include breakpoint("large") {
-			.sectorSection-sectorInfo {
-				border-right: 2px solid $light-gray;
-				padding: 1rem 1.5rem 1rem 0;
-			}
-		}
+#energy-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1707339994/indian-states/energy-suzlon-wind-turbine.jpg');
+}
 
-		.sectorSection-subsectorsList {
-			padding: 1rem 0rem 1rem .5rem;
+#finance-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1708623406/indian-states/finance-india-election-stocks.jpg');
+}
 
-			@include breakpoint("large") {
-    		padding: 1rem 0rem 1rem 1.5rem;
-  			}
+#health-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1707340033/indian-states/health-tablet-clinic.jpg');
+}
 
-			.sectionSubtitle {
-				margin: 0 0 .5rem;
-			}
+#business-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1708623446/indian-states/industrial-twin-towers.jpg');
+}
 
-			.sectorSection-subsectorsListSubsector {
-				color: $gray;
-				font-family: $font__MuseoSans;
-				@include fontSize(17px);
-				line-height: 2.3rem;
-				text-transform: uppercase;
+#infrastructure-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1708623470/indian-states/infrastructure-construction.jpg');
+}
 
+#labor-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1708623510/indian-states/land-labor-workers.jpg');
+}
 
-				&:hover {
-					color: $base-blue;
-				}
-			}
-		}
+#water-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1708623540/indian-states/water-sanitation.jpg');
+}
 
-		/*----------  Recent Articles  ----------*/
-		.sectorSection-articlesContainer {
-
-			.sectionTitle {
-				border-bottom: 4px solid $base-blue;
-				margin-bottom: 0.2rem;
-				padding-bottom: 0.5rem;
-
-				a {
-					box-shadow: none;
-				}
-			}
-
-			button {
-				vertical-align: text-bottom;
-				margin-left: 0.5rem;
-				margin-bottom: 0.2rem;
-
-				@media (max-width: 27.5em) {
-					margin-left: 0;
-				}
-			}
-		}
-		
-	}
+#center-state-card {
+  background-size: cover;
+  background-position: center;
+  background-image: url('https://res.cloudinary.com/csisideaslab/image/upload/v1708623540/indian-states/water-sanitation.jpg');
 }

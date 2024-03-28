@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh approves new industrial land allotment policy
 date: 2023-11-08T14:33:10.941Z
 states:

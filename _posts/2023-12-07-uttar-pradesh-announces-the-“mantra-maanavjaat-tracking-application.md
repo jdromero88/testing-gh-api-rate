@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh announces the “MaNTrA (MaaNavjaat Tracking)" application
 date: 2023-09-20T15:14:53.017Z
 states:

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka approves the Karnataka Cyber Security Policy 2023-24
 date: 2023-08-16T18:40:27.759Z
 states:

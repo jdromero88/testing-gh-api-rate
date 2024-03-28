@@ -16,6 +16,6 @@ sources:
 details:
 - name: Budget 2023-24
   url: https://www.jakfinance.nic.in/budget/budget2324/J&K%20Budget%20Speech%202023-24.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

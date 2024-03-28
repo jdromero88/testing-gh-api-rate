@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Nagaland passes the Nagaland Anatomy Bill, 2023 that seeks to empower
   authorised officials to take possession of unclaimed bodies in hospitals,
   prisons, and public places for organ donation, and research purposes

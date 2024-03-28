@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh cabinet approves the final draft of the Shimla
   Development Plan
 date: 2023-06-28T14:05:22.968Z

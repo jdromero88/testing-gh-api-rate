@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana withdraws GO No. 111 fully
 date: 2023-05-24T06:28:46.167Z
 states:

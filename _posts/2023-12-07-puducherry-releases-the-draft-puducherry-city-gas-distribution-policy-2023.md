@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Puducherry releases the draft Puducherry City Gas Distribution Policy 2023
 date: 2023-09-13T15:24:07.038Z
 states:
   - Puducherry
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Oil and Gas
 sources:

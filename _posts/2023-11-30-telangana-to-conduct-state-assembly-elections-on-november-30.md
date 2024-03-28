@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana to conduct state assembly elections on November 30
 date: 2023-11-29T15:24:12.962Z
 states:

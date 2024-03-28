@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana declares that employment under the Data Centres as established
   and covered under the Haryana State Data Centre Policy, 2022 will be
   considered as essential services

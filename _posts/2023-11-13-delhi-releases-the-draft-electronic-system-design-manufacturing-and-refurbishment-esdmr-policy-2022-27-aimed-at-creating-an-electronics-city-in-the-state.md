@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi releases the Draft Electronic System Design, Manufacturing and
   Refurbishment (ESDMR) Policy 2022-27, aimed at creating an electronics city in
   the state

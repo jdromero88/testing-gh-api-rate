@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka approves the Brain Health Initiative with an outlay of $3 million
 date: 2023-10-11T15:21:33.085Z
 states:

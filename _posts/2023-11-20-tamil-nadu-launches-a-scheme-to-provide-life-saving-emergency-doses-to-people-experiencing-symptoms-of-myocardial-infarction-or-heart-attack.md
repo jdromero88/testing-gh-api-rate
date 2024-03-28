@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu launches a scheme to provide life-saving emergency doses to
   people experiencing symptoms of myocardial infarction or heart attack
 date: 2023-07-05T20:59:53.285Z

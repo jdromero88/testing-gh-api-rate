@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha announces auditing of C-section delivery cases in all private hospitals
 date: 2023-05-03T15:07:17.055Z
 states:

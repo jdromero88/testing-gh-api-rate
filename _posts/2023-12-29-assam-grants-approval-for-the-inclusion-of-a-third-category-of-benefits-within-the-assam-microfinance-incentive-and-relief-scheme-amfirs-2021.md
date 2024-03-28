@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam grants approval for the inclusion of a third category of benefits
   within the Assam Microfinance Incentive and Relief Scheme (AMFIRS), 2021
 date: 2023-05-24T15:27:56.557Z

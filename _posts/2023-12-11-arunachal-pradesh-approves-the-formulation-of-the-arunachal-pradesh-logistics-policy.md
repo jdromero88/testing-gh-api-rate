@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Arunachal Pradesh approves the formulation of the Arunachal Pradesh
   Logistics Policy
 date: 2023-12-06T21:43:56.841Z

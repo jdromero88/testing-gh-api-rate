@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh approves a proposal worth $258.3 million to waive the
   interest on loans of 1.119 million farmers
 date: 2023-05-17T06:54:12.940Z

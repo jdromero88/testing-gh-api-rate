@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra announces the new Namo Shetkari Mahasanman Yojana
 date: 2023-06-07T15:02:53.213Z
 states:

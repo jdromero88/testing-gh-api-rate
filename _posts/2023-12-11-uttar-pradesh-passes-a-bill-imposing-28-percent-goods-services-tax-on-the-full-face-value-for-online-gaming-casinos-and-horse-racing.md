@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh passes a bill imposing 28 percent Goods & Services Tax on
   the full-face value for online gaming, casinos and horse racing
 date: 2023-12-06T21:17:44.638Z

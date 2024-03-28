@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana launches the “Maha Lakshmi Scheme”
 date: 2023-12-13T19:48:22.476Z
 states:

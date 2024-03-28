@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha Electricity Regulatory Commission (OERC) unveils the draft Green
   Energy Open Access Regulations, 2023
 date: 2023-08-30T18:05:39.772Z
 states:
   - Odisha
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
   - Power

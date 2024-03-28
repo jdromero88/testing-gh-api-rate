@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha rolls out a five-year strategic partnership with the University of
   Chicago Trust (UCT)
 date: 2023-05-10T06:54:56.350Z

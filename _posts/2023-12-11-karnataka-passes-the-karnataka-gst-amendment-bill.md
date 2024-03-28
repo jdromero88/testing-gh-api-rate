@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka passes the Karnataka GST (Amendment) Bill
 date: 2023-07-26T19:11:16.721Z
 states:

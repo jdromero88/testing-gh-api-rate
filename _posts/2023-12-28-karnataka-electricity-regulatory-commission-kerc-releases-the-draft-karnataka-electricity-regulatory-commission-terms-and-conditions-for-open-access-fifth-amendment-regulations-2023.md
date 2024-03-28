@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka Electricity Regulatory Commission (KERC) releases the Draft
   Karnataka Electricity Regulatory Commission (Terms and Conditions for Open
   Access) (Fifth Amendment) Regulations, 2023
@@ -10,7 +10,7 @@ date: 2023-06-14T14:48:02.267Z
 states:
   - Karnataka
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Renewables

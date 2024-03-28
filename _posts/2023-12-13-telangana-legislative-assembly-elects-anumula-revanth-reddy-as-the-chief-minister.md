@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana legislative assembly elects Anumula Revanth Reddy as the chief
   minister
 date: 2023-12-13T19:47:03.278Z

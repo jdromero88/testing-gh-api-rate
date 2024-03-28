@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra implements a cyber security project worth $ 100 million
 date: 2023-09-13T15:39:14.767Z
 states:

@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi Electricity Regulatory Commission (DERC) revises its renewable
   purchase obligations (RPO)
 date: 2023-04-19T19:41:09.598Z
 states:
   - Delhi
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
 sources:

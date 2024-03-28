@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha approves the Nutana Unnata Abhilasha (NUA) scheme
 date: 2023-08-16T18:42:14.448Z
 states:

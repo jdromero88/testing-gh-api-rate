@@ -14,6 +14,6 @@ sources:
 details:
 - name: " Tamil Nadu Logistics Policy & Integrated Logistics Plan 2023"
   url: http://cms.tn.gov.in/sites/default/files/go/ind_e_73_2023.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

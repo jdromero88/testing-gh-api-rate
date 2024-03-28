@@ -14,6 +14,6 @@ sources:
 details:
 - name: Punjab Food Grains Transportation Policy 2023
   url: http://foodsuppb.gov.in/sites/default/files/The%20Punjab%20Food%20Grains%20Transportation%20Policy%20-%202023-24.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra waives the increased service charges for 56 Maharashtra
   Housing and Area Development Authority (MHADA)
 date: 2023-12-20T17:37:33.957Z

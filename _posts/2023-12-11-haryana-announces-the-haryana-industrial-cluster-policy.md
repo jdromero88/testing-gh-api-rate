@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana announces the Haryana Industrial Cluster Policy
 date: 2023-08-08T16:14:43.600Z
 states:

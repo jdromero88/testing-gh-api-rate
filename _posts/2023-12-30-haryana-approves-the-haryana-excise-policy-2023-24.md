@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana approves the Haryana Excise Policy, 2023-24
 date: 2023-05-17T06:45:37.149Z
 states:

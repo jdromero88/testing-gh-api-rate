@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu releases the Tamil Nadu Digital Transformation Strategy (DiTN)
 date: 2023-11-08T14:35:39.550Z
 states:

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Haryana announces the regularisation of 303 unauthorized colonies in 14
   districts "
 date: 2023-10-11T18:11:43.167Z

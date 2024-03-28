@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh notifies the Green Hydrogen and Green Ammonia Policy-2023
 date: 2023-07-05T20:05:56.138Z
 states:
   - Andhra Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

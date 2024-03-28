@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh approves the Madhya Pradesh Co-operative Policy 2023
 date: 2023-06-21T14:17:01.749Z
 states:

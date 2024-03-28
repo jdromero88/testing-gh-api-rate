@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Odisha signs three Memorandums of Understanding (MoUs) with the India
   Electronic and Semiconductor Association (IESA), global semiconductor giant
   Synopsys and Electronics and Computer Software Export Promotion Council (ESC)

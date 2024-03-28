@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala constitutes the Kerala State Climate Change Adaptation Mission (KSCCAM)
 date: 2023-08-16T18:34:02.306Z
 states:
   - Kerala
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Times of India
     url: https://timesofindia.indiatimes.com/city/thiruvananthapuram/kerala-forms-climate-change-adaptation-mission/articleshow/102568174.cms

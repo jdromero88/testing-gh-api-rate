@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu sets up an online gaming authority
 date: 2023-10-18T14:55:21.593Z
 states:

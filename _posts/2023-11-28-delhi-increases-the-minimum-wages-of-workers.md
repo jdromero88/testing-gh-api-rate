@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi increases the minimum wages of workers
 date: 2023-10-25T14:30:53.668Z
 states:

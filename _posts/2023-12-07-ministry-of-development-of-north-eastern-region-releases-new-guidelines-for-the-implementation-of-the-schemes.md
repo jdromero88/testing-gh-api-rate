@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Development of North Eastern Region releases new guidelines
   for the implementation of the schemes
 date: 2023-08-30T18:12:16.310Z

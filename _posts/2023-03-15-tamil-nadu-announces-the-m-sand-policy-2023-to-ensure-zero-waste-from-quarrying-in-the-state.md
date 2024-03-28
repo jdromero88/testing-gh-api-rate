@@ -16,6 +16,6 @@ sources:
 details:
 - name: M-Sand Policy 2023
   url: https://www.thehindu.com/news/national/tamil-nadu/66598818-Tamil-Nadu-M-Sand-Policy-2023.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

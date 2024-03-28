@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Delhi increases the minimum wages of workers in the city, aiming to
   provide people relief from inflation
 date: 2023-10-25T17:26:39.412Z

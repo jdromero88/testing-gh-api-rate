@@ -14,6 +14,6 @@ sources:
 details:
 - name: Karnataka Budget 2023-24
   url: https://finance.karnataka.gov.in/storage/pdf-files/1_BUDGET%20SPEECH(Eng).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

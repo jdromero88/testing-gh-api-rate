@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra revamps the Mahatma Jyotirao Phule Jan Arogya Yojana to
   provide $6,900 cover for 120 million citizens
 date: 2023-06-28T14:35:58.729Z

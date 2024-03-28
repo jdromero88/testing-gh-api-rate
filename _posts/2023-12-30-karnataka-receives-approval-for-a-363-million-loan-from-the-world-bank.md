@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka receives approval for a $363 million loan from the World Bank
 date: 2023-04-12T21:17:25.210Z
 states:

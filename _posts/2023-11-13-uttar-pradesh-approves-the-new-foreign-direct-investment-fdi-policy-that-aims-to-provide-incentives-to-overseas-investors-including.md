@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh approves the new Foreign Direct Investment (FDI) Policy
   that aims to provide incentives to overseas investors, including exemptions in
   land acquisition, stamp duty, capital investment, and 100 percent electricity

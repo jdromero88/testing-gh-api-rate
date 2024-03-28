@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan approves a financial proposal of $90 million to provide farmers
   in the state interest-free crop loans
 date: 2023-04-12T21:22:57.823Z

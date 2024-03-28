@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Mizoram conducts state-wide elections for its 40 member legislative assembly
 date: 2023-11-08T14:34:21.610Z
 states:

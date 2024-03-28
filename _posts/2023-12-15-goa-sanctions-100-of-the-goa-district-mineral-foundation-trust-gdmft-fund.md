@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa sanctions 100% of the Goa District Mineral Foundation Trust (GDMFT) fund
 date: 2023-06-28T14:02:46.399Z
 states:

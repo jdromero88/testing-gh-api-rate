@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Telangana introduces the Telangana Robotics Framework
 date: 2023-05-17T06:46:33.720Z
 states:

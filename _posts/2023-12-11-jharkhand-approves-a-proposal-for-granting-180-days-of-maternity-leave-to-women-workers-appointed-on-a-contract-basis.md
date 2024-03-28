@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jharkhand approves a proposal for granting 180 days of maternity leave to
   women workers appointed on a contract basis
 date: 2023-07-12T19:50:36.147Z

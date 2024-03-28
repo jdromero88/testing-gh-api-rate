@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan Electricity Regulatory Commission (RERC) allows the annual
   change in tariff for biomass projects
 date: 2023-12-27T07:10:45.185Z
 states:
   - Rajasthan
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Mercom
     url: https://www.mercomindia.com/rajasthan-to-allow-annual-revision-in-biomass-tariffs

@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh Generation Company secures clearance from the Central
   Energy Commission (CEC)
 date: 2023-06-21T16:54:07.064Z
 states:
   - Andhra Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

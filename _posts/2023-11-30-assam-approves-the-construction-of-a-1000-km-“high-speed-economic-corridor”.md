@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Assam approves the construction of a 1000-km “High-Speed Economic Corridor”
 date: 2023-10-18T14:59:09.588Z
 states:

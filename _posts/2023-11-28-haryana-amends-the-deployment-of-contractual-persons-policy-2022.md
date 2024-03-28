@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana amends the Deployment of Contractual Persons Policy, 2022
 date: 2023-11-01T14:06:47.890Z
 states:

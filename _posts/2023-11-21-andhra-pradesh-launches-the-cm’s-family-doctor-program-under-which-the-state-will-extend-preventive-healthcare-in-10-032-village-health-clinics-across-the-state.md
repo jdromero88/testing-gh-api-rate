@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh launches the CM’s Family Doctor Program, under which the
   state will extend preventive healthcare in 10,032 village health clinics
   across the state

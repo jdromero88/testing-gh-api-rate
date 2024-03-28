@@ -6,7 +6,7 @@ date: 2020-10-28 04:00:00 +0000
 states:
 - Delhi
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Energy-related Transportation
 sources:
@@ -15,7 +15,7 @@ sources:
 details:
 - name: Approved Models List
   url: https://ev.delhi.gov.in/ui/images/Eligible_Models_under_the_delhi_ev_policy.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Delhi** approves more than 100 vehicle models that are eligible for subsidies under the capital’s new electric vehicle policy.

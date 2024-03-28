@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Goa releases the draft Goa State Energy Vision 2050
 date: 2023-04-12T21:23:44.128Z
 states:
   - Goa
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Energy-related Transportation

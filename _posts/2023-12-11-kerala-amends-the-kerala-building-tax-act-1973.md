@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala amends the Kerala Building Tax Act, 1973
 date: 2023-07-19T19:32:40.438Z
 states:

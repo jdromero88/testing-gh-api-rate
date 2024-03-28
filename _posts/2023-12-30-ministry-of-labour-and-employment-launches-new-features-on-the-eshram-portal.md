@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Labour and Employment launches new features on the eShram portal
 date: 2023-05-03T19:11:10.293Z
 states:

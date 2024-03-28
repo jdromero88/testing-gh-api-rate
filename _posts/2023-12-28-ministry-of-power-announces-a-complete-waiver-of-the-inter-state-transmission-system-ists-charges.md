@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ministry of Power announces a complete waiver of the inter-state
   transmission system (ISTS) charges
 date: 2023-06-07T15:09:49.510Z
 states:
   - Center-State Relations
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Renewables
 sources:

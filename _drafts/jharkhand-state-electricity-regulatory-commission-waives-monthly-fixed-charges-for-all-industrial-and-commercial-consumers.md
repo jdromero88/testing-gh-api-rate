@@ -7,7 +7,7 @@ date: 2020-09-30 04:00:00 +0000
 states:
 - Jharkhand
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power
 sources:
@@ -16,7 +16,7 @@ sources:
 details:
 - name: JSERC Order
   url: http://jserc.org/pdf/orders/2020_15_suo.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
 **Jharkhand** State Electricity Regulatory Commission waives monthly fixed charges for all industrial and commercial consumers for the months of April, May, and June in 2020.

@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2023-24
   url: https://www.py.gov.in/sites/default/files/cmbudgetspeech2023eng.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Uttar Pradesh forms the Uttar Pradesh Inland Water Way Authority "
 date: 2023-12-20T17:36:30.894Z
 states:

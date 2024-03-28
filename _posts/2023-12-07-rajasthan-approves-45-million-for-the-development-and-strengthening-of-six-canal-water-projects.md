@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan approves $45 million for the development and strengthening of
   six canal water projects
 date: 2023-08-23T18:23:54.277Z

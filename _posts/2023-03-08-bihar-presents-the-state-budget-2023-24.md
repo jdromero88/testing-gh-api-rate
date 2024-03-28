@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget Highlights
   url: https://state.bihar.gov.in/finance/cache/12/04-Mar-23/SHOW_DOCS/Budget%20Highlight%202023-24(latest%20news).pdf
-is_analysis: false
+is_newsletter: false
 
 ---

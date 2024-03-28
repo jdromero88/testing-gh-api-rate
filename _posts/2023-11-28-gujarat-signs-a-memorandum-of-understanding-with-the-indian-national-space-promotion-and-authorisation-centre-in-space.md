@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Gujarat signs a Memorandum of Understanding with the Indian National
   Space Promotion and Authorisation Centre (IN-SPACe)
 date: 2023-10-25T14:32:07.177Z

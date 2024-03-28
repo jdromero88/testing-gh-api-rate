@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh Electricity Regulatory Commission (APERC) invites comments
   and objections on the APERC Transmission Licence Regulation, 2023, (AP-TLR)
 date: 2023-11-01T13:37:26.440Z
 states:
   - Andhra Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

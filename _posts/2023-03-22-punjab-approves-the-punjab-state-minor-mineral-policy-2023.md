@@ -15,6 +15,6 @@ sources:
 details:
 - name: Punjab State Mineral Policy 2023
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:bbc8c531-b97f-4304-93c7-55a840c4703d
-is_analysis: false
+is_newsletter: false
 
 ---

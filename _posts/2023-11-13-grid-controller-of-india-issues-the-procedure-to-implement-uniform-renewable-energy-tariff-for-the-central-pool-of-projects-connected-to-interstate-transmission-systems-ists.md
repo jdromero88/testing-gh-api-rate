@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Grid Controller of India issues the Procedure to implement uniform
   renewable energy tariff for the central pool of projects connected to
   interstate transmission systems (ISTS)

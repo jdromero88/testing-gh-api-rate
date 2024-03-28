@@ -15,6 +15,6 @@ sources:
 details:
 - name: Launch Video
   url: https://youtu.be/CFTnvUa-ubY
-is_analysis: false
+is_newsletter: false
 
 ---

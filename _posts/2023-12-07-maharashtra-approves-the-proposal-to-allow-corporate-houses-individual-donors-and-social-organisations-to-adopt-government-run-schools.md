@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra approves the proposal to allow corporate houses, individual
   donors, and social organisations to adopt government-run schools
 date: 2023-09-20T15:13:59.256Z

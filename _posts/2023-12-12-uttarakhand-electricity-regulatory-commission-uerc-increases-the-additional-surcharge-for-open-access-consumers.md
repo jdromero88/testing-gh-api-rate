@@ -2,17 +2,16 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttarakhand Electricity Regulatory Commission (UERC) increases the
   additional surcharge for open access consumers
 date: 2023-10-11T18:10:32.959Z
 states:
   - Uttarakhand
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
-  - Financing and Payment
 sources:
   - name: Mercom
     url: https://www.mercomindia.com/uttarakhand-additional-surcharge-1-05

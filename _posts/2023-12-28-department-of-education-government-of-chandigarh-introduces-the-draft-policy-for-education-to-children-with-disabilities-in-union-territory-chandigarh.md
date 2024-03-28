@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Department of Education, Government of Chandigarh introduces the Draft
   Policy for Education to Children with Disabilities in Union Territory,
   Chandigarh

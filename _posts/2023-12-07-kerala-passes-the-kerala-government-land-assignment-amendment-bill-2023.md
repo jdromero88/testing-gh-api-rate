@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala passes the Kerala Government Land Assignment (Amendment) Bill, 2023
 date: 2023-09-20T15:11:02.182Z
 states:

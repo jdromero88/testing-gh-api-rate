@@ -7,7 +7,7 @@ date: 2023-04-05 04:00:00 +0000
 states:
 - Goa
 sectors:
-- Energy
+- Climate Change and Energy
 subsectors:
 - Power and Renewable Energy
 - Renewables
@@ -17,6 +17,6 @@ sources:
 - name: Herald
   url: https://www.heraldgoa.in/Goa/Draft-%E2%80%98Goa-State-Energy-Vision-2050%E2%80%99-released/203033
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

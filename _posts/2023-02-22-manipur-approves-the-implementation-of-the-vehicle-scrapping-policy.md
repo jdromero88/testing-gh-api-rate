@@ -12,6 +12,6 @@ sources:
 - name: Ukhrul Times
   url: https://ukhrultimes.com/manipur-cabinet-nods-to-implement-vehicle-scraping-policy-in-the-state/
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

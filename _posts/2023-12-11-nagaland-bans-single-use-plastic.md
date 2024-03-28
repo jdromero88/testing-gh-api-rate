@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Nagaland bans single use plastic
 date: 2023-07-19T19:47:04.556Z
 states:
   - Nagaland
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 sources:
   - name: Deccan Herald
     url: https://www.deccanherald.com/national/east-and-northeast/nagaland-government-bans-single-use-plastic-1237453.html

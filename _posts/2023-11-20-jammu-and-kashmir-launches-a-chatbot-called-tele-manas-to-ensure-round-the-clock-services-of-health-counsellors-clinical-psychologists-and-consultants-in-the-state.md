@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Jammu and Kashmir launches a chatbot called Tele-MANAS to ensure round
   the clock services of health counsellors, clinical psychologists, and
   consultants in the state

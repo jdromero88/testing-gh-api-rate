@@ -14,6 +14,6 @@ sources:
 details:
 - name: State Budget 2023-24
   url: http://cms.tn.gov.in/sites/default/files/documents/budget_speech_e_2023_2024.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

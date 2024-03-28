@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra approves the Maharashtra Export Promotion Policy 2023, which
   aims to increase the state’s exports from the current 7% to 14%
 date: 2023-11-15T16:25:05.994Z

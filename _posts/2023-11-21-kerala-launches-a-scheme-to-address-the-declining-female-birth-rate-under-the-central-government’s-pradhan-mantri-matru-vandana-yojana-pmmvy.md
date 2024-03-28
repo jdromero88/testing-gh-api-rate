@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala launches a scheme to address the declining female birth rate under
   the central government’s Pradhan Mantri Matru Vandana Yojana (PMMVY)
 date: 2023-05-10T15:05:09.856Z

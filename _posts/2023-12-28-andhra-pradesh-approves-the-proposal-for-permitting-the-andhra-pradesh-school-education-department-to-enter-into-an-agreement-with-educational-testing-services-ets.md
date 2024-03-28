@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh approves the proposal for permitting the Andhra Pradesh
   School Education Department to enter into an agreement with Educational
   Testing Services (ETS)

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana launches the “e-Bhoomi” portal
 date: 2023-09-20T15:10:09.553Z
 states:

@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Madhya Pradesh Electricity Regulatory Commission (MPERC) issues a
   detailed procedure to verify captive generating projects and user compliance
 date: 2023-07-19T19:44:36.064Z
 states:
   - Madhya Pradesh
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala State Electricity Board (KSEB) submits a proposal to the Kerala
   Electricity Regulatory Commission (KERC)
 date: 2023-05-17T06:51:23.492Z
 states:
   - Kerala
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Power

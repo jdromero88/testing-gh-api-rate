@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala sets up the Kerala urban policy commission
 date: 2023-12-27T07:23:40.795Z
 states:

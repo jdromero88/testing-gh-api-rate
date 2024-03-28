@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan approves a proposal for developing Geographic Information
   System (GIS) based 3D models of Jodhpur, Udaipur, Kota and Ajmer
 date: 2023-05-24T06:38:33.058Z

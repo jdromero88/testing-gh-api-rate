@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Grid Corporation of Odisha (GRIDCO) launches the Go Green portal
 date: 2023-10-11T18:08:44.548Z
 states:
   - Odisha
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Renewables
   - Power & Renewable Energy

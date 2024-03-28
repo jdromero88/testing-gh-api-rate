@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala releases the Draft Kerala IT Policy 2023
 date: 2023-11-01T14:01:08.570Z
 states:

@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh approves the Uttar Pradesh Township Policy-2023
 date: 2023-07-05T20:12:25.221Z
 states:

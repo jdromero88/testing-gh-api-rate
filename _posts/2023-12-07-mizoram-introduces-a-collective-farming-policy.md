@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Mizoram introduces a collective farming policy
 date: 2023-12-07T18:57:14.437Z
 states:

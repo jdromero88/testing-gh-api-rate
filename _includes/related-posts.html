@@ -4,8 +4,8 @@
 {% assign minCommonTags = 1 %}
 {% assign maxRelatedCounter = 0 %}
 
-{% if include.is_analysis %}
-  {% for post in site.analysis reversed %}
+{% if include.is_newsletter %}
+  {% for post in site.newsletter reversed %}
 
     {% assign sameTagCount = 0 %}
 

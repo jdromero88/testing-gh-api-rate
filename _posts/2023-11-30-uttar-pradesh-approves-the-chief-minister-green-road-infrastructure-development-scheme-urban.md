@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Uttar Pradesh approves the Chief Minister Green Road Infrastructure
   Development Scheme (Urban) "
 date: 2023-10-18T14:58:08.987Z

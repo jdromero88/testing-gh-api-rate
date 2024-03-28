@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan releases the Rajasthan Renewable Energy Policy, 2023
 date: 2023-10-11T18:04:11.055Z
 states:
   - Rajasthan
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Renewables
   - Power & Renewable Energy

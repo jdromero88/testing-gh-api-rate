@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra Electricity Regulatory Commission (MERC) approves the
   Maharashtra State Electricity Distribution Company’s (MSEDCL) petition
 date: 2023-08-23T18:16:12.067Z
 states:
   - Maharashtra
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Renewables

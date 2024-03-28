@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Arunachal Pradesh passes the Goods & Services Tax (Amendment) Bill, 2023
 date: 2023-09-13T15:26:15.175Z
 states:

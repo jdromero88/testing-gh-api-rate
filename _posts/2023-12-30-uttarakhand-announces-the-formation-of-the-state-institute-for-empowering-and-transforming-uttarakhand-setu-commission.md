@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttarakhand announces the formation of the State Institute for Empowering
   and Transforming Uttarakhand (SETU) commission
 date: 2023-05-10T06:56:56.868Z

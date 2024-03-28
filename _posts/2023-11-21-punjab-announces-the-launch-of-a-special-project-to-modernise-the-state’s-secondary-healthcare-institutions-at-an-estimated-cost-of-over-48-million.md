@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Punjab announces the launch of a special project to modernise the state’s
   secondary healthcare institutions at an estimated cost of over $48 million
 date: 2023-06-21T14:50:24.733Z

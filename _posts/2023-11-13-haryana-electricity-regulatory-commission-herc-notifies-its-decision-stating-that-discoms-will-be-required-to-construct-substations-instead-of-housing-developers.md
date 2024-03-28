@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Haryana Electricity Regulatory Commission (HERC) notifies its decision
   stating that discoms will be required to construct substations, instead of
   housing developers.
@@ -10,8 +10,7 @@ date: 2023-10-25T17:22:18.152Z
 states:
   - Haryana
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Energy Efficiency
 sources:

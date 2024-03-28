@@ -2,15 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Arunachal Pradesh approves two hydroelectric power projects worth $4.8 billion
 date: 2023-11-22T16:07:18.263Z
 states:
   - Arunachal Pradesh
   - Himachal Pradesh
 sectors:
-  - Climate Change
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Renewables

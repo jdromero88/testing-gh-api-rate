@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Union Cabinet approves an additional allocation of $140 million for an
   industrial development scheme for Himachal Pradesh and Uttarakhand
 date: 2023-09-13T15:38:03.785Z

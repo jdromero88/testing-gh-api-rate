@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Karnataka passes the Karnataka Goods & Services Tax (Amendment) Bill to
   levy 28 percent GST on online gaming
 date: 2023-12-20T16:22:05.541Z

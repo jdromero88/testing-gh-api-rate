@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: "Jharkhand approves a $1.95 billion project for building 800,000 houses "
 date: 2023-11-01T14:12:53.844Z
 states:

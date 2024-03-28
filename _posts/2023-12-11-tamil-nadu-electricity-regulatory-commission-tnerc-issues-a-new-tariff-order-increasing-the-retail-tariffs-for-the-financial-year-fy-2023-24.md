@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu Electricity Regulatory Commission (TNERC) issues a new tariff
   order, increasing the retail tariffs for the financial year (FY) 2023-24
 date: 2023-07-12T19:56:49.300Z
 states:
   - Tamil Nadu
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power & Renewable Energy
   - Renewables

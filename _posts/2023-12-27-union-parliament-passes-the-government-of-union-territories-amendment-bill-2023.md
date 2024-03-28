@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Union Parliament passes the Government of Union Territories (amendment)
   Bill 2023
 date: 2023-12-27T07:26:22.786Z

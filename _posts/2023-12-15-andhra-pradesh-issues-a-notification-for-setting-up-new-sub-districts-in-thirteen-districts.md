@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Andhra Pradesh issues a notification for setting up new sub-districts in
   thirteen districts
 date: 2023-06-28T14:04:06.857Z

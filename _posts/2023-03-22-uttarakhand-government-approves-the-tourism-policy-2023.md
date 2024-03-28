@@ -14,6 +14,6 @@ sources:
 details:
 - name: Assembly Session Video
   url: https://urldefense.com/v3/__https:/fb.watch/jpPMVEWF_D/__;!!KRhing!a0yDbtBi0SlnDQB8dIs0s2FwXceYIxctIvrxAanwOvQ2tgoCpnnaRqUfJAurhdm-ZyuoGk64p3QKIfAFj8fV$
-is_analysis: false
+is_newsletter: false
 
 ---

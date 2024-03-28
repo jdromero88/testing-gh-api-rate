@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra implements the “Stamp Duty Abhay Yojana 2023”
 date: 2023-12-06T21:48:23.231Z
 states:

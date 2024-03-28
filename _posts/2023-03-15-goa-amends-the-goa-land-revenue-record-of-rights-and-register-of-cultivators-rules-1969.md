@@ -15,6 +15,6 @@ sources:
 details:
 - name: Goa Land Revenue (Record of Rights and Register of Cultivators) Rules, 1969
   url: https://goaprintingpress.gov.in/downloads/2223/2223-40-SI-OG-0.pdf
-is_analysis: false
+is_newsletter: false
 
 ---

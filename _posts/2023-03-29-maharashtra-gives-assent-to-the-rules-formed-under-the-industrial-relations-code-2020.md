@@ -14,6 +14,6 @@ sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/cities/mumbai-news/strikerelated-rules-stricter-layoff-norms-eased-in-new-labour-rules-101679253586881.html
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

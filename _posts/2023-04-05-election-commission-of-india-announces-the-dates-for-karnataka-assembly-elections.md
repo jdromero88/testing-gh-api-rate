@@ -15,6 +15,6 @@ sources:
 details:
 - name: Press release
   url: https://eci.gov.in/files/file/14863-general-election-to-legislative-assembly-of-karnataka-2023/
-is_analysis: false
+is_newsletter: false
 
 ---

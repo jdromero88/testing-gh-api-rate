@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Himachal Pradesh approves the disbursal of $18.35 per month to all women
   older than 18 years
 date: 2023-05-10T07:01:35.757Z

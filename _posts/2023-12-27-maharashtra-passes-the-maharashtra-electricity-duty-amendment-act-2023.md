@@ -2,13 +2,13 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra passes the Maharashtra Electricity Duty (Amendment) Act, 2023
 date: 2023-12-27T07:11:56.074Z
 states:
   - Maharashtra
 sectors:
-  - Climate Change
+  - Climate Change and Energy
 subsectors:
   - Power
   - Power & Renewable Energy

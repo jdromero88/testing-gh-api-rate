@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Punjab Health System Corporation (PHSC) announces free radio and
   laboratory diagnostics services, including MRI, CT scans, and blood tests for
   all government employees, pensioners, and their dependents

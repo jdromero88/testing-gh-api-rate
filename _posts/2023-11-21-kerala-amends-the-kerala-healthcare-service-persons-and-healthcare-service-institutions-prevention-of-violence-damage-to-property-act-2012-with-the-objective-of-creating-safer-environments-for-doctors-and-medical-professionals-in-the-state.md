@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala amends the Kerala Healthcare Service Persons and Healthcare
   Service Institutions (Prevention of Violence & Damage to Property) Act, 2012,
   with the objective of creating safer environments for doctors and medical

@@ -14,6 +14,6 @@ sources:
 details:
 - url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f9eb07eb-5404-4d77-91e2-17f014a0eaa6
   name: Budget 2023-24
-is_analysis: false
+is_newsletter: false
 
 ---

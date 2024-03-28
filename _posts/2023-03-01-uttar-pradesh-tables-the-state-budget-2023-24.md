@@ -14,6 +14,6 @@ sources:
 details:
 - name: Budget 2023-24
   url: https://budget.up.nic.in/
-is_analysis: false
+is_newsletter: false
 
 ---

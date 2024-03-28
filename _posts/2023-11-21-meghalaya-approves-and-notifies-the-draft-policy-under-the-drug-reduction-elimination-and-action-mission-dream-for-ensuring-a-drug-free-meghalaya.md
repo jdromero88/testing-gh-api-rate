@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Meghalaya approves and notifies the draft policy under the Drug Reduction
   Elimination and Action Mission (DREAM) for ensuring a drug-free Meghalaya
 date: 2023-06-21T14:43:12.035Z

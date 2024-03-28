@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Tamil Nadu releases the Tamil Nadu Startup and Innovation Policy 2023
 date: 2023-09-20T13:50:02.967Z
 states:

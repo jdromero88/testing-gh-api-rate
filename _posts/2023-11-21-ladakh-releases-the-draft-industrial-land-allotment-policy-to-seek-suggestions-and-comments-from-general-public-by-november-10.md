@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Ladakh releases the draft Industrial Land Allotment Policy to seek
   suggestions and comments from general public by November 10
 date: 2023-11-15T16:30:29.425Z

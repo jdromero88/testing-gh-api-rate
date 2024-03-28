@@ -2,14 +2,14 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Rajasthan announces a complete waiver of fuel surcharge for domestic and
   agricultural categories
 date: 2023-08-16T18:38:46.710Z
 states:
   - Rajasthan
 sectors:
-  - Energy
+  - Climate Change and Energy
 subsectors:
   - Power
 sources:

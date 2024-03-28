@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Kerala launches the Invest Kerala web portal and the Kerala Responsible
   Industry Incentive Scheme portal
 date: 2023-11-15T16:29:21.005Z

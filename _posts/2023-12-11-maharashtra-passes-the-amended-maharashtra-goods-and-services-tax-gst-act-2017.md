@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Maharashtra passes the amended Maharashtra Goods and Services Tax (GST)
   Act, 2017
 date: 2023-08-02T16:24:55.565Z

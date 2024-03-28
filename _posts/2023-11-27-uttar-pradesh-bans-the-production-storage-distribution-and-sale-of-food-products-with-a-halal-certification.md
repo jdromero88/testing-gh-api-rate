@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttar Pradesh bans the production, storage, distribution, and sale of
   food products with a Halal certification
 date: 2023-11-22T16:28:07.571Z

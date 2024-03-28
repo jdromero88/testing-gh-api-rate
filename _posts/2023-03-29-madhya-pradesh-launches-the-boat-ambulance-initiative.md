@@ -14,6 +14,6 @@ sources:
 - name: Free Press Journal
   url: https://www.freepressjournal.in/indore/madhya-pradesh-boat-ambulance-starts-in-tribal-areas-to-provide-better-health-services
 details: []
-is_analysis: false
+is_newsletter: false
 
 ---

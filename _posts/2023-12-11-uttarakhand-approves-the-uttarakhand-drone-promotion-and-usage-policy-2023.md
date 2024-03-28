@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Uttarakhand approves the Uttarakhand Drone Promotion and Usage Policy, 2023
 date: 2023-08-08T16:06:22.607Z
 states:

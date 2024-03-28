@@ -2,7 +2,7 @@
 layout: post
 content_type: articles
 breadcrumbs: articles
-is_analysis: false
+is_newsletter: false
 title: Union Ministry of Education releases the Performing Grading Index (PGI)
   report 2021-22
 date: 2023-07-12T19:59:20.785Z

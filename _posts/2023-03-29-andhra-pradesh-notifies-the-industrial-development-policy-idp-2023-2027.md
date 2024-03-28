@@ -14,6 +14,6 @@ sources:
 details:
 - name: Andhra Pradesh Industrial Development Policy 2023-27
   url: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:043475dd-94ca-4c13-a8d9-1b7b2854ecdb
-is_analysis: false
+is_newsletter: false
 
 ---

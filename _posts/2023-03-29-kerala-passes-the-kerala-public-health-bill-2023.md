@@ -17,6 +17,6 @@ sources:
 details:
 - name: Kerala Public Health Bill 2023 (In Malayalam)
   url: http://www.niyamasabha.org/codes/15kla/bills/Public%20Health%20Select%20Committee%20Report.pdf
-is_analysis: false
+is_newsletter: false
 
 ---
