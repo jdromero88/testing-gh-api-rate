@@ -16,6 +16,20 @@ This website use node v `20.5.0` and ruby v `3.2.2`
 
 ## Update algolia data
 To update algolia data you must run the script `update-algolia.js` by running `node update-algolia.js`
+```js
+import algoliasearch from 'algoliasearch'
+
+const client = algoliasearch('app-key', 'api_key')
+
+const index = client.initIndex('project-name')
+
+fetch('https://indian-states-v2.netlify.app/algolia.json')
+  .then((response) => response.json())
+  // .then( data => console.log(data))
+  .then((data) =>
+    index.saveObjects(data, { autoGenerateObjectIDIfNotExist: true})
+  )
+```
 
 ## Directory Structure
 The basic site structure for the site looks like this:
