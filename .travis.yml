@@ -2,7 +2,7 @@ language: ruby
 cache: bundler
 branches:
   only:
-    - master
+    - main
 script: 
   - wget https://raw.githubusercontent.com/CSIS-iLab/india-states-v2/main/algolia-sync.rb
   - chmod +x algolia-sync.rb
@@ -12,4 +12,3 @@ script:
   - bundle exec ruby algolia-sync.rb
 rvm:
  - 3.2.2
- 
