@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
-        with:
+        # with:
           # ruby-version: 2.6 # not needed if `.ruby-version` exists
           # bundler-cache: true # runs `bundle install` and caches installed gems automatically
       - run: wget https://raw.githubusercontent.com/CSIS-iLab/india-states-v2/main/algolia-sync.rb
