@@ -11,7 +11,7 @@ uri = URI(url)
 response = Net::HTTP.get(uri)
 
 old_algolia = JSON.parse(response)
-current_algolia = JSON.parse(File.read('_site/algolia.json'))
+current_algolia = JSON.parse(File.read(url))
 
 current_hash = current_algolia.map{ |x| [x['objectID'], x] }.to_h
 old_hash = old_algolia.map{ |x| [x['objectID'], x] }.to_h
