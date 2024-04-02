@@ -14,6 +14,9 @@ This website use node v `20.5.0` and ruby v `3.2.2`
 2. Run `npm run setup` to install/update bundler dependencies and install the npm dependencies
 3. Start development server `npm start`
 
+## Update algolia data
+To update algolia data you must run the script `update-algolia.js` by running `node update-algolia.js`
+
 ## Directory Structure
 The basic site structure for the site looks like this:
 ```

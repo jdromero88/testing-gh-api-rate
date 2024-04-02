@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "indian-states",
   "version": "2.0.0",
   "description": "The Wadhwani Chair in U.S. India Policy Studies has commissioned a new website that will provide comprehensive insight into India’s 29 States’ policies as related to key sectors. The website will be a tool for users: an organized knowledge base that will facilitate greater business and economic understanding and engagement between India and the United States.",
@@ -30,6 +31,7 @@
   "author": "CSIS iDeas Lab",
   "license": "See license in LICENSE",
   "devDependencies": {
+    "algoliasearch": "^4.23.2",
     "decap-server": "^3.0.1",
     "npm-run-all": "^4.1.5",
     "sass": "^1.64.2"
