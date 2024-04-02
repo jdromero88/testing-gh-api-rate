@@ -9,7 +9,7 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           # ruby-version: 2.6 # not needed if `.ruby-version` exists
-          bundler-cache: true # runs `bundle install` and caches installed gems automatically
+          # bundler-cache: true # runs `bundle install` and caches installed gems automatically
       - run: wget https://raw.githubusercontent.com/CSIS-iLab/india-states-v2/main/algolia-sync.rb
       - run: chmod +x algolia-sync.rb
       - run: echo 'source "https://rubygems.org"' > Gemfile
