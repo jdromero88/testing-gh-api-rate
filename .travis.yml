@@ -1,0 +1,15 @@
+language: ruby
+cache: bundler
+branches:
+  only:
+    - master
+script: 
+  - wget https://raw.githubusercontent.com/CSIS-iLab/india-states-v2/main/algolia-sync.rb
+  - chmod +x algolia-sync.rb
+  - echo 'source "https://rubygems.org"' > Gemfile
+  - echo 'gem "algoliasearch"' >> Gemfile
+  - bundle install
+  - bundle exec ruby algolia-sync.rb
+rvm:
+ - 3.2.2
+ 
