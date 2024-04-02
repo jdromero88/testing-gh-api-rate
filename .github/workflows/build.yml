@@ -4,8 +4,6 @@ on: [push, pull_request]
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      # NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up the installation of `html-proofer`
     steps:
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
