@@ -220,6 +220,7 @@ newsletter_description:
 national_goals_data_dir: national-goals
 include:
   - _headers
+  - algolia.json
 keep_files: 
   - assets/img
   - assets/js
