@@ -5,13 +5,12 @@ require 'algoliasearch'
 require "net/http"
 
 puts "running algolia search sync..."
-# url = 'https://indianstates.netlify.app/algolia.json'
 url = 'https://indian-states-v2.netlify.app/algolia.json'
 uri = URI(url)
 response = Net::HTTP.get(uri)
 
 old_algolia = JSON.parse(response)
-current_algolia = JSON.parse(File.read(url))
+current_algolia = JSON.parse(File.read('algolia.json'))
 
 current_hash = current_algolia.map{ |x| [x['objectID'], x] }.to_h
 old_hash = old_algolia.map{ |x| [x['objectID'], x] }.to_h
