@@ -1,12 +1,17 @@
 ---
 layout: post
 breadcrumbs: analysis
-is_analysis: true
 content_type: analysis
 title: "States Weekly: January 10, 2024"
 date: 2024-01-10T17:26:03.232Z
 tags:
   - States Weekly
+  - Health 
+  - Climate Change & Energy
+  - Finance
+  - "Industrial Policy & Business Regulations  "
+  - Infrastructure & Governance
+  - India
 excerpt: "Big News: Tamil Nadu releases the Tamil Nadu Semiconductor and
   Advanced Electronics Policy 2024; Maharashtra State Electricity Distribution
   Company (MSEDCL) increases residential tariff; Haryana launches the One Time
@@ -21,9 +26,16 @@ states:
   - Goa
   - Kerala
   - Himachal Pradesh
+sectors:
+  - Health
+  - Infrastructure and Governance
+  - Finance
+  - Industrial Policy and Business Regulations
+  - Climate Change and Energy
 is_featured: false
 author:
   - Akshat Singh
+is_analysis: true
 ---
 **Big News: Tamil Nadu** releases the **Tamil Nadu Semiconductor and Advanced Electronics Policy 2024**; **Maharashtra State Electricity Distribution Company (MSEDCL)** increases residential tariff; **Haryana** launches the **One Time Settlement-2023 (OTS) scheme** to settle pending tax payments pertaining to pre-GST regime; **Goa** releases the **Goa Industrial Development Corporation (Allotment, Transfer and Sub-Lease) Regulations, 2023**; and more.
 
