@@ -36,7 +36,7 @@ sectors:
   - Health
   - Land & Labor Laws
   - Industrial Policy and Business Regulations
-is_featured: false
+is_featured: true
 author:
   - Gaurav Sansanwal
 ---
