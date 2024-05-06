@@ -7,6 +7,13 @@ title: "States Weekly: January 3, 2024"
 date: 2024-01-03T19:00:31.709Z
 tags:
   - States Weekly
+  - Health 
+  - Climate Change & Energy
+  - Finance
+  - Industrial Policy & Business Regulations 
+  - Land Acquisition & Labor Regulations 
+  - Infrastructure & Governance
+  - India
 excerpt: "Big News: Karnataka releases the Karnataka State Energy Efficiency
   Action Plan; Bihar approves the Bihar Tourism Policy, 2023; Maharashtra
   formulates the Maharashtra Drone Mission (MDM) to promote drone usage in the
@@ -23,6 +30,12 @@ states:
   - Maharashtra
   - Tamil Nadu
   - Union Territory of Jammu and Kashmir
+sectors:
+  - Infrastructure and Governance
+  - Land & Labor Laws
+  - Finance
+  - Climate Change and Energy
+  - Health
 is_featured: false
 sources: []
 author:
