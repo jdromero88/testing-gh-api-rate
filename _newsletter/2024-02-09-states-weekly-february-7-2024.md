@@ -1,12 +1,18 @@
 ---
 layout: post
 breadcrumbs: analysis
-is_analysis: true
 content_type: analysis
 title: "States Weekly: February 7, 2024"
 date: 2024-02-07T19:56:00.000Z
 tags:
   - States Weekly
+  - Health 
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance
+  - Center – State Relations 
+  - India
 excerpt: "Big News: Union Ministry of Finance releases the Interim Budget
   2024-25; Kerala and Gujarat release their respective State Budgets2024-25;
   Delhi releases the Delhi Solar Policy 2024; Tamil Nadu forms the Tamil Nadu
@@ -26,12 +32,18 @@ states:
   - Rajasthan
   - Chhattisgarh
   - Jharkhand
-  - Center-State Relations
   - Karnataka
   - Himachal Pradesh
+sectors:
+  - Center-State Relations
+  - Infrastructure and Governance
+  - Industrial Policy and Business Regulations
+  - Climate Change and Energy
+  - Health
 is_featured: true
 author:
   - Akshat Singh
+is_analysis: true
 ---
 **Big News: Union Ministry of Finance** releases the **Interim Budget 2024-25; Kerala** and **Gujarat** release their respective **State Budgets 2024-25**; **Delhi** releases the **Delhi Solar Policy 2024; Tamil Nadu** forms the **Tamil Nadu Green Energy Corporation Limited (TNGECL)**; and more.
 
