@@ -1,12 +1,18 @@
 ---
 layout: post
 breadcrumbs: analysis
-is_analysis: true
 content_type: analysis
 title: "States Weekly: February 14, 2024"
 date: 2024-02-14T17:04:00.000Z
 tags:
   - States Weekly
+  - Health 
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance
+  - Center – State Relations 
+  - India
 excerpt: >+
   Big News: Uttarakhand passes the Uniform Civil Code Uttarakhand 2024 Bill;
   Uttar Pradesh, Rajasthan, Andhra Pradesh, Chhattisgarh, Goa, West Bengal, and
@@ -30,9 +36,17 @@ states:
   - Jharkhand
   - Maharashtra
   - Punjab
+sectors:
+  - Center-State Relations
+  - Infrastructure and Governance
+  - Land & Labor Laws
+  - Industrial Policy and Business Regulations
+  - Health
+  - Climate Change and Energy
 is_featured: false
 author:
   - Akshat Singh
+is_analysis: true
 ---
 **Big News: Uttarakhand** passes the **Uniform Civil Code Uttarakhand 2024 Bill; Uttar Pradesh, Rajasthan, Andhra Pradesh, Chhattisgarh, Goa, West Bengal**, and **Arunachal Pradesh** release **State Budgets 2024-25; Tamil Nadu Electricity Regulatory Commission (TNERC)** releases the **Tamil Nadu Forecasting, Scheduling, and Deviation Settlement and related matters for Wind and Solar Generation Regulations, 2024**; and more.
 
