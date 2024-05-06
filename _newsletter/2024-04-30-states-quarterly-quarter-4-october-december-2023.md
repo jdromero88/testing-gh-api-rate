@@ -6,9 +6,12 @@ content_type: newsletter
 title: "States Quarterly: Quarter 4 (October- December), 2023"
 date: 2024-04-30T13:14:00.000Z
 tags:
-  - "India, Climate Change and Energy, Health, Industrial Policy & Business
-    Regulations, Land Acquisition & Labor Regulations, Infrastructure &
-    Governance "
+  - "India  "
+  - Climate Change and Energy
+  - Industrial Policy & Business Regulations
+  - " Land Acquisition & Labor Regulations"
+  - "Infrastructure & Governance "
+  - Health
 excerpt: "CSIS India Chair tracked over 140 significant policy and regulatory
   changes across eight sectors, over Quarter 4, 2023. Below is a truncated list
   of 15 significant policy decisions from select sectors, along with a short
@@ -27,6 +30,12 @@ states:
   - Odisha
   - Madhya Pradesh
   - Uttarakhand
+sectors:
+  - Infrastructure and Governance
+  - Climate Change and Energy
+  - Health
+  - Land & Labor Laws
+  - Industrial Policy and Business Regulations
 is_featured: false
 author:
   - Gaurav Sansanwal
