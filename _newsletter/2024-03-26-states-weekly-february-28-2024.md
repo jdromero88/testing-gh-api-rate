@@ -1,12 +1,20 @@
 ---
 layout: post
 breadcrumbs: analysis
-is_analysis: true
 content_type: analysis
 title: "States Weekly: February 28, 2024"
 date: 2024-02-28T16:13:00.000Z
 tags:
   - States Weekly
+  - India
+  - Health 
+  - Climate Change & Energy
+  - Finance
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance 
+  - Water & Sanitation
+  - Center – State Relations 
 excerpt: >+
   Big News: Haryana releases the Haryana Green Hydrogen Draft Policy 2024; Jammu
   and Kashmir approves the Jammu and Kashmir Startup Policy 2024-27;Maharashtra
@@ -36,6 +44,7 @@ states:
 is_featured: false
 author:
   - Akshat Singh
+is_analysis: true
 ---
 **Big News: Haryana** releases the **Haryana Green Hydrogen Draft Policy 2024; Jammu and Kashmir** approves the **Jammu and Kashmir Startup Policy 2024-27; Maharashtra** passes 10 percent quota in government jobs and educational institutes for the Maratha community; **Assam** repeals the **Assam Muslim Marriage and Divorce Registration Act, 1935; Gujarat** announces green energy open access regulations; **Tripura** announces rooftop solar net metering regulations; and more.
 
