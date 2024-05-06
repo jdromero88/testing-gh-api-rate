@@ -1,12 +1,18 @@
 ---
 layout: post
 breadcrumbs: analysis
-is_analysis: true
 content_type: analysis
 title: "States Weekly: March 20, 2024"
 date: 2024-03-20T14:33:00.000Z
 tags:
   - States Weekly
+  - Center – State Relations 
+  - Infrastructure & Governance
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - Finance
+  - Climate Change & Energy
+  - Health 
 excerpt: >+
   Big News: Election Commission of India notifies the date for the 2024 Lok
   Sabha Elections, and state legislative assembly elections in Andhra Pradesh,
@@ -28,9 +34,18 @@ states:
   - Kerala
   - Rajasthan
   - Maharashtra
+sectors:
+  - Climate Change and Energy
+  - Health
+  - Finance
+  - Industrial Policy and Business Regulations
+  - Infrastructure and Governance
+  - Land & Labor Laws
+  - Center-State Relations
 is_featured: false
 author:
   - Akshat Singh
+is_analysis: true
 ---
 **Big News: Election Commission of India** notifies the date for the **2024 Lok Sabha Elections**, and state legislative assembly elections in **Andhra Pradesh, Odisha, Arunachal Pradesh,** and **Sikkim**; **President of India** approves the **Uttarakhand Uniform Civil Code Bill, 2024; Uttarakhand** approves the **Uttarakhand Clean Mobility Transformation Policy, 2024; Himachal Pradesh** releases the **Mineral Policy 2024**; and more.
 
