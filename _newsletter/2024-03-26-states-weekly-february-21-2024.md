@@ -1,12 +1,17 @@
 ---
 layout: post
 breadcrumbs: analysis
-is_analysis: true
 content_type: analysis
 title: "States Weekly: February 21, 2024"
 date: 2024-02-21T16:40:00.000Z
 tags:
   - States Weekly
+  - Health 
+  - Climate Change & Energy
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance 
+  - Water & Sanitation
+  - India
 excerpt: >+
   Big News: Assam, Bihar, Himachal Pradesh, Karnataka, and Tamil Nadu releases
   State Budgets 2024-25; Odisha reduces electricity tariffs for domestic
@@ -29,9 +34,16 @@ states:
   - Delhi
   - Sikkim
   - Uttarakhand
+sectors:
+  - Water & Sanitation
+  - Infrastructure and Governance
+  - Land & Labor Laws
+  - Climate Change and Energy
+  - Health
 is_featured: false
 author:
   - Akshat Singh
+is_analysis: true
 ---
 **Big News: Assam, Bihar, Himachal Pradesh, Karnataka,** and **Tamil Nadu** releases **State Budgets 2024-25; Odisha** reduces electricity tariffs for domestic consumers; Jharkhand increases monthly free power quotas for domestic consumers to 125 units while separately releasing a net metering policy for rooftop solar; Arunachal Pradesh achieves 100 percent saturation of home tap water connections; and more.
 
