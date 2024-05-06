@@ -1,12 +1,18 @@
 ---
 layout: post
 breadcrumbs: analysis
-is_analysis: true
 content_type: analysis
 title: "States Weekly: January 17, 2024"
 date: 2024-01-18T01:23:49.018Z
 tags:
   - States Weekly
+  - Climate Change & Energy
+  - Finance
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance 
+  - Center – State Relations 
+  - India
 excerpt: 'Big News: Tamil Nadu launches the "Tamil Nadu Sustainably Harnessing
   Ocean Resources and Blue Economy” (TN-SHORE) mission; Delhi governor gives
   assent to the Delhi Goods and Services Tax (Second Amendment) Bill, 2023;
@@ -20,13 +26,20 @@ states:
   - Bihar
   - Karnataka
   - Mizoram
-  - Center-State Relations
   - Madhya Pradesh
   - Maharashtra
   - Himachal Pradesh
+sectors:
+  - Center-State Relations
+  - Land & Labor Laws
+  - Industrial Policy and Business Regulations
+  - Infrastructure and Governance
+  - Finance
+  - Climate Change and Energy
 is_featured: false
 author:
   - Akshat Singh
+is_analysis: true
 ---
 **Big News: Tamil Nadu** launches the **"Tamil Nadu Sustainably Harnessing Ocean Resources and Blue Economy” (TN-SHORE)** mission; **Delhi** governor gives assent to the **Delhi Goods and Services Tax (Second Amendment) Bill, 2023; Bihar** releases the **Bihar Information Technology Policy 2024; Himachal Pradesh** approves the **Himachal Pradesh Film Policy-2024**; and more.
 
