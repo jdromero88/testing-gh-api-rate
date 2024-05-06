@@ -1,12 +1,17 @@
 ---
 layout: post
 breadcrumbs: analysis
-is_analysis: true
 content_type: analysis
 title: "States Weekly: January 31, 2024"
 date: 2024-01-31T18:04:00.000Z
 tags:
   - States Weekly
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance 
+  - Center – State Relations 
+  - India
 excerpt: "Big News: Bihar forms a new government with the incumbent chief
   minister (CM) Nitish Kunar taking oath as the CM again; Union Government
   announces the launch of the “Pradhan Mantri Suryodaya Yojana” with the aim to
@@ -22,7 +27,6 @@ states:
   - Madhya Pradesh
   - Tamil Nadu
   - Chhattisgarh
-  - Center-State Relations
   - Uttar Pradesh
   - Maharashtra
   - Rajasthan
@@ -30,9 +34,16 @@ states:
   - West Bengal
   - Andhra Pradesh
   - Gujarat
+sectors:
+  - Center-State Relations
+  - Climate Change and Energy
+  - Industrial Policy and Business Regulations
+  - Infrastructure and Governance
+  - Land & Labor Laws
 is_featured: false
 author:
   - Akshat Singh
+is_analysis: true
 ---
 **Big News: Bihar** forms a new government with the incumbent chief minister (CM) Nitish Kumar taking oath as the CM again; **Union Government** announces the launch of the **“Pradhan Mantri Suryodaya Yojana”** with the aim to install rooftop solar systems in 10 million households across the nation; **Odisha** approves the **Odisha Procurement Preference Policy for Micro and Small Manufacturing Enterprises 2024**; **Uttar Pradesh, Maharashtra**, and **Karnataka** lead in the **Ministry of Education’s All India Survey for Higher Education 2021-22**; and more.
 
