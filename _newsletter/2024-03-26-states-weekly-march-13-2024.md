@@ -1,12 +1,18 @@
 ---
 layout: post
 breadcrumbs: analysis
-is_analysis: true
 content_type: analysis
 title: "States Weekly: March 13, 2024"
 date: 2024-03-13T14:52:00.000Z
 tags:
   - States Weekly
+  - India
+  - Health 
+  - Climate Change & Energy
+  - Finance
+  - "Industrial Policy & Business Regulations  "
+  - Infrastructure & Governance
+  - Center – State Relations 
 excerpt: >+
   Big News: Haryana forms new government with Nayab Singh Saini as the new Chief
   Minister; Bihar releases the draft Climate-Resilient and Low-Carbon
@@ -30,9 +36,17 @@ states:
   - Punjab
   - Tamil Nadu
   - Maharashtra
+sectors:
+  - Center-State Relations
+  - Climate Change and Energy
+  - Health
+  - Infrastructure and Governance
+  - Finance
+subsectors: []
 is_featured: false
 author:
   - Akshat Singh
+is_analysis: true
 ---
 **Big News: Haryana** forms new government with **Nayab Singh Saini** as the new **Chief Minister; Bihar** releases the **draft Climate-Resilient and Low-Carbon Development Pathway for Bihar; Kerala** releases the **Draft Kerala Logistics Park Policy 2024; Uttar Pradesh** announces its new **Green Hydrogen Policy 2024; Delhi** and **Himachal Pradesh** announce financial incentives for all women in the states; and more.
 
