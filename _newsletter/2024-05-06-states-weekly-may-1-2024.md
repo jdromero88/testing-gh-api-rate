@@ -30,7 +30,7 @@ sectors:
   - Industrial Policy and Business Regulations
   - Water & Sanitation
   - Climate Change and Energy
-is_featured: false
+is_featured: true
 author:
   - Akshat Singh
 ---
