@@ -7,6 +7,13 @@ title: "States Weekly: December 20, 2023"
 date: 2023-12-20T15:16:35.517Z
 tags:
   - States Weekly
+  - Health 
+  - Climate Change & Energy
+  - Finance
+  - "Industrial Policy & Business Regulations  "
+  - Infrastructure & Governance
+  - Center – State Relations 
+  - India
 excerpt: "Big News: Odisha Electricity Regulatory Commission (OERC) announces
   the generic tariff and prices for renewable energy projects in the state;
   Karnataka reduces the tax on electric vehicles to 10 percent from the initial
@@ -22,7 +29,6 @@ states:
   - Uttar Pradesh
   - Maharashtra
   - Goa
-  - Center-State Relations
 is_featured: false
 author:
   - Akshat Singh
