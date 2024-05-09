@@ -7,6 +7,12 @@ title: "States Weekly: October 25, 2023"
 date: 2023-10-25T19:53:29.838Z
 tags:
   - States Weekly
+  - Health 
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Center – State Relations 
+  - India
 excerpt: "Big News: Maharashtra releases the Maharashtra Green Hydrogen Policy
   2023; Delhi proposes the Industrial and Economic Development Policy 2023–33;
   Chandigarh amends the Electric Vehicle Policy 2020 to relax earlier EV
