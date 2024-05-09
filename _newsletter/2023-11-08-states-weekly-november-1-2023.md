@@ -7,6 +7,11 @@ title: "States Weekly: November 1, 2023"
 date: 2023-11-01T19:51:04.234Z
 tags:
   - States Weekly
+  - Energy
+  - Industrial Policy & Business Regulations
+  - " Land Acquisition & Labor Regulations"
+  - "Infrastructure & Governance "
+  - Center – State Relations 
 excerpt: "Big News: Kerala releases the Draft Kerala Export Promotion Policy
   2023 and its Draft Kerala IT Policy 2023; Delhi releases the Draft Electronic
   System Design, Manufacturing and Refurbishment (ESDMR) Policy 2022-27;
