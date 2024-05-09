@@ -7,6 +7,13 @@ title: "States Weekly: December 27, 2023"
 date: 2023-12-27T21:58:55.570Z
 tags:
   - States Weekly
+  - Health 
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance 
+  - Center – State Relations 
+  - India
 excerpt: "Big News: Tamil Nadu and the World Bank approve the Tamil Nadu Climate
   Resilient Urban Development Program program with an overlay of $300 million;
   Maharashtra Electricity Regulatory Commission (MERC) rejects a plea for a 50
@@ -29,7 +36,6 @@ states:
   - Assam
   - Telangana
   - Uttarakhand
-  - Center-State Relations
   - Union Territory of Jammu and Kashmir
   - Puducherry
 is_featured: false
