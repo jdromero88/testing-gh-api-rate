@@ -7,6 +7,14 @@ title: "States Weekly: December 6, 2023"
 date: 2023-12-06T17:47:45.357Z
 tags:
   - States Weekly
+  - Health 
+  - Climate Change & Energy
+  - Finance
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance 
+  - Center – State Relations 
+  - India
 excerpt: "Big News: Chhattisgarh, Madhya Pradesh, Mizoram, Rajasthan, and
   Telangana announce state legislative assembly elections results; Union and
   Manipur governments sign a peace agreement with the United National Liberation
@@ -25,7 +33,6 @@ states:
   - Maharashtra
   - Himachal Pradesh
   - Manipur
-  - Center-State Relations
 is_featured: false
 author:
   - Akshat Singh
