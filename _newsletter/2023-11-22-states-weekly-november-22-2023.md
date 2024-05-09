@@ -7,6 +7,13 @@ title: "States Weekly: November 22, 2023"
 date: 2023-11-22T19:21:40.081Z
 tags:
   - States Weekly
+  - Health 
+  - Climate Change & Energy
+  - Finance
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance
+  - India
 excerpt: "Big News: Madhya Pradesh and Chhattisgarh conduct state legislative
   assembly elections; Arunachal Pradesh approves two hydroelectric power
   projects worth $4.8 billion; Maharashtra Electricity Regulatory Commission
