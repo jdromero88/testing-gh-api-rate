@@ -5,20 +5,22 @@ content_type: newsletter
 title: Indian State-Level Business Reforms, Second Quarter 2020
 date: 2020-09-10 04:00:00 +0000
 tags:
-- States Quarterly Updates
-excerpt: Chhattisgarh to Punjab, Covid forcing states to reform. But a lot hinges
-  on Modi govt support
+  - States Quarterly Updates
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - Climate Change & Energy
+excerpt: Chhattisgarh to Punjab, Covid forcing states to reform. But a lot
+  hinges on Modi govt support
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 ### **Chhattisgarh to Punjab, Covid forcing states to reform. But a lot hinges on Modi govt support**
 
