@@ -2,25 +2,26 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 21, 2019 '
+title: "States Update: August 21, 2019 "
 date: 2019-08-21 04:00:00 +0000
-tags: []
-excerpt: 'Jammu & Kashmir’s administration announces an investor summit for October;
-  Nagaland launches a start-up portal; Uttar Pradesh takes the lead in installation
-  of smart electricity meters; Delhi and Kerala make moves on electric vehicle charging;
-  Tamil Nadu creates two new districts; Odisha launches online land revenue payment
-  system; and more. '
+tags:
+  - Center – State Relations 
+  - States Weekly
+excerpt: "Jammu & Kashmir’s administration announces an investor summit for
+  October; Nagaland launches a start-up portal; Uttar Pradesh takes the lead in
+  installation of smart electricity meters; Delhi and Kerala make moves on
+  electric vehicle charging; Tamil Nadu creates two new districts; Odisha
+  launches online land revenue payment system; and more. "
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Afeena Ashfaque
-
+  - "Afeena Ashfaque "
 ---
 **Big News**
 
