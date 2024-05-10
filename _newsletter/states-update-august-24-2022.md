@@ -1,26 +1,32 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 24, 2022'
+title: "States Update: August 24, 2022"
 date: 2022-08-23 04:00:00 +0000
-tags: []
-excerpt: Delhi launches its draft Delhi Motor Vehicles Licensing of Aggregators Scheme
-  2022; Uttar Pradesh unveils its draft Uttar Pradesh Solar Policy 2022; Ladakh announces
-  its Ladakh Electric Vehicle and Allied Infrastructure Policy 2022; Goa becomes first
-  state under ‘Har Ghar Jal’ for 100% coverage of potable water supply; and more.
+tags:
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance  
+  - Water & Sanitation
+  - States Weekly
+excerpt: Delhi launches its draft Delhi Motor Vehicles Licensing of Aggregators
+  Scheme 2022; Uttar Pradesh unveils its draft Uttar Pradesh Solar Policy 2022;
+  Ladakh announces its Ladakh Electric Vehicle and Allied Infrastructure Policy
+  2022; Goa becomes first state under ‘Har Ghar Jal’ for 100% coverage of
+  potable water supply; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News:** Delhi launches its draft Delhi Motor Vehicles Licensing of Aggregators Scheme 2022; Uttar Pradesh unveils its draft Uttar Pradesh Solar Policy 2022; Ladakh announces its Ladakh Electric Vehicle and Allied Infrastructure Policy 2022; Goa becomes first state under ‘Har Ghar Jal’ for 100% coverage of potable water supply; and more.
 
