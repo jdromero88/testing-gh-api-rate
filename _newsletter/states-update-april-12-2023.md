@@ -1,26 +1,33 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 12, 2023'
+title: "States Update: April 12, 2023"
 date: 2023-04-12 04:00:00 +0000
-tags: []
-excerpt: Telangana amends its Shops and Establishments Act to allow 24x7 business;
-  Gujarat announces a tariff hike for sourcing electricity through open access; Delhi
-  announces the extension of its power subsidy scheme till April 2024; Chhattisgarh
-  introduces the State Women Entrepreneurship Policy 2023-28; and more.
+tags:
+  - States Weekly
+  - Infrastructure & Governance  
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - Water & Sanitation
+  - Health 
+  - Climate Change & Energy
+excerpt: Telangana amends its Shops and Establishments Act to allow 24x7
+  business; Gujarat announces a tariff hike for sourcing electricity through
+  open access; Delhi announces the extension of its power subsidy scheme till
+  April 2024; Chhattisgarh introduces the State Women Entrepreneurship Policy
+  2023-28; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News**: **Telangana** amends its **Shops and Establishments Act** to allow 24x7 business; **Gujarat** announces a tariff hike for sourcing electricity through open access; **Delhi** announces the extension of its power subsidy scheme till April 2024; **Chhattisgarh** introduces the **State Women Entrepreneurship Policy 2023-28;** and more.
 
