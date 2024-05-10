@@ -2,27 +2,28 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 8, 2019 '
+title: "States Update: August 8, 2019 "
 date: 2019-08-08 04:00:00 +0000
-tags: []
-excerpt: The central government requests states to ensure the “must-run” status of
-  renewable energy plants; Wind energy companies in Andhra Pradesh face curtailment
-  in wind energy production; DERC reduces the rates at charging stations for EV’s;
-  Maharashtra invites bids for solar projects; Maharashtra inaugurates drone based
-  mapping; Tamil Nadu returns unused funds to the center; Telangana exempts IT industry
-  from shops act provision for five years; Rajya Sabha bifurcates the state of Jammu
-  and Kashmir; and more.
+tags:
+  - Center – State Relations 
+  - States Weekly
+excerpt: The central government requests states to ensure the “must-run” status
+  of renewable energy plants; Wind energy companies in Andhra Pradesh face
+  curtailment in wind energy production; DERC reduces the rates at charging
+  stations for EV’s; Maharashtra invites bids for solar projects; Maharashtra
+  inaugurates drone based mapping; Tamil Nadu returns unused funds to the
+  center; Telangana exempts IT industry from shops act provision for five years;
+  Rajya Sabha bifurcates the state of Jammu and Kashmir; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Afeena Ashfaque
-
+  - "Afeena Ashfaque "
 ---
 **Big News**
 
