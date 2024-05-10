@@ -2,25 +2,29 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 14, 2021'
+title: "States Update: April 14, 2021"
 date: 2021-04-14 04:00:00 +0000
-tags: []
-excerpt: 'Big News: Punjab notifies policy to empanel news channels with social media
-  presence ; Rajasthan relaxes age limit for economically weaker section candidates
-  in state services; Maharashtra sets tariff for surplus power procured from rooftop
-  solar projects; Gujarat keeps electricity tariffs for state consumers unchanged;
-  and more.'
+tags:
+  - Center – State Relations 
+  - Infrastructure & Governance  
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - States Weekly
+excerpt: "Big News: Punjab notifies policy to empanel news channels with social
+  media presence ; Rajasthan relaxes age limit for economically weaker section
+  candidates in state services; Maharashtra sets tariff for surplus power
+  procured from rooftop solar projects; Gujarat keeps electricity tariffs for
+  state consumers unchanged; and more."
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Punjab notifies policy to empanel news channels with social media presence; Rajasthan relaxes age limit for economically weaker section candidates in state services; Maharashtra sets tariff for surplus power procured from rooftop solar projects; Gujarat keeps electricity tariffs for state consumers unchanged; and more.
 
