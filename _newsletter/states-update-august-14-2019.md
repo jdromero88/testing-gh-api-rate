@@ -2,24 +2,26 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 14, 2019 '
+title: "States Update: August 14, 2019 "
 date: 2019-08-14 04:00:00 +0000
-tags: []
-excerpt: Center sanctions electric buses under second phase of FAME while Uttar Pradesh
-  announces new EV Policy; Gujarat’s solar capacity crosses 2.6 GW mark; Rajasthan
-  releases Biofuel Policy; Odisha releases draft Agriculture Policy; breakthrough
-  achieved in diffusing conflict with separatists in Tripura and more.
+tags:
+  - States Weekly
+  - Center – State Relations 
+excerpt: Center sanctions electric buses under second phase of FAME while Uttar
+  Pradesh announces new EV Policy; Gujarat’s solar capacity crosses 2.6 GW mark;
+  Rajasthan releases Biofuel Policy; Odisha releases draft Agriculture Policy;
+  breakthrough achieved in diffusing conflict with separatists in Tripura and
+  more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Afeena Ashfaque
-
+  - "Afeena Ashfaque "
 ---
 **Big News**
 
