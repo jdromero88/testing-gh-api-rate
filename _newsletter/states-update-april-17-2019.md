@@ -2,30 +2,31 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 17, 2019'
+title: "States Update: April 17, 2019"
 date: 2019-04-17 04:00:00 +0000
 tags:
-- Update on India's States
-excerpt: 'Center convenes meeting of state government officials from Telangana and
-  Andhra Pradesh regarding pending issues over the bifurcation of Andhra Pradesh;
-  The Central Electricity Regulatory Commission approves a new power purchase agreement
-  for Adani Power to take increasing cost of imported coal into account; Uttar Pradesh
-  issues new regulations on “Captive and Renewable Energy Generating Plants Regulations,
-  2019;" Maharashtra sets up new portal for phishing complaints; the center directs
-  Coastal Tamil Nadu Power Limited to apply for new clearances for a 4,000 MW Ultra
-  Mega Thermal Power Project after it fails to receive environmental clearances; and
-  more. '
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: 'Center convenes meeting of state government officials from Telangana
+  and Andhra Pradesh regarding pending issues over the bifurcation of Andhra
+  Pradesh; The Central Electricity Regulatory Commission approves a new power
+  purchase agreement for Adani Power to take increasing cost of imported coal
+  into account; Uttar Pradesh issues new regulations on “Captive and Renewable
+  Energy Generating Plants Regulations, 2019;" Maharashtra sets up new portal
+  for phishing complaints; the center directs Coastal Tamil Nadu Power Limited
+  to apply for new clearances for a 4,000 MW Ultra Mega Thermal Power Project
+  after it fails to receive environmental clearances; and more. '
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Aman Thakker
-
+  - Aman Thakker
 ---
 **Big News**
 
