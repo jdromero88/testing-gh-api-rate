@@ -2,24 +2,26 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 22, 2020'
+title: "States Update: April 22, 2020"
 date: 2020-04-22T04:00:00.000+00:00
 tags:
-- States Weekly Updates
-excerpt: The government plans major reforms via amendments to the Electricity Act;
-  RBI further increases ways and means advances to the states; States gear up for
-  limited opening of the economy as nationwide lockdown relaxes; and more.
+  - States Weekly Updates
+  - States Weekly
+  - Center – State Relations 
+excerpt: The government plans major reforms via amendments to the Electricity
+  Act; RBI further increases ways and means advances to the states; States gear
+  up for limited opening of the economy as nationwide lockdown relaxes; and
+  more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** The government plans major reforms via amendments to the Electricity Act; RBI further increases ways and means advances to the states; States gear up for limited opening of the economy as nationwide lockdown relaxes; and more.
 
