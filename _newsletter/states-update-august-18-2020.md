@@ -2,24 +2,29 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 18, 2020'
+title: "States Update: August 18, 2020"
 date: 2020-08-18 04:00:00 +0000
-tags: []
-excerpt: 'Big News: Odisha issues new building norms; Gujarat launches crop insurance
-  scheme; Andhra Pradesh raises land prices; Meghalaya announces economic revival
-  package; Himachal Pradesh does away with subsidies on domestic electricity tariff;
-  and more.'
+tags:
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance  
+  - Center – State Relations 
+  - States Weekly
+excerpt: "Big News: Odisha issues new building norms; Gujarat launches crop
+  insurance scheme; Andhra Pradesh raises land prices; Meghalaya announces
+  economic revival package; Himachal Pradesh does away with subsidies on
+  domestic electricity tariff; and more."
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Odisha issues new building norms; Gujarat launches crop insurance scheme; Andhra Pradesh raises land prices; Meghalaya announces economic revival package; Himachal Pradesh does away with subsidies on domestic electricity tariff; and more.
 
