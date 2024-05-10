@@ -2,22 +2,23 @@
 title: Indian State-Level Business Reforms, Third Quarter 2017
 date: 2017-12-26 16:01:00 Z
 tags:
-- Indian State-Level Business Reforms
-excerpt: The third quarter of 2017 started with the landmark goods and services tax
-  reform coming into effect nationwide. For the Bharatiya Janata Party, a political
-  shake-up in Bihar resulted in the party expanding its control in yet another state
-  assembly—and this is important. There’s an increasingly widespread understanding
-  that states are best positioned to drive its ongoing experiments in economic development
-  and good governance, a position Prime Minister Narendra Modi supports.
+  - Indian State-Level Business Reforms
+  - States Quarterly Updates
+excerpt: The third quarter of 2017 started with the landmark goods and services
+  tax reform coming into effect nationwide. For the Bharatiya Janata Party, a
+  political shake-up in Bihar resulted in the party expanding its control in yet
+  another state assembly—and this is important. There’s an increasingly
+  widespread understanding that states are best positioned to drive its ongoing
+  experiments in economic development and good governance, a position Prime
+  Minister Narendra Modi supports.
 is_featured: false
-feature_image: "/uploads/g_oped_26th_web.jpg"
+feature_image: /uploads/g_oped_26th_web.jpg
 feature_image_credit: CSIS
 sources:
-- name: Livemint
-  url: http://www.livemint.com/Opinion/JL0WLSixmYuus5Olya7c6L/Indias-digitizing-states-leaders-and-laggards.html
+  - name: Livemint
+    url: http://www.livemint.com/Opinion/JL0WLSixmYuus5Olya7c6L/Indias-digitizing-states-leaders-and-laggards.html
 author:
-- Kartikeya Singh
-- Sarah Watson
+  - Kartikeya Singh
 ---
 
 # **India's digitizing states: leaders and laggards**
