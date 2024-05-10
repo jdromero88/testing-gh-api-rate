@@ -5,20 +5,23 @@ content_type: newsletter
 title: Indian State-Level Business Reforms, Fourth Quarter 2020
 date: 2021-06-03T04:00:00.000+00:00
 tags:
-- States Quarterly Updates
-excerpt: Indian states prepare for a post-pandemic world without improving the readiness
-  for future waves
+  - States Quarterly Updates
+  - "Land Acquisition & Labor Regulations  "
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - Infrastructure & Governance  
+excerpt: Indian states prepare for a post-pandemic world without improving the
+  readiness for future waves
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Indian states prepare for a post-pandemic world without improving the readiness for future waves**
 
