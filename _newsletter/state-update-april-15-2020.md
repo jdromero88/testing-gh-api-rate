@@ -2,26 +2,27 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 15, 2020'
+title: "States Update: April 15, 2020"
 date: 2020-04-15T04:00:00.000+00:00
 tags:
-- Update on India's States
-excerpt: Center announces extension of lockdown until May 3; Government lifts export
-  curbs on 24 pharma ingredients; States/UTs provided greater space in availing over-draft
-  facilities; Maharashtra will no longer set generic energy tariffs for renewable
-  projects; Punjab and Madhya Pradesh reduce current late payment surcharge for electricity
-  distribution companies; and more.
+  - Update on India's States
+  - States Weekly
+  - Center – State Relations 
+excerpt: Center announces extension of lockdown until May 3; Government lifts
+  export curbs on 24 pharma ingredients; States/UTs provided greater space in
+  availing over-draft facilities; Maharashtra will no longer set generic energy
+  tariffs for renewable projects; Punjab and Madhya Pradesh reduce current late
+  payment surcharge for electricity distribution companies; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Center announces extension of lockdown until May 3; Government lifts export curbs on 24 pharma ingredients; States/UTs provided greater space in availing over-draft facilities; Maharashtra will no longer set generic energy tariffs for renewable projects; Punjab and Madhya Pradesh reduce current late payment surcharge for electricity distribution companies; and more.
 
