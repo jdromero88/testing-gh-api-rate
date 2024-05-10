@@ -2,23 +2,26 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 20, 2022'
+title: "States Update: April 20, 2022"
 date: 2022-04-20 04:00:00 +0000
-tags: []
-excerpt: 'Big News: Sikkim bans the use of single-use plastic; Chhattisgarh raises
-  its electricity tariffs; Punjab allows free units of electricity to its households;
-  and more.'
+tags:
+  - Center – State Relations 
+  - Infrastructure & Governance  
+  - Climate Change & Energy
+  - States Weekly
+excerpt: "Big News: Sikkim bans the use of single-use plastic; Chhattisgarh
+  raises its electricity tariffs; Punjab allows free units of electricity to its
+  households; and more."
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Sikkim bans the use of single-use plastic; Chhattisgarh raises its electricity tariffs; Punjab allows free units of electricity to its households; and more.
 
