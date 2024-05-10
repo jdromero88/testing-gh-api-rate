@@ -2,25 +2,26 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 8, 2020'
+title: "States Update: April 8, 2020"
 date: 2020-04-08 04:00:00 +0000
-tags: []
-excerpt: Reserve Bank of India increases ways and means limit by 30 percent for all
-  states/UTs; India implements clean petrol/diesel emission norms; Karnataka aims
-  measures at protecting local aerospace and defence manufacturers; Andhra Pradesh
-  drafts bail-out plan for power utilities; Tamil Nadu offers incentives for manufacturing
-  COVID equipment; and more
+tags:
+  - Center – State Relations 
+  - States Weekly
+excerpt: Reserve Bank of India increases ways and means limit by 30 percent for
+  all states/UTs; India implements clean petrol/diesel emission norms; Karnataka
+  aims measures at protecting local aerospace and defence manufacturers; Andhra
+  Pradesh drafts bail-out plan for power utilities; Tamil Nadu offers incentives
+  for manufacturing COVID equipment; and more
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Reserve Bank of India increases ways and means limit by 30 percent for all states/UTs; India implements clean petrol/diesel emission norms; Karnataka aims measures at protecting local aerospace and defence manufacturers; Andhra Pradesh drafts bail-out plan for power utilities; Tamil Nadu offers incentives for manufacturing COVID equipment; and more
 
