@@ -1,15 +1,18 @@
 ---
-title: 'States Update: August 22, 2018'
+title: "States Update: August 22, 2018"
 date: 2018-08-22 13:20:00 Z
 tags:
-- Update on India's States
-excerpt: 'Uttar Pradesh government imposes a ban on the manufacture, storage, sale,
-  and transport of all plastic and thermocol items; Maharashtra joins the National
-  Health Protection Mission; West Bengal releases its “Information Technology and
-  Electronics Policy”; Arunachal Pradesh announces the termination of 100 more hydroelectric
-  projects in the state due to poor performance; and more. '
+  - Update on India's States
+  - States Weekly
+  - Center – State Relations 
+excerpt: "Uttar Pradesh government imposes a ban on the manufacture, storage,
+  sale, and transport of all plastic and thermocol items; Maharashtra joins the
+  National Health Protection Mission; West Bengal releases its “Information
+  Technology and Electronics Policy”; Arunachal Pradesh announces the
+  termination of 100 more hydroelectric projects in the state due to poor
+  performance; and more. "
 author:
-- Aman Thakker
+  - Aman Thakker
 ---
 
 **Big News**
