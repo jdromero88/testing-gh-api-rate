@@ -9,6 +9,7 @@ tags:
   - India
   - Climate Change & Energy
   - Infrastructure & Governance 
+  - States Weekly
 excerpt: >+
   Big News: Maharashtra increases electricity tariffs; Telangana introduces
   enabling legislation for promoting green energy open access; Madhya Pradesh
