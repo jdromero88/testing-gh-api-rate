@@ -1,26 +1,32 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 5, 2023'
+title: "States Update: April 5, 2023"
 date: 2023-04-05 04:00:00 +0000
-tags: []
-excerpt: 'Goa announces a plan to do 100% renewables with the draft Goa State Energy
-  Vision 2050; Kerala approves the Kerala Industrial & Commercial Policy 2023; Maharashtra,
-  Himachal Pradesh, and Uttarakhand announce updated power tariffs for FY24; Odisha
-  announces the Odisha Excise Policy 2023-24; and more. '
+tags:
+  - Center – State Relations 
+  - Infrastructure & Governance  
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - Climate Change & Energy
+  - States Weekly
+excerpt: "Goa announces a plan to do 100% renewables with the draft Goa State
+  Energy Vision 2050; Kerala approves the Kerala Industrial & Commercial Policy
+  2023; Maharashtra, Himachal Pradesh, and Uttarakhand announce updated power
+  tariffs for FY24; Odisha announces the Odisha Excise Policy 2023-24; and more.
+  "
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News:**
 
