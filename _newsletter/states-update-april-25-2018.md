@@ -1,17 +1,20 @@
 ---
-title: 'States Update: April 25, 2018'
+title: "States Update: April 25, 2018"
 date: 2018-04-25 14:54:00 Z
 tags:
-- Update on India's States
-excerpt: 'The center has given in principle approval for a new All India Institute
-  of Medical Sciences in Telangana; the Bihar cabinet approved subsidies to energy
-  consumers; Cisco launched Cisco START to help small and medium enterprises in Gujarat;
-  Haryana announced an increase in allowances paid to its employees in health and
-  police departments and for female staff with disabilities; Sunsure energy commissioned
-  a solar plant that will generate clean energy to power 8,000 urban households in
-  Karnataka every year for 25 years; and more. '
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: "The center has given in principle approval for a new All India
+  Institute of Medical Sciences in Telangana; the Bihar cabinet approved
+  subsidies to energy consumers; Cisco launched Cisco START to help small and
+  medium enterprises in Gujarat; Haryana announced an increase in allowances
+  paid to its employees in health and police departments and for female staff
+  with disabilities; Sunsure energy commissioned a solar plant that will
+  generate clean energy to power 8,000 urban households in Karnataka every year
+  for 25 years; and more. "
 author:
-- Natalie Tecimer
+  - Natalie Tecimer
 ---
 
 **Big News**
