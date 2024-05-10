@@ -12,6 +12,7 @@ tags:
   - "Industrial Policy & Business Regulations  "
   - "Center – State Relations   "
   - "Land Acquisition & Labor Regulations  "
+  - States Weekly
 excerpt: >+
   Big News: Delhi Chief Minister arrested by the Enforcement Directorate;
   Maharashtra extends Stamp Duty Amnesty Scheme; Gujarat announces the Gujarat
