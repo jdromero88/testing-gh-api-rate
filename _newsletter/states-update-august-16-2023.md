@@ -1,23 +1,32 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Weekly: August 16, 2023'
+title: "States Weekly: August 16, 2023"
 date: 2023-08-16 04:00:00 +0000
-tags: []
-excerpt: Maharashtra Electricity Regulatory Commission (MERC) releases the Draft Green Energy Open Access (GEOA) Regulations; Maharashtra approves the formation of a State Climate Action Cell (SCAC); Kerala constitutes the Kerala State Climate Change Adaptation Mission (KSCCAM); Karnataka approves the Karnataka Cyber Security Policy 2023-24; and more
+tags:
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance  
+  - Center – State Relations 
+  - States Weekly
+excerpt: Maharashtra Electricity Regulatory Commission (MERC) releases the Draft
+  Green Energy Open Access (GEOA) Regulations; Maharashtra approves the
+  formation of a State Climate Action Cell (SCAC); Kerala constitutes the Kerala
+  State Climate Change Adaptation Mission (KSCCAM); Karnataka approves the
+  Karnataka Cyber Security Policy 2023-24; and more
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News: Maharashtra Electricity Regulatory Commission (MERC)** releases the **Draft Green Energy Open Access (GEOA) Regulations**; **Maharashtra** approves the formation of a **State Climate Action Cell (SCAC)**; **Kerala** approves the **Karnataka Cyber Security Policy 2023-24**; and more.
 
