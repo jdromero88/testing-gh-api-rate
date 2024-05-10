@@ -11,6 +11,7 @@ tags:
   - Infrastructure & Governance
   - Center – State Relations 
   - India
+  - States Weekly
 excerpt: >+
   Big News: BJP releases the Lok Sabha 2024 election manifesto; Karnataka
   Electricity Regulatory Commission(KERC) reduces the maximum time taken to
