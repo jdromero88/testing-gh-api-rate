@@ -1,23 +1,34 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 8, 2023'
+title: "States Update: August 8, 2023"
 date: 2023-08-8 04:00:00 +0000
-tags: []
-excerpt: Karnataka launches the Gruha Jyoti scheme to provide free electricity up to 200 units to each household every month; Haryana announces the Haryana Industrial Cluster Policy Parliament passes the Government of National Capital Territory of Delhi (Amendment) Bill, 2023, aimed to remove several services such as law and order from the ambit of the Delhi state government; Uttarakhand approves the Uttarakhand Drone Promotion and Usage Policy, 2023 ; and more. 
+tags:
+  - Center – State Relations 
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - Climate Change & Energy
+  - Health 
+  - States Weekly
+excerpt: Karnataka launches the Gruha Jyoti scheme to provide free electricity
+  up to 200 units to each household every month; Haryana announces the Haryana
+  Industrial Cluster Policy Parliament passes the Government of National Capital
+  Territory of Delhi (Amendment) Bill, 2023, aimed to remove several services
+  such as law and order from the ambit of the Delhi state government;
+  Uttarakhand approves the Uttarakhand Drone Promotion and Usage Policy, 2023 ;
+  and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News: Karnataka** launches the **Gruha Jyoti** scheme to provide free electricity up to 200 units to each household every month; **Haryana** announces the **Haryana Industrial Cluster Policy Parliament** passes the **Government of National Capital Territory of Delhi (Amendment) Bill, 2023**, aimed to remove several services such as law and order from the ambit of the Delhi state government; **Uttarakhand** approves the **Uttarakhand Drone Promotion and Usage Policy, 2023** ; and more.
 
