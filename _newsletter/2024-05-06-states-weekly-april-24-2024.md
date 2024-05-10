@@ -8,6 +8,7 @@ date: 2024-04-24T10:45:00.000Z
 tags:
   - Climate Change & Energy
   - Center – State Relations 
+  - States Weekly
 excerpt: >+
   Big News: Manipur witnesses violence at polling stations in the first phase of
   the Lok Sabha 2024 elections; Andhra Pradesh signs an agreement with the Solar
