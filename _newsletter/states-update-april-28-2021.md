@@ -2,24 +2,29 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 28, 2021'
+title: "States Update: April 28, 2021"
 date: 2021-04-28 04:00:00 +0000
-tags: []
-excerpt: 'Big News: 24 states announce free vaccination for local residents aged 18
-  to 45; Punjab orders closure of the state''s iron and steel industry to divert oxygen;
-  Jammu and Kashmir adopts a new industrial policy; Tamil Nadu approves an additional
-  surcharge for open access electricity consumers; and more.'
+tags:
+  - "Industrial Policy & Business Regulations  "
+  - Infrastructure & Governance  
+  - Climate Change & Energy
+  - Health 
+  - States Weekly
+excerpt: "Big News: 24 states announce free vaccination for local residents aged
+  18 to 45; Punjab orders closure of the state's iron and steel industry to
+  divert oxygen; Jammu and Kashmir adopts a new industrial policy; Tamil Nadu
+  approves an additional surcharge for open access electricity consumers; and
+  more."
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** 24 states announce free vaccination for local residents aged 18 to 45; Punjab orders closure of the state's iron and steel industry to divert oxygen; Jammu and Kashmir adopts a new industrial policy; Tamil Nadu approves an additional surcharge for open access electricity consumers; and more.
 
