@@ -1,15 +1,18 @@
 ---
-title: 'States Update: April 11, 2018'
+title: "States Update: April 11, 2018"
 date: 2018-04-11 19:25:00 Z
 tags:
-- Update on India's States
-excerpt: JICA signs $1.8 billion loan agreements with India for projects in Tamil
-  Nadu, Maharashtra, Himachal Pradesh, and the northeast; Maharashtra advances privatizing
-  power distribution in three more cities, while Uttar Pradesh rescinds privatization;
-  Harvard publishes study on urban air pollution in Delhi; Jharkhand first to use
-  Oral Pentavalent vaccine to eradicate rotavirus; and more.
+  - Update on India's States
+  - States Weekly
+  - Center – State Relations 
+excerpt: JICA signs $1.8 billion loan agreements with India for projects in
+  Tamil Nadu, Maharashtra, Himachal Pradesh, and the northeast; Maharashtra
+  advances privatizing power distribution in three more cities, while Uttar
+  Pradesh rescinds privatization; Harvard publishes study on urban air pollution
+  in Delhi; Jharkhand first to use Oral Pentavalent vaccine to eradicate
+  rotavirus; and more.
 author:
-- Sidhanta Mehra
+  - Richard M. Rossow
 ---
 
 **Big News**
