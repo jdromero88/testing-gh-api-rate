@@ -2,26 +2,30 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 21, 2021'
+title: "States Update: April 21, 2021"
 date: 2021-04-21 04:00:00 +0000
 tags:
-- Update on India's States
-excerpt: 'Big News: States and union territories ease land related transactions despite
-  the COVID-19 pandemic; Punjab announces ease of doing business measures for the
-  micro, small, and medium enterprises; Telangana announces a rebate on the property
-  tax; Rajasthan permits net metering for the grid-connected renewable energy systems;
-  and more.'
+  - Update on India's States
+  - States Weekly
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - Infrastructure & Governance  
+  - Center – State Relations 
+excerpt: "Big News: States and union territories ease land related transactions
+  despite the COVID-19 pandemic; Punjab announces ease of doing business
+  measures for the micro, small, and medium enterprises; Telangana announces a
+  rebate on the property tax; Rajasthan permits net metering for the
+  grid-connected renewable energy systems; and more."
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** States and union territories ease land related transactions despite the COVID-19 pandemic; Punjab announces ease of doing business measures for the micro, small, and medium enterprises; Telangana announces a rebate on the property tax; Rajasthan permits net metering for the **grid-connected renewable energy systems; and more.**
 
