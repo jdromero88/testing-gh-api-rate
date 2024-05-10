@@ -1,14 +1,16 @@
 ---
-title: 'States Update: August 30, 2017'
+title: "States Update: August 30, 2017"
 date: 2017-08-30 15:39:00 Z
 tags:
-- Update on India's States
-excerpt: Haryana shut down by riots over conviction of sect leader and Mumbai shut
-  down by rains; MNRE urges states to honor wind power contracts; Tamil Nadu’s ruling
-  party heals its split; UP threatens maximum penalties against power thieves; Haryana
-  allows women to work at night; and more.
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: Haryana shut down by riots over conviction of sect leader and Mumbai
+  shut down by rains; MNRE urges states to honor wind power contracts; Tamil
+  Nadu’s ruling party heals its split; UP threatens maximum penalties against
+  power thieves; Haryana allows women to work at night; and more.
 author:
-- Sarah Watson
+  - Sarah Watson
 ---
 
 **Big News**
