@@ -2,10 +2,23 @@
 title: Indian State-Level Business Reforms, First Quarter 2017
 date: 2017-08-02 14:27:00 Z
 tags:
-- Indian State-Level Business Reforms
+  - Indian State-Level Business Reforms
+  - States Quarterly Updates
+  - "Land Acquisition & Labor Regulations  "
+  - Water & Sanitation
+excerpt: Indian Prime Minister Narendra Modi has made the concept of
+  "competitive federalism''—encouraging states to compete to win the title of
+  India's best-performing state—a key element of his governing philosophy.
+  States have taken up the baton, working hard to outdo each other in governance
+  reforms. Every three months, the CSIS Wadhwani Chair in U.S.-India Policy
+  prepares an overview of key state-level reforms from India's twenty-nine
+  states as well as Delhi and Puducherry (which have their own legislatures). In
+  the first quarter of 2017, 1 January through 31 March, the total number of
+  significant positive state-level reforms rose to 20, compared to fourteen in
+  the fourth quarter of 2016.
 is_featured: false
 author:
-- Richard M. Rossow
+  - Richard M. Rossow
 ---
 
 Indian Prime Minister Narendra Modi has made the concept of "[competitive federalism](http://www.business-standard.com/article/news-ani/let-us-forge-a-model-of-cooperative-competitive-federalism-pm-modi-115020800351_1.html)''—encouraging states to compete to win the title of India's best-performing state—a key element of his governing philosophy. States have taken up the baton, working hard to outdo each other in governance reforms. Every three months, the CSIS Wadhwani Chair in U.S.-India Policy prepares an overview of key state-level reforms from India's twenty-nine states as well as Delhi and Puducherry (which have their own legislatures). In the first quarter of 2017, 1 January through 31 March, the total number of significant positive state-level reforms rose to 20, compared to fourteen in the fourth quarter of 2016.
