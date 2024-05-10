@@ -1,28 +1,33 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 10, 2022'
+title: "States Update: August 10, 2022"
 date: 2022-08-10 04:00:00 +0000
-tags: []
-excerpt: Ministry of Power issues Late Paymnt Surcharge Rules 2022; Karnataka approves
-  its Karnataka R&D Policy 2022; Manipur adopts resolution to introduce a National
-  Registry of Citizens (NRC); Rajasthan and Andhra Pradesh rank first and second respectively
-  in NITI Aayog’s Progress on SDGs report 2022; and more.
+tags:
+  - Center – State Relations 
+  - Infrastructure & Governance  
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - Climate Change & Energy
+  - Health 
+  - States Weekly
+excerpt: Ministry of Power issues Late Paymnt Surcharge Rules 2022; Karnataka
+  approves its Karnataka R&D Policy 2022; Manipur adopts resolution to introduce
+  a National Registry of Citizens (NRC); Rajasthan and Andhra Pradesh rank first
+  and second respectively in NITI Aayog’s Progress on SDGs report 2022; and
+  more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
-sources:
-- name: ''
-  url: ''
+feature_image: ""
+feature_image_credit: ""
+sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News:** Ministry of Power issues Late Payment Surcharge Rules 2022; Karnataka approves its Karnataka R&D Policy 2022; Manipur adopts resolution to introduce a National Registry of Citizens (NRC); Rajasthan and Andhra Pradesh rank first and second respectively in NITI Aayog’s Progress on SDGs report 2022; and more.
 
