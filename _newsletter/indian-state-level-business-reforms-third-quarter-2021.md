@@ -4,7 +4,12 @@ is_newsletter: true
 content_type: newsletter
 title: Indian State-Level Business Reforms, Third Quarter 2021
 date: 2022-03-07 05:00:00 +0000
-tags: []
+tags:
+  - States Quarterly Updates
+  - Center – State Relations 
+  - Water & Sanitation
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
 excerpt: Indian states are back to basics
 states: []
 sectors: []
