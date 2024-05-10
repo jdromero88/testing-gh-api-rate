@@ -2,28 +2,29 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 10, 2019'
+title: "States Update: April 10, 2019"
 date: 2019-04-10 04:00:00 +0000
 tags:
-- Update on India's States
-excerpt: 'Maharashtra orders five entities to comply with their solar and non-solar
-  renewable purchase obligation requirements; Tamil Nadu bans the State Load Dispatch
-  Center from curtailing solar power at its convenience; Bihar keeps solar power tariffs
-  unchanged from 2018-2019; Jammu and Kashmir bans civilian traffic on the Jammu-Srinagar
-  highway on Sundays and Wednesdays; report finds that India''s central and state
-  governments cancelled 5,300 MW of valid winning power project bids in 2018 due to
-  high bid rates; and more. '
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: "Maharashtra orders five entities to comply with their solar and
+  non-solar renewable purchase obligation requirements; Tamil Nadu bans the
+  State Load Dispatch Center from curtailing solar power at its convenience;
+  Bihar keeps solar power tariffs unchanged from 2018-2019; Jammu and Kashmir
+  bans civilian traffic on the Jammu-Srinagar highway on Sundays and Wednesdays;
+  report finds that India's central and state governments cancelled 5,300 MW of
+  valid winning power project bids in 2018 due to high bid rates; and more. "
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Aman Thakker
-
+  - Richard M. Rossow
 ---
 **Big News**
 
