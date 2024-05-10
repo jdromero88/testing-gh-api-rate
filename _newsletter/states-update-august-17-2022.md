@@ -1,27 +1,35 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 17, 2022'
+title: "States Update: August 17, 2022"
 date: 2022-08-17 04:00:00 +0000
-tags: []
-excerpt: Gujarat unveils The Drone Promotion and Usage Policy; Haryana passes four
-  bills including The Haryana GST (Amendment) Bill 2022 and the Haryana Water Resources
-  (Conservation, Regulation and Management) Authority (Second Amendment) Bill 2022;
-  Karnataka approves its Karnataka Aerospace and Defence Policy 2022-27 and its Karnataka
-  Water Policy 2022; Assam approves its Assam Logistics Policy 2022; and more.
+tags:
+  - Health 
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance  
+  - Water & Sanitation
+  - Center – State Relations 
+  - States Weekly
+excerpt: Gujarat unveils The Drone Promotion and Usage Policy; Haryana passes
+  four bills including The Haryana GST (Amendment) Bill 2022 and the Haryana
+  Water Resources (Conservation, Regulation and Management) Authority (Second
+  Amendment) Bill 2022; Karnataka approves its Karnataka Aerospace and Defence
+  Policy 2022-27 and its Karnataka Water Policy 2022; Assam approves its Assam
+  Logistics Policy 2022; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News:** Gujarat unveils The Drone Promotion and Usage Policy; Haryana passes four bills including The Haryana GST (Amendment) Bill 2022 and the Haryana Water Resources (Conservation, Regulation and Management) Authority (Second Amendment) Bill 2022; Karnataka approves its Karnataka Aerospace and Defence Policy 2022-27 and its Karnataka Water Policy 2022; Assam approves its Assam Logistics Policy 2022; and more.
 
