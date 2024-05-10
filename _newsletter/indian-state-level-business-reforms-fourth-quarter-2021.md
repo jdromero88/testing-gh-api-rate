@@ -4,7 +4,11 @@ is_newsletter: true
 content_type: newsletter
 title: Indian State-Level Business Reforms, Fourth Quarter 2021
 date: 2022-03-07 05:00:00 +0000
-tags: []
+tags:
+  - Center – State Relations 
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - States Quarterly Updates
 excerpt: Indian states are driving India’s economic transition—data centers and
   electric vehicles
 states: []
