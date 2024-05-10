@@ -2,24 +2,26 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 1, 2020'
+title: "States Update: April 1, 2020"
 date: 2020-04-01 04:00:00 +0000
-tags: []
-excerpt: Reserve Bank of India announces measures to boost liquidity by $49.6 billion;
-  Electricity utilities get a three month moratorium on overdue payments; Center extends
-  project completion deadline for renewable energy projects; Delhi passes $8.6 billion
-  state budget; Chattisgarh issues renewable tariff regulation; and more
+tags:
+  - States Weekly
+  - Center – State Relations 
+excerpt: Reserve Bank of India announces measures to boost liquidity by $49.6
+  billion; Electricity utilities get a three month moratorium on overdue
+  payments; Center extends project completion deadline for renewable energy
+  projects; Delhi passes $8.6 billion state budget; Chattisgarh issues renewable
+  tariff regulation; and more
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Reserve Bank of India announces measures to boost liquidity by $49.6 billion; Electricity utilities get a three month moratorium on overdue payments; Center extends project completion deadline for renewable energy projects; Delhi passes $8.6 billion state budget; Chhattisgarh issues renewable tariff regulation; and more
 
