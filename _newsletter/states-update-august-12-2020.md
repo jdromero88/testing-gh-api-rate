@@ -2,24 +2,28 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 12, 2020'
+title: "States Update: August 12, 2020"
 date: 2020-08-11 04:00:00 +0000
-tags: []
-excerpt: 'Big News: Andhra Pradesh unveils new industrial policy; Gujarat offers incentives
-  to set up manufacturing facilities; Delhi and Telangana notify their electric vehicle
-  policy; Andaman and Nicobar Islands get high speed broadband connectivity;  and
-  more. '
+tags:
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance  
+  - Center – State Relations 
+  - States Weekly
+excerpt: "Big News: Andhra Pradesh unveils new industrial policy; Gujarat offers
+  incentives to set up manufacturing facilities; Delhi and Telangana notify
+  their electric vehicle policy; Andaman and Nicobar Islands get high speed
+  broadband connectivity;  and more. "
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Centre – State Relations**
 
