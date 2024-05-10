@@ -1,14 +1,16 @@
 ---
-title: 'States Update: August 16, 2017'
+title: "States Update: August 16, 2017"
 date: 2017-08-16 14:45:00 Z
 tags:
-- Update on India's States
-excerpt: Maharashtra opens the door to round-the-clock retail; West Bengal puts a
-  key industrial license online; Andhra Pradesh increases the number of government
-  services with strict delivery timelines; Goa looks for energy savings in water and
-  sanitation infrastructure; and more.
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: Maharashtra opens the door to round-the-clock retail; West Bengal puts
+  a key industrial license online; Andhra Pradesh increases the number of
+  government services with strict delivery timelines; Goa looks for energy
+  savings in water and sanitation infrastructure; and more.
 author:
-- Sarah Watson
+  - Sarah Watson
 ---
 
 **Big News**
