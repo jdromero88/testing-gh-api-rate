@@ -1,15 +1,17 @@
 ---
-title: 'States Update: August 15, 2018'
+title: "States Update: August 15, 2018"
 date: 2018-08-15 17:52:00 Z
 tags:
-- Update on India's States
-excerpt: Bihar chief minister Nitish Kumar inaugurates power projects worth over $1
-  billion; Karnataka approves a $1.37 billion waiver for existing farm loans; Tata
-  Trusts signed an MOU with the Nagaland government to roll out a cancer care program
-  in collaboration with the public healthcare system of the state; Jammu and Kashmir
-  releases a draft of its maiden Environment Policy; and more
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: Bihar chief minister Nitish Kumar inaugurates power projects worth over
+  $1 billion; Karnataka approves a $1.37 billion waiver for existing farm loans;
+  Tata Trusts signed an MOU with the Nagaland government to roll out a cancer
+  care program in collaboration with the public healthcare system of the state;
+  Jammu and Kashmir releases a draft of its maiden Environment Policy; and more
 author:
-- Aman Thakker
+  - Aman Thakker
 ---
 
 **Big News**
