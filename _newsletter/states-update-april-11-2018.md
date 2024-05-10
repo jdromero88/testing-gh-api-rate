@@ -12,7 +12,7 @@ excerpt: JICA signs $1.8 billion loan agreements with India for projects in
   in Delhi; Jharkhand first to use Oral Pentavalent vaccine to eradicate
   rotavirus; and more.
 author:
-  - Richard M. Rossow
+  - Sidhanta Mehra
 ---
 
 **Big News**
