@@ -11,6 +11,7 @@ tags:
   - "Industrial Policy & Business Regulations  "
   - Infrastructure & Governance
   - Center – State Relations 
+  - States Weekly
 excerpt: >
   Big News: State Bank of India research states that Gujarat had the highest
   growth in per capita income over the last decade; Arunachal Pradesh elects 10
