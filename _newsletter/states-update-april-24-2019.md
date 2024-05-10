@@ -2,26 +2,28 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 24, 2019'
+title: "States Update: April 24, 2019"
 date: 2019-04-24 04:00:00 +0000
 tags:
-- Update on India's States
-excerpt: 'Haryana to shut down 378 companies due to their pollution activities in
-  contaminating the river Yamuna; state power discoms still owe nearly half of overdue
-  payments despite implementation of UDAY scheme; Delhi Metro''s violet line runs
-  on solar power; Adani Power backs out of plan to acquire a thermal project in Chhattisgarh
-  due to low tariffs demanded by customers; and more.  '
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: "Haryana to shut down 378 companies due to their pollution activities
+  in contaminating the river Yamuna; state power discoms still owe nearly half
+  of overdue payments despite implementation of UDAY scheme; Delhi Metro's
+  violet line runs on solar power; Adani Power backs out of plan to acquire a
+  thermal project in Chhattisgarh due to low tariffs demanded by customers; and
+  more.  "
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Aman Thakker
-
+  - Aman Thakker
 ---
 **Big News**
 
