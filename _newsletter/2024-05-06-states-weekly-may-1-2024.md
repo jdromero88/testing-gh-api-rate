@@ -11,6 +11,7 @@ tags:
   - "Industrial Policy & Business Regulations  "
   - Water & Sanitation
   - Center – State Relations 
+  - States Weekly
 excerpt: "Big News: Arunachal Pradesh State Electricity Regulatory Commission
   releases the Arunachal Pradesh State Electricity Regulatory Commission (Terms
   and Conditions for Determination of Renewable Energy Tariff) Regulations,
