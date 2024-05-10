@@ -1,27 +1,34 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 31, 2022'
+title: "States Update: August 31, 2022"
 date: 2022-08-31 04:00:00 +0000
-tags: []
-excerpt: Punjab approves its draft Punjab Electric Vehicle Policy 2022 and its Punjab
-  Food Grains Labour Policy 2022; Arunachal Pradesh approves the Arunachal Pradesh
-  Tenancy Bill 2022; Delhi releases its Charging/Swapping Infrastructure Action Plan
-  2022-25; Himachal Pradesh expands electricity subsidies ahead of the fall election;
-  and more.
+tags:
+  - Health 
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance  
+  - Water & Sanitation
+  - Center – State Relations 
+  - States Weekly
+excerpt: Punjab approves its draft Punjab Electric Vehicle Policy 2022 and its
+  Punjab Food Grains Labour Policy 2022; Arunachal Pradesh approves the
+  Arunachal Pradesh Tenancy Bill 2022; Delhi releases its Charging/Swapping
+  Infrastructure Action Plan 2022-25; Himachal Pradesh expands electricity
+  subsidies ahead of the fall election; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News:** Punjab approves its draft Punjab Electric Vehicle Policy 2022 and its Punjab Food Grains Labour Policy 2022; Arunachal Pradesh approves the Arunachal Pradesh Tenancy Bill 2022; Delhi releases its Charging/Swapping Infrastructure Action Plan 2022-25; Himachal Pradesh expands electricity subsidies ahead of the fall election; and more.
 
