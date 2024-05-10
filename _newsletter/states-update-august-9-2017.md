@@ -1,14 +1,16 @@
 ---
-title: 'States Update: August 9, 2017'
+title: "States Update: August 9, 2017"
 date: 2017-08-08 21:16:00 Z
 tags:
-- Update on India's States
-excerpt: Bihar and Delhi legislatures begin monsoon sessions; Maharashtra launches
-  a direct benefits transfer portal; Tamil Nadu puts new restriction on eligibility
-  for subsidized food; Odisha is rolling out LED streetlights state-wide; states drag
-  their feet on real estate regulation; and more.
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: Bihar and Delhi legislatures begin monsoon sessions; Maharashtra
+  launches a direct benefits transfer portal; Tamil Nadu puts new restriction on
+  eligibility for subsidized food; Odisha is rolling out LED streetlights
+  state-wide; states drag their feet on real estate regulation; and more.
 author:
-- Sarah Watson
+  - Sarah Watson
 ---
 
 **Big News**
