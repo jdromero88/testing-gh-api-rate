@@ -1,23 +1,33 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Weekly: August 23, 2023'
+title: "States Weekly: August 23, 2023"
 date: 2023-08-23 04:00:00 +0000
-tags: []
-excerpt: Telangana announces a 11-15% road tax on electric vehicles; Jharkhand, Madhya Pradesh, and Telangana announce social housing schemes; Reserve Bank of India releases a study stating that Uttar Pradesh, Gujarat, Odisha, Maharashtra, and Karnataka cumulatively accounted for 57.2 percent share of the total bank-assisted investment proposals made during the year 2022-23.
+tags:
+  - Center – State Relations 
+  - Infrastructure & Governance  
+  - "Land Acquisition & Labor Regulations  "
+  - Finance
+  - Health 
+  - Climate Change & Energy
+  - States Weekly
+excerpt: Telangana announces a 11-15% road tax on electric vehicles; Jharkhand,
+  Madhya Pradesh, and Telangana announce social housing schemes; Reserve Bank of
+  India releases a study stating that Uttar Pradesh, Gujarat, Odisha,
+  Maharashtra, and Karnataka cumulatively accounted for 57.2 percent share of
+  the total bank-assisted investment proposals made during the year 2022-23.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News:** **Telangana** announces a 11-15% road tax on electric vehicles; **Jharkhand**, **Madhya Pradesh**, and **Telangana** announce social housing schemes; **Reserve Bank of India** releases a study stating that **Uttar Pradesh**, **Gujarat**, **Odisha**, **Maharashtra**,and **Karnataka** cumulatively accounted for 57.2 percent share of the total bank-assisted investment proposals made during the year 2022-23.
 
