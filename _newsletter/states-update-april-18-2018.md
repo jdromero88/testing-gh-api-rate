@@ -1,16 +1,19 @@
 ---
-title: 'States Update: April 18, 2018'
+title: "States Update: April 18, 2018"
 date: 2018-04-18 10:30:00 Z
 tags:
-- Update on India's States
-excerpt: 'The electronic e-way bill for intra-state movement of goods rolled out in
-  the first five states; Andhra Pradesh moves to build a DNA database of its citizens;
-  Delhi discom BRPL enters into a strategic partnership with EESL which will cover
-  technologies such as solar, smart meters, and electric vehicles; IKEA signs agreement
-  with Gujarat to set up stores in the state; “sufferers” of the Emergency in Haryana
-  will receive a monthly pension; and more. '
+  - Update on India's States
+  - States Weekly
+  - Center – State Relations 
+excerpt: "The electronic e-way bill for intra-state movement of goods rolled out
+  in the first five states; Andhra Pradesh moves to build a DNA database of its
+  citizens; Delhi discom BRPL enters into a strategic partnership with EESL
+  which will cover technologies such as solar, smart meters, and electric
+  vehicles; IKEA signs agreement with Gujarat to set up stores in the state;
+  “sufferers” of the Emergency in Haryana will receive a monthly pension; and
+  more. "
 author:
-- Natalie Tecimer
+  - Natalie Tecimer
 ---
 
 **Big News**
