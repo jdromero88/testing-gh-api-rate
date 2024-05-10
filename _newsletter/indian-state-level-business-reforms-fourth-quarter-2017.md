@@ -2,24 +2,25 @@
 title: Indian State-Level Business Reforms, Fourth Quarter 2017
 date: 2018-03-27T20:00:00.000+00:00
 tags:
-- Indian State-Level Business Reforms
-excerpt: 'In the final quarter of 2017, India’s ruling political party gained control
-  of one more state legislature and retained control in another—Himachal Pradesh (HP)
-  and Gujarat, respectively. Yet, this came with a hint of caution: Central government-led
-  reforms may need to decelerate in the coming year in order to focus on improving
-  the livelihoods of the rural electorate before the 2019 general election. In November,
-  India also hosted the first Global Entrepreneurship Summit (GES) of the Donald Trump
-  administration. Global visibility and the focus on entrepreneurship percolated through
-  India’s states.'
+  - Indian State-Level Business Reforms
+  - States Quarterly Updates
+excerpt: "In the final quarter of 2017, India’s ruling political party gained
+  control of one more state legislature and retained control in another—Himachal
+  Pradesh (HP) and Gujarat, respectively. Yet, this came with a hint of caution:
+  Central government-led reforms may need to decelerate in the coming year in
+  order to focus on improving the livelihoods of the rural electorate before the
+  2019 general election. In November, India also hosted the first Global
+  Entrepreneurship Summit (GES) of the Donald Trump administration. Global
+  visibility and the focus on entrepreneurship percolated through India’s
+  states."
 is_featured: false
-feature_image: "/uploads/w_oped.jpg"
+feature_image: /uploads/w_oped.jpg
 feature_image_credit: CSIS
 sources:
-- name: Livemint
-  url: http://bit.ly/2pLLKxC
+  - name: Livemint
+    url: http://bit.ly/2pLLKxC
 author:
-- Kartikeya Singh
-
+  - Kartikeya Singh
 ---
 # **Enterprizing India states: leaders and laggards**
 
