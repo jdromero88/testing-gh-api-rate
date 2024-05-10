@@ -1,16 +1,19 @@
 ---
-title: 'States Update: August 1, 2018'
+title: "States Update: August 1, 2018"
 date: 2018-08-01 17:48:00 Z
 tags:
-- Update on India's States
-excerpt: Uttar Pradesh, Jharkhand, and Maharashtra will conduct a survey on water
-  sanitation in all districts to rank water sanitation levels; The Meghalaya cabinet
-  has approved the implementation of Meghalaya Health Insurance Scheme (MHIS); the
-  Government of Goa announces an employment subsidy for companies that employ 60 percent
-  or more Goans; Himachal Pradesh’s 1,500 MW Nathpa Jhakri plant and the 412 MW Rampur
-  Hydro Electric Project temporarily shut down, leading to blackouts; and more
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: Uttar Pradesh, Jharkhand, and Maharashtra will conduct a survey on
+  water sanitation in all districts to rank water sanitation levels; The
+  Meghalaya cabinet has approved the implementation of Meghalaya Health
+  Insurance Scheme (MHIS); the Government of Goa announces an employment subsidy
+  for companies that employ 60 percent or more Goans; Himachal Pradesh’s 1,500
+  MW Nathpa Jhakri plant and the 412 MW Rampur Hydro Electric Project
+  temporarily shut down, leading to blackouts; and more
 author:
-- Aman Thakker
+  - Aman Thakker
 ---
 
 **Big News**
