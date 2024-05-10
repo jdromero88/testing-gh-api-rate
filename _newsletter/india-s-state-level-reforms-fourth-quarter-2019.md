@@ -4,20 +4,20 @@ is_newsletter: true
 content_type: newsletter
 title: India’s State-Level Reforms, Fourth Quarter 2019
 date: 2020-02-06 05:00:00 +0000
-tags: []
+tags:
+  - States Quarterly Updates
 excerpt: Forget Single Window, Zero Window is the New Benchmark
 states: []
 sectors: []
 subsectors: []
 is_featured: true
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
+  - Richard M. Rossow
 published: false
-
 ---
 As we close out 2019, India’s mantra of “competitive federalism” to encourage state-level business reforms barely has a pulse. The Indian Ministry of Commerce and Industry has not updated its rankings of Indian states through the “Business Reforms Action Plan,” since 2017. However, even without a visible push from New Delhi, states continue to move forward with smart reforms to improve their business environment. The fourth quarter saw a very high number of significant, positive state-level business reforms — 23 in all.
 
