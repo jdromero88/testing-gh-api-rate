@@ -2,25 +2,27 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 29, 2020'
+title: "States Update: April 29, 2020"
 date: 2020-04-29 04:00:00 +0000
 tags:
-- States Weekly Updates
-excerpt: Government simplifies oil and gas exploration and production; Ministry of
-  Home Affairs allows states to open some shops; Uttar Pradesh exempts businesses
-  from paying interest on dues; Rajasthan issues measures to help distribution companies
-  and consumers; Assam and Meghalaya increase diesel and petroleum prices; and more.
+  - States Weekly Updates
+  - Center – State Relations 
+  - States Weekly
+excerpt: Government simplifies oil and gas exploration and production; Ministry
+  of Home Affairs allows states to open some shops; Uttar Pradesh exempts
+  businesses from paying interest on dues; Rajasthan issues measures to help
+  distribution companies and consumers; Assam and Meghalaya increase diesel and
+  petroleum prices; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Government simplifies oil and gas exploration and production; Ministry of Home Affairs allows states to open some shops; Uttar Pradesh exempts businesses from paying interest on dues; Rajasthan issues measures to help distribution companies and consumers; Assam and Meghalaya increase diesel and petroleum prices; and more.
 
