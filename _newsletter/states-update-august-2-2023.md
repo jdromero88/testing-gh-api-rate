@@ -1,23 +1,35 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 2, 2023'
+title: "States Update: August 2, 2023"
 date: 2023-08-2 04:00:00 +0000
-tags: []
-excerpt: Chhattisgarh introduces the new Rules for Green Energy Open Access to promote renewable energy adoption in the state; Tripura releases the Tripura Energy Vision 2030 Road Map, aimed at increasing the solar generation capacity to 500 MW by 2030; Ministry of Power announces new rules to improve the financial efficacy of distribution companies; Union Government releases the Mines and Minerals (Development and Regulation) Amendment Bill, 2023, to allow private companies to explore critical minerals in the country.
+tags:
+  - Center – State Relations 
+  - Infrastructure & Governance  
+  - "Industrial Policy & Business Regulations  "
+  - Health 
+  - Climate Change & Energy
+  - Finance
+  - States Weekly
+excerpt: Chhattisgarh introduces the new Rules for Green Energy Open Access to
+  promote renewable energy adoption in the state; Tripura releases the Tripura
+  Energy Vision 2030 Road Map, aimed at increasing the solar generation capacity
+  to 500 MW by 2030; Ministry of Power announces new rules to improve the
+  financial efficacy of distribution companies; Union Government releases the
+  Mines and Minerals (Development and Regulation) Amendment Bill, 2023, to allow
+  private companies to explore critical minerals in the country.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News**: **Chhattisgarh** introduces the new **Rules for Green Energy Open Access** to promote renewable energy adoption in the state; **Tripura** releases the **Tripura Energy Vision 2030 Road Map**, aimed at increasing the solar generation capacity to 500 MW by 2030; **Ministry of Power** announces new rules to improve the financial efficacy of distribution companies; **Union Government** releases the **Mines and Minerals (Development and Regulation) Amendment Bill, 2023**, to allow private companies to explore critical minerals in the country.
 
