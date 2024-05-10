@@ -1,23 +1,35 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Weekly: August 30, 2023'
+title: "States Weekly: August 30, 2023"
 date: 2023-08-30 04:00:00 +0000
-tags: []
-excerpt: Assam approves the Assam Electronics Policy 2023, aiming to attract semiconductor manufacturing in the state; Rajasthan decides to divert electricity from non-essential industries to farmers and consumers, amidst power shortage in the state; Odisha Electricity Regulatory Commission (OERC) unveils the draft Green Energy Open Access Regulations, 2023; Madhya Pradesh releases the Madhya Pradesh Naxalite Surrender, Rehabilitation cum Relief Policy; and more. 
+tags:
+  - Center – State Relations 
+  - Infrastructure & Governance  
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - Climate Change & Energy
+  - Health 
+  - States Weekly
+excerpt: Assam approves the Assam Electronics Policy 2023, aiming to attract
+  semiconductor manufacturing in the state; Rajasthan decides to divert
+  electricity from non-essential industries to farmers and consumers, amidst
+  power shortage in the state; Odisha Electricity Regulatory Commission (OERC)
+  unveils the draft Green Energy Open Access Regulations, 2023; Madhya Pradesh
+  releases the Madhya Pradesh Naxalite Surrender, Rehabilitation cum Relief
+  Policy; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News**: **Assam** approves the **Assam Electronics Policy 2023**, aiming to attract semiconductor manufacturing in the state; **Rajasthan** decides to divert electricity from non-essential industries to farmers and consumers, amidst power shortage in the state; **Odisha Electricity Regulatory Commission (OERC)** unveils the **draft Green Energy Open Access Regulations, 2023**; Madhya **Pradesh** releases the **Madhya Pradesh Naxalite Surrender, Rehabilitation cum Relief Policy**; and more.
 
