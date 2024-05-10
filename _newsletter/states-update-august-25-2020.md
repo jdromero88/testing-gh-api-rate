@@ -2,24 +2,28 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 25, 2020'
+title: "States Update: August 25, 2020"
 date: 2020-08-25 04:00:00 +0000
-tags: []
-excerpt: 'Big News: Delhi announces amnesty scheme for industries; Uttar Pradesh eases
-  norms for establishing small industries; Gujarat relaxes tenancy laws for educational
-  institutes; Karnataka announces slew of incentives for the electronics sector; Madhya
-  Pradesh reserves state government jobs for locals; and more.'
+tags:
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Water & Sanitation
+  - States Weekly
+excerpt: "Big News: Delhi announces amnesty scheme for industries; Uttar Pradesh
+  eases norms for establishing small industries; Gujarat relaxes tenancy laws
+  for educational institutes; Karnataka announces slew of incentives for the
+  electronics sector; Madhya Pradesh reserves state government jobs for locals;
+  and more."
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Delhi announces amnesty scheme for industries; Uttar Pradesh eases norms for establishing small industries; Gujarat relaxes tenancy laws for educational institutes; Karnataka announces slew of incentives for the electronics sector; Madhya Pradesh reserves state government jobs for locals; and more.  
  
