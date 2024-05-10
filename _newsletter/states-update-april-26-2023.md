@@ -1,23 +1,35 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 26, 2023'
+title: "States Update: April 26, 2023"
 date: 2023-04-26 04:00:00 +0000
-tags: []
-excerpt: Ministry of Home Affairs facilitates the resolution of a border dispute between Assam and Arunachal Pradesh; Uttar Pradesh announces 100% stamp duty exemption on land purchase for solar plants, and IT and logistics parks; Delhi raises the minimum wage for workers in the unorganized sector; Karnataka Electricity Regulatory Commission (KERC) releases the Wheeling and Banking Agreement Format for Renewable Energy Projects Under the KERC (Terms and Conditions for Green Energy Open Access) Regulations, 2022; and more.
+tags:
+  - Center – State Relations 
+  - Infrastructure & Governance  
+  - Water & Sanitation
+  - "Land Acquisition & Labor Regulations  "
+  - Climate Change & Energy
+  - Health 
+  - States Weekly
+excerpt: Ministry of Home Affairs facilitates the resolution of a border dispute
+  between Assam and Arunachal Pradesh; Uttar Pradesh announces 100% stamp duty
+  exemption on land purchase for solar plants, and IT and logistics parks; Delhi
+  raises the minimum wage for workers in the unorganized sector; Karnataka
+  Electricity Regulatory Commission (KERC) releases the Wheeling and Banking
+  Agreement Format for Renewable Energy Projects Under the KERC (Terms and
+  Conditions for Green Energy Open Access) Regulations, 2022; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News**: **Ministry of Home Affairs** facilitates the resolution of a border dispute between **Assam** and **Arunachal Pradesh**; **Uttar Pradesh** announces **100% stamp duty exemption** on land purchase for solar plants, and IT and logistics parks; **Delhi** raises the minimum wage for workers in the unorganized sector; **Karnataka Electricity Regulatory Commission (KERC)** releases the **Wheeling and Banking Agreement Format for Renewable Energy Projects Under the KERC (Terms and Conditions for Green Energy Open Access) Regulations, 2022**; and more. 
 
