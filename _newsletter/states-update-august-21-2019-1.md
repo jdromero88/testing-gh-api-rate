@@ -2,25 +2,27 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 28, 2019 '
+title: "States Update: August 28, 2019 "
 date: 2019-08-28 04:00:00 +0000
-tags: []
-excerpt: NITI Aayog ranks states’ water management- Gujarat on top; Ministry of New
-  & Renewable Energy ranks states’ rooftop solar policies- Karnataka on top; Andhra
-  softens on re-opening the states’ power contracts with generators; Delhi working
-  with World Bank to assess energy storage capacity; Madhya Pradesh expands electric
-  power subsidies; Uttar Pradesh launches new electric vehicle policy; and more.
+tags:
+  - Center – State Relations 
+  - States Weekly
+excerpt: NITI Aayog ranks states’ water management- Gujarat on top; Ministry of
+  New & Renewable Energy ranks states’ rooftop solar policies- Karnataka on top;
+  Andhra softens on re-opening the states’ power contracts with generators;
+  Delhi working with World Bank to assess energy storage capacity; Madhya
+  Pradesh expands electric power subsidies; Uttar Pradesh launches new electric
+  vehicle policy; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Afeena Ashfaque
-
+  - "Afeena Ashfaque "
 ---
 **Big News**
 
