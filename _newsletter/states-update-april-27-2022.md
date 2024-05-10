@@ -2,23 +2,27 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 27, 2022'
+title: "States Update: April 27, 2022"
 date: 2022-04-27 04:00:00 +0000
-tags: []
-excerpt: 'Big News: Niti Aayog releases a draft battery swapping policy; Karnataka
-  cabinet approves its data center policy; Tripura launches a new industry scheme;
-  and more.'
+tags:
+  - Center – State Relations 
+  - Infrastructure & Governance  
+  - "Land Acquisition & Labor Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - States Weekly
+excerpt: "Big News: Niti Aayog releases a draft battery swapping policy;
+  Karnataka cabinet approves its data center policy; Tripura launches a new
+  industry scheme; and more."
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Niti Aayog releases a draft battery swapping policy; Karnataka cabinet approves its data center policy; Tripura launches a new industry scheme; and more.
 
