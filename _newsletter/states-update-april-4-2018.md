@@ -1,15 +1,18 @@
 ---
-title: 'States Update: April 4, 2018'
+title: "States Update: April 4, 2018"
 date: 2018-04-04 16:16:00 Z
 tags:
-- Update on India's States
-excerpt: Gujarat introduces special category tariff for electric vehicle charging
-  infrastructure; Karnataka goes in to election in May; Telangana allows private entities
-  to set up universities; Asian Development Bank approves $80 million loan for vocation
-  and technical education in Himachal Pradesh; NITI Aayog launches ranking for 115
-  districts from 28 states; and more.
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: Gujarat introduces special category tariff for electric vehicle
+  charging infrastructure; Karnataka goes in to election in May; Telangana
+  allows private entities to set up universities; Asian Development Bank
+  approves $80 million loan for vocation and technical education in Himachal
+  Pradesh; NITI Aayog launches ranking for 115 districts from 28 states; and
+  more.
 author:
-- Sidhanta Mehra
+  - Sidhanta Mehra
 ---
 
 **Big News**
