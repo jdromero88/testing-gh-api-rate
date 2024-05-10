@@ -2,28 +2,30 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: January 2, 2020'
+title: "States Update: January 2, 2020"
 date: 2020-01-02 05:00:00 +0000
-tags: []
-excerpt: 'Kerala, Himachal Pradesh, and Andhra Pradesh top SDG India Index 2019; Andhra
-  Pradesh considers decentralization of state capital; Delhi passes new electric vehicle
-  policy; Karnataka allows shops to be open 24x7; Maharashtra discom opposes net metering
-  for rooftop solar due to high sales by consumers; Chief ministers of Rajasthan and
-  West Bengal actively oppose Citizenship Amendment Act; Tamil Nadu tops good governance
-  index; JMM leader Hemant Soren becomes chief minister of Jharkhand; Punjab may revoke
-  power subsidies to “rich” farmers; Kerala and Uttarakhand plan special sessions
-  to extend SC/ST reservation for 10 years; Odisha streamlines certificates; and more. '
+tags:
+  - Center – State Relations 
+  - States Weekly
+excerpt: "Kerala, Himachal Pradesh, and Andhra Pradesh top SDG India Index 2019;
+  Andhra Pradesh considers decentralization of state capital; Delhi passes new
+  electric vehicle policy; Karnataka allows shops to be open 24x7; Maharashtra
+  discom opposes net metering for rooftop solar due to high sales by consumers;
+  Chief ministers of Rajasthan and West Bengal actively oppose Citizenship
+  Amendment Act; Tamil Nadu tops good governance index; JMM leader Hemant Soren
+  becomes chief minister of Jharkhand; Punjab may revoke power subsidies to
+  “rich” farmers; Kerala and Uttarakhand plan special sessions to extend SC/ST
+  reservation for 10 years; Odisha streamlines certificates; and more. "
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Afeena Ashfaque
-
+  - "Afeena Ashfaque "
 ---
 Kerala, Himachal Pradesh, and Andhra Pradesh top SDG India Index 2019; Andhra Pradesh considers decentralization of state capital; Delhi passes new electric vehicle policy; Karnataka allows shops to be open 24x7; Maharashtra discom opposes net metering for rooftop solar due to high sales by consumers; Chief ministers of Rajasthan and West Bengal actively oppose Citizenship Amendment Act; Tamil Nadu tops good governance index; JMM leader Hemant Soren becomes chief minister of Jharkhand; Punjab may revoke power subsidies to “rich” farmers; Kerala and Uttarakhand plan special sessions to extend SC/ST reservation for 10 years; Odisha streamlines certificates; and more.
 
