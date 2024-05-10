@@ -2,23 +2,30 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 6, 2022'
+title: "States Update: April 6, 2022"
 date: 2022-04-06 04:00:00 +0000
-tags: []
-excerpt: 'Big News: Five states announce a hike in their electricity tariffs; Goa
-  announces its budget for the financial year 2022-23; Maharashtra revises its property
-  rates; Karnataka announces its renewable energy policy; and more.'
+tags:
+  - Climate Change & Energy
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance  
+  - Water & Sanitation
+  - Center – State Relations 
+  - States Weekly
+excerpt: "Big News: Five states announce a hike in their electricity tariffs;
+  Goa announces its budget for the financial year 2022-23; Maharashtra revises
+  its property rates; Karnataka announces its renewable energy policy; and
+  more."
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Five states announce a hike in their electricity tariffs; Goa announces its budget for the financial year 2022-23; Maharashtra revises its property rates; Karnataka announces its renewable energy policy; and more.
 
