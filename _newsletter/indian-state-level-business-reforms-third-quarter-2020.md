@@ -5,21 +5,24 @@ content_type: newsletter
 title: Indian State-Level Business Reforms, Third Quarter 2020
 date: 2020-11-20T05:00:00.000+00:00
 tags:
-- Update on India's States
-- States Quarterly Updates
-excerpt: States follow Modi’s Atmanirbhar vision. Andhra, Gujarat’s new industrial
-  policies show
+  - Update on India's States
+  - States Quarterly Updates
+  - "Industrial Policy & Business Regulations  "
+  - "Land Acquisition & Labor Regulations  "
+  - Infrastructure & Governance  
+  - Climate Change & Energy
+excerpt: States follow Modi’s Atmanirbhar vision. Andhra, Gujarat’s new
+  industrial policies show
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **States follow Modi’s Atmanirbhar vision. Andhra, Gujarat’s new industrial policies show**
 
