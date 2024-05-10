@@ -2,24 +2,28 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 13, 2022'
+title: "States Update: April 13, 2022"
 date: 2022-04-13 04:00:00 +0000
-tags: []
-excerpt: 'Big News: Ten Indian states undertake the power sector reforms stipulated
-  by the Ministry of Finance; Chandigarh tops NITI Aayog’s State Energy and Climate
-  Index; Delhi incentivizes electric cycles under its electric vehicle policy; Karnataka
-  increases its electricity tariff; and more.'
+tags:
+  - States Weekly
+  - Water & Sanitation
+  - "Industrial Policy & Business Regulations  "
+  - Climate Change & Energy
+excerpt: "Big News: Ten Indian states undertake the power sector reforms
+  stipulated by the Ministry of Finance; Chandigarh tops NITI Aayog’s State
+  Energy and Climate Index; Delhi incentivizes electric cycles under its
+  electric vehicle policy; Karnataka increases its electricity tariff; and
+  more."
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Ten Indian states undertake the power sector reforms stipulated by the Ministry of Finance; Chandigarh tops NITI Aayog’s _State Energy and Climate Index_; Delhi incentivizes electric cycles under its electric vehicle policy; Karnataka increases its electricity tariff; and more.
 
