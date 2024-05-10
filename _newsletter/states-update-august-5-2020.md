@@ -2,25 +2,26 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 5, 2020'
+title: "States Update: August 5, 2020"
 date: 2020-08-04 04:00:00 +0000
-tags: []
-excerpt: 'Big News: Andhra Pradesh passes bill granting it three state capitals; Rajasthan
-  drafts regulations to make solar costlier for open access; Arunachal Pradesh passes
-  ordinance relaxing labour laws; Jammu and Kashmir notify real estate regulatory
-  rules; Punjab offers subsidies to restrain farmers from burning crop residue; and
-  more. '
+tags:
+  - States Weekly
+  - Center – State Relations 
+excerpt: "Big News: Andhra Pradesh passes bill granting it three state capitals;
+  Rajasthan drafts regulations to make solar costlier for open access; Arunachal
+  Pradesh passes ordinance relaxing labour laws; Jammu and Kashmir notify real
+  estate regulatory rules; Punjab offers subsidies to restrain farmers from
+  burning crop residue; and more. "
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Center - State Relations**
 
