@@ -1,24 +1,28 @@
 ---
-post_type: _post-types/india-states-weekly.md
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: August 3, 2022'
+title: "States Update: August 3, 2022"
 date: 2022-08-03 04:00:00 +0000
-tags: []
-excerpt: Gujarat announces its Semiconductor Policy; Goa discontinues EV subsidies;
-  Maharashtra approves the Revamped Distribution Sector Scheme; and more.
+tags:
+  - "Industrial Policy & Business Regulations  "
+  - Climate Change & Energy
+  - Health 
+  - States Weekly
+excerpt: Gujarat announces its Semiconductor Policy; Goa discontinues EV
+  subsidies; Maharashtra approves the Revamped Distribution Sector Scheme; and
+  more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Richard M. Rossow
-
+  - Richard M. Rossow
+post_type: _post-types/india-states-weekly.md
 ---
 **Big News:** Gujarat announces its Semiconductor Policy; Goa discontinues EV subsidies; Maharashtra approves the Revamped Distribution Sector Scheme; and more.
 
