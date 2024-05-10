@@ -2,23 +2,30 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 07, 2021'
+title: "States Update: April 07, 2021"
 date: 2021-04-07 04:00:00 +0000
-tags: []
-excerpt: 'Big News: Rajasthan announces a policy to promote women empowerment; Jammu
-  and Kashmir approve an excise policy; Meghalaya issues new electricity tariff for
-  2021-22; Gujarat passes a bill to regulate the private healthcare sector; and more.'
+tags:
+  - "Industrial Policy & Business Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - "Industrial Policy & Business Regulations  "
+  - Center – State Relations 
+  - States Weekly
+  - Climate Change & Energy
+  - Health 
+excerpt: "Big News: Rajasthan announces a policy to promote women empowerment;
+  Jammu and Kashmir approve an excise policy; Meghalaya issues new electricity
+  tariff for 2021-22; Gujarat passes a bill to regulate the private healthcare
+  sector; and more."
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Neelima Jain
-
+  - Neelima Jain
 ---
 **Big News:** Rajasthan announces a policy to promote women empowerment; Jammu and Kashmir approve an excise policy; Meghalaya issues new electricity tariff for 2021-22; Gujarat passes a bill to regulate the private healthcare sector; and more.
 
