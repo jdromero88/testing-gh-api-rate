@@ -1,15 +1,18 @@
 ---
-title: 'States Update: August 9, 2018'
+title: "States Update: August 9, 2018"
 date: 2018-08-09 13:52:00 Z
 tags:
-- Update on India's States
-excerpt: 'Solar Energy Corporation of India cancels a 2,000-megawatt (MW) wind power
-  tender due to under subscription; Karnataka makes progress on its state education
-  policy; Jammu and Kashmir approves its first-ever trade and export policy; Rajasthan
-  objects to key amendments by the center to the Electricity Tariff Policy; Goa’s
-  legislative assembly passes several important land-related bills; and more. '
+  - Update on India's States
+  - States Weekly
+  - Center – State Relations 
+excerpt: "Solar Energy Corporation of India cancels a 2,000-megawatt (MW) wind
+  power tender due to under subscription; Karnataka makes progress on its state
+  education policy; Jammu and Kashmir approves its first-ever trade and export
+  policy; Rajasthan objects to key amendments by the center to the Electricity
+  Tariff Policy; Goa’s legislative assembly passes several important
+  land-related bills; and more. "
 author:
-- Aman Thakker
+  - Aman Thakker
 ---
 
 **Big News**
