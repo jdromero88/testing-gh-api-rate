@@ -2,28 +2,29 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: April 3, 2019'
+title: "States Update: April 3, 2019"
 date: 2019-04-03 04:00:00 +0000
 tags:
-- Update on India's States
-excerpt: 'Maharashtra gives state discom additional time to comply with solar renewable
-  purchase obligation requirements; Uttar Pradesh orders power company to first lower
-  power tariffs before taking control of a stressed power plant; Mizoram repeals its
-  "New Land Use Policy" and replaces it with a "Socio-Economic Development Policy;"
-  The center sets new tariffs for renewable energy sources for 2019-2020; West Bengal
-  returns money it received under Pradhan Mantri Jan Arogya Yojana to the center;
-  and more. '
+  - Update on India's States
+  - Center – State Relations 
+  - States Weekly
+excerpt: 'Maharashtra gives state discom additional time to comply with solar
+  renewable purchase obligation requirements; Uttar Pradesh orders power company
+  to first lower power tariffs before taking control of a stressed power plant;
+  Mizoram repeals its "New Land Use Policy" and replaces it with a
+  "Socio-Economic Development Policy;" The center sets new tariffs for renewable
+  energy sources for 2019-2020; West Bengal returns money it received under
+  Pradhan Mantri Jan Arogya Yojana to the center; and more. '
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Aman Thakker
-
+  - Aman Thakker
 ---
 **Big News**
 
