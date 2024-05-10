@@ -2,21 +2,23 @@
 title: Indian State-Level Business Reforms, Second Quarter 2017
 date: 2017-11-02 14:48:00 Z
 tags:
-- Indian State-Level Business Reforms
-excerpt: 'The second quarter of 2017 was an important one for India: it saw the country
-  move to the cusp of the goods and services tax (GST), a landmark reform that has
-  made India into a unified economic market. Several states showed positive movement
-  across a few key sectors: power, education, governance capacity, innovation and
-  manufacturing.'
+  - Indian State-Level Business Reforms
+  - States Quarterly Updates
+excerpt: "The second quarter of 2017 was an important one for India: it saw the
+  country move to the cusp of the goods and services tax (GST), a landmark
+  reform that has made India into a unified economic market. Several states
+  showed positive movement across a few key sectors: power, education,
+  governance capacity, innovation and manufacturing."
 is_featured: false
-feature_image: "/uploads/power-kajB--621x414@LiveMint.jpg"
-feature_image_credit: 'Increased power capacity and power sector reforms are imperative
-  for states to provide adequate power while maintaining fiscal health. Photo: Bloomberg'
+feature_image: /uploads/power-kajB--621x414@LiveMint.jpg
+feature_image_credit: "Increased power capacity and power sector reforms are
+  imperative for states to provide adequate power while maintaining fiscal
+  health. Photo: Bloomberg"
 sources:
-- name: Livemint
-  url: http://www.livemint.com/Opinion/y6ZBwiy49SGoFdxOHHDv4H/Business-reforms-leaders-and-laggards.html
+  - name: Livemint
+    url: http://www.livemint.com/Opinion/y6ZBwiy49SGoFdxOHHDv4H/Business-reforms-leaders-and-laggards.html
 author:
-- Kartikeya Singh
+  - Kartikeya Singh
 ---
 
 The second quarter of 2017 was an important one for India: it saw the country move to the cusp of the goods and services tax (GST), a landmark reform that has made India into a unified economic market. Amidst this and other major economic and political events, some of India’s states continue to undertake reforms and enact policies that set them apart. Each quarter, the CSIS (Center for Strategic and International Studies) Wadhwani Chair in US-India Policy Studies highlights the latest positive business reforms from across India’s 29 states (as well as Delhi and Puducherry). In the second quarter, several states showed positive movement across a few key sectors: power, education, governance capacity, innovation and manufacturing.
