@@ -2,28 +2,29 @@
 breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
-title: 'States Update: September 4, 2019 '
+title: "States Update: September 4, 2019 "
 date: 2019-09-04 04:00:00 +0000
-tags: []
-excerpt: The Appellate Tribunal for Electricity blocks Andhra’s moves to harm power
-  PPAs; Delhi government waives water arrears; Australia’s IEEFA expects Gujarat to
-  add 46 GW of renewable power in 10 years; Haryana passes a new Enterprises Promotion
-  Bill; Rajasthan launches a new health insurance program; Rajasthan and Utah sign
-  an energy cooperation agreement; Rajasthan expands water subsidies; Tamil Nadu chief
-  minister visits London; Assam finalizes National Register of Citizens list; Chhattisgarh
-  expands job reservations; Tripura assembly passes Essential Services Maintenance
-  Act; and more.
+tags:
+  - Center – State Relations 
+  - States Weekly
+excerpt: The Appellate Tribunal for Electricity blocks Andhra’s moves to harm
+  power PPAs; Delhi government waives water arrears; Australia’s IEEFA expects
+  Gujarat to add 46 GW of renewable power in 10 years; Haryana passes a new
+  Enterprises Promotion Bill; Rajasthan launches a new health insurance program;
+  Rajasthan and Utah sign an energy cooperation agreement; Rajasthan expands
+  water subsidies; Tamil Nadu chief minister visits London; Assam finalizes
+  National Register of Citizens list; Chhattisgarh expands job reservations;
+  Tripura assembly passes Essential Services Maintenance Act; and more.
 states: []
 sectors: []
 subsectors: []
 is_featured: false
-feature_image: ''
-feature_image_credit: ''
+feature_image: ""
+feature_image_credit: ""
 sources: []
 details: []
 author:
-- Afeena Ashfaque
-
+  - "Afeena Ashfaque "
 ---
 **Big News**
 
