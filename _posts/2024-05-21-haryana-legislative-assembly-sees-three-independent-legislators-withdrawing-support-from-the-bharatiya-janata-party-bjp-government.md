@@ -8,6 +8,7 @@ title: Haryana legislative assembly sees three independent legislators
 date: 2024-05-08T10:45:00.000Z
 tags:
   - Infrastructure & Governance  
+  - States Weekly
 states:
   - Haryana
 sectors:
