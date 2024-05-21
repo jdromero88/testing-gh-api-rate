@@ -3,7 +3,7 @@ layout: post
 content_type: articles
 breadcrumbs: articles
 is_newsletter: false
-title: "State Bank of Indiareleases the “State” of the state of economy report
+title: "State Bank of India releases the “State” of the state of economy report
   claiming that the average growth rate post pandemic grew to 8.1 percent as
   compared to the pre pandemic average of 5.7 percent. "
 date: 2024-04-03T15:56:00.000Z
