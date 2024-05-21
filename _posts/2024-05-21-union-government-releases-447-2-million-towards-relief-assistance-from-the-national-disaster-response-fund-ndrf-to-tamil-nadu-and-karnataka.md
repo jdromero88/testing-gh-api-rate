@@ -1,21 +1,17 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Union government releases $447.2 million towards relief assistance from
-  the National Disaster Response Fund (NDRF) to Tamil Nadu and Karnataka.
-date: 2024-05-01T15:20:00.000Z
+title: "Andhra Pradesh signs an agreement with the Solar Energy Corporation of
+  India to procure 7,000 MW solar power. "
+date: 2024-04-24T15:21:00.000Z
 tags:
-  - States Weekly
-  - National Disaster
+  - "States Weekly "
 states:
-  - Karnataka
-  - Tamil Nadu
+  - Andhra Pradesh
 sectors:
-  - Center-State Relations
+  - Climate Change and Energy
+subsectors:
+  - Renewables
 sources:
-  - url: https://www.thehindu.com/news/national/centre-releases-disaster-relief-funds-for-karnataka-and-tamil-nadu/article68114958.ece
-    name: The Hindu
+  - name: Solar Quarter
+    url: https://solarquarter.com/2024/04/13/empowering-agriculture-andhra-pradeshs-solar-energy-revolution-procuring-7000-mw-for-sustainable-power/
 ---
-Union government releases $447.2 million towards relief assistance from the National Disaster Response Fund (NDRF) to Tamil Nadu and Karnataka. The two states had moved the Supreme Court seeking relief funds for calamities such as Cyclone Michaung, floods and drought in 2023.
+Andhra Pradesh signs an agreement with the Solar Energy Corporation of India to procure 7,000 MW solar power. As per the agreement, the state will acquire 7,000 MW of solar power in three phases – 3,000 MW in 2024, 3,000 MW in 2025, and 1,000 MW in 2026.
