@@ -1,20 +1,15 @@
 ---
-layout: post
-content_type: articles
-breadcrumbs: articles
-is_newsletter: false
-title: Maharashtra unveils the state's Women's Policy 2024, aimed at
-  comprehensive and all-inclusive development of women with focus on eight
-  areas.
+title: Himachal Pradesh announces that the state government will give $18.12 per
+  month to women in the age group of 18 to 60 years from the next financial year
 date: 2024-03-13T12:27:00.000Z
 tags:
   - States Weekly
 states:
-  - Maharashtra
+  - Himachal Pradesh
 sectors:
   - Infrastructure and Governance
 sources:
-  - name: Deccan Herald
-    url: https://www.deccanherald.com/india/maharashtra/maharashtras-4th-womens-policy-unveiled-three-level-committees-to-monitor-implementation-2928213
+  - name: India Today
+    url: https://www.indiatoday.in/india/story/himachal-pradesh-chief-minister-sukhvinder-singh-sukhu-rs-1500-per-month-women-18-60-age-group-2510461-2024-03-04
 ---
-Maharashtra unveils the state's Women's Policy 2024, aimed at comprehensive and all-inclusive development of women with focus on eight areas. These include health, nutrition and wellbeing; education and skill development; ending sexual and gender-based violence; gender responsive livelihood enhancement; gender inclusive infrastructure; gender responsive governance and political participation; gender sensitive natural resource management, climate change adaptation and disaster management; and sports policy.
+Himachal Pradesh announces that the state government will give $18.12 per month to women in the age group of 18 to 60 years from the next financial year.
