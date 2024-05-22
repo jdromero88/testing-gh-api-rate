@@ -5,7 +5,7 @@ breadcrumbs: articles
 is_newsletter: false
 title: "Central Electricity Regulatory Commission approves a multi-state
   transmission infrastructure project for 20 GW renewable energy. "
-date: 2024-05-21T15:09:00.000Z
+date: 2024-05-08T11:09:00.000Z
 tags:
   - States Weekly
   - Center – State Relations 
