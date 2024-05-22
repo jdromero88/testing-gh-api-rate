@@ -5,7 +5,7 @@ breadcrumbs: articles
 is_newsletter: false
 title: India registers 67.25 percent voter turnout in the fourth phase of the
   ongoing Lok Sabha elections covering 96 constituencies across 10 states.
-date: 2024-05-20T09:19:00.000Z
+date: 2024-05-15T05:19:00.000Z
 tags:
   - Elections
 sectors:
