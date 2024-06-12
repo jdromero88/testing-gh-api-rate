@@ -5,7 +5,7 @@ local_backend: true
 backend:
   name: git-gateway
   # branch: main # Branch to update (optional; defaults to master)
-  branch: main # Branch to update. Dev is now selected so we dont override any content that the program is adding.
+  branch: dev # Branch to update. Dev is now selected so we dont override any content that the program is adding.
 
 media_folder: '_uploads'
 public_folder: '/uploads' # The src attribute for uploaded media will begin with /images/uploads
@@ -77,6 +77,7 @@ collections:
     create: true
     editor:
       preview: false
+    indentifier_field: short_title
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     # sortable_fields: ['title', 'date', 'author', 'states']
     sortable_fields: ['date']
@@ -86,6 +87,7 @@ collections:
       - { label: 'Breadcrumbs', name: 'breadcrumbs', widget: 'hidden', default: 'articles' }
       - { label: 'Is newsletter', name: 'is_newsletter', widget: 'hidden', default: false }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Short Title', name: 'short_title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false,
           field: { label: 'Tag', name: 'tag', widget: 'string' }}
