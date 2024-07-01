@@ -4,6 +4,7 @@ breadcrumbs: newsletter
 is_newsletter: true
 content_type: newsletter
 title: "States Weekly: May 1, 2024"
+short_title: "States Weekly: May 1, 2024"
 date: 2024-05-01T10:34:00.000Z
 tags:
   - "India "
@@ -31,7 +32,7 @@ sectors:
   - Industrial Policy and Business Regulations
   - Water & Sanitation
   - Climate Change and Energy
-is_featured: true
+is_featured: false
 author:
   - Akshat Singh
 ---
