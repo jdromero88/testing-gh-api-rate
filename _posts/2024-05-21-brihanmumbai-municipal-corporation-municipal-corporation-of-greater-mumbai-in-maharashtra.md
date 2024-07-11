@@ -7,6 +7,8 @@ title: Brihanmumbai Municipal Corporation (Municipal Corporation of Greater
   Mumbai) in Maharashtra issues an order stating that shops and establishments
   that do not display their name boards in the Marathi language will have to pay
   twice the property tax from May 1.
+short_title: "Brihanmumbai Municipal Corporation (Municipal Corporation of Greater
+  Mumbai) in Maharashtra"
 date: 2024-04-17T15:34:00.000Z
 tags:
   - States Weekly
