@@ -3,6 +3,7 @@ content_type: articles
 breadcrumbs: articles
 title: Haryana offers ownership rights to tenants who have leased properties on municipal-owned
   land for 20 years or more
+short_title: "Haryana offers ownership rights to tenants who have leased"
 date: 2021-06-02 04:00:00 +0000
 states:
 - Haryana
