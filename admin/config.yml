@@ -3,7 +3,10 @@ local_backend: true
 
 # live
 backend:
-  name: git-gateway
+  name: github
+  repo: jdromero88/testing-gh-api-rate # replace this with your repo info
+  use_graphql: true
+  # name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
   # branch: dev # Branch to update. Dev is now selected so we dont override any content that the program is adding.
 
