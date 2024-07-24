@@ -5,7 +5,7 @@ local_backend: true
 backend:
   name: github
   repo: jdromero88/testing-gh-api-rate # replace this with your repo info
-  use_graphql: true
+  # use_graphql: true
   # name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
   # branch: dev # Branch to update. Dev is now selected so we dont override any content that the program is adding.
@@ -35,7 +35,8 @@ collections:
       - { label: 'Content Type', name: 'content_type', widget: 'hidden', default: 'newsletter' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Short Title', name: 'short_title', widget: 'string', pattern: ['^.{0,180}$', "Must have less than 180 characters"] }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', time_format: false, picker_utc: false, date_format: 'YYYY-MM-dd' }
+      # - { label: 'Publish Date', name: 'date', widget: 'datetime', date_format: "YYYY-MM-DD", picker_utc: true}
       - { label: 'Tags', name: 'tags', widget: 'list', required: false, collapsed: false,
           field: { label: 'Tag', name: 'tag', widget: 'string' }}
       - { label: 'Excerpt', name: 'excerpt', widget: 'text' }
